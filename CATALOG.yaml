@@ -1,0 +1,27 @@
+catalog:
+  abbreviation: DP
+  counts:
+    candidates: 0
+    canonical: 0
+    entities: 0
+    open_change_requests: 0
+    research_files: 0
+    retired: 0
+  cross_cutting:
+    change_requests: change-requests/
+    classifications: classifications/
+    contributions_queue: contributions/
+    schemas: schemas/
+    validators: scripts/
+  description: 'A curated, discoverable, governed dataset or data service with clear ownership and SLAs (data-mesh pattern).
+
+    '
+  entities: []
+  id: dea:catalog-data-products
+  metamodel_version: 1.0.0
+  name: Data Product
+  owner: TechNeHub Labs
+  repository: https://github.com/technehub-labs/dea-catalog-data-products.git
+  research_registers: []
+  status: active
+  version: 0.1.0
