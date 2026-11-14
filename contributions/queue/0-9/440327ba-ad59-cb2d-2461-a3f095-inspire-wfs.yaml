@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 440327ba-ad59-cb2d-2461-a3f095118690
 name: INSPIRE-WFS SL Transport Networks Tourism - Transport Network - OGC API Features
-description: This service provides data implemented for the INSPIRE theme of transport networks, the Tourism
-  Headquarters of Saarland.:A collection of network elements belonging to a single mode of transport.
+description: This service provides data implemented for the INSPIRE theme of transport
+  networks, the Tourism Headquarters of Saarland.:A collection of network elements
+  belonging to a single mode of transport.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/440327ba-ad59-cb2d-2461-a3f095118690 (data.europa.eu
-      dataset 440327ba-ad59-cb2d-2461-a3f095118690; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/440327ba-ad59-cb2d-2461-a3f095118690
+      (data.europa.eu dataset 440327ba-ad59-cb2d-2461-a3f095118690; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 440327ba-ad59-cb2d-2461-a3f095-inspire-wfs
+assigned_id: dea:data-product-440327ba-ad59-cb2d-2461-a3f095-inspire-wfs-v4k67h
+admitted: '2026-11-14'

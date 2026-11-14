@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4442-crime-victims-by-personal-characteristics
 name: Crime victims by personal characteristics
-description: 'Crime victims by background characteristics: sex, age, highest level of education, number
-  of addresses per km2 of the place of residence 1997 - 2004 Changed on November 07 2005. Frequency: Discontinued.'
+description: 'Crime victims by background characteristics: sex, age, highest level
+  of education, number of addresses per km2 of the place of residence 1997 - 2004
+  Changed on November 07 2005. Frequency: Discontinued.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4442-crime-victims-by-personal-characteristics (data.europa.eu
-      dataset 4442-crime-victims-by-personal-characteristics; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4442-crime-victims-by-personal-characteristics
+      (data.europa.eu dataset 4442-crime-victims-by-personal-characteristics; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4442-crime-victims-by-personal-crime-victim
+assigned_id: dea:data-product-4442-crime-victims-by-personal-crime-victim-jztf6w
+admitted: '2026-11-14'

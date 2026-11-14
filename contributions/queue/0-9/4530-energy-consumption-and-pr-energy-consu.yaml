@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4530-energy-consumption-and-producer-prices-by-energy-commodity-1995-2017
 name: Energy; consumption and producer prices by energy commodity 1995-2017
-description: 'This table shows the consumption and producer prices of energy. Energy consumption figures
-  for total energy commodities, natural gas, crude oil, hard coal and other energy commodities are primary
-  consumption. Figures for electricity are final consumption. The figures for producer prices refer to
-  energy available for domestic consumption. This is the price of producers or importers for the delivery
-  of the energy product. Data is available from January 1995 up to December 2017 Status of the figures
-  Energy consumption: All figures from 1995 up to 2014 are definite. Figures of 2015 up to 2016 are revised
-  provisional and figures of 2017 are provisional. Producer price: All figures from 1995 up to July 2017
-  are definite. Figures from August 2017 are provisional. The status of the figures will not be changed,
-  because this table has been discontinued. Changes as of January 31st 2019: None. This table has been
-  discontinued. Because of the change of the baseline of the producer price index, this table cannot be
-  continued. When will new figures be published? Not applicable anymore.'
+description: 'This table shows the consumption and producer prices of energy. Energy
+  consumption figures for total energy commodities, natural gas, crude oil, hard coal
+  and other energy commodities are primary consumption. Figures for electricity are
+  final consumption. The figures for producer prices refer to energy available for
+  domestic consumption. This is the price of producers or importers for the delivery
+  of the energy product. Data is available from January 1995 up to December 2017 Status
+  of the figures Energy consumption: All figures from 1995 up to 2014 are definite.
+  Figures of 2015 up to 2016 are revised provisional and figures of 2017 are provisional.
+  Producer price: All figures from 1995 up to July 2017 are definite. Figures from
+  August 2017 are provisional. The status of the figures will not be changed, because
+  this table has been discontinued. Changes as of January 31st 2019: None. This table
+  has been discontinued. Because of the change of the baseline of the producer price
+  index, this table cannot be continued. When will new figures be published? Not applicable
+  anymore.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/4530-energy-consumption-and-producer-prices-by-energy-commodity-1995-2017
       (data.europa.eu dataset 4530-energy-consumption-and-producer-prices-by-energy-commodity-1995-2017;
       publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4530-energy-consumption-and-pr-energy-consu
+assigned_id: dea:data-product-4530-energy-consumption-and-pr-energy-consu-cxy7c7
+admitted: '2026-11-14'

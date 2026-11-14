@@ -1,0 +1,33 @@
+id: dea:data-product-ac4d63e7-b21d-4d95-9577-6c77bb-wfs-xplanung-pj4ep2
+type: DataProduct
+name: WFS XPlanung BPL “Fish Mat_II_00”
+description: 'WFS service of the development plan “Fischmatte_II_00” of the municipality
+  of Münstertal from XPlanung 5.0. Description: WA,Traffic,Gruen,Agriculture.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ac4d63e7-b21d-4d95-9577-6c77bbb5c00b
+      (data.europa.eu dataset ac4d63e7-b21d-4d95-9577-6c77bbb5c00b; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

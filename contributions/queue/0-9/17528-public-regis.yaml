@@ -1,18 +1,21 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 17528
 name: Public register of farmers
-description: Total number of registered/re-registered farmers as at 30.09.2021 in Montana Regional Agriculture
-  Directorate
+description: Total number of registered/re-registered farmers as at 30.09.2021 in
+  Montana Regional Agriculture Directorate
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/17528 (data.europa.eu dataset 17528; publisher: Областна
-      дирекция "Земеделие" - Монтана)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/17528 (data.europa.eu dataset
+      17528; publisher: Областна дирекция "Земеделие" - Монтана)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 17528-public-regis
+assigned_id: dea:data-product-17528-public-regis-png9ra
+admitted: '2026-11-14'

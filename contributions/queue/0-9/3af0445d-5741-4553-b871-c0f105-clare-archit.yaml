@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3af0445d-5741-4553-b871-c0f1050b4d4e
 name: Clare Architectural Conservation Area
-description: Dataset owned and provided by Clare County Council June 2010. Dataset represents Architectural
-  Conservation areas afforded legal protection. Contact Clare County Council Conservation officer for
-  further information
+description: Dataset owned and provided by Clare County Council June 2010. Dataset
+  represents Architectural Conservation areas afforded legal protection. Contact Clare
+  County Council Conservation officer for further information
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3af0445d-5741-4553-b871-c0f1050b4d4e (data.europa.eu
-      dataset 3af0445d-5741-4553-b871-c0f1050b4d4e; publisher: Marine Institute)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3af0445d-5741-4553-b871-c0f1050b4d4e
+      (data.europa.eu dataset 3af0445d-5741-4553-b871-c0f1050b4d4e; publisher: Marine
+      Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - arine-nstitute
 slug: 3af0445d-5741-4553-b871-c0f105-clare-archit
+assigned_id: dea:data-product-3af0445d-5741-4553-b871-c0f105-clare-archit-u9m833
+admitted: '2026-11-14'

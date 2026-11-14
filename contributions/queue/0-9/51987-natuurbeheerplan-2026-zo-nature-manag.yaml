@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 51987-natuurbeheerplan-2026-zoekgebied-klimaat-conceptversie
 name: Nature management plan 2026 - Search area Climate
-description: 'Climate search area: identifies areas for action to combat climate change or mitigate the
-  effects of climate change. Think of CO2 storage through wood stands, rewetting against peat oxidation
-  and capturing peaks in precipitation in heavy showers. In these search areas, agricultural collectives
-  with subsidy from the province can make management agreements with farmers. Delimited search areas within
-  which subsidies for the management of landscape elements can be applied for. This file is the final
+description: 'Climate search area: identifies areas for action to combat climate change
+  or mitigate the effects of climate change. Think of CO2 storage through wood stands,
+  rewetting against peat oxidation and capturing peaks in precipitation in heavy showers.
+  In these search areas, agricultural collectives with subsidy from the province can
+  make management agreements with farmers. Delimited search areas within which subsidies
+  for the management of landscape elements can be applied for. This file is the final
   version for the year 2026.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/51987-natuurbeheerplan-2026-zoekgebied-klimaat-conceptversie
-      (data.europa.eu dataset 51987-natuurbeheerplan-2026-zoekgebied-klimaat-conceptversie; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 51987-natuurbeheerplan-2026-zoekgebied-klimaat-conceptversie;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 51987-natuurbeheerplan-2026-zo-nature-manag
+assigned_id: dea:data-product-51987-natuurbeheerplan-2026-zo-nature-manag-mpdwxg
+admitted: '2026-11-14'

@@ -1,0 +1,39 @@
+id: dea:data-product-2r4zo-the-economic-s8dvpa
+type: DataProduct
+name: The Economics of London's Housing Market
+description: <dp-prose> <p>Through reading this publication you will:</p> <p>&bull;
+  gain an understanding of how house prices are set in economics terms, how they are
+  measured, and why the cost of housing matters for London&rsquo;s economy and its
+  residents</p> <p>&bull; see whether incomes and earnings in London have kept pace
+  with the costs of home ownership in London, and see how affordability may be affected
+  by future changes in interest rates</p> <p>&bull; find out about the drivers of
+  demand for residential property in London, and how the supply of homes has responded
+  to changing conditions</p> </dp-prose>
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2r4zo (data.europa.eu dataset
+      2r4zo; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

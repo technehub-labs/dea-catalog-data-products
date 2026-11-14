@@ -1,0 +1,31 @@
+# Service prices; commercial services, index 2010=100, 2002-2017
+
+> This table shows the price indices, quarterly and annual changes in the prices of services provided by commercial services and transport companies. A breakdown by service types has been made according to the European Coordinated Goods and Services Classification CPA 2008. For some services, a further subdivision has been made based on market data that are different from the CPA. This subheading is denoted by a letter after the CPA code. The service price index covers the following sectors of commercial services and transport: H Transport and storage I Provision of accommodation, meals and beverages J Information and communication K Financial institutions L Renting and trading of real estate M Consultancy, research and other specialist business services N Rental of movable property and other business services The price indices in this table all have the index reference year 2010. The annual average, quarterly and annual changes were calculated on the basis of unrounded indices. Data available from: 2002 4th quarter to 2017. Frequency: quarterly Status of figures This table has been discontinued. The most recent figures are from the fourth quarter of 2017. Changes as of 17 May 2018: None, this table has been discontinued. When will there be new figures? No longer applicable. This table has been discontinued as of 17 May 2018 and continued as Service Prices; commercial services and transport, index 2015=100. See paragraph 3.
+
+## Identity
+
+- **Record id**: `dea:data-product-2392-dienstenprijzen-commerci-service-pric-usdpf6`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/2392-dienstenprijzen-commerci-le-dienstverlening-index-2010-100-2002-2017 (data.europa.eu dataset 2392-dienstenprijzen-commerci-le-dienstverlening-index-2010-100-2002-2017; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

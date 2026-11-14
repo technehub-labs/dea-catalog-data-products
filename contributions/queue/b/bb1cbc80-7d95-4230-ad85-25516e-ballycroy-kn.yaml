@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bb1cbc80-7d95-4230-ad85-25516e92e80b
 name: Ballycroy-Knockmoyleen Climate Data
-description: Daily and monthly climatalogical records for our station at Ballycroy-Knockmoyleen in Co.
-  Mayo.
+description: Daily and monthly climatalogical records for our station at Ballycroy-Knockmoyleen
+  in Co. Mayo.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bb1cbc80-7d95-4230-ad85-25516e92e80b (data.europa.eu
-      dataset bb1cbc80-7d95-4230-ad85-25516e92e80b; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bb1cbc80-7d95-4230-ad85-25516e92e80b
+      (data.europa.eu dataset bb1cbc80-7d95-4230-ad85-25516e92e80b; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: bb1cbc80-7d95-4230-ad85-25516e-ballycroy-kn
+assigned_id: dea:data-product-bb1cbc80-7d95-4230-ad85-25516e-ballycroy-kn-maknm8
+admitted: '2026-11-14'

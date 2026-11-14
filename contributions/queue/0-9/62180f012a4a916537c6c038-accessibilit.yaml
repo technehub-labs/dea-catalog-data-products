@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 62180f012a4a916537c6c038
 name: Accessibility alert for the public transport network in Lyon
-description: From rolling stock renewal to the accessibility of stops, from passenger information to the
-  implementation of specific services, SYTRAL Mobilités, in conjunction with its partners, has made the
-  accessibility of its public transport networks a priority. Accessibility alerts identify elevators and
-  escalators currently unavailable in metro and tram stations equipped with the Transport en Commun Lyonnais
-  (TCL) network.
+description: From rolling stock renewal to the accessibility of stops, from passenger
+  information to the implementation of specific services, SYTRAL Mobilités, in conjunction
+  with its partners, has made the accessibility of its public transport networks a
+  priority. Accessibility alerts identify elevators and escalators currently unavailable
+  in metro and tram stations equipped with the Transport en Commun Lyonnais (TCL)
+  network.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/62180f012a4a916537c6c038 (data.europa.eu dataset
-      62180f012a4a916537c6c038; publisher: SYTRAL Mobilités)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/62180f012a4a916537c6c038 (data.europa.eu
+      dataset 62180f012a4a916537c6c038; publisher: SYTRAL Mobilités)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obilits
 slug: 62180f012a4a916537c6c038-accessibilit
+assigned_id: dea:data-product-62180f012a4a916537c6c038-accessibilit-c4cf2w
+admitted: '2026-11-14'

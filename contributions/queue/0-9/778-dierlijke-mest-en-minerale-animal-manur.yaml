@@ -1,31 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 778-dierlijke-mest-en-mineralen-productie-transport-en-gebruik-per-regio
 name: Animal manure and minerals; production, transport and use by region
-description: 'The table provides figures on the production, transport and use of livestock manure and
-  the minerals nitrogen and phosphate contained therein by farms. The use of animal manure in the form
-  of nitrogen and phosphate is compared with the placement space for both minerals. In the table, the
-  data can be viewed for different regional levels including parts of the country, provinces and concentration
-  areas. Significant margins of uncertainty should be taken into account when using both regionally and
-  substantively detailed outcomes. With more aggregated use figures such as the mineral use per hectare
-  per part of the country or the absolute mineral use per province or part of the country, the margins
-  of error are smaller. Data available from:1994 Status of figures: Figures are definitive at first publication,
-  but new insights into calculation methods can give rise to recalculation of the time series. Changes
-  as of 25 February 2025: Figures for 2023 have been added. New insights into manure transport to and
-  from farms and new insights into gaseous nitrogen losses from stored manure led to changes in the figures
-  on manure transport and manure use from 2010. When will there be new figures? In the second quarter
-  of 2026, the figures for 2024 are added.'
+description: 'The table provides figures on the production, transport and use of livestock
+  manure and the minerals nitrogen and phosphate contained therein by farms. The use
+  of animal manure in the form of nitrogen and phosphate is compared with the placement
+  space for both minerals. In the table, the data can be viewed for different regional
+  levels including parts of the country, provinces and concentration areas. Significant
+  margins of uncertainty should be taken into account when using both regionally and
+  substantively detailed outcomes. With more aggregated use figures such as the mineral
+  use per hectare per part of the country or the absolute mineral use per province
+  or part of the country, the margins of error are smaller. Data available from:1994
+  Status of figures: Figures are definitive at first publication, but new insights
+  into calculation methods can give rise to recalculation of the time series. Changes
+  as of 25 February 2025: Figures for 2023 have been added. New insights into manure
+  transport to and from farms and new insights into gaseous nitrogen losses from stored
+  manure led to changes in the figures on manure transport and manure use from 2010.
+  When will there be new figures? In the second quarter of 2026, the figures for 2024
+  are added.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/778-dierlijke-mest-en-mineralen-productie-transport-en-gebruik-per-regio
       (data.europa.eu dataset 778-dierlijke-mest-en-mineralen-productie-transport-en-gebruik-per-regio;
       publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 778-dierlijke-mest-en-minerale-animal-manur
+assigned_id: dea:data-product-778-dierlijke-mest-en-minerale-animal-manur-kabss9
+admitted: '2026-11-14'

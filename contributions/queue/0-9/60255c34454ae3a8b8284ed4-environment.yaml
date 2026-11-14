@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60255c34454ae3a8b8284ed4
 name: Environment/87
-description: Environment/87 Contribution of the then Secretary of State for the Environment and Natural
-  Resources to a more informed view of the Environment in Portugal and the actions for its protection
-  and improvement, addressing primarily those responsible for decision-making.
+description: Environment/87 Contribution of the then Secretary of State for the Environment
+  and Natural Resources to a more informed view of the Environment in Portugal and
+  the actions for its protection and improvement, addressing primarily those responsible
+  for decision-making.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60255c34454ae3a8b8284ed4 (data.europa.eu dataset
-      60255c34454ae3a8b8284ed4; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60255c34454ae3a8b8284ed4 (data.europa.eu
+      dataset 60255c34454ae3a8b8284ed4; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60255c34454ae3a8b8284ed4-environment
+assigned_id: dea:data-product-60255c34454ae3a8b8284ed4-environment-8afrhw
+admitted: '2026-11-14'

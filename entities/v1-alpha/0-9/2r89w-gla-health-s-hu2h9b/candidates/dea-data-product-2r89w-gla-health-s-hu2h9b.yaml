@@ -1,0 +1,39 @@
+id: dea:data-product-2r89w-gla-health-s-hu2h9b
+type: DataProduct
+name: GLA Health Survey Infographics
+description: <dp-prose> <p>Over 660 <a href="http://talklondon.london.gov.uk/">Talk
+  London</a> users took part in the GLA&apos;s online health survey during March 2014.
+  This explored people&rsquo;s experiences of health services, views on health policies
+  and health behaviours. An identical telephone poll with 1000 Londoners also ran
+  between 14 and 16 March. The results will be used by the Mayor&rsquo;s Health Team
+  and the London Health Commission to inform their recommendations on improving health
+  in London. The infographics summarise the key findings.</p> <p>-</p> <p></p> <p>-</p>
+  <p></p> <p>-</p> <p></p> <p>-</p> </dp-prose>
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2r89w (data.europa.eu dataset
+      2r89w; publisher: GLA Intelligence Unit)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- ntelligence-nit

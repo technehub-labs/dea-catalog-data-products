@@ -1,0 +1,38 @@
+id: dea:data-product-9e433aea-1f65-4cad-97c4-f3752a-digital-land-r5jred
+type: DataProduct
+name: Digital landscape model - Transport Cut-off date 25.10.2022
+description: 'The object area DLM - Traffic comprises the following elements for Austria
+  in the form of high-precision vector graphics with attributes as the basis for geographic
+  information systems: all roads; all railways; Lifts. In addition, the coordinative
+  reference points are also covered with attributes of traffic objects. This is an
+  Austria-wide, high-precision location of POI (points of interest) in the areas of
+  railways, air traffic, shipping traffic, facilities and structures for traffic,
+  transport, communication and supply.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9e433aea-1f65-4cad-97c4-f3752ace3a3d~~1
+      (data.europa.eu dataset 9e433aea-1f65-4cad-97c4-f3752ace3a3d~~1; publisher:
+      BEV)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

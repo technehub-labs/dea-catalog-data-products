@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a5b719cf-f7a5-4bad-be95-78e7dd02b9de
 name: Organizational structure of the Synelnykivsky PHC Center of the SMR
-description: Information on the organizational structure of the Synelnykivsky PHC Center of the SMR
+description: Information on the organizational structure of the Synelnykivsky PHC
+  Center of the SMR
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a5b719cf-f7a5-4bad-be95-78e7dd02b9de (data.europa.eu
-      dataset a5b719cf-f7a5-4bad-be95-78e7dd02b9de; publisher: Комунальне некомерційне підприємство "Синельниківський
-      центр первинної медико-санітарної допомоги Синельниківської міської ради")'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a5b719cf-f7a5-4bad-be95-78e7dd02b9de
+      (data.europa.eu dataset a5b719cf-f7a5-4bad-be95-78e7dd02b9de; publisher: Комунальне
+      некомерційне підприємство "Синельниківський центр первинної медико-санітарної
+      допомоги Синельниківської міської ради")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: a5b719cf-f7a5-4bad-be95-78e7dd-organization
+assigned_id: dea:data-product-a5b719cf-f7a5-4bad-be95-78e7dd-organization-xhn9f5
+admitted: '2026-11-14'

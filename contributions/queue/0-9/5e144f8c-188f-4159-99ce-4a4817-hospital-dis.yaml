@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1
 name: Hospital District of Helsinki and Uusimaa (HUS) procurements
-description: The dataset contains information on the purchase invoices of the Hospital District of Helsinki
-  and Uusimaa (HUS). The file is a list of all purchases made by HUS. Each line in the file contains information
-  on the supplier's name and business ID, invoice amount, VAT and date. The information can also be found
-  in the name and number of the responsible unit that made the purchase, as well as in the expense account
-  to which the purchase invoice has been allocated. Sensitive data, i.e. data containing personal data,
-  has been removed from the data.
+description: The dataset contains information on the purchase invoices of the Hospital
+  District of Helsinki and Uusimaa (HUS). The file is a list of all purchases made
+  by HUS. Each line in the file contains information on the supplier's name and business
+  ID, invoice amount, VAT and date. The information can also be found in the name
+  and number of the responsible unit that made the purchase, as well as in the expense
+  account to which the purchase invoice has been allocated. Sensitive data, i.e. data
+  containing personal data, has been removed from the data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1 (data.europa.eu
-      dataset 5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1; publisher: Helsingin ja Uudenmaan sairaanhoitopiiri
-      (HUS))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1
+      (data.europa.eu dataset 5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1; publisher:
+      Helsingin ja Uudenmaan sairaanhoitopiiri (HUS))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - elsingin-ja-udenmaan
 slug: 5e144f8c-188f-4159-99ce-4a4817-hospital-dis
+assigned_id: dea:data-product-5e144f8c-188f-4159-99ce-4a4817-hospital-dis-ybehgq
+admitted: '2026-11-14'

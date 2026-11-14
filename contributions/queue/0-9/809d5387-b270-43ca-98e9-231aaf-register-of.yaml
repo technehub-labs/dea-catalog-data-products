@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 809d5387-b270-43ca-98e9-231aaf1b795d
-name: Register of documents managed by the Department of Promotion and Tourism of Sumy Regional State
-  Administration
-description: Register of documents managed by the Department of Promotion and Tourism of Sumy Regional
-  State Administration.
+name: Register of documents managed by the Department of Promotion and Tourism of
+  Sumy Regional State Administration
+description: Register of documents managed by the Department of Promotion and Tourism
+  of Sumy Regional State Administration.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/809d5387-b270-43ca-98e9-231aaf1b795d (data.europa.eu
-      dataset 809d5387-b270-43ca-98e9-231aaf1b795d; publisher: Департамент культури, туризму та релігій
-      Сумської обласної державної адміністрації)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/809d5387-b270-43ca-98e9-231aaf1b795d
+      (data.europa.eu dataset 809d5387-b270-43ca-98e9-231aaf1b795d; publisher: Департамент
+      культури, туризму та релігій Сумської обласної державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 809d5387-b270-43ca-98e9-231aaf-register-of
+assigned_id: dea:data-product-809d5387-b270-43ca-98e9-231aaf-register-of-7afwmg
+admitted: '2026-11-14'

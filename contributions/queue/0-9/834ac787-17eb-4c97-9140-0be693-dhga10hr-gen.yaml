@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 834ac787-17eb-4c97-9140-0be6934236e9
 name: DHGA10HR - General Health of the Population
-description: DHGA10HR - General Health of the Population — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Department of Health.
+description: DHGA10HR - General Health of the Population — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by Department of Health.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/834ac787-17eb-4c97-9140-0be6934236e9 (data.europa.eu
-      dataset 834ac787-17eb-4c97-9140-0be6934236e9; publisher: Department of Health)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/834ac787-17eb-4c97-9140-0be6934236e9
+      (data.europa.eu dataset 834ac787-17eb-4c97-9140-0be6934236e9; publisher: Department
+      of Health)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-of-ealth
 slug: 834ac787-17eb-4c97-9140-0be693-dhga10hr-gen
+assigned_id: dea:data-product-834ac787-17eb-4c97-9140-0be693-dhga10hr-gen-kuw6w9
+admitted: '2026-11-14'

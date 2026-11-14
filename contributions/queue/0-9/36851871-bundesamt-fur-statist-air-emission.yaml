@@ -1,19 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36851871-bundesamt-fur-statistik-bfs
-name: Air emissions accounts of households and the economy, by economic sector (aggregated by section)
-description: This table presents the annual figures on air emissions of households and the economy, by
-  greenhouse gas and air pollutant, and by economic activity (NOGA 2008), since 2000.
+name: Air emissions accounts of households and the economy, by economic sector (aggregated
+  by section)
+description: This table presents the annual figures on air emissions of households
+  and the economy, by greenhouse gas and air pollutant, and by economic activity (NOGA
+  2008), since 2000.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36851871-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36851871-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36851871-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36851871-bundesamt-fur-statistik-bfs; publisher: Office
+      fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffice-fdral-de-la-st
 slug: 36851871-bundesamt-fur-statist-air-emission
+assigned_id: dea:data-product-36851871-bundesamt-fur-statist-air-emission-c9v32x
+admitted: '2026-11-14'

@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 9e702338-1fba-41c3-919c-ae40907b2869
 name: XPlanung dataset BPL ‘Agriculture Burghof (original)’
-description: 'The development plan (BPL) contains the legally binding stipulations for the urban development
-  order. In principle, the development plan must be developed from the land use plan. The available data
-  are the ‘Landwirtschaftshof Burghof (Urschrift)’ development plan of the municipality of Neuhausen on
-  the Fildern from XPlanung 5.4. Description: Agrarshof Burghof Original SO.'
+description: 'The development plan (BPL) contains the legally binding stipulations
+  for the urban development order. In principle, the development plan must be developed
+  from the land use plan. The available data are the ‘Landwirtschaftshof Burghof (Urschrift)’
+  development plan of the municipality of Neuhausen on the Fildern from XPlanung 5.4.
+  Description: Agrarshof Burghof Original SO.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/9e702338-1fba-41c3-919c-ae40907b2869 (data.europa.eu
-      dataset 9e702338-1fba-41c3-919c-ae40907b2869; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/9e702338-1fba-41c3-919c-ae40907b2869
+      (data.europa.eu dataset 9e702338-1fba-41c3-919c-ae40907b2869; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 9e702338-1fba-41c3-919c-ae4090-xplanung-dat
+assigned_id: dea:data-product-9e702338-1fba-41c3-919c-ae4090-xplanung-dat-zp9nv8
+admitted: '2026-11-14'

@@ -1,0 +1,33 @@
+id: dea:data-product-aeb9469e-3ffd-4d84-aaac-90801d-1-1-referenc-6585vr
+type: DataProduct
+name: 1.1. Reference book of KZ "VL No 19"
+description: Directory of the municipal institution "Vinnytsia Lyceum No. 19" - general
+  information about the institution
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/aeb9469e-3ffd-4d84-aaac-90801d8a78a6
+      (data.europa.eu dataset aeb9469e-3ffd-4d84-aaac-90801d8a78a6; publisher: Вінницька
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

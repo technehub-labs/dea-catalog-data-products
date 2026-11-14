@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3a7dd0a6-d130-4c4c-b0ba-24365cf036e2
 name: 'Transport networks: Railways - Transport Networks: Rail (INSPIRE harmonized)'
-description: 'INSPIRE Transport networks: Railways (Transport Networks: Rail) thematic layer, harmonised,
-  filled with relevant objects from TOP10NL (part of the Basic Registration Topography BRT), produced
-  and managed by the Land Registry.'
+description: 'INSPIRE Transport networks: Railways (Transport Networks: Rail) thematic
+  layer, harmonised, filled with relevant objects from TOP10NL (part of the Basic
+  Registration Topography BRT), produced and managed by the Land Registry.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3a7dd0a6-d130-4c4c-b0ba-24365cf036e2 (data.europa.eu
-      dataset 3a7dd0a6-d130-4c4c-b0ba-24365cf036e2; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3a7dd0a6-d130-4c4c-b0ba-24365cf036e2
+      (data.europa.eu dataset 3a7dd0a6-d130-4c4c-b0ba-24365cf036e2; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 3a7dd0a6-d130-4c4c-b0ba-24365c-transport-ne
+assigned_id: dea:data-product-3a7dd0a6-d130-4c4c-b0ba-24365c-transport-ne-hc4hxh
+admitted: '2026-11-14'

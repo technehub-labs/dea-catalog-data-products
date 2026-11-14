@@ -1,0 +1,43 @@
+id: dea:data-product-41343-vervoer-gevaarlijke-stof-transport-of-4etv6h
+type: DataProduct
+name: Transport of dangerous goods; Transport flow, ADR class
+description: 'This table shows the annual figures for the transport of dangerous goods
+  across the Dutch territory. This concerns the domestic transport, transit and supply
+  and disposal of dangerous goods broken down by ADR class. The table contains transported
+  cargo weight in tonnes and transport performance in cargo tonne-kilometres. Maritime
+  transport does not involve transport over Dutch territory, so that the transport
+  performance of this modality is not included in the tonne-kilometres of cargo. Data
+  available from: 2012 Status of figures: The figures in this table are provisional.
+  Changes as of 10 July 2026: The figures for 2024 have been added. The figures for
+  the years 2015-2023 have also been revised, due to improvements in the figures for
+  pipelines, rail and maritime transport. When will there be new figures? The new
+  figures shall be submitted within 12 months of the end of the reporting year.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/41343-vervoer-gevaarlijke-stoffen-vervoerstroom-adr-klasse
+      (data.europa.eu dataset 41343-vervoer-gevaarlijke-stoffen-vervoerstroom-adr-klasse;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

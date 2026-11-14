@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 82451-dutch-offshore-wind-atlas-daily-files-at-10-600-meter-height-of-all-2-5-km-grid-points
-name: Dutch Offshore Wind Atlas - daily files at 10-600 meters height of all 2.5 km grid points
-description: Dutch Offshore Wind Atlas - daily files at 10-600 meters height of all 2.5 km grid points
-  — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by the publishing body.
+name: Dutch Offshore Wind Atlas - daily files at 10-600 meters height of all 2.5 km
+  grid points
+description: Dutch Offshore Wind Atlas - daily files at 10-600 meters height of all
+  2.5 km grid points — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by the publishing body.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/82451-dutch-offshore-wind-atlas-daily-files-at-10-600-meter-height-of-all-2-5-km-grid-points
       (data.europa.eu dataset 82451-dutch-offshore-wind-atlas-daily-files-at-10-600-meter-height-of-all-2-5-km-grid-points;
       publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 82451-dutch-offshore-wind-atla-dutch-offsho
+assigned_id: dea:data-product-82451-dutch-offshore-wind-atla-dutch-offsho-892f5n
+admitted: '2026-11-14'

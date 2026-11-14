@@ -1,0 +1,36 @@
+id: dea:data-product-67cad6f2b6a4268a4beba33a-area-under-o-h2494k
+type: DataProduct
+name: Area under organic farming (certified organic or in-conversion)
+description: The indicator measures areas under organic farming (certified organic
+  and in-conversion). Areas "certified organic" which bring together parcels whose
+  conversion period has ended and whose production can be marketed with the designation
+  "organic farming" , areas in conversion (the conversion period varies from 2 years
+  for annual crops to 3 years for perennial crops).
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/67cad6f2b6a4268a4beba33a (data.europa.eu
+      dataset 67cad6f2b6a4268a4beba33a; publisher: Ecolab)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- colab

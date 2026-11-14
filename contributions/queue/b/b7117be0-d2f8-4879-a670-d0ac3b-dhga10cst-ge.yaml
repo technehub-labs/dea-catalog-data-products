@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu b7117be0-d2f8-4879-a670-d0ac3b7e977f
 name: DHGA10CST - General Health of the Population
-description: DHGA10CST - General Health of the Population — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Department of Health.
+description: DHGA10CST - General Health of the Population — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by Department of Health.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b7117be0-d2f8-4879-a670-d0ac3b7e977f (data.europa.eu
-      dataset b7117be0-d2f8-4879-a670-d0ac3b7e977f; publisher: Department of Health)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b7117be0-d2f8-4879-a670-d0ac3b7e977f
+      (data.europa.eu dataset b7117be0-d2f8-4879-a670-d0ac3b7e977f; publisher: Department
+      of Health)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-of-ealth
 slug: b7117be0-d2f8-4879-a670-d0ac3b-dhga10cst-ge
+assigned_id: dea:data-product-b7117be0-d2f8-4879-a670-d0ac3b-dhga10cst-ge-jnaqdt
+admitted: '2026-11-14'

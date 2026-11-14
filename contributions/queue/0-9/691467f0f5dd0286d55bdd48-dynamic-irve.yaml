@@ -1,17 +1,21 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 691467f0f5dd0286d55bdd48
 name: Dynamic IRVE (Parera Mobility Organization)
-description: This dataset meets the specifications of the "dynamic EVIR" schema available on [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-irve-dynamic)
+description: This dataset meets the specifications of the "dynamic EVIR" schema available
+  on [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-irve-dynamic)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/691467f0f5dd0286d55bdd48 (data.europa.eu dataset
-      691467f0f5dd0286d55bdd48; publisher: PARERA MOBILITE)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/691467f0f5dd0286d55bdd48 (data.europa.eu
+      dataset 691467f0f5dd0286d55bdd48; publisher: PARERA MOBILITE)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 691467f0f5dd0286d55bdd48-dynamic-irve
+assigned_id: dea:data-product-691467f0f5dd0286d55bdd48-dynamic-irve-8v4yne
+admitted: '2026-11-14'

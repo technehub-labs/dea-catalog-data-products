@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 83408-evaporation-knmi14-daily-precipitation-sum-2050-gl
 name: Evaporation - KNMI14 Daily precipitation sum 2050 GL
-description: 'KNMI14 scenario data: 2050 GL. Gridded files of daily precipitation sum in the Netherlands
-  measured on 294 locations of the voluntary network from 08:00-08:00 UT.'
+description: 'KNMI14 scenario data: 2050 GL. Gridded files of daily precipitation
+  sum in the Netherlands measured on 294 locations of the voluntary network from 08:00-08:00
+  UT.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/83408-evaporation-knmi14-daily-precipitation-sum-2050-gl
-      (data.europa.eu dataset 83408-evaporation-knmi14-daily-precipitation-sum-2050-gl; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 83408-evaporation-knmi14-daily-precipitation-sum-2050-gl;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 83408-evaporation-knmi14-daily-evaporation
+assigned_id: dea:data-product-83408-evaporation-knmi14-daily-evaporation-z2uc4d
+admitted: '2026-11-14'

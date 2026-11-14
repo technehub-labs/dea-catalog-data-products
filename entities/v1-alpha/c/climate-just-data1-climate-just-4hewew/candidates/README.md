@@ -1,0 +1,31 @@
+# 'Climate Just' data
+
+> <dp-prose> <p>The &apos;<a href="http://www.climatejust.org.uk">Climate Just&apos;</a> Map Tool shows the geography of England&rsquo;s vulnerability to climate change at a neighbourhood scale.</p> <p>The Climate Just Map Tool shows which places may be most disadvantaged through climate impacts. It aims to raise awareness about how social vulnerability combined with exposure to hazards, like flooding and heat, may lead to uneven impacts in different neighbourhoods, causing climate disadvantage.</p> <p>Climate Just Map Tool includes maps on:</p> <ul> <li> <p>Flooding (river/coastal and surface water)</p> </li> <li> <p>Heat</p> </li> <li> <p>Fuel poverty.</p> </li> </ul> <p>The flood and heat analysis for England is based on an assessment of social vulnerability in 2011 carried out by the University of Manchester. This has been combined with national datasets on exposure to flooding, using Environment Agency data, and exposure to heat, using UKCP09 data.</p> <p>Data is available at Middle Super Output Area (MSOA) level across England. Summaries of numbers of MSOAs are shown in the file named <strong>Climate Just-LA_summaries_vulnerability_disadvantage_Dec2014.xls</strong></p> <p>Indicators include:</p> <p><strong>Climate Just-Flood disadvantage_2011_Dec2014.xlsx</strong></p> <p>Fluvial flood disadvantage index<br />Pluvial flood disadvantage index (1 in 30 years)<br />Pluvial flood disadvantage index (1 in 100 years)<br />Pluvial flood disadvantage index (1 in 1000 years)</p> <p><strong>Climate Just-Flood_hazard_exposure_2011_Dec2014.xlsx</strong></p> <p>Percentage of area at moderate and significant risk of fluvial flooding<br />Percentage of area at risk of surface water flooding (1 in 30 years)<br />Percentage of area at risk of surface water flooding (1 in 100 years)<br />Percentage of area at risk of surface water flooding (1 in 1000 years)</p> <p><strong>Climate Just-SSVI_indices_2011_Dec2014.xlsx</strong></p> <p>Sensitivity - flood and heat<br />Ability to prepa
+
+## Identity
+
+- **Record id**: `dea:data-product-climate-just-data1-climate-just-4hewew`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/climate-just-data1 (data.europa.eu dataset climate-just-data1; publisher: Greater London Authority)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

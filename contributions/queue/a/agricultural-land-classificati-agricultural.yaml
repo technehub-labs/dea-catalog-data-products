@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu agricultural-land-classification-detailed-post-1988-survey-alcr133941
 name: Agricultural Land Classification detailed Post 1988 survey ALCR13394
-description: 'Survey name: Teynham South (Swale LP Site DD) Post 1988 Agricultural Land Classification
-  (ALC) site survey data – scanned original paper maps and survey reports for individual sites surveyed
-  in detail between 1989 and 1999 by the Ministry of Agriculture Fisheries and Food. Where Grade 3 is
-  mapped this includes the subdivision of Grade 3 into subgrades 3a and 3b. Surveys use the current grading
-  methodology as described in "Agricultural Land Classification of England and Wales," a link for which
-  is provided with the data. Individual sites have been mapped at varying scales and level of detail from
-  1:5,000 to 1:50,000 (typically 1:10,000). Unedited sample point soils data and soil pit descriptions
-  are also available for some surveys. Attribution statement: © Natural England copyright. Contains Ordnance
-  Survey data © Crown copyright and database right [year]. Attribution statement: © Natural England copyright.
-  Contains Ordnance Survey data © Crown copyright and database right [year].'
+description: 'Survey name: Teynham South (Swale LP Site DD) Post 1988 Agricultural
+  Land Classification (ALC) site survey data – scanned original paper maps and survey
+  reports for individual sites surveyed in detail between 1989 and 1999 by the Ministry
+  of Agriculture Fisheries and Food. Where Grade 3 is mapped this includes the subdivision
+  of Grade 3 into subgrades 3a and 3b. Surveys use the current grading methodology
+  as described in "Agricultural Land Classification of England and Wales," a link
+  for which is provided with the data. Individual sites have been mapped at varying
+  scales and level of detail from 1:5,000 to 1:50,000 (typically 1:10,000). Unedited
+  sample point soils data and soil pit descriptions are also available for some surveys.
+  Attribution statement: © Natural England copyright. Contains Ordnance Survey data
+  © Crown copyright and database right [year]. Attribution statement: © Natural England
+  copyright. Contains Ordnance Survey data © Crown copyright and database right [year].'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/agricultural-land-classification-detailed-post-1988-survey-alcr133941
-      (data.europa.eu dataset agricultural-land-classification-detailed-post-1988-survey-alcr133941; publisher:
-      Natural England)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset agricultural-land-classification-detailed-post-1988-survey-alcr133941;
+      publisher: Natural England)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - atural-ngland
 slug: agricultural-land-classificati-agricultural
+assigned_id: dea:data-product-agricultural-land-classificati-agricultural-yhdsk2
+admitted: '2026-11-14'

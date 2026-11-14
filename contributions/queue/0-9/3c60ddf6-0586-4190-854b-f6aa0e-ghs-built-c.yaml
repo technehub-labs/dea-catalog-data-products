@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3c60ddf6-0586-4190-854b-f6aa0edc2a30
-name: GHS-BUILT-C R2023A - GHS Settlement Characteristics, derived from Sentinel2 composite (2018) and
-  other GHS R2023A data
-description: The spatial raster dataset delineates the boundaries of the human settlements at 10m resolution,
-  and describe their inner characteristics in terms of the morphology of the built environment and the
-  functional use.
+name: GHS-BUILT-C R2023A - GHS Settlement Characteristics, derived from Sentinel2
+  composite (2018) and other GHS R2023A data
+description: The spatial raster dataset delineates the boundaries of the human settlements
+  at 10m resolution, and describe their inner characteristics in terms of the morphology
+  of the built environment and the functional use.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3c60ddf6-0586-4190-854b-f6aa0edc2a30 (data.europa.eu
-      dataset 3c60ddf6-0586-4190-854b-f6aa0edc2a30; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3c60ddf6-0586-4190-854b-f6aa0edc2a30
+      (data.europa.eu dataset 3c60ddf6-0586-4190-854b-f6aa0edc2a30; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 3c60ddf6-0586-4190-854b-f6aa0e-ghs-built-c
+assigned_id: dea:data-product-3c60ddf6-0586-4190-854b-f6aa0e-ghs-built-c-n4q9bb
+admitted: '2026-11-14'

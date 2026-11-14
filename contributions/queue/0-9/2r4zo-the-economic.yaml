@@ -1,22 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2r4zo
 name: The Economics of London's Housing Market
-description: <dp-prose> <p>Through reading this publication you will:</p> <p>&bull; gain an understanding
-  of how house prices are set in economics terms, how they are measured, and why the cost of housing matters
-  for London&rsquo;s economy and its residents</p> <p>&bull; see whether incomes and earnings in London
-  have kept pace with the costs of home ownership in London, and see how affordability may be affected
-  by future changes in interest rates</p> <p>&bull; find out about the drivers of demand for residential
-  property in London, and how the supply of homes has responded to changing conditions</p> </dp-prose>
+description: <dp-prose> <p>Through reading this publication you will:</p> <p>&bull;
+  gain an understanding of how house prices are set in economics terms, how they are
+  measured, and why the cost of housing matters for London&rsquo;s economy and its
+  residents</p> <p>&bull; see whether incomes and earnings in London have kept pace
+  with the costs of home ownership in London, and see how affordability may be affected
+  by future changes in interest rates</p> <p>&bull; find out about the drivers of
+  demand for residential property in London, and how the supply of homes has responded
+  to changing conditions</p> </dp-prose>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2r4zo (data.europa.eu dataset 2r4zo; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2r4zo (data.europa.eu dataset
+      2r4zo; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 2r4zo-the-economic
+assigned_id: dea:data-product-2r4zo-the-economic-s8dvpa
+admitted: '2026-11-14'

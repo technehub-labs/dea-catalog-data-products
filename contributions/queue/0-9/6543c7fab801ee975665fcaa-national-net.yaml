@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6543c7fab801ee975665fcaa
 name: National Network for Alert of Radioactivity in the Environment (RADNET)
-description: National Network for Alert of Radioactivity in the Environment (RADNET) — a published dataset
-  in the EU Open Data Portal (data.europa.eu), maintained by Agência Portuguesa do Ambiente, I.P..
+description: National Network for Alert of Radioactivity in the Environment (RADNET)
+  — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by
+  Agência Portuguesa do Ambiente, I.P..
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6543c7fab801ee975665fcaa (data.europa.eu dataset
-      6543c7fab801ee975665fcaa; publisher: Agência Portuguesa do Ambiente, I.P.)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6543c7fab801ee975665fcaa (data.europa.eu
+      dataset 6543c7fab801ee975665fcaa; publisher: Agência Portuguesa do Ambiente,
+      I.P.)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 6543c7fab801ee975665fcaa-national-net
+assigned_id: dea:data-product-6543c7fab801ee975665fcaa-national-net-pcf7pd
+admitted: '2026-11-14'

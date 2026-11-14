@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu b598bf9f-ad92-47b1-b9c6-0c4000e8a3a2
-name: Information on the regulatory framework of the activities of the Municipal Non-Profit Enterprise
-  "Dnipro Primary Health Care Center No. 8" of the Dnipro City Council
-description: The set contains data on the regulatory framework of the information manager's activities
-  in the context of each normative act, in particular the name, date of adoption, the body that adopted
-  it, a link to the normative act published on the Internet by the Municipal Non-Profit Enterprise "Dnipro
-  Primary Health Care Center No. 8" of the Dnipro City Council
+name: Information on the regulatory framework of the activities of the Municipal Non-Profit
+  Enterprise "Dnipro Primary Health Care Center No. 8" of the Dnipro City Council
+description: The set contains data on the regulatory framework of the information
+  manager's activities in the context of each normative act, in particular the name,
+  date of adoption, the body that adopted it, a link to the normative act published
+  on the Internet by the Municipal Non-Profit Enterprise "Dnipro Primary Health Care
+  Center No. 8" of the Dnipro City Council
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b598bf9f-ad92-47b1-b9c6-0c4000e8a3a2 (data.europa.eu
-      dataset b598bf9f-ad92-47b1-b9c6-0c4000e8a3a2; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b598bf9f-ad92-47b1-b9c6-0c4000e8a3a2
+      (data.europa.eu dataset b598bf9f-ad92-47b1-b9c6-0c4000e8a3a2; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: b598bf9f-ad92-47b1-b9c6-0c4000-information
+assigned_id: dea:data-product-b598bf9f-ad92-47b1-b9c6-0c4000-information-wrczsc
+admitted: '2026-11-14'

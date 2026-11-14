@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu be7ec19e-0e03-49ea-bff7-5fc02022c07c
 name: Climate Change Regional Indicators of Change and Extremes for Europe
-description: 'Indicators of climate change and extremes from regional models coming from 3 sources: PRUDENCE
-  project of the Danish Meteorological Institute, consortial simulation of the Climate Limited-area Modelling
-  (CLM) Community, 12 runs of bias-corrected data from the ENSEMBLES project. Datasets refer to Temperature,
-  Precipitation, Precipitation intensity, Relative Humidity, Aridity Index, HUMIDEX, Heat wave plus statistical
+description: 'Indicators of climate change and extremes from regional models coming
+  from 3 sources: PRUDENCE project of the Danish Meteorological Institute, consortial
+  simulation of the Climate Limited-area Modelling (CLM) Community, 12 runs of bias-corrected
+  data from the ENSEMBLES project. Datasets refer to Temperature, Precipitation, Precipitation
+  intensity, Relative Humidity, Aridity Index, HUMIDEX, Heat wave plus statistical
   indicators such as Min, Max, Percentiles and Standard deviation.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/be7ec19e-0e03-49ea-bff7-5fc02022c07c (data.europa.eu
-      dataset be7ec19e-0e03-49ea-bff7-5fc02022c07c; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/be7ec19e-0e03-49ea-bff7-5fc02022c07c
+      (data.europa.eu dataset be7ec19e-0e03-49ea-bff7-5fc02022c07c; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: be7ec19e-0e03-49ea-bff7-5fc020-climate-chan
+assigned_id: dea:data-product-be7ec19e-0e03-49ea-bff7-5fc020-climate-chan-8nfa6t
+admitted: '2026-11-14'

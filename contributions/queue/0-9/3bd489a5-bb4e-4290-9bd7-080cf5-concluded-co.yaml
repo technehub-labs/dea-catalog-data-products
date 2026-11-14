@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3bd489a5-bb4e-4290-9bd7-080cf5a26f04
 name: Concluded contracts
-description: Concluded contracts — a published dataset in the EU Open Data Portal (data.europa.eu), maintained
-  by Комунальний заклад охорони здоров’я Кам’янської міської ради "Міський медичний центр здоров’я та
-  медицини спорту".
+description: Concluded contracts — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Комунальний заклад охорони здоров’я Кам’янської
+  міської ради "Міський медичний центр здоров’я та медицини спорту".
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3bd489a5-bb4e-4290-9bd7-080cf5a26f04 (data.europa.eu
-      dataset 3bd489a5-bb4e-4290-9bd7-080cf5a26f04; publisher: Комунальний заклад охорони здоров’я Кам’янської
-      міської ради "Міський медичний центр здоров’я та медицини спорту")'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3bd489a5-bb4e-4290-9bd7-080cf5a26f04
+      (data.europa.eu dataset 3bd489a5-bb4e-4290-9bd7-080cf5a26f04; publisher: Комунальний
+      заклад охорони здоров’я Кам’янської міської ради "Міський медичний центр здоров’я
+      та медицини спорту")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 3bd489a5-bb4e-4290-9bd7-080cf5-concluded-co
+assigned_id: dea:data-product-3bd489a5-bb4e-4290-9bd7-080cf5-concluded-co-f4sa4e
+admitted: '2026-11-14'

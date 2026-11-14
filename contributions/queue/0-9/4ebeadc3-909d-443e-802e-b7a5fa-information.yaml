@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4ebeadc3-909d-443e-802e-b7a5faa307f6
-name: 'Information on the placement of higher and vocational educational institutions on deposit (deposit)
-  accounts in institutions of banks of the public sector of the economy temporarily free budget funds '
-description: Information on the placement of higher and vocational educational institutions on deposit
-  (deposit) accounts in institutions of banks of the public sector of the economy temporarily free budget
-  funds received for the provision of paid services
+name: 'Information on the placement of higher and vocational educational institutions
+  on deposit (deposit) accounts in institutions of banks of the public sector of the
+  economy temporarily free budget funds '
+description: Information on the placement of higher and vocational educational institutions
+  on deposit (deposit) accounts in institutions of banks of the public sector of the
+  economy temporarily free budget funds received for the provision of paid services
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4ebeadc3-909d-443e-802e-b7a5faa307f6 (data.europa.eu
-      dataset 4ebeadc3-909d-443e-802e-b7a5faa307f6; publisher: Державна казначейська служба України (Казначейство))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4ebeadc3-909d-443e-802e-b7a5faa307f6
+      (data.europa.eu dataset 4ebeadc3-909d-443e-802e-b7a5faa307f6; publisher: Державна
+      казначейська служба України (Казначейство))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 4ebeadc3-909d-443e-802e-b7a5fa-information
+assigned_id: dea:data-product-4ebeadc3-909d-443e-802e-b7a5fa-information-9zbmaa
+admitted: '2026-11-14'

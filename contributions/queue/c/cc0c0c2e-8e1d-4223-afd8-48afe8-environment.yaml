@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cc0c0c2e-8e1d-4223-afd8-48afe8ed42bd
 name: Environment Impact Assessment NPP Cernavoda 1 and Interim Waste Storage (Romania).
-description: Refurbishment of npp Cernavoda 1 and Extension of Intermediate Dry Spent Fuel Storage with
-  MACSTOR-400 Modules.
+description: Refurbishment of npp Cernavoda 1 and Extension of Intermediate Dry Spent
+  Fuel Storage with MACSTOR-400 Modules.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cc0c0c2e-8e1d-4223-afd8-48afe8ed42bd (data.europa.eu
-      dataset cc0c0c2e-8e1d-4223-afd8-48afe8ed42bd; publisher: Umweltbundesamt GmbH)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cc0c0c2e-8e1d-4223-afd8-48afe8ed42bd
+      (data.europa.eu dataset cc0c0c2e-8e1d-4223-afd8-48afe8ed42bd; publisher: Umweltbundesamt
+      GmbH)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - mweltbundesamt-mb
 slug: cc0c0c2e-8e1d-4223-afd8-48afe8-environment
+assigned_id: dea:data-product-cc0c0c2e-8e1d-4223-afd8-48afe8-environment-sk3nwm
+admitted: '2026-11-14'

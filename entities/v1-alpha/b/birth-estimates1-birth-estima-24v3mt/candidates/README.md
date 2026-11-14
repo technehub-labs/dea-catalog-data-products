@@ -1,0 +1,31 @@
+# Birth estimates
+
+> <dp-prose> <p>Time series of official live birth estimates for local authority districts and selected higher geographies in England and Wales from 1991-92 onward. Data are collated from the following sources:</p> <ol> <li> <p><a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland">ONS mid-year population estimates components of change</a> - local authority births for mid-year periods from 2001-2 onward</p> </li> <li> <p><a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/009628birthsanddeathsbylowersuperoutputarealsoaenglandandwales1991to1992to2016to2017">Births and deaths by Lower Super Output Area (LSOA), England and Wales, 1991 to 1992 to 2016 to 2017</a> - ad hoc release of births by (2011) LSOA for mid-year periods from 1991-92 to 2016-17</p> </li> <li> <p><a href="https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&amp;version=0&amp;dataset=206">Live births in England and Wales for small geographic areas</a> - births by (2011) LSOA for calendar year period from 2013 onward.</p> </li> </ol> <p>While calendar year births data for local authorities is available for local earlier periods from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/birthsummarytables">ONS website</a>, this data has not yet been included here due to the complications caused by:</p> <ol> <li> <p>the lack of geography codes accompanying the data for the years of interest</p> </li> <li> <p>the decision to combine data for Hackney and City of London, and Cornwall and the Isles of Scilly</p> </li> <li> <p>inconsistent formatting of the published tables</p> </li> </ol> <p>A respository of the code used to collate these data is available on GitHub at: <a href="https://github.com/Greater-London-Authority/collate-birth-data">https://github.com/Greater-
+
+## Identity
+
+- **Record id**: `dea:data-product-birth-estimates1-birth-estima-24v3mt`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/birth-estimates1 (data.europa.eu dataset birth-estimates1; publisher: Greater London Authority)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,33 +1,39 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3849f57d-9bdd-428c-8d13-08be446e197a-bundesamt-fur-energie-bfe
 name: Suitability of façades for the use of solar energy
-description: 'The sun''s energy that reaches the Earth''s surface can be used, via two proven forms of
-  solar technology – photovoltaics (electric current) and solar thermal energy (heat) – to generate renewable
-  energy. Solar power has considerable potential: by 2050, around 20 per cent of the present demand for
-  electricity could be generated using photovoltaics. Solar heat is an interesting option thanks to various
-  types of standardised installation for warm water and heating support. The suitability map shows how
-  well-suited individual façades are to using solar energy and what yield would be possible. To determine
-  this, the course of the sun over the year is simulated and the solar radiation that reaches each façade
-  calculated. The specified surface equals the entire surface of the façade and does not involve a reduction
-  due to windows or similar. Radiation data from the Federal Office of Meteorology and Climatology MeteoSchweiz
-  and 3D building data from the Federal Office of Topography swisstopo (product swissBUILDINGS3D 2.0)
-  was used in these calculations.<br><br> From 2023 onwards, updated data bases will be used to calculate
-  the solar potential. With each annual update, a part of Switzerland is updated with the new data basis.
-  The model documentation contains an overview of the areas that have already been updated. In addition,
-  the module efficiency of photovoltaic systems was increased from 17% to 20% for the whole of Switzerland
-  from 1.1.2023.'
+description: 'The sun''s energy that reaches the Earth''s surface can be used, via
+  two proven forms of solar technology – photovoltaics (electric current) and solar
+  thermal energy (heat) – to generate renewable energy. Solar power has considerable
+  potential: by 2050, around 20 per cent of the present demand for electricity could
+  be generated using photovoltaics. Solar heat is an interesting option thanks to
+  various types of standardised installation for warm water and heating support. The
+  suitability map shows how well-suited individual façades are to using solar energy
+  and what yield would be possible. To determine this, the course of the sun over
+  the year is simulated and the solar radiation that reaches each façade calculated.
+  The specified surface equals the entire surface of the façade and does not involve
+  a reduction due to windows or similar. Radiation data from the Federal Office of
+  Meteorology and Climatology MeteoSchweiz and 3D building data from the Federal Office
+  of Topography swisstopo (product swissBUILDINGS3D 2.0) was used in these calculations.<br><br>
+  From 2023 onwards, updated data bases will be used to calculate the solar potential.
+  With each annual update, a part of Switzerland is updated with the new data basis.
+  The model documentation contains an overview of the areas that have already been
+  updated. In addition, the module efficiency of photovoltaic systems was increased
+  from 17% to 20% for the whole of Switzerland from 1.1.2023.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/3849f57d-9bdd-428c-8d13-08be446e197a-bundesamt-fur-energie-bfe
-      (data.europa.eu dataset 3849f57d-9bdd-428c-8d13-08be446e197a-bundesamt-fur-energie-bfe; publisher:
-      Ufficio federale dell''energia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 3849f57d-9bdd-428c-8d13-08be446e197a-bundesamt-fur-energie-bfe;
+      publisher: Ufficio federale dell''energia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - fficio-federale-dell
 slug: 3849f57d-9bdd-428c-8d13-08be44-suitability
+assigned_id: dea:data-product-3849f57d-9bdd-428c-8d13-08be44-suitability-5qz2tq
+admitted: '2026-11-14'

@@ -1,0 +1,42 @@
+id: dea:data-product-2098c861-474e-45e4-aaa9-629fe6-mean-annual-byvf4h
+type: DataProduct
+name: Mean Annual Distribution of Wave Height around Ireland
+description: Estimated annual average wave height (metres) created by a Pelamis Wave
+  Model for Accessible Wave Energy Resource Atlas. Wave height values are measured
+  as lower and upper values in metres as calculated by the Pelamis wave model. Annual
+  average wave height covers an area known as the Irish Exclusive Economic Zone (EEZ).
+  Data model produced in 2005. The Pelamis Wave Model was an oceanographic model using
+  the Pelamis wave energy converter device. The Accessible Wave Energy Resource Atlas
+  was produced to provide data and information on the accessible wave energy resource
+  potential around Ireland. Wave model developed by ESB International (ESBI) as part
+  of the Accessible Wave Energy Atlas Ireland published by the Marine Institute and
+  Sustainable Energy Authority Ireland. Model completed for time period run.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2098c861-474e-45e4-aaa9-629fe687dc85
+      (data.europa.eu dataset 2098c861-474e-45e4-aaa9-629fe687dc85; publisher: Marine
+      Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- arine-nstitute

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Measurements of particle number concentration in Ispra, Italy.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bf9db605-5f1c-4013-85d5-859ad988445d (data.europa.eu
-      dataset bf9db605-5f1c-4013-85d5-859ad988445d; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bf9db605-5f1c-4013-85d5-859ad988445d
+      (data.europa.eu dataset bf9db605-5f1c-4013-85d5-859ad988445d; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: bf9db605-5f1c-4013-85d5-859ad9-atmospheric
+assigned_id: dea:data-product-bf9db605-5f1c-4013-85d5-859ad9-atmospheric-4gvnbj
+admitted: '2026-11-14'

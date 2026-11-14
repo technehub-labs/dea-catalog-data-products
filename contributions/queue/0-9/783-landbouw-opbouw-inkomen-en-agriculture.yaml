@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 783-landbouw-opbouw-inkomen-en-arbeidsvolume-nationale-rekeningen
 name: Agriculture; Income accrual and labour volume, No, 1995-2023
-description: 'This table contains data from the agricultural accounts. Figures refer to output, intermediate
-  consumption, value added, labour volume and agricultural income. Data available from 1995 to 2023. Status
-  of figures: The years 1995-2020 are final. Data from the years 2021, 2022 and 2023 have provisional
-  status. As this table has been discontinued, the data will no longer be made definitive. Changes as
-  of 29 November 2024: None, this table has been discontinued. The Central Bureau of Statistics recently
-  revised the national accounts. New sources, methods and concepts are implemented in the national accounts,
-  so that the picture of the Dutch economy is again optimally aligned with all underlying statistics,
-  sources and international guidelines for compiling the national accounts. For more information see Section
+description: 'This table contains data from the agricultural accounts. Figures refer
+  to output, intermediate consumption, value added, labour volume and agricultural
+  income. Data available from 1995 to 2023. Status of figures: The years 1995-2020
+  are final. Data from the years 2021, 2022 and 2023 have provisional status. As this
+  table has been discontinued, the data will no longer be made definitive. Changes
+  as of 29 November 2024: None, this table has been discontinued. The Central Bureau
+  of Statistics recently revised the national accounts. New sources, methods and concepts
+  are implemented in the national accounts, so that the picture of the Dutch economy
+  is again optimally aligned with all underlying statistics, sources and international
+  guidelines for compiling the national accounts. For more information see Section
   3. When will there be new figures? No longer applicable.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/783-landbouw-opbouw-inkomen-en-arbeidsvolume-nationale-rekeningen
-      (data.europa.eu dataset 783-landbouw-opbouw-inkomen-en-arbeidsvolume-nationale-rekeningen; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 783-landbouw-opbouw-inkomen-en-arbeidsvolume-nationale-rekeningen;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 783-landbouw-opbouw-inkomen-en-agriculture
+assigned_id: dea:data-product-783-landbouw-opbouw-inkomen-en-agriculture-vx2hyb
+admitted: '2026-11-14'

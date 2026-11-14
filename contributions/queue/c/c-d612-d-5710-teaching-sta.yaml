@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_d612-d-5710
 name: Teaching staff. Data as at 31 December 2013
-description: 'Teaching staff by area and qualification. Data as at 31 December 2013 Source: University
-  of Florence, Office of Statistics. The CSV resource separator is "," (point letter).'
+description: 'Teaching staff by area and qualification. Data as at 31 December 2013
+  Source: University of Florence, Office of Statistics. The CSV resource separator
+  is "," (point letter).'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_d612-d-5710 (data.europa.eu dataset c_d612-d-5710;
-      publisher: Comune di Firenze)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_d612-d-5710 (data.europa.eu
+      dataset c_d612-d-5710; publisher: Comune di Firenze)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - omune-di-irenze
 slug: c-d612-d-5710-teaching-sta
+assigned_id: dea:data-product-c-d612-d-5710-teaching-sta-zewjd9
+admitted: '2026-11-14'

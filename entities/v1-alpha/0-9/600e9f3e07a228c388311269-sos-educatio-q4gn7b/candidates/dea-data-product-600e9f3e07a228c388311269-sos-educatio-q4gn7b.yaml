@@ -1,0 +1,38 @@
+id: dea:data-product-600e9f3e07a228c388311269-sos-educatio-q4gn7b
+type: DataProduct
+name: SOS Education Association
+description: Created in 2001, SOS Education presents itself as ‘an activist association
+  […] working independently to ensure that the school transmits to every child fundamental
+  knowledge and a taste for excellence’. It states that it is "fully transparent about
+  its funding" and "funded exclusively by the generosity of its members". At the end
+  of its audit and within the limits of its investigations and the information available,
+  the Court declares that the association’s expenditure for the financial years 2013
+  to 2018 was not in line with the objectives pursued by the public call for generosity.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/600e9f3e07a228c388311269 (data.europa.eu
+      dataset 600e9f3e07a228c388311269; publisher: Cour des comptes)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- our-des-comptes

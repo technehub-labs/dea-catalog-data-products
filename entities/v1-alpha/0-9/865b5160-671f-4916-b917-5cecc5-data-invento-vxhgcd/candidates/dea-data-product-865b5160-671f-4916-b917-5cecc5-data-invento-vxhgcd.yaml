@@ -1,0 +1,36 @@
+id: dea:data-product-865b5160-671f-4916-b917-5cecc5-data-invento-vxhgcd
+type: DataProduct
+name: Data inventory of the Ministry of Agriculture and Rural Development
+description: The dataset contains the data inventory of the Ministry of Agriculture
+  and Rural Development of the Slovak Republic and legal entities under its responsibility.
+  The data inventory was created and published on the basis of the fulfilment of task
+  B.18 of Slovak Government Resolution No 346 of 24 July 2017.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/865b5160-671f-4916-b917-5cecc5cc9a01
+      (data.europa.eu dataset 865b5160-671f-4916-b917-5cecc5cc9a01; publisher: Ministerstvo
+      pôdohospodárstva a rozvoja vidieka SR)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- inisterstvo-pdohospo

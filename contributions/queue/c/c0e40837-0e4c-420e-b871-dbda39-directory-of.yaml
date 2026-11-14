@@ -1,21 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c0e40837-0e4c-420e-b871-dbda396fef5e
-name: Directory of enterprises, institutions (institutions) and organizations of the Municipal Non-Profit
-  Enterprise "Dnipro Primary Health Care Center No.12" of the Dnipro City Council
-description: The set contains two resources. Organizations — directory of the enterprise Municipal non-profit
-  enterprise "Dnipro Center for Primary Health Care No.12" of the Dnipro City Council, which is a separate
-  legal entity. Posts — directory of officials of the Municipal Non-Profit Enterprise "Dnipro Primary
-  Health Care Center No.12" of the Dnipro City Council.
+name: Directory of enterprises, institutions (institutions) and organizations of the
+  Municipal Non-Profit Enterprise "Dnipro Primary Health Care Center No.12" of the
+  Dnipro City Council
+description: The set contains two resources. Organizations — directory of the enterprise
+  Municipal non-profit enterprise "Dnipro Center for Primary Health Care No.12" of
+  the Dnipro City Council, which is a separate legal entity. Posts — directory of
+  officials of the Municipal Non-Profit Enterprise "Dnipro Primary Health Care Center
+  No.12" of the Dnipro City Council.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c0e40837-0e4c-420e-b871-dbda396fef5e (data.europa.eu
-      dataset c0e40837-0e4c-420e-b871-dbda396fef5e; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c0e40837-0e4c-420e-b871-dbda396fef5e
+      (data.europa.eu dataset c0e40837-0e4c-420e-b871-dbda396fef5e; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: c0e40837-0e4c-420e-b871-dbda39-directory-of
+assigned_id: dea:data-product-c0e40837-0e4c-420e-b871-dbda39-directory-of-xjm2xw
+admitted: '2026-11-14'

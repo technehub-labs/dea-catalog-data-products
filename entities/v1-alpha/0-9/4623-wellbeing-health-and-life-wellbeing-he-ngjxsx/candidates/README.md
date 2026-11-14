@@ -1,0 +1,31 @@
+# Wellbeing; health and lifestyle, 2003-2012
+
+> This table contains information on the wellbeing of the Dutch population aged 18 years and older in terms of happiness and satisfaction with life. These subjects are broken down by various characteristics of health and lifestyle, that is experienced health, smoking, alcohol consumption, (over)weight and physical exercise. The data are also broken down by personal characteristics, which is gender, age and origin. The data are based on the Health Interview Survey (POLS, 2003-2009), the Voluntary Work and Social Cohesion module (V&S, 2010 old method), the Social Cohesion and Well-being survey (SocSam, 2010 new method, 2012) and the Social Statistics Database (SSB). Data on household income and living situation from the SSB were added to POLS data for the years 2003 up to and including 2009. From 2010 onwards data were supplemented with the SSB data from the previous year. Data available from 2003 till 2012. Status of the figures: The figures in this table are definite. Changes as of 16 January 2015: This table has been discontinued. Changes as of 16-12-2013: In 2010 the survey was redesigned. As a consequence, statistics from 2010 onwards are not entirely comparable to statistics from previous years. For 2010 there are statistics based on both the old as well as the new method. More information on the redesign can be found in paragraph 4.’ When will new figures be published? Not applicable.
+
+## Identity
+
+- **Record id**: `dea:data-product-4623-wellbeing-health-and-life-wellbeing-he-ngjxsx`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/4623-wellbeing-health-and-lifestyle-2003-2012 (data.europa.eu dataset 4623-wellbeing-health-and-lifestyle-2003-2012; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

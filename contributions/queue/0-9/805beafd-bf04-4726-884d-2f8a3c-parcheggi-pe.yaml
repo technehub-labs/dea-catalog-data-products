@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -9,11 +9,14 @@ evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/805beafd-bf04-4726-884d-2f8a3cce717a-gemeinde_emmen
-      (data.europa.eu dataset 805beafd-bf04-4726-884d-2f8a3cce717a-gemeinde_emmen; publisher: Gemeinde
-      Emmen)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 805beafd-bf04-4726-884d-2f8a3cce717a-gemeinde_emmen;
+      publisher: Gemeinde Emmen)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - emeinde-mmen
 slug: 805beafd-bf04-4726-884d-2f8a3c-parcheggi-pe
+assigned_id: dea:data-product-805beafd-bf04-4726-884d-2f8a3c-parcheggi-pe-y8cvgz
+admitted: '2026-11-14'

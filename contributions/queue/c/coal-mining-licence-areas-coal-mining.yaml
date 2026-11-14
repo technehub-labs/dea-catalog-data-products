@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu coal-mining-licence-areas
 name: Coal Mining Licence Areas
-description: 'Upon privatisation of the coal industry in 1994 the Coal Authority was set up to take over
-  a number of British Coal’s responsibilities; however these did not include the physical extraction of
-  coal. It is the statutory responsibility of the Coal Authority to licence and monitor the extraction
-  of coal by private operators. These Licence areas relate to any granted licence for the working of coal
-  since the creation of The Coal Authority in October 1994. Any activity which intersects, disturbs or
-  enters any of the Coal Authority’s coal interests requires our prior written authorisation. The following
-  activities require a Licence or Agreement from the Coal Authority: - the mining of coal - exploration
-  for coal or deep drilling through coal for other purposes (e.g. water abstraction) - underground coal
-  gasification - digging and carrying away of coal during non-coal mining related activities (incidental
+description: 'Upon privatisation of the coal industry in 1994 the Coal Authority was
+  set up to take over a number of British Coal’s responsibilities; however these did
+  not include the physical extraction of coal. It is the statutory responsibility
+  of the Coal Authority to licence and monitor the extraction of coal by private operators.
+  These Licence areas relate to any granted licence for the working of coal since
+  the creation of The Coal Authority in October 1994. Any activity which intersects,
+  disturbs or enters any of the Coal Authority’s coal interests requires our prior
+  written authorisation. The following activities require a Licence or Agreement from
+  the Coal Authority: - the mining of coal - exploration for coal or deep drilling
+  through coal for other purposes (e.g. water abstraction) - underground coal gasification
+  - digging and carrying away of coal during non-coal mining related activities (incidental
   coal) - exploration and exploitation of coal methane'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/coal-mining-licence-areas (data.europa.eu dataset
-      coal-mining-licence-areas; publisher: Scottish Government SpatialData.gov.scot)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/coal-mining-licence-areas (data.europa.eu
+      dataset coal-mining-licence-areas; publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - cottish-overnment-pa
 slug: coal-mining-licence-areas-coal-mining
+assigned_id: dea:data-product-coal-mining-licence-areas-coal-mining-zu366b
+admitted: '2026-11-14'

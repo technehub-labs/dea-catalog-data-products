@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2011-census-key-stats-quick-stats-for-camden-1st-analysis
 name: 2011 Census Key Stats & Quick Stats For Camden - 1st Analysis
-description: First analysis of 2011 Census Key Statistics and Quick Statistics data release for Camden.
+description: First analysis of 2011 Census Key Statistics and Quick Statistics data
+  release for Camden.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/2011-census-key-stats-quick-stats-for-camden-1st-analysis
-      (data.europa.eu dataset 2011-census-key-stats-quick-stats-for-camden-1st-analysis; publisher: London
-      Borough of Camden)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 2011-census-key-stats-quick-stats-for-camden-1st-analysis;
+      publisher: London Borough of Camden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ondon-orough-of-amde
 slug: 2011-census-key-stats-quick-st-2011-census
+assigned_id: dea:data-product-2011-census-key-stats-quick-st-2011-census-xf68m2
+admitted: '2026-11-14'

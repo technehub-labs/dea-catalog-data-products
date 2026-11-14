@@ -1,0 +1,31 @@
+# EU Tourism dashboard data - 2024 release
+
+> This dataset includes the values for the 34 indicators classified in 4 categories (green pillar, digital pillar, socio-economic pillar and basics descriptors) as published on the EU Tourism Dashboard at the end of 2024. Further details about the indicators description, unit of measures and source of data can be found in the EU Tourism dashboard: https://tourism-dashboard.ec.europa.eu RESOLUTION: National, regional, sub-regional. COMPLETENESS: The data are related the EU-27 countries plus IS, NO and CH. POLICY CONTEXT: See https://tourism-dashboard.ec.europa.eu/background-methodology?lng=en#section-2 METHODOLOGY: See https://tourism-dashboard.ec.europa.eu/background-methodology DATA SOURCES: See https://tourism-dashboard.ec.europa.eu/background-methodology?lng=en#section-5 LEVEL OF AGGREGATION: NUTS0/2/3.
+
+## Identity
+
+- **Record id**: `dea:data-product-9564824a-7f16-4efa-82fb-d4e176-eu-tourism-d-tv9jqp`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/9564824a-7f16-4efa-82fb-d4e176350026 (data.europa.eu dataset 9564824a-7f16-4efa-82fb-d4e176350026; publisher: Joint Research Centre)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

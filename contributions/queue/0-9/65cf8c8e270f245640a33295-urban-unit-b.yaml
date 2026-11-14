@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: https://www.insee.fr/fr/information/4802589
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/65cf8c8e270f245640a33295 (data.europa.eu dataset
-      65cf8c8e270f245640a33295; publisher: Mobility)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/65cf8c8e270f245640a33295 (data.europa.eu
+      dataset 65cf8c8e270f245640a33295; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obility
 slug: 65cf8c8e270f245640a33295-urban-unit-b
+assigned_id: dea:data-product-65cf8c8e270f245640a33295-urban-unit-b-gmewtt
+admitted: '2026-11-14'

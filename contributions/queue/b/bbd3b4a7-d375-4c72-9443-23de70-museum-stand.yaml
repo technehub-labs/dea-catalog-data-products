@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bbd3b4a7-d375-4c72-9443-23de7026deff
 name: Museum Standards Programme for Ireland
-description: The Heritage Council’s main commitment to collections care comes through its support of the
-  Museum Standards Programme for Ireland (MSPI). This important initiative, with participants from a wide
-  range of Irish collecting institutions, sets out to raise standards of care across Irish museums and
-  galleries. This programme sets out to improve all aspects of Ireland’s museum practice. This dataset
-  provides information on participants in this programme.
+description: The Heritage Council’s main commitment to collections care comes through
+  its support of the Museum Standards Programme for Ireland (MSPI). This important
+  initiative, with participants from a wide range of Irish collecting institutions,
+  sets out to raise standards of care across Irish museums and galleries. This programme
+  sets out to improve all aspects of Ireland’s museum practice. This dataset provides
+  information on participants in this programme.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bbd3b4a7-d375-4c72-9443-23de7026deff (data.europa.eu
-      dataset bbd3b4a7-d375-4c72-9443-23de7026deff; publisher: Heritage Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bbd3b4a7-d375-4c72-9443-23de7026deff
+      (data.europa.eu dataset bbd3b4a7-d375-4c72-9443-23de7026deff; publisher: Heritage
+      Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eritage-ouncil
 slug: bbd3b4a7-d375-4c72-9443-23de70-museum-stand
+assigned_id: dea:data-product-bbd3b4a7-d375-4c72-9443-23de70-museum-stand-j9ssnx
+admitted: '2026-11-14'

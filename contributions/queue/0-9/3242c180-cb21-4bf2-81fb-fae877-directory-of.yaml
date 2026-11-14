@@ -1,22 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3242c180-cb21-4bf2-81fb-fae8774eb2b7
-name: Directory of enterprises, institutions (institutions) and organizations, structural units and officials
-  of the Department of Architecture, Urban Development, Housing and Communal Services and Energy S
-description: The set contains three resources. Organizations — directory of subordinate enterprises, institutions
-  (institutions) and organizations, OrganizationalUnits — directory of structural subdivisions and Posts
-  — directory of officials of the Department of Architecture, Urban Planning, Housing and Communal Services
-  and Energy Saving of Ternopil Regional State Administration
+name: Directory of enterprises, institutions (institutions) and organizations, structural
+  units and officials of the Department of Architecture, Urban Development, Housing
+  and Communal Services and Energy S
+description: The set contains three resources. Organizations — directory of subordinate
+  enterprises, institutions (institutions) and organizations, OrganizationalUnits
+  — directory of structural subdivisions and Posts — directory of officials of the
+  Department of Architecture, Urban Planning, Housing and Communal Services and Energy
+  Saving of Ternopil Regional State Administration
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3242c180-cb21-4bf2-81fb-fae8774eb2b7 (data.europa.eu
-      dataset 3242c180-cb21-4bf2-81fb-fae8774eb2b7; publisher: Департамент архітектури, містобудування,
-      житлово-комунального господарства та енергозбереження Тернопільської обласної державної адміністрації)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3242c180-cb21-4bf2-81fb-fae8774eb2b7
+      (data.europa.eu dataset 3242c180-cb21-4bf2-81fb-fae8774eb2b7; publisher: Департамент
+      архітектури, містобудування, житлово-комунального господарства та енергозбереження
+      Тернопільської обласної державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 3242c180-cb21-4bf2-81fb-fae877-directory-of
+assigned_id: dea:data-product-3242c180-cb21-4bf2-81fb-fae877-directory-of-se3ncs
+admitted: '2026-11-14'

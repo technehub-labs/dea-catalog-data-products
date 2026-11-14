@@ -1,0 +1,40 @@
+id: dea:data-product-bbcb14b0-0f12-47ad-890e-113d6e-udp-progress-t6dbne
+type: DataProduct
+name: UDP - Progress of tourism recovery
+description: 'This descriptor measures the degree of fall and recovery of tourism
+  demand after the breakout of the COVID-19 pandemic. It is calculated as the proportion
+  of nights spent in a given year in relation to the equivalent period in 2019 (baseline).
+  A higher value is equivalent to a higher level of tourism demand recovery and may
+  be an indication of the resilience of the tourism destination. UNIT OF MEASURE:
+  %. RESOLUTION: NUTS0, NUTS2. COMPLETENESS: 100%. METHODOLOGY: It is calculated as
+  the proportion of nights spent in a given year (or part of a year) in relation to
+  the equivalent period in 2019 (baseline). DATA SOURCES: ESTAT (tour_occ_nin2).'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bbcb14b0-0f12-47ad-890e-113d6eef2086
+      (data.europa.eu dataset bbcb14b0-0f12-47ad-890e-113d6eef2086; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- oint-esearch-entre

@@ -1,0 +1,31 @@
+# Wind farms (HOLAS 3)
+
+> The dataset contains information on the location of individual turbines in place or planned location for offshore wind farms in the Baltic Sea area as reported by the Contracting Parties for the period 2016-2021. The data was made available by HELCOM Contracting Parties in response to a data call. The data was reported by Denmark, Finland and Germany. The activity was declared as not relevant in Estonia and Latvia. The use of HOLAS 2 data was requested by Sweden. Attribute specification and units with predefined values specified from the data call: Name: Name of the wind farm Status: Status of the wind farm (operational, under construction, application submitted, planned, approved, other) Company: Operation company name CCapacity: Current capacity of the whole wind farm in megawatts (MW) PCapacity: Planned capacity of the whole wind farm in megawatts (MW) CN_turbine: Current number of turbines in the whole park PN_turbine: Planned number of turbines for the whole park Start_year: Year when the construction of the turbine started End_year: Year when the construction of the turbine ended Foundation: Foundation type (monopile, gravity, tripod, tripile, jacket, floating, other) Scour_prot: Scour protection Trans_L: If transformer, the length of the transformer in meters Transf_W: If transformer, the width of the transformer in meters Sediment: Sediment type (mud, sand, hard substrate, mixed sand, other) Notes: Notes regarding the data country: Country that reported the data Status_original: Original status declared by the Contracting Parties
+
+## Identity
+
+- **Record id**: `dea:data-product-8b73c806-380d-4f02-8aa7-4a86b8-wind-farms-h-bpvnnh`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/8b73c806-380d-4f02-8aa7-4a86b8131a8e (data.europa.eu dataset 8b73c806-380d-4f02-8aa7-4a86b8131a8e; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

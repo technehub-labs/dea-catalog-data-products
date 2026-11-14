@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a661cc48-a269-4aa3-b3f4-3114a99c48ed
 name: Contributions to the authorized capital of LKP "Transport firm "Lvivspetskomuntrans""
-description: Plan for the use of budget funds in the form of contributions to the authorized capital of
-  a municipal enterprise. Each resource set — table for a particular year.
+description: Plan for the use of budget funds in the form of contributions to the
+  authorized capital of a municipal enterprise. Each resource set — table for a particular
+  year.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a661cc48-a269-4aa3-b3f4-3114a99c48ed (data.europa.eu
-      dataset a661cc48-a269-4aa3-b3f4-3114a99c48ed; publisher: Львівська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a661cc48-a269-4aa3-b3f4-3114a99c48ed
+      (data.europa.eu dataset a661cc48-a269-4aa3-b3f4-3114a99c48ed; publisher: Львівська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: a661cc48-a269-4aa3-b3f4-3114a9-contribution
+assigned_id: dea:data-product-a661cc48-a269-4aa3-b3f4-3114a9-contribution-788zz7
+admitted: '2026-11-14'

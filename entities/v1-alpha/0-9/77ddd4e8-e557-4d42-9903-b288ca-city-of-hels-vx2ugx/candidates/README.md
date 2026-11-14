@@ -1,0 +1,31 @@
+# City of Helsinki budget information
+
+> City of Helsinki's budget data from 2012. The data is information at the operating plan level. The data includes the city's operating income and expenses as well as depreciation. The organisational structure of the City of Helsinki changed significantly as of 1 June 2017, and the organisational structure of the central government changed as of 1 June 2018. Due to the change in the financial planning system, the budget data from 2016 onwards are in separate files. Data for 2016 are at agency level only. **The data model for 2012-2015 is as follows:** - Agency + name: Name and number of the Agency - Title + name: Name and number of the department of the Agency - Output unit + name: Name and number of the profit and loss unit - Account group + name: Name and number of the account group - General ledger account + name: Name and number of the ledger account - Performance budget: Performance budget approved by the Board (€) **From 2016 onwards, the data model is as follows:** By profit unit: - Profit and loss unit - Name of the profit and loss unit - General ledger account - Name of the ledger account - EUR - Year By budget line (as of 2024): - Profit and loss unit - Name of the profit and loss unit - General ledger account - Name of the ledger account - EUR By section: - Section - Name of the section - General ledger account - Name of the ledger account - EUR - Year **Information on profit and loss units and profit and loss accounts** Starting from 2023, the finances of the City of Helsinki will be examined in three parts: Helsinki total, Municipality-Helsinki and Social Services, Health Care and Rescue Services (sotepe). - until 2022: [income units](https://www.hel.fi/hel2/datacentre/data/economy/income units_all_new_old_20180507.xlsx) and [income accounts](https://www.hel.fi/hel2/datacentre/data/economy/outcome accounts.xlsx) - in 2023: [income units](https://www.hel.fi/hel2/datacentre/data/economy/outcome units_all_new_old_20230308.xlsx) and [income accounts](https://
+
+## Identity
+
+- **Record id**: `dea:data-product-77ddd4e8-e557-4d42-9903-b288ca-city-of-hels-vx2ugx`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/77ddd4e8-e557-4d42-9903-b288ca753488~~1 (data.europa.eu dataset 77ddd4e8-e557-4d42-9903-b288ca753488~~1; publisher: Helsingin kaupunginkanslia)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

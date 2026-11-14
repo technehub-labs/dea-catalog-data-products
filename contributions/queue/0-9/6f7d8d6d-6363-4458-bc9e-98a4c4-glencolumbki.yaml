@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6f7d8d6d-6363-4458-bc9e-98a4c4212b54
 name: Glencolumbkille (Cashel) Climate Data
-description: Daily and monthly climatalogical records for our station at Glencolumbkille (Cashel) in Co.
-  Donegal. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Glencolumbkille
+  (Cashel) in Co. Donegal. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6f7d8d6d-6363-4458-bc9e-98a4c4212b54 (data.europa.eu
-      dataset 6f7d8d6d-6363-4458-bc9e-98a4c4212b54; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6f7d8d6d-6363-4458-bc9e-98a4c4212b54
+      (data.europa.eu dataset 6f7d8d6d-6363-4458-bc9e-98a4c4212b54; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 6f7d8d6d-6363-4458-bc9e-98a4c4-glencolumbki
+assigned_id: dea:data-product-6f7d8d6d-6363-4458-bc9e-98a4c4-glencolumbki-ekvs6g
+admitted: '2026-11-14'

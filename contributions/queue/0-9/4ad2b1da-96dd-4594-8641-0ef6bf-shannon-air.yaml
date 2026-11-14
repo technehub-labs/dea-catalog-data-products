@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4ad2b1da-96dd-4594-8641-0ef6bf0d2aac
 name: Shannon Air Zones
-description: Dataset owned and provided by Clare County Council September 2010 as part of County Clare
-  Development Plan GIS.
+description: Dataset owned and provided by Clare County Council September 2010 as
+  part of County Clare Development Plan GIS.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4ad2b1da-96dd-4594-8641-0ef6bf0d2aac (data.europa.eu
-      dataset 4ad2b1da-96dd-4594-8641-0ef6bf0d2aac; publisher: Heritage Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4ad2b1da-96dd-4594-8641-0ef6bf0d2aac
+      (data.europa.eu dataset 4ad2b1da-96dd-4594-8641-0ef6bf0d2aac; publisher: Heritage
+      Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eritage-ouncil
 slug: 4ad2b1da-96dd-4594-8641-0ef6bf-shannon-air
+assigned_id: dea:data-product-4ad2b1da-96dd-4594-8641-0ef6bf-shannon-air-8hwqg6
+admitted: '2026-11-14'

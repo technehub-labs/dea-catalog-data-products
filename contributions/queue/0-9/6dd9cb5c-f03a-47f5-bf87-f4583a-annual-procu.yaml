@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6dd9cb5c-f03a-47f5-bf87-f4583a2a5490
-name: Annual Procurement Plans of the Department of Housing and Communal Services and Energy Efficiency
-  of Sumy Regional State Administration
-description: Annual procurement plans, annexes to the annual plans of the Department of Housing and Communal
-  Services and Energy Efficiency of Sumy Regional State Administration
+name: Annual Procurement Plans of the Department of Housing and Communal Services
+  and Energy Efficiency of Sumy Regional State Administration
+description: Annual procurement plans, annexes to the annual plans of the Department
+  of Housing and Communal Services and Energy Efficiency of Sumy Regional State Administration
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6dd9cb5c-f03a-47f5-bf87-f4583a2a5490 (data.europa.eu
-      dataset 6dd9cb5c-f03a-47f5-bf87-f4583a2a5490; publisher: Департамент житлово-комунального господарства,
-      енергоефективності та паливно-енергетичного комплексу Сумської обласної державної адміністрації)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6dd9cb5c-f03a-47f5-bf87-f4583a2a5490
+      (data.europa.eu dataset 6dd9cb5c-f03a-47f5-bf87-f4583a2a5490; publisher: Департамент
+      житлово-комунального господарства, енергоефективності та паливно-енергетичного
+      комплексу Сумської обласної державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 6dd9cb5c-f03a-47f5-bf87-f4583a-annual-procu
+assigned_id: dea:data-product-6dd9cb5c-f03a-47f5-bf87-f4583a-annual-procu-pct595
+admitted: '2026-11-14'

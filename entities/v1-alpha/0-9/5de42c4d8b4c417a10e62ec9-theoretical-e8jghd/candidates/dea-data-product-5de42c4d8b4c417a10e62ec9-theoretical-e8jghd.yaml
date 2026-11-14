@@ -1,0 +1,36 @@
+id: dea:data-product-5de42c4d8b4c417a10e62ec9-theoretical-e8jghd
+type: DataProduct
+name: Theoretical timetables of the Transport network in Commun Lyonnais
+description: 'The hourly data correspond to the total supply of the TCL network: timetables
+  for all commercial lines (for a period of 60 days) and associated geographical information
+  (network topography). The data on this page is attached to the Mobility license.
+  To recover them, it is necessary to create an account on the data.grandlyon.com
+  platform: [https://data.grandlyon.com/portal/en/connection](https://data.grandlyon.com/portal/en/connection).'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5de42c4d8b4c417a10e62ec9 (data.europa.eu
+      dataset 5de42c4d8b4c417a10e62ec9; publisher: SYTRAL Mobilités)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- obilits

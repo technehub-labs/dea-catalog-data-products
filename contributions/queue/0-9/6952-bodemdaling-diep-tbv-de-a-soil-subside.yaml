@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6952-bodemdaling-diep-tbv-de-atlas-leefomgeving
 name: Soil subsidence deep, for the Atlas Environment
-description: The map shows the subsidence in the Netherlands in the deep soil layers. This subsidence
-  is mainly caused by gas extraction.
+description: The map shows the subsidence in the Netherlands in the deep soil layers.
+  This subsidence is mainly caused by gas extraction.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6952-bodemdaling-diep-tbv-de-atlas-leefomgeving (data.europa.eu
-      dataset 6952-bodemdaling-diep-tbv-de-atlas-leefomgeving; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6952-bodemdaling-diep-tbv-de-atlas-leefomgeving
+      (data.europa.eu dataset 6952-bodemdaling-diep-tbv-de-atlas-leefomgeving; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 6952-bodemdaling-diep-tbv-de-a-soil-subside
+assigned_id: dea:data-product-6952-bodemdaling-diep-tbv-de-a-soil-subside-spwf82
+admitted: '2026-11-14'

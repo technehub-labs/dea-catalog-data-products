@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2961-landbouw-investeringen-en-voorraden-nr-1995-2016
 name: Agriculture; Investments and Stocks, No, 1995-2016
-description: 'This table contains data from the agricultural accounts. Figures refer to gross investment
-  and changes in inventories. Data available from 1995 to 2016 Status of figures: The years 1995-2015
-  are final. The most recent reporting year 2016 has the status provisional. As this table has been discontinued,
-  the data will no longer be made definitive. Changes as of 12 October 2018 None, this table has been
-  discontinued. The Central Bureau of Statistics recently carried out a revision of the national accounts.
-  New statistical sources and estimation methods are used. This table of data for revision has been replaced
-  by table Agriculture; investments and stocks, national accounts. For additional information see Section
-  3. When will there be new figures? No longer applicable.'
+description: 'This table contains data from the agricultural accounts. Figures refer
+  to gross investment and changes in inventories. Data available from 1995 to 2016
+  Status of figures: The years 1995-2015 are final. The most recent reporting year
+  2016 has the status provisional. As this table has been discontinued, the data will
+  no longer be made definitive. Changes as of 12 October 2018 None, this table has
+  been discontinued. The Central Bureau of Statistics recently carried out a revision
+  of the national accounts. New statistical sources and estimation methods are used.
+  This table of data for revision has been replaced by table Agriculture; investments
+  and stocks, national accounts. For additional information see Section 3. When will
+  there be new figures? No longer applicable.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/2961-landbouw-investeringen-en-voorraden-nr-1995-2016
-      (data.europa.eu dataset 2961-landbouw-investeringen-en-voorraden-nr-1995-2016; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 2961-landbouw-investeringen-en-voorraden-nr-1995-2016;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 2961-landbouw-investeringen-en-agriculture
+assigned_id: dea:data-product-2961-landbouw-investeringen-en-agriculture-nfgctn
+admitted: '2026-11-14'

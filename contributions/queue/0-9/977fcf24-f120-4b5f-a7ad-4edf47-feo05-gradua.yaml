@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Graduates continuing in Further Education
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/977fcf24-f120-4b5f-a7ad-4edf471179a4~~1 (data.europa.eu
-      dataset 977fcf24-f120-4b5f-a7ad-4edf471179a4~~1; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/977fcf24-f120-4b5f-a7ad-4edf471179a4~~1
+      (data.europa.eu dataset 977fcf24-f120-4b5f-a7ad-4edf471179a4~~1; publisher:
+      Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 977fcf24-f120-4b5f-a7ad-4edf47-feo05-gradua
+assigned_id: dea:data-product-977fcf24-f120-4b5f-a7ad-4edf47-feo05-gradua-ttb879
+admitted: '2026-11-14'

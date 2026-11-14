@@ -1,0 +1,31 @@
+# European Environment Agency - EEA
+
+> The European Environment Agency (EEA) is an agency of the European Union (EU) tasked with providing independent information on the environment. Established in 1990 and headquartered in Copenhagen, Denmark, the EEA serves as a key source of environmental data, assessments, and reports for policymakers and the public across Europe. With a focus on improving environmental decision-making and promoting sustainable development, the agency plays a vital role in monitoring, analyzing, and communicating environmental trends and challenges. At its core, the EEA aims to support the development, implementation, and evaluation of EU environmental policies. It achieves this mission through a range of activities, including data collection, analysis, and reporting. The agency collaborates with national environmental agencies in EU member states, as well as other international organizations, to gather and harmonize environmental data from across Europe. This wealth of information is then used to produce high-quality assessments and reports on various environmental topics. One of the primary functions of the EEA is to provide regular assessments of the state of Europe's environment. These assessments cover a wide range of issues, including air and water quality, biodiversity, climate change, and resource use. By compiling and analyzing data from different sources, the agency produces comprehensive reports that highlight key environmental trends, identify emerging challenges, and assess progress towards environmental objectives. These assessments are invaluable tools for policymakers, helping them to make informed decisions and prioritize actions to protect and improve the environment. In addition to assessing the state of the environment, the EEA also plays a crucial role in monitoring the effectiveness of environmental policies and measures. The agency tracks the implementation of EU environmental legislation and policies, assessing their impact on the ground. By evaluating the suc
+
+## Identity
+
+- **Record id**: `dea:data-product-543a1fed-8bd7-4307-977b-160cef-european-env-8gqswx`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/543a1fed-8bd7-4307-977b-160cefb5533d (data.europa.eu dataset 543a1fed-8bd7-4307-977b-160cefb5533d; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

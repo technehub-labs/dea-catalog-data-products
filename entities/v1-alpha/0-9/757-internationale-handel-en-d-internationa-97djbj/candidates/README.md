@@ -1,0 +1,31 @@
+# International trade and transit; goods chapters, 2007-2017
+
+> This table provides insight into the international flows of goods from, to and through the Netherlands. The table shows, for import, export, re-export and transit flows, the value and gross weight of goods transported per NSTR goods chapter and continent of origin or destination. This publication was co-financed by the Ministry of Infrastructure and Water Management. Data available from 2007 to 2017 Status of figures: The data in this table are provisional. As this table has been discontinued, the data will no longer be made definitive. Changes as of 21 February 2020 None, this table has been discontinued. When will there be new figures? No longer applicable.
+
+## Identity
+
+- **Record id**: `dea:data-product-757-internationale-handel-en-d-internationa-97djbj`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/757-internationale-handel-en-doorvoer-goederenhoofdstukken-2007-2017 (data.europa.eu dataset 757-internationale-handel-en-doorvoer-goederenhoofdstukken-2007-2017; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

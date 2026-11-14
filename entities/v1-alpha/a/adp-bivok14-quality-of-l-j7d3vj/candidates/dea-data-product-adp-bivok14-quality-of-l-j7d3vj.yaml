@@ -1,0 +1,48 @@
+id: dea:data-product-adp-bivok14-quality-of-l-j7d3vj
+type: DataProduct
+name: Quality of living environment in selected Slovenian cities, 2014
+description: 'The main purpose of the research was to measure the quality of living
+  environment in selected urban areas of selected Slovenian cities. at the beginning
+  of the second decade of the 21st century in a subjective way, that is, from the
+  point of view of valuation by the inhabitants there. The quality of the living environment
+  has been assessed in a total of 15 neighbourhoods of different morphological types
+  in five Slovenian cities: Ljubljana, Maribor, Koper, Jesenice and Grosuplje, illustrating
+  five different types of cities in terms of size, socio-economic characteristics,
+  position in the urban system and natural-geographical characteristics. The study
+  was conducted in the old town. centers and selected areas of mostly single-family
+  houses, older block neighborhoods and modern multi-family houses. On the way to
+  the realization of the purpose, we set out the following Objectives: definition
+  of the living environment, its spatial levels and main contents, assessment of the
+  quality of individual contents of the living environment, assessment of the quality
+  of the living environment as overall, disclosure of factors in the assessment of
+  the quality of the living environment, identification of potential migratory mobility,
+  identification of the living preferences of the population and evaluation of the
+  importance of living environment as one of the contents of the quality of life.
+  The author conducted the analysis in selected neighborhoods.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/adp-bivok14 (data.europa.eu dataset
+      adp-bivok14; publisher: UNIVERZA V LJUBLJANI, FAKULTETA ZA DRUŽBENE VEDE)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 914ec391-1555-46d0-b3dc-d6acfde72338
 name: SVK International Mobility INCOMING ay 2023-2024
-description: This dataset contains all the information needed about the incoming international students
-  who are enrolled in the exchange program at Šiauliai State University of Applied Sciences during the
-  2023-2024 academic year. The data includes information about student demographics, their academic backgrounds,
-  how long they stayed, and which departments hosted them at the university.
+description: This dataset contains all the information needed about the incoming international
+  students who are enrolled in the exchange program at Šiauliai State University of
+  Applied Sciences during the 2023-2024 academic year. The data includes information
+  about student demographics, their academic backgrounds, how long they stayed, and
+  which departments hosted them at the university.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/914ec391-1555-46d0-b3dc-d6acfde72338 (data.europa.eu
-      dataset 914ec391-1555-46d0-b3dc-d6acfde72338; publisher: Šiauliai State University of Applied Sciences)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/914ec391-1555-46d0-b3dc-d6acfde72338
+      (data.europa.eu dataset 914ec391-1555-46d0-b3dc-d6acfde72338; publisher: Šiauliai
+      State University of Applied Sciences)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - iauliai-tate-niversi
 slug: 914ec391-1555-46d0-b3dc-d6acfd-svk-internat
+assigned_id: dea:data-product-914ec391-1555-46d0-b3dc-d6acfd-svk-internat-aqupem
+admitted: '2026-11-14'

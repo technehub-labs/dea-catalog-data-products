@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 67bc39abbbf682847751fd88
 name: Accounting, financial and employment characteristics of enterprises in 2022
-description: The publication "Main characteristics at group level according to the category of company
-  in 2022" summarises the key indicators (number of groups, turnover, workforce) of French companies,
-  broken down by category.
+description: The publication "Main characteristics at group level according to the
+  category of company in 2022" summarises the key indicators (number of groups, turnover,
+  workforce) of French companies, broken down by category.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/67bc39abbbf682847751fd88 (data.europa.eu dataset
-      67bc39abbbf682847751fd88; publisher: Mobility)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/67bc39abbbf682847751fd88 (data.europa.eu
+      dataset 67bc39abbbf682847751fd88; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obility
 slug: 67bc39abbbf682847751fd88-accounting-f
+assigned_id: dea:data-product-67bc39abbbf682847751fd88-accounting-f-f2cjrq
+admitted: '2026-11-14'

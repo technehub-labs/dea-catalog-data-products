@@ -1,19 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36851715-bundesamt-fur-statistik-bfs
-name: 'City Statistics: Ausgewählte Variablen nach Städten und Agglomerationen 2020 (in German)'
-description: Dieses Dataset präsentiert jährliche Daten für eine Auswahl von Variablen in den City Statistics
-  Städten und Agglomerationen, gemäss der Version 2020 der Agglomerationen, ab 2010.
+name: 'City Statistics: Ausgewählte Variablen nach Städten und Agglomerationen 2020
+  (in German)'
+description: Dieses Dataset präsentiert jährliche Daten für eine Auswahl von Variablen
+  in den City Statistics Städten und Agglomerationen, gemäss der Version 2020 der
+  Agglomerationen, ab 2010.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36851715-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36851715-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36851715-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36851715-bundesamt-fur-statistik-bfs; publisher: Office
+      fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffice-fdral-de-la-st
 slug: 36851715-bundesamt-fur-statist-city-statist
+assigned_id: dea:data-product-36851715-bundesamt-fur-statist-city-statist-x3keaf
+admitted: '2026-11-14'

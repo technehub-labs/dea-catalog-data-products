@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 050d6f07-feff-4e93-849a-5c9b09ef0263
 name: No. of Children in Care Aged 6-15 in Full Time Education 2016
-description: Performance metrics for by year No. of Children in Care Aged 6-15 in Full Time Education
+description: Performance metrics for by year No. of Children in Care Aged 6-15 in
+  Full Time Education
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/050d6f07-feff-4e93-849a-5c9b09ef0263 (data.europa.eu
-      dataset 050d6f07-feff-4e93-849a-5c9b09ef0263; publisher: Tusla)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/050d6f07-feff-4e93-849a-5c9b09ef0263
+      (data.europa.eu dataset 050d6f07-feff-4e93-849a-5c9b09ef0263; publisher: Tusla)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - usla
 slug: 050d6f07-feff-4e93-849a-5c9b09-no-of-childr
+assigned_id: dea:data-product-050d6f07-feff-4e93-849a-5c9b09-no-of-childr-385nfx
+admitted: '2026-11-14'

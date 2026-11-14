@@ -1,0 +1,40 @@
+id: dea:data-product-474b11ad-9948-4a03-8da8-73bdfc-bus-transpor-65h393
+type: DataProduct
+name: Bus transport Konstanz
+description: '<p>This dataset contains data on the Konstanz bus transport network,
+  the mobility offer of Stadtwerke Konstanz. Further information and news on bus traffic
+  can be found <a href="https://www.stadtwerke-konstanz.de/tag/bus/">here</a> (Source:
+  Stadtwerke Konstanz GmbH).</p> <p>Timetable data by districts in Baden-Württemberg
+  are available <a href="https://www.nvbw.de/open-data/timetable data/timetable data-to-landkreisen">here</a>,
+  also for the district of Konstanz.</p> <h3 id="data source-">data source:</h3> <p><a
+  href="https://offenedaten-konstanz.de/dataset/busverkehr">Open data Konstanz</a>
+  under CC-BY 4.0 </p>'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/474b11ad-9948-4a03-8da8-73bdfc9fdbdb
+      (data.europa.eu dataset 474b11ad-9948-4a03-8da8-73bdfc9fdbdb; publisher: Stadtwerke
+      Konstanz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- tadtwerke-onstanz

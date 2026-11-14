@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4e03a8e4-3b4e-4618-85e7-a008a61d8b16
 name: E-Mobility charging stations in Berlin
-description: E-Mobility charging stations in Berlin — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Senatsverwaltung für Wirtschaft, Energie und Betriebe.
+description: E-Mobility charging stations in Berlin — a published dataset in the EU
+  Open Data Portal (data.europa.eu), maintained by Senatsverwaltung für Wirtschaft,
+  Energie und Betriebe.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4e03a8e4-3b4e-4618-85e7-a008a61d8b16 (data.europa.eu
-      dataset 4e03a8e4-3b4e-4618-85e7-a008a61d8b16; publisher: Senatsverwaltung für Wirtschaft, Energie
-      und Betriebe)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4e03a8e4-3b4e-4618-85e7-a008a61d8b16
+      (data.europa.eu dataset 4e03a8e4-3b4e-4618-85e7-a008a61d8b16; publisher: Senatsverwaltung
+      für Wirtschaft, Energie und Betriebe)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enatsverwaltung-fr-i
 slug: 4e03a8e4-3b4e-4618-85e7-a008a6-e-mobility-c
+assigned_id: dea:data-product-4e03a8e4-3b4e-4618-85e7-a008a6-e-mobility-c-6kh473
+admitted: '2026-11-14'

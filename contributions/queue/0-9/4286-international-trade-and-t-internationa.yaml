@@ -1,29 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4286-international-trade-and-transit-trade-value-weight-goods-transport-mode
 name: International trade and transit trade; value, weight, goods, transport mode
-description: 'This table shows the international commodity flows from, to and through the Netherlands.
-  For imports, exports, re-exports, transit trade and warehouse traffic, the table represents the value
-  and gross weight of goods broken down by commodity group, transport mode, cargo type (containerized
-  or non-containerized goods), country group of origin or destination and country group of loading or
-  unloading. This publication is co-financed by the Ministry of Infrastructure and Water Management. Data
-  available from: 2007 Status of the figures: The figures in this table are provisional. Changes as of
-  February 9, 2026: Added are the provisional figures for 2024 and the figures for 2022 and 2023 have
-  been revised. When will new figures be published? Generally, new, provisional data will become available
-  approximately one year after the end of the reporting year. Figures on international commodity flows
-  are subject to adjustment when new or updated sources become available. As a result, the status of the
-  figures will be provisional for a longer period of time.'
+description: 'This table shows the international commodity flows from, to and through
+  the Netherlands. For imports, exports, re-exports, transit trade and warehouse traffic,
+  the table represents the value and gross weight of goods broken down by commodity
+  group, transport mode, cargo type (containerized or non-containerized goods), country
+  group of origin or destination and country group of loading or unloading. This publication
+  is co-financed by the Ministry of Infrastructure and Water Management. Data available
+  from: 2007 Status of the figures: The figures in this table are provisional. Changes
+  as of February 9, 2026: Added are the provisional figures for 2024 and the figures
+  for 2022 and 2023 have been revised. When will new figures be published? Generally,
+  new, provisional data will become available approximately one year after the end
+  of the reporting year. Figures on international commodity flows are subject to adjustment
+  when new or updated sources become available. As a result, the status of the figures
+  will be provisional for a longer period of time.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/4286-international-trade-and-transit-trade-value-weight-goods-transport-mode
       (data.europa.eu dataset 4286-international-trade-and-transit-trade-value-weight-goods-transport-mode;
       publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4286-international-trade-and-t-internationa
+assigned_id: dea:data-product-4286-international-trade-and-t-internationa-mvk3ny
+admitted: '2026-11-14'

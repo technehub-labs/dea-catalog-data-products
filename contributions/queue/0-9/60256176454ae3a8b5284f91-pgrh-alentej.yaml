@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60256176454ae3a8b5284f91
-name: PGRH Alentejo - RH6 - Part 2 - Part 3B - Water needs by municipality of RH6 - Agriculture
-description: ALENTEJO HYDROGRAPHIC REGION MANAGEMENT PLAN – RH6 – Volume I – Report Part 2 – Characterisation
-  and Diagnosis Tomo 3 – Socio-economic characterisation, spatial planning and water uses – Tomo 3B –
-  Water needs per municipality of RH6 – Agriculture
+name: PGRH Alentejo - RH6 - Part 2 - Part 3B - Water needs by municipality of RH6
+  - Agriculture
+description: ALENTEJO HYDROGRAPHIC REGION MANAGEMENT PLAN – RH6 – Volume I – Report
+  Part 2 – Characterisation and Diagnosis Tomo 3 – Socio-economic characterisation,
+  spatial planning and water uses – Tomo 3B – Water needs per municipality of RH6
+  – Agriculture
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60256176454ae3a8b5284f91 (data.europa.eu dataset
-      60256176454ae3a8b5284f91; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60256176454ae3a8b5284f91 (data.europa.eu
+      dataset 60256176454ae3a8b5284f91; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60256176454ae3a8b5284f91-pgrh-alentej
+assigned_id: dea:data-product-60256176454ae3a8b5284f91-pgrh-alentej-88neap
+admitted: '2026-11-14'

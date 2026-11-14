@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 785-landbouw-investeringen-en-voorraden-nationale-rekeningen
 name: Agriculture; Investments and Stocks, No, 1995-2022
-description: 'This table contains data from the agricultural accounts. Figures refer to gross investment
-  and changes in inventories. Data available from 1995 to 2022. Status of figures: The years 1995-2021
-  are final. The status is provisional in the most recent reporting year 2021. As this table has been
-  discontinued, the data will no longer be made definitive. Changes as of 29 November 2024: None, this
-  table has been discontinued. The Central Bureau of Statistics recently revised the national accounts.
-  New sources, methods and concepts are implemented in the national accounts, so that the picture of the
-  Dutch economy is again optimally aligned with all underlying statistics, sources and international guidelines
-  for compiling the national accounts. For more information see Section 3. When will there be new figures?
-  No longer applicable.'
+description: 'This table contains data from the agricultural accounts. Figures refer
+  to gross investment and changes in inventories. Data available from 1995 to 2022.
+  Status of figures: The years 1995-2021 are final. The status is provisional in the
+  most recent reporting year 2021. As this table has been discontinued, the data will
+  no longer be made definitive. Changes as of 29 November 2024: None, this table has
+  been discontinued. The Central Bureau of Statistics recently revised the national
+  accounts. New sources, methods and concepts are implemented in the national accounts,
+  so that the picture of the Dutch economy is again optimally aligned with all underlying
+  statistics, sources and international guidelines for compiling the national accounts.
+  For more information see Section 3. When will there be new figures? No longer applicable.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/785-landbouw-investeringen-en-voorraden-nationale-rekeningen
-      (data.europa.eu dataset 785-landbouw-investeringen-en-voorraden-nationale-rekeningen; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 785-landbouw-investeringen-en-voorraden-nationale-rekeningen;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 785-landbouw-investeringen-en-agriculture
+assigned_id: dea:data-product-785-landbouw-investeringen-en-agriculture-y6t4en
+admitted: '2026-11-14'

@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 389a94f7-fc39-facf-594a-8492ceebc7a5
-name: Regional Planning Region Trier 2004 - Priority Areas Wind Energy Region Trier 2004
-description: Regional Planning Trier Region 2004 Wind Energy Subplan:Priority Areas Wind Energy Region
-  Trier Plan Stand 2004
+name: Regional Planning Region Trier 2004 - Priority Areas Wind Energy Region Trier
+  2004
+description: Regional Planning Trier Region 2004 Wind Energy Subplan:Priority Areas
+  Wind Energy Region Trier Plan Stand 2004
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/389a94f7-fc39-facf-594a-8492ceebc7a5 (data.europa.eu
-      dataset 389a94f7-fc39-facf-594a-8492ceebc7a5; publisher: Struktur- und Genehmigungsdirektion Nord)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/389a94f7-fc39-facf-594a-8492ceebc7a5
+      (data.europa.eu dataset 389a94f7-fc39-facf-594a-8492ceebc7a5; publisher: Struktur-
+      und Genehmigungsdirektion Nord)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - truktur-und-enehmigu
 slug: 389a94f7-fc39-facf-594a-8492ce-regional-pla
+assigned_id: dea:data-product-389a94f7-fc39-facf-594a-8492ce-regional-pla-qbdyc6
+admitted: '2026-11-14'

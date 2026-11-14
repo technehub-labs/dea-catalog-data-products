@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu abf61d97-6f86-44aa-bb80-960878cfbbac
 name: Real-time location of public transport in Dubna
-description: transport, public transport, passengers, trekking, bus transportation, carriers, route, route
-  transportation
+description: transport, public transport, passengers, trekking, bus transportation,
+  carriers, route, route transportation
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/abf61d97-6f86-44aa-bb80-960878cfbbac (data.europa.eu
-      dataset abf61d97-6f86-44aa-bb80-960878cfbbac; publisher: Дубенська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/abf61d97-6f86-44aa-bb80-960878cfbbac
+      (data.europa.eu dataset abf61d97-6f86-44aa-bb80-960878cfbbac; publisher: Дубенська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: abf61d97-6f86-44aa-bb80-960878-real-time-lo
+assigned_id: dea:data-product-abf61d97-6f86-44aa-bb80-960878-real-time-lo-fx2aq4
+admitted: '2026-11-14'

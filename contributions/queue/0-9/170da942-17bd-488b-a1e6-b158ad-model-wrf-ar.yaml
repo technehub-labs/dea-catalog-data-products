@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 170da942-17bd-488b-a1e6-b158add58016
-name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) - (2025-09-15 hours 00
-  UTC).
-description: Available Convective Potential Energy (CAPE) (J/Kg). Run 2025-09-15 00 UTC - Valid from 00
-  UTC 2025-09-15 to 00 UTC 2025-09-18. Weather Research and Forecasting model (WRF), ARW core (version
-  3.2) with 3km spatial resolution, 60-hour time resolution, 1-hour interval.
+name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) -
+  (2025-09-15 hours 00 UTC).
+description: Available Convective Potential Energy (CAPE) (J/Kg). Run 2025-09-15 00
+  UTC - Valid from 00 UTC 2025-09-15 to 00 UTC 2025-09-18. Weather Research and Forecasting
+  model (WRF), ARW core (version 3.2) with 3km spatial resolution, 60-hour time resolution,
+  1-hour interval.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/170da942-17bd-488b-a1e6-b158add58016 (data.europa.eu
-      dataset 170da942-17bd-488b-a1e6-b158add58016; publisher: Lamma Toscana)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/170da942-17bd-488b-a1e6-b158add58016
+      (data.europa.eu dataset 170da942-17bd-488b-a1e6-b158add58016; publisher: Lamma
+      Toscana)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - amma-oscana
 slug: 170da942-17bd-488b-a1e6-b158ad-model-wrf-ar
+assigned_id: dea:data-product-170da942-17bd-488b-a1e6-b158ad-model-wrf-ar-4gj2br
+admitted: '2026-11-14'

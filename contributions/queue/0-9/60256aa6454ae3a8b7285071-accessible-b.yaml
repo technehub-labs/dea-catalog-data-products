@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60256aa6454ae3a8b7285071
 name: Accessible Beach / Healthy Beach Program 2011 in the Alentejo region
-description: The beach project accessible/beach for all was born from an initiative of the National Coordinating
-  Commission for the European Year of People with Disabilities and aims not only to encourage the application
-  of Decree-Law No. º 163/06 of 8 August on Portuguese beaches, but above all to create the necessary
-  conditions so that citizens with limited mobility can access the beach sands and, where possible, also
+description: The beach project accessible/beach for all was born from an initiative
+  of the National Coordinating Commission for the European Year of People with Disabilities
+  and aims not only to encourage the application of Decree-Law No. º 163/06 of 8 August
+  on Portuguese beaches, but above all to create the necessary conditions so that
+  citizens with limited mobility can access the beach sands and, where possible, also
   water, using specific equipment.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60256aa6454ae3a8b7285071 (data.europa.eu dataset
-      60256aa6454ae3a8b7285071; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60256aa6454ae3a8b7285071 (data.europa.eu
+      dataset 60256aa6454ae3a8b7285071; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60256aa6454ae3a8b7285071-accessible-b
+assigned_id: dea:data-product-60256aa6454ae3a8b7285071-accessible-b-38mak5
+admitted: '2026-11-14'

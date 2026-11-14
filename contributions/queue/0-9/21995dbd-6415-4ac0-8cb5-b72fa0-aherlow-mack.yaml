@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 21995dbd-6415-4ac0-8cb5-b72fa00ed88d
 name: Aherlow (Mackenagh) Climate Data
-description: Daily and monthly climatalogical records for our station at Aherlow (Mackenagh) in Co. Tipperary.
-  This station is now closed.
+description: Daily and monthly climatalogical records for our station at Aherlow (Mackenagh)
+  in Co. Tipperary. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/21995dbd-6415-4ac0-8cb5-b72fa00ed88d (data.europa.eu
-      dataset 21995dbd-6415-4ac0-8cb5-b72fa00ed88d; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/21995dbd-6415-4ac0-8cb5-b72fa00ed88d
+      (data.europa.eu dataset 21995dbd-6415-4ac0-8cb5-b72fa00ed88d; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 21995dbd-6415-4ac0-8cb5-b72fa0-aherlow-mack
+assigned_id: dea:data-product-21995dbd-6415-4ac0-8cb5-b72fa0-aherlow-mack-62tk64
+admitted: '2026-11-14'

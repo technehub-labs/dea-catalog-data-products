@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c5b71f9c-bca3-4929-bdeb-c211dc3dd36f
 name: WMS _Statistics (City of Osnabrück)
-description: 'This service provides the statistical data of the city of Osnabrück: Building block pages
-  Building blocks Statistical districts neighborhoods City limits House numbers Street names'
+description: 'This service provides the statistical data of the city of Osnabrück:
+  Building block pages Building blocks Statistical districts neighborhoods City limits
+  House numbers Street names'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c5b71f9c-bca3-4929-bdeb-c211dc3dd36f (data.europa.eu
-      dataset c5b71f9c-bca3-4929-bdeb-c211dc3dd36f; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c5b71f9c-bca3-4929-bdeb-c211dc3dd36f
+      (data.europa.eu dataset c5b71f9c-bca3-4929-bdeb-c211dc3dd36f; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: c5b71f9c-bca3-4929-bdeb-c211dc-wms-statisti
+assigned_id: dea:data-product-c5b71f9c-bca3-4929-bdeb-c211dc-wms-statisti-59n9d5
+admitted: '2026-11-14'

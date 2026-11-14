@@ -1,0 +1,31 @@
+# Maritime Collections
+
+> The aim of this survey was to obtain a general overview of the maritime-related collections in Ireland, to ascertain the location, ownership, condition, overall theme, and nature of the contents of each collection. It is neither an inventory nor a full evaluation of the collections, and is in no way intended to criticize either the collections or their custodians.
+
+## Identity
+
+- **Record id**: `dea:data-product-2f123e1f-8e3c-4d2d-94c7-346317-maritime-col-v8zvjg`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/2f123e1f-8e3c-4d2d-94c7-346317aeff84 (data.europa.eu dataset 2f123e1f-8e3c-4d2d-94c7-346317aeff84; publisher: Heritage Council)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

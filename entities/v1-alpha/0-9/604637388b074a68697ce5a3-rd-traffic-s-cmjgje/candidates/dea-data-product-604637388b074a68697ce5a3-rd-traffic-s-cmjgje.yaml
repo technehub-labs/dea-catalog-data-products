@@ -1,0 +1,44 @@
+id: dea:data-product-604637388b074a68697ce5a3-rd-traffic-s-cmjgje
+type: DataProduct
+name: RD traffic sup 5000 V/J
+description: 'the ‘traffic_dat’ field gives the year of counting on the section the
+  ‘traffic_mja’ field gives the number of vehicles as an annualised daily average
+  Data in accordance with Article I.4.4 of the Annex to Decision 2018-0864 of the
+  French Electronic Communications and Post Regulatory Authority dated 3 July 2018
+  proposing to the Minister responsible for electronic communications the terms and
+  conditions for granting authorisations for the use of frequencies in the 900Mhz,
+  1800 Mhz and 2.1 Ghz bands in metropolitan France to establish and operate an open
+  and public mobile radio network Article I.4.4 Obligations for Frequency Laureates
+  in the 1800 Mhz Band: [...] “priority roads” are defined as motorways, main roads
+  connecting, within each department, the head of department (prefecture) to the district
+  chiefs (sub-prefectures) and sections of roads on which on average at least five
+  thousand vehicles per day run on an annual average, as they exist on 1 January 2018.
+  [...]'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/604637388b074a68697ce5a3 (data.europa.eu
+      dataset 604637388b074a68697ce5a3; publisher: Département de l''Ain)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- partement-de-lin

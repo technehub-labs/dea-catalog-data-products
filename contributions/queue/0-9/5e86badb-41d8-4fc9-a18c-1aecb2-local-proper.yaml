@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5e86badb-41d8-4fc9-a18c-1aecb27f3014
 name: Local Property Tax LPT statistics July 2019
-description: Local Property Tax LPT statistics July 2019 — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Revenue Commissioners.
+description: Local Property Tax LPT statistics July 2019 — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by Revenue Commissioners.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5e86badb-41d8-4fc9-a18c-1aecb27f3014 (data.europa.eu
-      dataset 5e86badb-41d8-4fc9-a18c-1aecb27f3014; publisher: Revenue Commissioners)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5e86badb-41d8-4fc9-a18c-1aecb27f3014
+      (data.europa.eu dataset 5e86badb-41d8-4fc9-a18c-1aecb27f3014; publisher: Revenue
+      Commissioners)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - evenue-ommissioners
 slug: 5e86badb-41d8-4fc9-a18c-1aecb2-local-proper
+assigned_id: dea:data-product-5e86badb-41d8-4fc9-a18c-1aecb2-local-proper-adb5gr
+admitted: '2026-11-14'

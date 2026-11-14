@@ -1,28 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2b16298d-a2e3-4c89-951c-f8cd5f72a9a2
 name: 'Climate Atlas NRW - Biodiversity and Nature Conservation: Growing season'
-description: 'Service consisting of layers at the actual general vegetation time (number of days >5°C
-  per year), defined according to Hübener et al. 2017. In addition, the absolute values of the climatic
-  water balance and the precipitation total within the actual general vegetation period for the observation
-  period are available as 30-year averages (climate normal periods). The data on the actual general vegetation
-  time are available as observation data after the 30-year climate normal periods in the observation period
-  1961-2020 as well as future projections for 2031-2060 and 2071-2100. The climate projections of the
-  future are structured according to the climate scenarios RCP2.6, RCP4.5 and RCP8.5. Absolute values
-  and relative values with a delta change value compared to selected reference climatic normal periods
-  are shown. Relative changes in the past are compared with the climate normal period 1991-2020. Projected
-  relative changes with the reference period 1971-2000. The strength of the possible climate signal is
-  divided according to the 15th, 50th and 85th scenarios. percentile. Data source: German Weather Service
-  (DWD); Sources of climate projection data: Brienen et al. (2020), Krähenmann (2019).'
+description: 'Service consisting of layers at the actual general vegetation time (number
+  of days >5°C per year), defined according to Hübener et al. 2017. In addition, the
+  absolute values of the climatic water balance and the precipitation total within
+  the actual general vegetation period for the observation period are available as
+  30-year averages (climate normal periods). The data on the actual general vegetation
+  time are available as observation data after the 30-year climate normal periods
+  in the observation period 1961-2020 as well as future projections for 2031-2060
+  and 2071-2100. The climate projections of the future are structured according to
+  the climate scenarios RCP2.6, RCP4.5 and RCP8.5. Absolute values and relative values
+  with a delta change value compared to selected reference climatic normal periods
+  are shown. Relative changes in the past are compared with the climate normal period
+  1991-2020. Projected relative changes with the reference period 1971-2000. The strength
+  of the possible climate signal is divided according to the 15th, 50th and 85th scenarios.
+  percentile. Data source: German Weather Service (DWD); Sources of climate projection
+  data: Brienen et al. (2020), Krähenmann (2019).'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2b16298d-a2e3-4c89-951c-f8cd5f72a9a2 (data.europa.eu
-      dataset 2b16298d-a2e3-4c89-951c-f8cd5f72a9a2; publisher: LANUK NRW)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2b16298d-a2e3-4c89-951c-f8cd5f72a9a2
+      (data.europa.eu dataset 2b16298d-a2e3-4c89-951c-f8cd5f72a9a2; publisher: LANUK
+      NRW)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 2b16298d-a2e3-4c89-951c-f8cd5f-climate-atla
+assigned_id: dea:data-product-2b16298d-a2e3-4c89-951c-f8cd5f-climate-atla-6rs98a
+admitted: '2026-11-14'

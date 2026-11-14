@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36354979-bundesamt-fur-statistik-bfs
 name: 'Cross-border city statistics: Housing (Agglomerations 2020)'
-description: This dataset presents annual data for a selection of variables of cross-border city statistics
-  concerning housing according to the 2020 version of the agglomerations (private households, apartments,
-  single-family homes, household size, living space per person), from 2020 onwards.
+description: This dataset presents annual data for a selection of variables of cross-border
+  city statistics concerning housing according to the 2020 version of the agglomerations
+  (private households, apartments, single-family homes, household size, living space
+  per person), from 2020 onwards.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36354979-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36354979-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36354979-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36354979-bundesamt-fur-statistik-bfs; publisher: Office
+      fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffice-fdral-de-la-st
 slug: 36354979-bundesamt-fur-statist-cross-border
+assigned_id: dea:data-product-36354979-bundesamt-fur-statist-cross-border-fyyvau
+admitted: '2026-11-14'

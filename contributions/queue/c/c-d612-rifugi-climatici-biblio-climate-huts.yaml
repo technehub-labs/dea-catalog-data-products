@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_d612-rifugi_climatici_biblioteche-1
 name: Climate Huts Libraries
-description: Pointed elements that identify, on the territory of the Municipality of Florence, seven municipal
-  libraries equipped with fresh rooms in which to be stationed and freely accessible.
+description: Pointed elements that identify, on the territory of the Municipality
+  of Florence, seven municipal libraries equipped with fresh rooms in which to be
+  stationed and freely accessible.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_d612-rifugi_climatici_biblioteche-1 (data.europa.eu
-      dataset c_d612-rifugi_climatici_biblioteche-1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_d612-rifugi_climatici_biblioteche-1
+      (data.europa.eu dataset c_d612-rifugi_climatici_biblioteche-1; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: c-d612-rifugi-climatici-biblio-climate-huts
+assigned_id: dea:data-product-c-d612-rifugi-climatici-biblio-climate-huts-9hyzw2
+admitted: '2026-11-14'

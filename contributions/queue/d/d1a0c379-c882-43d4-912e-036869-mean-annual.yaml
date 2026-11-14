@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d1a0c379-c882-43d4-912e-036869c8c256
 name: Mean Annual Distribution of Wave Period around Ireland
-description: Estimated annual average wave period (seconds) created by a Pelamis Wave Model for Accessible
-  Wave Energy Resource Atlas. Wave period values are measured as lower and upper values in seconds as
-  calculated by the Pelamis wave model. Annual average wave period covers an area known as the Irish Exclusive
-  Economic Zone (EEZ). Data model produced in 2005. The Pelamis Wave Model was an oceanographic model
-  using the Pelamis wave energy converter device. The Accessible Wave Energy Resource Atlas produced to
-  provide data and information on the accessible wave energy resource potential around Ireland. Wave model
-  developed by ESB International (ESBI) as part of the Accessible Wave Energy Atlas Ireland published
-  by the Marine Institute and Sustainable Energy Authority Ireland. Model completed for time period run.
+description: Estimated annual average wave period (seconds) created by a Pelamis Wave
+  Model for Accessible Wave Energy Resource Atlas. Wave period values are measured
+  as lower and upper values in seconds as calculated by the Pelamis wave model. Annual
+  average wave period covers an area known as the Irish Exclusive Economic Zone (EEZ).
+  Data model produced in 2005. The Pelamis Wave Model was an oceanographic model using
+  the Pelamis wave energy converter device. The Accessible Wave Energy Resource Atlas
+  produced to provide data and information on the accessible wave energy resource
+  potential around Ireland. Wave model developed by ESB International (ESBI) as part
+  of the Accessible Wave Energy Atlas Ireland published by the Marine Institute and
+  Sustainable Energy Authority Ireland. Model completed for time period run.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/d1a0c379-c882-43d4-912e-036869c8c256 (data.europa.eu
-      dataset d1a0c379-c882-43d4-912e-036869c8c256; publisher: Marine Institute)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/d1a0c379-c882-43d4-912e-036869c8c256
+      (data.europa.eu dataset d1a0c379-c882-43d4-912e-036869c8c256; publisher: Marine
+      Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - arine-nstitute
 slug: d1a0c379-c882-43d4-912e-036869-mean-annual
+assigned_id: dea:data-product-d1a0c379-c882-43d4-912e-036869-mean-annual-aj9nrd
+admitted: '2026-11-14'

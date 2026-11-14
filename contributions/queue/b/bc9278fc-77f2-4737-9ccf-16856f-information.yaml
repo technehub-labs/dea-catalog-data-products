@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bc9278fc-77f2-4737-9ccf-16856ffd2ede
-name: Information on the organizational structure of the communal out-of-school educational institution
-  "Center for out-of-school work No. 3" of the Dnipro City Council
-description: Organizational structure of the municipal out-of-school educational institution "Center for
-  out-of-school work No. 3" the Dnipro City Council
+name: Information on the organizational structure of the communal out-of-school educational
+  institution "Center for out-of-school work No. 3" of the Dnipro City Council
+description: Organizational structure of the municipal out-of-school educational institution
+  "Center for out-of-school work No. 3" the Dnipro City Council
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bc9278fc-77f2-4737-9ccf-16856ffd2ede (data.europa.eu
-      dataset bc9278fc-77f2-4737-9ccf-16856ffd2ede; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bc9278fc-77f2-4737-9ccf-16856ffd2ede
+      (data.europa.eu dataset bc9278fc-77f2-4737-9ccf-16856ffd2ede; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: bc9278fc-77f2-4737-9ccf-16856f-information
+assigned_id: dea:data-product-bc9278fc-77f2-4737-9ccf-16856f-information-shxybx
+admitted: '2026-11-14'

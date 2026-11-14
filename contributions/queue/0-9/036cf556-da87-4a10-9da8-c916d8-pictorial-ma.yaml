@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 036cf556-da87-4a10-9da8-c916d8f6f90f
 name: Pictorial map of the City of Helsinki
-description: 'The photographic map is a bird''s-eye view map of Helsinki''s inner city. Buildings and
-  other objects are presented in three dimensions. The map covers the southern inner city of Helsinki.
-  The scale of the data is 1:6700. The data was last updated in March 2014. The data is currently not
-  updated. **Preview of materials in the map.hel.fi service:** - [kartta.hel.fi](https://kartta.hel.fi/link/dAVEmc)
-  **Code(s):** - ETRS-GK25 (EPSG:3879). Maintenance coordinate system. The data can also be projected
-  to other coordinate systems. Other possible coordinate systems can be found in the GetCapabilities document
-  of the interface service. **Border service address:** - WMS interface: [https://kartta.hel.fi/ws/geoserver/opendata/wms](https://kartta.hel.fi/ws/geoserver/opendata/wms?request=getCapabilities)
+description: 'The photographic map is a bird''s-eye view map of Helsinki''s inner
+  city. Buildings and other objects are presented in three dimensions. The map covers
+  the southern inner city of Helsinki. The scale of the data is 1:6700. The data was
+  last updated in March 2014. The data is currently not updated. **Preview of materials
+  in the map.hel.fi service:** - [kartta.hel.fi](https://kartta.hel.fi/link/dAVEmc)
+  **Code(s):** - ETRS-GK25 (EPSG:3879). Maintenance coordinate system. The data can
+  also be projected to other coordinate systems. Other possible coordinate systems
+  can be found in the GetCapabilities document of the interface service. **Border
+  service address:** - WMS interface: [https://kartta.hel.fi/ws/geoserver/opendata/wms](https://kartta.hel.fi/ws/geoserver/opendata/wms?request=getCapabilities)
   **Published levels:** - Photo map'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/036cf556-da87-4a10-9da8-c916d8f6f90f (data.europa.eu
-      dataset 036cf556-da87-4a10-9da8-c916d8f6f90f; publisher: Helsingin kaupunkiympäristön toimiala)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/036cf556-da87-4a10-9da8-c916d8f6f90f
+      (data.europa.eu dataset 036cf556-da87-4a10-9da8-c916d8f6f90f; publisher: Helsingin
+      kaupunkiympäristön toimiala)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - elsingin-kaupunkiymp
 slug: 036cf556-da87-4a10-9da8-c916d8-pictorial-ma
+assigned_id: dea:data-product-036cf556-da87-4a10-9da8-c916d8-pictorial-ma-q6rfu9
+admitted: '2026-11-14'

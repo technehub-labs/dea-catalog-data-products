@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2c1a7345-fdd3-48ac-88fb-92afec7866b3-bundesamt-fur-energie-bfe
-name: 'Charging requirements: Home charging availability in the charging world ‘Planned’ for the year
-  2035'
-description: The map shows the percentage of plug-in vehicles (battery electric vehicles and plug-in hybrids)
-  per selected municipality that will have no charging facilities at home or at work in 2035. The percentage
-  of plug-in vehicles that cannot charge at home is also given (expressed as a decimal figure). The availability
-  of private home charging points and charging facilities at the workplace depends on various assumptions
-  regarding the implementation strategy, some of which are local. In order to show the range of possible
-  developments, the three charging worlds "Convenient", "Planned" and "Flexible" were designed based on
-  common industry assumptions in the SFOE study "Understanding charging infrastructure 2050" to show the
-  direction in which the charging infrastructure in Switzerland could develop. In the "Planned" charging
-  world, many people cannot charge at home; they mainly charge at rapid charging points.
+name: 'Charging requirements: Home charging availability in the charging world ‘Planned’
+  for the year 2035'
+description: The map shows the percentage of plug-in vehicles (battery electric vehicles
+  and plug-in hybrids) per selected municipality that will have no charging facilities
+  at home or at work in 2035. The percentage of plug-in vehicles that cannot charge
+  at home is also given (expressed as a decimal figure). The availability of private
+  home charging points and charging facilities at the workplace depends on various
+  assumptions regarding the implementation strategy, some of which are local. In order
+  to show the range of possible developments, the three charging worlds "Convenient",
+  "Planned" and "Flexible" were designed based on common industry assumptions in the
+  SFOE study "Understanding charging infrastructure 2050" to show the direction in
+  which the charging infrastructure in Switzerland could develop. In the "Planned"
+  charging world, many people cannot charge at home; they mainly charge at rapid charging
+  points.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/2c1a7345-fdd3-48ac-88fb-92afec7866b3-bundesamt-fur-energie-bfe
-      (data.europa.eu dataset 2c1a7345-fdd3-48ac-88fb-92afec7866b3-bundesamt-fur-energie-bfe; publisher:
-      Ufficio federale dell''energia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 2c1a7345-fdd3-48ac-88fb-92afec7866b3-bundesamt-fur-energie-bfe;
+      publisher: Ufficio federale dell''energia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - fficio-federale-dell
 slug: 2c1a7345-fdd3-48ac-88fb-92afec-charging-req
+assigned_id: dea:data-product-2c1a7345-fdd3-48ac-88fb-92afec-charging-req-quhx4n
+admitted: '2026-11-14'

@@ -1,0 +1,55 @@
+id: dea:data-product-9fpg-67a4-esif-2014-20-gccjmc
+type: DataProduct
+name: ESIF 2014-2020 categorisation ERDF-ESF-CF - planned
+description: This file contains "categorisation data" from the ERDF/ESF/Cohesion Fund
+  programmes as adopted (including modifications). The data is in current prices.
+  It is regularly updated to reflect reprogramming notified by the programmes. The
+  data is provided in tables, one for each priority axis (investment pillar), for
+  each specific programme. The categorisation system is defined in Implementing Regulation
+  215/2014 with 8 dimensions - http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0215.
+  These dimension represent different ways of categorising the nature of the EU support
+  (i.e. the intervention (activity) field, the form of finance, the territorial context,
+  etc.). In the programme documents only 4 dimensions were encoded for ERDF/ Cohesion
+  Fund while 5 dimensions were encoded for ESF and can be found in the dataset. In
+  analysing the content of the dataset the different dimension should be analysed
+  separately - **NEVER AGGREGATE VALUES ACROSS DIMENSIONS** as otherwise double counting
+  of the financial amounts will occur. A second dataset found here - https://cohesiondata.ec.europa.eu/EU-Level/ESIF-2014-2020-Categorisation-Crosscutting-Themes-/xns4-t7ym
+  - provides a lookup table for understanding how the Commission uses the intervention
+  field codes to look at cross cutting issues such as investments in "innovation",
+  "enterprise support", etc. That lookup dataset also has the "climate change tracking"
+  weightings and a similar weighting system for "biodiversity tracking". The Intervention
+  field dimension is the most complete of the the different dimensions in terms of
+  financial coverage. (NB although the SME initiative programmes were not asked to
+  provide categorisation tables, because of simplified programming requirements, they
+  have been manually added by DG REGIO.) The total investments under other dimension
+  may vary for different reasons (i.e. Technical assistance priority axes are not
+  encoded in all dimensions, etc.) If downloading, check the format of fin
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9fpg-67a4 (data.europa.eu dataset
+      9fpg-67a4; publisher: European Commission - Directorate-General for Regional
+      and Urban Policy)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- uropean-ommission-i

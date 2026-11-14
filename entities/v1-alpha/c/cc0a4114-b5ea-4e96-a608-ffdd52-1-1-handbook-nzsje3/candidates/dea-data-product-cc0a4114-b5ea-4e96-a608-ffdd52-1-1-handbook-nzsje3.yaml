@@ -1,0 +1,37 @@
+id: dea:data-product-cc0a4114-b5ea-4e96-a608-ffdd52-1-1-handbook-nzsje3
+type: DataProduct
+name: 1.1.Handbook of communal institution "Preschool educational institution No.13
+  of Vinnytsia City Council"
+description: The resource contains registration and contact details of the institution
+  of preschool education, which is subordinated to the Department of Education of
+  Vinnytsia City Council. Including the EDRPOU code, name, information about the head,
+  a link to the postal address, e-mail address, phone number, days and hours of reception,
+  etc.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/cc0a4114-b5ea-4e96-a608-ffdd52bb358e
+      (data.europa.eu dataset cc0a4114-b5ea-4e96-a608-ffdd52bb358e; publisher: Вінницька
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

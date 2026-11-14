@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 92d4a8dc-bc7f-487c-a624-903033abe355
 name: Monthly figures Business
-description: __Dataset is no longer updated __, business registrations and deregistrations now under [monthly
-  figures economy.](https://opendata.muenchen.de/dataset/monthly figures economy) The dataset __Monthly
-  figures Gewerbe__ contains the topic * Registration/deregistration Please refer to the [Information
-  page Monthly figures](https://opendata.muenchen.de/pages/monthly figures monitoring)
+description: __Dataset is no longer updated __, business registrations and deregistrations
+  now under [monthly figures economy.](https://opendata.muenchen.de/dataset/monthly
+  figures economy) The dataset __Monthly figures Gewerbe__ contains the topic * Registration/deregistration
+  Please refer to the [Information page Monthly figures](https://opendata.muenchen.de/pages/monthly
+  figures monitoring)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/92d4a8dc-bc7f-487c-a624-903033abe355 (data.europa.eu
-      dataset 92d4a8dc-bc7f-487c-a624-903033abe355; publisher: Landeshauptstadt München)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/92d4a8dc-bc7f-487c-a624-903033abe355
+      (data.europa.eu dataset 92d4a8dc-bc7f-487c-a624-903033abe355; publisher: Landeshauptstadt
+      München)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - andeshauptstadt-nche
 slug: 92d4a8dc-bc7f-487c-a624-903033-monthly-figu
+assigned_id: dea:data-product-92d4a8dc-bc7f-487c-a624-903033-monthly-figu-edeyjk
+admitted: '2026-11-14'

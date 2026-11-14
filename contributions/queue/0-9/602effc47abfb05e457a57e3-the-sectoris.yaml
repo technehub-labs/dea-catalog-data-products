@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Outline of the recruitment sectors of Gardois colleges. https://www
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/602effc47abfb05e457a57e3 (data.europa.eu dataset
-      602effc47abfb05e457a57e3; publisher: Département du Gard)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/602effc47abfb05e457a57e3 (data.europa.eu
+      dataset 602effc47abfb05e457a57e3; publisher: Département du Gard)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - partement-du-ard
 slug: 602effc47abfb05e457a57e3-the-sectoris
+assigned_id: dea:data-product-602effc47abfb05e457a57e3-the-sectoris-483wrp
+admitted: '2026-11-14'

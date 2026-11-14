@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu agricultural_statistics_in_your_pocket
 name: Agricultural Statistics in your Pocket
-description: 'This publication has been discontinued, as it has been superseded by and comes under Agriculture
-  in the UK now. This publication provides an easy-to-reference statistics on UK Agriculture, complementing
-  its more comprehensive sister publication Agriculture in the UK. Designation: Official Statistics Alternative
-  title: Agricultural Statistics in your Pocket'
+description: 'This publication has been discontinued, as it has been superseded by
+  and comes under Agriculture in the UK now. This publication provides an easy-to-reference
+  statistics on UK Agriculture, complementing its more comprehensive sister publication
+  Agriculture in the UK. Designation: Official Statistics Alternative title: Agricultural
+  Statistics in your Pocket'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/agricultural_statistics_in_your_pocket (data.europa.eu
-      dataset agricultural_statistics_in_your_pocket; publisher: Department for Environment, Food and
-      Rural Affairs)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/agricultural_statistics_in_your_pocket
+      (data.europa.eu dataset agricultural_statistics_in_your_pocket; publisher: Department
+      for Environment, Food and Rural Affairs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-for-nviron
 slug: agricultural-statistics-in-you-agricultural
+assigned_id: dea:data-product-agricultural-statistics-in-you-agricultural-qnuexu
+admitted: '2026-11-14'

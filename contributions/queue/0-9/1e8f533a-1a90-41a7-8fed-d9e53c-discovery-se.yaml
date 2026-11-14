@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 1e8f533a-1a90-41a7-8fed-d9e53c06a7c0
 name: Discovery Service (CSW) National Aerospace Laboratory NLR
-description: 'Discovery service allowing access to metadata according to the CSW standard. NLR CSW: XQuery
-  based catalog service conform to the HTTP protocol binding of the OpenGIS Catalogue Service specification
-  version 2.0.2/2.0.1'
+description: 'Discovery service allowing access to metadata according to the CSW standard.
+  NLR CSW: XQuery based catalog service conform to the HTTP protocol binding of the
+  OpenGIS Catalogue Service specification version 2.0.2/2.0.1'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/1e8f533a-1a90-41a7-8fed-d9e53c06a7c0 (data.europa.eu
-      dataset 1e8f533a-1a90-41a7-8fed-d9e53c06a7c0; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/1e8f533a-1a90-41a7-8fed-d9e53c06a7c0
+      (data.europa.eu dataset 1e8f533a-1a90-41a7-8fed-d9e53c06a7c0; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 1e8f533a-1a90-41a7-8fed-d9e53c-discovery-se
+assigned_id: dea:data-product-1e8f533a-1a90-41a7-8fed-d9e53c-discovery-se-7mh7jz
+admitted: '2026-11-14'

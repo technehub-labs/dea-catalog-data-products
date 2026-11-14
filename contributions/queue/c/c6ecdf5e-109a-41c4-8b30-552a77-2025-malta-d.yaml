@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: 2025 Malta Development Bank - Annual Report and Financial Statement
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c6ecdf5e-109a-41c4-8b30-552a779b0111 (data.europa.eu
-      dataset c6ecdf5e-109a-41c4-8b30-552a779b0111; publisher: Malta Development Bank)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c6ecdf5e-109a-41c4-8b30-552a779b0111
+      (data.europa.eu dataset c6ecdf5e-109a-41c4-8b30-552a779b0111; publisher: Malta
+      Development Bank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - alta-evelopment-ank
 slug: c6ecdf5e-109a-41c4-8b30-552a77-2025-malta-d
+assigned_id: dea:data-product-c6ecdf5e-109a-41c4-8b30-552a77-2025-malta-d-r5dxbu
+admitted: '2026-11-14'

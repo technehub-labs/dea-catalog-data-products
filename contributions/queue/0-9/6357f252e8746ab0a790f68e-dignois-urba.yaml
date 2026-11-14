@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6357f252e8746ab0a790f68e
 name: Dignois Urban Transport Network
-description: 'Provence Alpes Agglomération organizes, on a day-to-day basis, the Transports Urbains Dignois
-  (TUD). This network serving the City of Digne-les-Bains consists of 4 urban lines (including a doubled
-  line for schools) operating from Monday to Saturday, as well as an on-demand transport service for people
-  with reduced mobility: FlexiTUD.'
+description: 'Provence Alpes Agglomération organizes, on a day-to-day basis, the Transports
+  Urbains Dignois (TUD). This network serving the City of Digne-les-Bains consists
+  of 4 urban lines (including a doubled line for schools) operating from Monday to
+  Saturday, as well as an on-demand transport service for people with reduced mobility:
+  FlexiTUD.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6357f252e8746ab0a790f68e (data.europa.eu dataset
-      6357f252e8746ab0a790f68e; publisher: PROVENCE-ALPES-AGGLOMERATION)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6357f252e8746ab0a790f68e (data.europa.eu
+      dataset 6357f252e8746ab0a790f68e; publisher: PROVENCE-ALPES-AGGLOMERATION)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 6357f252e8746ab0a790f68e-dignois-urba
+assigned_id: dea:data-product-6357f252e8746ab0a790f68e-dignois-urba-vvecp7
+admitted: '2026-11-14'

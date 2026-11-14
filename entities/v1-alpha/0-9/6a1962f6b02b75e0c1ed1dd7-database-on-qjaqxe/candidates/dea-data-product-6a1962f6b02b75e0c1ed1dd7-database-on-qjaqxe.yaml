@@ -1,0 +1,54 @@
+id: dea:data-product-6a1962f6b02b75e0c1ed1dd7-database-on-qjaqxe
+type: DataProduct
+name: Database on international public finance for climate change adaptation (2019-2023)
+description: 'This original database combines data from TOSSD and the OECD Development
+  Assistance Committee (DAC) on climate-related development finance (CCDF) over the
+  period 2019-2023. <br /> It covers adaptation flows, expressed in terms of commitments,
+  from both international institutions and bilateral donors. It distinguishes the
+  three main types of instruments used by donors: grants, concessional loans, non-concessional
+  loans. \ \ The data shall identify, for each beneficiary country, reported commitments
+  to development projects with an adaptation component. The amounts are expressed
+  in constant 2023 dollars.\ \ Based on this database, within the International Development
+  Finance Architecture Chair, Ferdi has carried out a statistical study on international
+  finance for climate change adaptation to the needs of developing countries: * Hos
+  T., Guillaumont Jeanneney S., Pugnet C. (2025) "[International finance for adaptation
+  to climate change in response to the needs of developing countries](https://ferdi.fr/dl/df-Up5NmGKbzrpEHZ3kFhWrH2NS/wp362-la-finance-internationale-pour-l-adaptation-au-change-climatique.pdf)",
+  *Working paper* Ferdi P362, December . * Hos T., Guillaumont Jeanneney S., Pugnet
+  C. (2026) "[Climate finance for adaptation](https://ferdi.fr/dl/df-WzL6JB41v1WGheHg46JJDriv/ferdi-report-climate-finance-for-adaptation.pdf)",
+  FERDI Report, 60 p. In addition, as part of a partnership with the French Development
+  Agency, Ferdi carried out an econometric study to identify whether vulnerability
+  to climate change guided the allocation of adaptation funding, according to the
+  different types of donors and the instruments used over the period 2019-2023: Feindouno
+  S. "Is vulnerability to climate change guiding the allocation of adaptation finance?
+  Empirical analysis of donors and instruments over the period 2019-2023". The original
+  database used for these two studies is open access on this page and includes: *
+  data in the form of an Excel file * an accompanying technical docum'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6a1962f6b02b75e0c1ed1dd7 (data.europa.eu
+      dataset 6a1962f6b02b75e0c1ed1dd7; publisher: Fondation pour les Études et Recherches
+      sur le Développement International)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- ondation-pour-les-tu

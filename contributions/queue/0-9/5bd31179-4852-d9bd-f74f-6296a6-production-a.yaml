@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5bd31179-4852-d9bd-f74f-6296a67fa8f6
 name: Production and Industrial Plants Hesse - IED _plants - OGC WFS Interface
-description: 'Hessian Country Information System (LIS-A) - Hessian Ministry of Agriculture and the Environment,
-  Viticulture, Forestry, Hunting and Homeland. For industrial wastewater treatment plants (installations
-  according to Annex I No 6.11 of the Industrial Emissions Directive, IED): Hessian Ministry of Agriculture
-  and Environment, Viticulture, Forestry, Hunting and Homeland.:Industrial plants (IED plants) from LIS-A
-  (Hessian Country Information System plants) and industrial wastewater treatment plants (plants according
-  to Annex I No 6.11 of the Industrial Emissions Directive, IE-RL) (source for both: Hessian Ministry
-  of Agriculture and Environment, Viticulture, Forestry, Hunting and Homeland).'
+description: 'Hessian Country Information System (LIS-A) - Hessian Ministry of Agriculture
+  and the Environment, Viticulture, Forestry, Hunting and Homeland. For industrial
+  wastewater treatment plants (installations according to Annex I No 6.11 of the Industrial
+  Emissions Directive, IED): Hessian Ministry of Agriculture and Environment, Viticulture,
+  Forestry, Hunting and Homeland.:Industrial plants (IED plants) from LIS-A (Hessian
+  Country Information System plants) and industrial wastewater treatment plants (plants
+  according to Annex I No 6.11 of the Industrial Emissions Directive, IE-RL) (source
+  for both: Hessian Ministry of Agriculture and Environment, Viticulture, Forestry,
+  Hunting and Homeland).'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5bd31179-4852-d9bd-f74f-6296a67fa8f6 (data.europa.eu
-      dataset 5bd31179-4852-d9bd-f74f-6296a67fa8f6; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5bd31179-4852-d9bd-f74f-6296a67fa8f6
+      (data.europa.eu dataset 5bd31179-4852-d9bd-f74f-6296a67fa8f6; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 5bd31179-4852-d9bd-f74f-6296a6-production-a
+assigned_id: dea:data-product-5bd31179-4852-d9bd-f74f-6296a6-production-a-nxyxgs
+admitted: '2026-11-14'

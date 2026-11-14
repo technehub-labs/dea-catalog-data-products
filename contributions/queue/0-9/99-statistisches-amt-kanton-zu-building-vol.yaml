@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Approximative building volume of agricultural economic buildings
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/99-statistisches-amt-kanton-zuerich (data.europa.eu
-      dataset 99-statistisches-amt-kanton-zuerich; publisher: Amt für Statistik und Daten)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/99-statistisches-amt-kanton-zuerich
+      (data.europa.eu dataset 99-statistisches-amt-kanton-zuerich; publisher: Amt
+      für Statistik und Daten)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - mt-fr-tatistik-und-a
 slug: 99-statistisches-amt-kanton-zu-building-vol
+assigned_id: dea:data-product-99-statistisches-amt-kanton-zu-building-vol-x9rysc
+admitted: '2026-11-14'

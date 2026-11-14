@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2bb1eeb4-8eb5-4358-a74b-4ca3fe94c5cf
 name: Extracurricular _Youth Education Chemnitz
-description: Extracurricular _Youth Education Chemnitz — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by the publishing body.
+description: Extracurricular _Youth Education Chemnitz — a published dataset in the
+  EU Open Data Portal (data.europa.eu), maintained by the publishing body.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2bb1eeb4-8eb5-4358-a74b-4ca3fe94c5cf (data.europa.eu
-      dataset 2bb1eeb4-8eb5-4358-a74b-4ca3fe94c5cf; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2bb1eeb4-8eb5-4358-a74b-4ca3fe94c5cf
+      (data.europa.eu dataset 2bb1eeb4-8eb5-4358-a74b-4ca3fe94c5cf; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 2bb1eeb4-8eb5-4358-a74b-4ca3fe-extracurricu
+assigned_id: dea:data-product-2bb1eeb4-8eb5-4358-a74b-4ca3fe-extracurricu-239h3y
+admitted: '2026-11-14'

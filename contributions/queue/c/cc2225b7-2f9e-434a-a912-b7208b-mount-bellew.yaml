@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cc2225b7-2f9e-434a-a912-b7208b1fbdbe
 name: Mount Bellew (Agr.Coll.) Climate Data
-description: Daily and monthly climatalogical records for our station at Mount Bellew (Agr.Coll.) in Co.
-  Galway. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Mount Bellew
+  (Agr.Coll.) in Co. Galway. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cc2225b7-2f9e-434a-a912-b7208b1fbdbe (data.europa.eu
-      dataset cc2225b7-2f9e-434a-a912-b7208b1fbdbe; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cc2225b7-2f9e-434a-a912-b7208b1fbdbe
+      (data.europa.eu dataset cc2225b7-2f9e-434a-a912-b7208b1fbdbe; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: cc2225b7-2f9e-434a-a912-b7208b-mount-bellew
+assigned_id: dea:data-product-cc2225b7-2f9e-434a-a912-b7208b-mount-bellew-53mvkj
+admitted: '2026-11-14'

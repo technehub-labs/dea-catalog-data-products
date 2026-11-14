@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5e7ca7511bc790fc68223a2f
 name: Citymapper mobility index
-description: 'Extraction of raw data published by Citymapper at https://citymapper.com/CMI ## Description
-  of the data We are comparing trips planned in the Citymapper app to a recent typical use period. Trips
-  planned (‘Get me somewhere’ and related) are correlated to trips taken (GO mode). We have enough data
-  in our cities where we publish CMI to be confidant that it represents a real change.'
+description: 'Extraction of raw data published by Citymapper at https://citymapper.com/CMI
+  ## Description of the data We are comparing trips planned in the Citymapper app
+  to a recent typical use period. Trips planned (‘Get me somewhere’ and related) are
+  correlated to trips taken (GO mode). We have enough data in our cities where we
+  publish CMI to be confidant that it represents a real change.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5e7ca7511bc790fc68223a2f (data.europa.eu dataset
-      5e7ca7511bc790fc68223a2f; publisher: Antoine Augusti)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5e7ca7511bc790fc68223a2f (data.europa.eu
+      dataset 5e7ca7511bc790fc68223a2f; publisher: Antoine Augusti)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ntoine-ugusti
 slug: 5e7ca7511bc790fc68223a2f-citymapper-m
+assigned_id: dea:data-product-5e7ca7511bc790fc68223a2f-citymapper-m-pn9rt2
+admitted: '2026-11-14'

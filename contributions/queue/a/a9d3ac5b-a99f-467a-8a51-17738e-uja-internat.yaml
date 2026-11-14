@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a9d3ac5b-a99f-467a-8a51-17738ec7daba
 name: UJA International Mobility INCOMING ay 2024-2025
-description: This dataset provides an overview of the incoming students to the University of Jaén (UJA)
-  within the Erasmus+ KA131, KA171, and Traineeships funding programmes during the academic year 2023/2024.
+description: This dataset provides an overview of the incoming students to the University
+  of Jaén (UJA) within the Erasmus+ KA131, KA171, and Traineeships funding programmes
+  during the academic year 2023/2024.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a9d3ac5b-a99f-467a-8a51-17738ec7daba (data.europa.eu
-      dataset a9d3ac5b-a99f-467a-8a51-17738ec7daba; publisher: University of Jaén)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a9d3ac5b-a99f-467a-8a51-17738ec7daba
+      (data.europa.eu dataset a9d3ac5b-a99f-467a-8a51-17738ec7daba; publisher: University
+      of Jaén)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - niversity-of-an
 slug: a9d3ac5b-a99f-467a-8a51-17738e-uja-internat
+assigned_id: dea:data-product-a9d3ac5b-a99f-467a-8a51-17738e-uja-internat-bd5qqx
+admitted: '2026-11-14'

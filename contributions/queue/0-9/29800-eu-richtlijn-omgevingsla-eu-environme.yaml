@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: EU Environmental Noise Directive Lnight Map 2022.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/29800-eu-richtlijn-omgevingslawaai-2022-lnight- (data.europa.eu
-      dataset 29800-eu-richtlijn-omgevingslawaai-2022-lnight-; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/29800-eu-richtlijn-omgevingslawaai-2022-lnight-
+      (data.europa.eu dataset 29800-eu-richtlijn-omgevingslawaai-2022-lnight-; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 29800-eu-richtlijn-omgevingsla-eu-environme
+assigned_id: dea:data-product-29800-eu-richtlijn-omgevingsla-eu-environme-x4zj7c
+admitted: '2026-11-14'

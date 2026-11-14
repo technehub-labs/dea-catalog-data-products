@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 732bcb9b-879e-494c-b66d-bcd95157dd0e
 name: Cloosh (For.Stn.) Climate Data
-description: Daily and monthly climatalogical records for our station at Cloosh (For.Stn.) in Co. Galway.
-  This station is now closed.
+description: Daily and monthly climatalogical records for our station at Cloosh (For.Stn.)
+  in Co. Galway. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/732bcb9b-879e-494c-b66d-bcd95157dd0e (data.europa.eu
-      dataset 732bcb9b-879e-494c-b66d-bcd95157dd0e; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/732bcb9b-879e-494c-b66d-bcd95157dd0e
+      (data.europa.eu dataset 732bcb9b-879e-494c-b66d-bcd95157dd0e; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 732bcb9b-879e-494c-b66d-bcd951-cloosh-for-s
+assigned_id: dea:data-product-732bcb9b-879e-494c-b66d-bcd951-cloosh-for-s-b23gqw
+admitted: '2026-11-14'

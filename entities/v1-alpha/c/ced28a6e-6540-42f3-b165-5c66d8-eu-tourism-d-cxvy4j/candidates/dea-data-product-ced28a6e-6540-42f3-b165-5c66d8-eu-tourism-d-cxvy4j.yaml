@@ -1,0 +1,42 @@
+id: dea:data-product-ced28a6e-6540-42f3-b165-5c66d8-eu-tourism-d-cxvy4j
+type: DataProduct
+name: EU Tourism dashboard data - 2025 release
+description: 'This dataset includes the values for the 35 indicators classified in
+  4 categories (green pillar, digital pillar, socio-economic pillar and basics descriptors)
+  as published on the EU Tourism Dashboard at the end of 2025. Further details about
+  the indicators description, unit of measures and source of data can be found in
+  the EU Tourism dashboard: https://tourism-dashboard.ec.europa.eu RESOLUTION: National,
+  regional, sub-regional. COMPLETENESS: The data are related the EU-27 countries plus
+  IS, NO and CH. POLICY CONTEXT: See https://tourism-dashboard.ec.europa.eu/background-methodology?lng=en#section-2
+  METHODOLOGY: See https://tourism-dashboard.ec.europa.eu/background-methodology DATA
+  SOURCES: See https://tourism-dashboard.ec.europa.eu/background-methodology?lng=en#section-5
+  LEVEL OF AGGREGATION: NUTS0/2/3.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ced28a6e-6540-42f3-b165-5c66d87849d8
+      (data.europa.eu dataset ced28a6e-6540-42f3-b165-5c66d87849d8; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- oint-esearch-entre

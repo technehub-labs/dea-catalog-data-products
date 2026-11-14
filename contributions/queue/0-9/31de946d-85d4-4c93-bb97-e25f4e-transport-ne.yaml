@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 31de946d-85d4-4c93-bb97-e25f4ef1401a
 name: 'Transport networks: Air transport - Transport Networks: Air (INSPIRE harmonized)'
-description: 'INSPIRE Transport networks: Air transport (Transport Networks: Air) thematic layer, harmonised,
-  filled with relevant objects from TOP10NL (part of the Basic Registration Topography BRT), produced
-  and managed by the Land Registry.'
+description: 'INSPIRE Transport networks: Air transport (Transport Networks: Air)
+  thematic layer, harmonised, filled with relevant objects from TOP10NL (part of the
+  Basic Registration Topography BRT), produced and managed by the Land Registry.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/31de946d-85d4-4c93-bb97-e25f4ef1401a (data.europa.eu
-      dataset 31de946d-85d4-4c93-bb97-e25f4ef1401a; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/31de946d-85d4-4c93-bb97-e25f4ef1401a
+      (data.europa.eu dataset 31de946d-85d4-4c93-bb97-e25f4ef1401a; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 31de946d-85d4-4c93-bb97-e25f4e-transport-ne
+assigned_id: dea:data-product-31de946d-85d4-4c93-bb97-e25f4e-transport-ne-dt9z4m
+admitted: '2026-11-14'

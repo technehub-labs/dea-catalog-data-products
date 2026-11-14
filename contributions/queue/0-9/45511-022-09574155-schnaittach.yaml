@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 45511-022-09574155
 name: 'Schnaittach, M: tourism'
-description: 'Tourism: Municipalities, Arrivals, Overnight stays,Origin of guests, Years'
+description: 'Tourism: Municipalities, Arrivals, Overnight stays,Origin of guests,
+  Years'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/45511-022-09574155 (data.europa.eu dataset 45511-022-09574155;
-      publisher: Bayerisches Landesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/45511-022-09574155 (data.europa.eu
+      dataset 45511-022-09574155; publisher: Bayerisches Landesamt für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ayerisches-andesamt
 slug: 45511-022-09574155-schnaittach
+assigned_id: dea:data-product-45511-022-09574155-schnaittach-s6ywur
+admitted: '2026-11-14'

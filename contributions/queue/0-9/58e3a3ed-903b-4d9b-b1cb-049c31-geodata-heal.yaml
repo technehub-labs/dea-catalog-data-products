@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: The dataset contains the spatial data on health in Krefeld's urban 
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/58e3a3ed-903b-4d9b-b1cb-049c31c7b209 (data.europa.eu
-      dataset 58e3a3ed-903b-4d9b-b1cb-049c31c7b209; publisher: Offenesdatenportal)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/58e3a3ed-903b-4d9b-b1cb-049c31c7b209
+      (data.europa.eu dataset 58e3a3ed-903b-4d9b-b1cb-049c31c7b209; publisher: Offenesdatenportal)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffenesdatenportal
 slug: 58e3a3ed-903b-4d9b-b1cb-049c31-geodata-heal
+assigned_id: dea:data-product-58e3a3ed-903b-4d9b-b1cb-049c31-geodata-heal-a2ugtg
+admitted: '2026-11-14'

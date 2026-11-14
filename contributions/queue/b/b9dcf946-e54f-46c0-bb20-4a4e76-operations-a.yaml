@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu b9dcf946-e54f-46c0-bb20-4a4e7664b6d4
 name: Operations and obligations’ enterprise KP KMG
-description: <p>This set contains information about the operations and obligations of the enterprise KP
-  Combine of Municipal Economy</p>
+description: <p>This set contains information about the operations and obligations
+  of the enterprise KP Combine of Municipal Economy</p>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b9dcf946-e54f-46c0-bb20-4a4e7664b6d4 (data.europa.eu
-      dataset b9dcf946-e54f-46c0-bb20-4a4e7664b6d4; publisher:  Управління цифровізації, інформаційної
-      політики та комунікацій)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b9dcf946-e54f-46c0-bb20-4a4e7664b6d4
+      (data.europa.eu dataset b9dcf946-e54f-46c0-bb20-4a4e7664b6d4; publisher:  Управління
+      цифровізації, інформаційної політики та комунікацій)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: b9dcf946-e54f-46c0-bb20-4a4e76-operations-a
+assigned_id: dea:data-product-b9dcf946-e54f-46c0-bb20-4a4e76-operations-a-c9guma
+admitted: '2026-11-14'

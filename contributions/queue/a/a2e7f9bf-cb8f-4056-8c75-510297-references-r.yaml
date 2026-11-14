@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a2e7f9bf-cb8f-4056-8c75-510297bff0b0
 name: References reviewed_Scoping review Virtual Worlds and Mental Health
-description: This dataset contains the bibliographic references of the articles included in the review
+description: This dataset contains the bibliographic references of the articles included
+  in the review
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a2e7f9bf-cb8f-4056-8c75-510297bff0b0 (data.europa.eu
-      dataset a2e7f9bf-cb8f-4056-8c75-510297bff0b0; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a2e7f9bf-cb8f-4056-8c75-510297bff0b0
+      (data.europa.eu dataset a2e7f9bf-cb8f-4056-8c75-510297bff0b0; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: a2e7f9bf-cb8f-4056-8c75-510297-references-r
+assigned_id: dea:data-product-a2e7f9bf-cb8f-4056-8c75-510297-references-r-7srrvd
+admitted: '2026-11-14'

@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 22905
-name: Decision № 6 of 18.07.2025 for change of the use of agricultural land for non-agricultural needs
-  and approval of sites and routes for design in agricultural land.
-description: Decision № 6 of 18.07.2025 for change of the use of agricultural land for non-agricultural
+name: Decision № 6 of 18.07.2025 for change of the use of agricultural land for non-agricultural
   needs and approval of sites and routes for design in agricultural land.
+description: Decision № 6 of 18.07.2025 for change of the use of agricultural land
+  for non-agricultural needs and approval of sites and routes for design in agricultural
+  land.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/22905 (data.europa.eu dataset 22905; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/22905 (data.europa.eu dataset
+      22905; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 22905-decision-6-o
+assigned_id: dea:data-product-22905-decision-6-o-ek842j
+admitted: '2026-11-14'

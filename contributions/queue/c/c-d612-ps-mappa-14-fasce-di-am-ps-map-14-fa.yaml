@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_d612-ps_mappa_14_fasce_di_ambientazione-1
 name: PS - MAP 14 - FACES OF ENVIRONMENT
-description: 'Structural Plan of the Municipality of Florence: Setting bands - level represented in map
-  14| Parts of cities; current status, chronological completeness, enabled to consult chronologically'
+description: 'Structural Plan of the Municipality of Florence: Setting bands - level
+  represented in map 14| Parts of cities; current status, chronological completeness,
+  enabled to consult chronologically'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_d612-ps_mappa_14_fasce_di_ambientazione-1 (data.europa.eu
-      dataset c_d612-ps_mappa_14_fasce_di_ambientazione-1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_d612-ps_mappa_14_fasce_di_ambientazione-1
+      (data.europa.eu dataset c_d612-ps_mappa_14_fasce_di_ambientazione-1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: c-d612-ps-mappa-14-fasce-di-am-ps-map-14-fa
+assigned_id: dea:data-product-c-d612-ps-mappa-14-fasce-di-am-ps-map-14-fa-2a8ptt
+admitted: '2026-11-14'

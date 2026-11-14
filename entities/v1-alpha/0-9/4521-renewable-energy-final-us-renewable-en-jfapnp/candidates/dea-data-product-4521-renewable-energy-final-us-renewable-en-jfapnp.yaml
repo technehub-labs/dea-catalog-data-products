@@ -1,0 +1,43 @@
+id: dea:data-product-4521-renewable-energy-final-us-renewable-en-jfapnp
+type: DataProduct
+name: Renewable energy; final use and permitted use of fossil energy, 1990-2013
+description: 'Renewable energy is energy from wind, hydro power, the sun, the earth,
+  biomass and heat from outdoor air and just milked milk. This table suggests the
+  use of renewable energy in two ways: 1. Gross final consumption 2. Avoided use of
+  fossil primary energy In addition, the table presents the emissions of carbon dioxide
+  by the use of renewable energy. Figures are broken down into energy source/technique
+  and into application (electricity, heat and transport). Data available from 1990
+  until 2013 Status of the figures: This table contains definite figures, based on
+  the national Protocol Monitoring Renewable Energy (2010, AgentschapNL). Changes
+  as of 29 June 2015: None, this table has been stopped, because the method is changed.
+  The successor of this table is "Renewable energy; final use and probably use of
+  fossil energy". See section 3. When will new figures be published? Not applicable.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4521-renewable-energy-final-use-and-avoided-use-of-fossil-energy-1990-2013
+      (data.europa.eu dataset 4521-renewable-energy-final-use-and-avoided-use-of-fossil-energy-1990-2013;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

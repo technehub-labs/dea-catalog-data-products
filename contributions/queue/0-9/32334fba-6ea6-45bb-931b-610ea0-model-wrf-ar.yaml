@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 32334fba-6ea6-45bb-931b-610ea0af136a
-name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) - (2025-12-27 h 12 UTC).
-description: Available Convective Potential Energy (CAPE) (J/Kg). Running 2025-12-27 12 noon UTC - Valid
-  from 12 noon UTC 2025-12-27 to 00 noon UTC 2025-12-31. Weather model WRF (Weather Research and Forecasting
-  model), ARW core (version 3.2) with spatial resolution at 3km, temporal resolution 60 hours, interval
-  1 hour.
+name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) -
+  (2025-12-27 h 12 UTC).
+description: Available Convective Potential Energy (CAPE) (J/Kg). Running 2025-12-27
+  12 noon UTC - Valid from 12 noon UTC 2025-12-27 to 00 noon UTC 2025-12-31. Weather
+  model WRF (Weather Research and Forecasting model), ARW core (version 3.2) with
+  spatial resolution at 3km, temporal resolution 60 hours, interval 1 hour.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/32334fba-6ea6-45bb-931b-610ea0af136a (data.europa.eu
-      dataset 32334fba-6ea6-45bb-931b-610ea0af136a; publisher: Lamma Toscana)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/32334fba-6ea6-45bb-931b-610ea0af136a
+      (data.europa.eu dataset 32334fba-6ea6-45bb-931b-610ea0af136a; publisher: Lamma
+      Toscana)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - amma-oscana
 slug: 32334fba-6ea6-45bb-931b-610ea0-model-wrf-ar
+assigned_id: dea:data-product-32334fba-6ea6-45bb-931b-610ea0-model-wrf-ar-nfxbxk
+admitted: '2026-11-14'

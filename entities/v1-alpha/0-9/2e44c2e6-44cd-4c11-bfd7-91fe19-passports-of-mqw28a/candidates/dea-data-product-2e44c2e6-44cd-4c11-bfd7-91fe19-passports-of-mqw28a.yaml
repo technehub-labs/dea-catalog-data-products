@@ -1,0 +1,33 @@
+id: dea:data-product-2e44c2e6-44cd-4c11-bfd7-91fe19-passports-of-mqw28a
+type: DataProduct
+name: Passports of budget programs for 2020
+description: Passports of budget programs of the Department of Municipal Economy and
+  Improvement of Beregovo City Council
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2e44c2e6-44cd-4c11-bfd7-91fe19d067d5
+      (data.europa.eu dataset 2e44c2e6-44cd-4c11-bfd7-91fe19d067d5; publisher: Управління
+      міського господарства та благоустрою Берегівської міської ради )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

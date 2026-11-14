@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 7b1d4785-f23e-47f2-a49e-14685be7fbd1
 name: Transportation:FleetVehicleStatus
-description: It represents the status and certain properties (i.e. speed and position) of Santander's
-  urban buses obtained through the Open Data Santander initiative.
+description: It represents the status and certain properties (i.e. speed and position)
+  of Santander's urban buses obtained through the Open Data Santander initiative.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7b1d4785-f23e-47f2-a49e-14685be7fbd1 (data.europa.eu
-      dataset 7b1d4785-f23e-47f2-a49e-14685be7fbd1; publisher: SALTED Project)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7b1d4785-f23e-47f2-a49e-14685be7fbd1
+      (data.europa.eu dataset 7b1d4785-f23e-47f2-a49e-14685be7fbd1; publisher: SALTED
+      Project)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - roject
 slug: 7b1d4785-f23e-47f2-a49e-14685b-transportati
+assigned_id: dea:data-product-7b1d4785-f23e-47f2-a49e-14685b-transportati-hsrvfs
+admitted: '2026-11-14'

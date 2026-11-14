@@ -1,0 +1,31 @@
+# Climate Atlas NRW - Forestry and Forestry: Growing season length
+
+> Service consisting of layers to forest and forestry. The data of the group layer Forest Fire Hazard shows the number of days per year when the forest fire index is above 4. The actual forest vegetation period length (calculated according to the method Hübener et al. 2017) within the group layer vegetation period in the forest, indicates the number of days per year when the temperature is above 10°C and which are within the beginning and end vegetation period. In addition to the grids of the vegetation period length, the grids of the climatic water balance and the amount of precipitation within the actual forest vegetation period are also provided. These grids are only available for the observation period as an absolute value. Observation data according to the 30-year climate normal periods in the observation period 1961-2020 as well as future projections for 2031-2060 and 2071-2100 are available for the actual forest vegetation period. The climate projections of the future are structured according to the climate scenarios RCP2.6, RCP4.5 and RCP8.5. In addition to the absolute mean values, the so-called delta change grids are also displayed. For the observation grids changes compared to the climate normal period 1991-2020 are shown, for the projection grids of the two future periods the changes compared to the reference period 1971-2000. The strength of the possible climate signal is divided according to the 15th, 50th and 85th scenarios. Another group layer also shows the mean precipitation total in the actual forest vegetation period. Data source: German Weather Service (DWD); Sources of climate projection data: Brienen et al. (2020), Krähenmann (2019)
+
+## Identity
+
+- **Record id**: `dea:data-product-7d2706ba-42a1-4b43-8653-694b03-climate-atla-67ez33`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/7d2706ba-42a1-4b43-8653-694b03ae980a (data.europa.eu dataset 7d2706ba-42a1-4b43-8653-694b03ae980a; publisher: LANUK NRW)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,0 +1,31 @@
+# Road transport; transported weight by EU road hauliers; 2005-2019
+
+> This table contains data on the cargo weight carried by road hauliers from the European Union. The table shows the total cargo carried for each EU Member State, both domestic and international. As of February 2020, the United Kingdom is no longer part of the EU. This table is therefore discontinued and replaced by the new table: Road transport; weight transported by road hauliers from the European Union. For the link to the relevant table, see paragraph 3. Data available from: 2005 to 2019 Status of figures: The figures in this table are final. Changes as of 9 February 2022: Data for 2017, 2018 and 2019 are now final. When will there be new figures? Not, the table is stopped.
+
+## Identity
+
+- **Record id**: `dea:data-product-1194-wegvervoer-vervoerd-gewic-road-transpo-pekgvx`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/1194-wegvervoer-vervoerd-gewicht-door-wegtransporteurs-uit-de-europese-unie (data.europa.eu dataset 1194-wegvervoer-vervoerd-gewicht-door-wegtransporteurs-uit-de-europese-unie; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

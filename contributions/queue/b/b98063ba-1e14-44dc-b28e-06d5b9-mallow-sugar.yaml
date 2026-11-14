@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu b98063ba-1e14-44dc-b28e-06d5b929f700
 name: Mallow (Sugar Factory) Climate Data
-description: Daily and monthly climatalogical records for our station at Mallow (Sugar Factory) in Co.
-  Cork. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Mallow (Sugar
+  Factory) in Co. Cork. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b98063ba-1e14-44dc-b28e-06d5b929f700 (data.europa.eu
-      dataset b98063ba-1e14-44dc-b28e-06d5b929f700; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b98063ba-1e14-44dc-b28e-06d5b929f700
+      (data.europa.eu dataset b98063ba-1e14-44dc-b28e-06d5b929f700; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: b98063ba-1e14-44dc-b28e-06d5b9-mallow-sugar
+assigned_id: dea:data-product-b98063ba-1e14-44dc-b28e-06d5b9-mallow-sugar-xf8a4m
+admitted: '2026-11-14'

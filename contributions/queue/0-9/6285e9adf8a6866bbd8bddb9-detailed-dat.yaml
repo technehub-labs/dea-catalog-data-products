@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: https://www.statistiques.developpement-durable.gouv.fr/resultats-de
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6285e9adf8a6866bbd8bddb9 (data.europa.eu dataset
-      6285e9adf8a6866bbd8bddb9; publisher: Mobility)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6285e9adf8a6866bbd8bddb9 (data.europa.eu
+      dataset 6285e9adf8a6866bbd8bddb9; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obility
 slug: 6285e9adf8a6866bbd8bddb9-detailed-dat
+assigned_id: dea:data-product-6285e9adf8a6866bbd8bddb9-detailed-dat-gk3tyx
+admitted: '2026-11-14'

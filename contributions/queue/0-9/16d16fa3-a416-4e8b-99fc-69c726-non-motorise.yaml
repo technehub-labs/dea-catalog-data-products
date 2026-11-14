@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 16d16fa3-a416-4e8b-99fc-69c7267f134d-bundesamt-fur-strassen-astra
 name: Non-motorised transport - Veloland Schweiz
-description: “Veloland Schweiz” from SchweizMobil comprises the national, regional and local cycling routes
-  in Switzerland and Liechtenstein. This data set is published in accordance with the Geoinformation Ordinance
-  as part of the geo data set “Cycling networks”. It is compiled in conjunction with the Federal Roads
-  Office, FEDRO, SchweizMobil and the cantons.
+description: “Veloland Schweiz” from SchweizMobil comprises the national, regional
+  and local cycling routes in Switzerland and Liechtenstein. This data set is published
+  in accordance with the Geoinformation Ordinance as part of the geo data set “Cycling
+  networks”. It is compiled in conjunction with the Federal Roads Office, FEDRO, SchweizMobil
+  and the cantons.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/16d16fa3-a416-4e8b-99fc-69c7267f134d-bundesamt-fur-strassen-astra
-      (data.europa.eu dataset 16d16fa3-a416-4e8b-99fc-69c7267f134d-bundesamt-fur-strassen-astra; publisher:
-      SwitzerlandMobility Foundation)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 16d16fa3-a416-4e8b-99fc-69c7267f134d-bundesamt-fur-strassen-astra;
+      publisher: SwitzerlandMobility Foundation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - witzerlandobility-ou
 slug: 16d16fa3-a416-4e8b-99fc-69c726-non-motorise
+assigned_id: dea:data-product-16d16fa3-a416-4e8b-99fc-69c726-non-motorise-v7ews2
+admitted: '2026-11-14'

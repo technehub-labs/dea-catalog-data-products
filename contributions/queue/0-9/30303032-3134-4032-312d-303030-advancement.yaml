@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 30303032-3134-4032-312d-303030380000
-name: Advancement BAföG - Supported Persons (Authorisation):Germany, Years, Full/Part-time, Gender,Educational
-  Qualifications, Continuing Education Institutions
-description: Advancement BAföG - Supported Persons (Authorisation):Germany, Years, Full/Part-time, Gender,Educational
-  Qualifications, Continuing Education Institutions
+name: Advancement BAföG - Supported Persons (Authorisation):Germany, Years, Full/Part-time,
+  Gender,Educational Qualifications, Continuing Education Institutions
+description: Advancement BAföG - Supported Persons (Authorisation):Germany, Years,
+  Full/Part-time, Gender,Educational Qualifications, Continuing Education Institutions
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/30303032-3134-4032-312d-303030380000 (data.europa.eu
-      dataset 30303032-3134-4032-312d-303030380000; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/30303032-3134-4032-312d-303030380000
+      (data.europa.eu dataset 30303032-3134-4032-312d-303030380000; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 30303032-3134-4032-312d-303030-advancement
+assigned_id: dea:data-product-30303032-3134-4032-312d-303030-advancement-dmqaut
+admitted: '2026-11-14'

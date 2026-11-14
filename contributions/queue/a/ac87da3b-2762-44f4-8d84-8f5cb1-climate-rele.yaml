@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Climate-relevant types of use in the urban area of Soest
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ac87da3b-2762-44f4-8d84-8f5cb1e936c0 (data.europa.eu
-      dataset ac87da3b-2762-44f4-8d84-8f5cb1e936c0; publisher: Stadt Soest)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ac87da3b-2762-44f4-8d84-8f5cb1e936c0
+      (data.europa.eu dataset ac87da3b-2762-44f4-8d84-8f5cb1e936c0; publisher: Stadt
+      Soest)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadt-oest
 slug: ac87da3b-2762-44f4-8d84-8f5cb1-climate-rele
+assigned_id: dea:data-product-ac87da3b-2762-44f4-8d84-8f5cb1-climate-rele-g5vh95
+admitted: '2026-11-14'

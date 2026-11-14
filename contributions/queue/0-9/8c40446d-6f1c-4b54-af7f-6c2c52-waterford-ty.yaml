@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 8c40446d-6f1c-4b54-af7f-6c2c5233a2fa
 name: Waterford (Tycor) Climate Data
-description: Daily and monthly climatalogical records for our station at Waterford (Tycor) in Co. Waterford.
+description: Daily and monthly climatalogical records for our station at Waterford
+  (Tycor) in Co. Waterford.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/8c40446d-6f1c-4b54-af7f-6c2c5233a2fa (data.europa.eu
-      dataset 8c40446d-6f1c-4b54-af7f-6c2c5233a2fa; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/8c40446d-6f1c-4b54-af7f-6c2c5233a2fa
+      (data.europa.eu dataset 8c40446d-6f1c-4b54-af7f-6c2c5233a2fa; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 8c40446d-6f1c-4b54-af7f-6c2c52-waterford-ty
+assigned_id: dea:data-product-8c40446d-6f1c-4b54-af7f-6c2c52-waterford-ty-mv3h65
+admitted: '2026-11-14'

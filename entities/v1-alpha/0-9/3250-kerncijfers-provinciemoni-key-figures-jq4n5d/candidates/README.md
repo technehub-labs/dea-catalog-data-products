@@ -1,0 +1,31 @@
+# Key figures province monitor
+
+> The joint provinces have taken the initiative to create a website together to make it possible to obtain data on provinces among themselves to compare. Since 2007, the InterProvincial Consultation (IPO) took the lead for this monitor. CBS has compiled a large number of data for this monitor. Partly the data is derived directly from StatLine, partly it is edited data from StatLine tables and in part the results are the result of customization. In this table, the data are CBS is included. This concerns data on municipal reclassifications, population, housing, finance, economy, surface and traffic and transport. Data available from: 2006. Frequency: stopped. The table has been discontinued, no changes or additions are found place. Changes compared to the previous version: Figures for 2009 have been added on the following topics: - Municipal reclassifications; - Population; - Homes; - Traffic and transport; - Surface area. Financial figures for 2008 have been included. Figures for the economy for 2006, 2007 and 2008 are included. Figures on traffic casualties have been removed. Instead, they are figures on road fatalities included
+
+## Identity
+
+- **Record id**: `dea:data-product-3250-kerncijfers-provinciemoni-key-figures-jq4n5d`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/3250-kerncijfers-provinciemonitor (data.europa.eu dataset 3250-kerncijfers-provinciemonitor; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

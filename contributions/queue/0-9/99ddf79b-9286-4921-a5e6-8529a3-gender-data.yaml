@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 99ddf79b-9286-4921-a5e6-8529a389c786
 name: Gender Data Report Berlin 2020 - Health
-description: Health data with a closer look at gender distributions for 2020 in Berlin. These include
-  health risks, full-inpatient treatment cases, abortions, childbirth, severe disability and causes of
-  death.
+description: Health data with a closer look at gender distributions for 2020 in Berlin.
+  These include health risks, full-inpatient treatment cases, abortions, childbirth,
+  severe disability and causes of death.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/99ddf79b-9286-4921-a5e6-8529a389c786 (data.europa.eu
-      dataset 99ddf79b-9286-4921-a5e6-8529a389c786; publisher: Senatsverwaltung für Arbeit, Soziales,
-      Gleichstellung, Integration, Vielfalt und Antidiskriminierung)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/99ddf79b-9286-4921-a5e6-8529a389c786
+      (data.europa.eu dataset 99ddf79b-9286-4921-a5e6-8529a389c786; publisher: Senatsverwaltung
+      für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enatsverwaltung-fr-r
 slug: 99ddf79b-9286-4921-a5e6-8529a3-gender-data
+assigned_id: dea:data-product-99ddf79b-9286-4921-a5e6-8529a3-gender-data-e8z6kf
+admitted: '2026-11-14'

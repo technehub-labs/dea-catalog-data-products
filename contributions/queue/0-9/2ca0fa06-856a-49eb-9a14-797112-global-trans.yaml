@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2ca0fa06-856a-49eb-9a14-797112cc6302
 name: Global Transnational Mobility Dataset
-description: Estimates of country-to-country cross-border human mobility ("trips") on the basis of global
-  statistics on tourism and air passenger traffic. The two sources are adjusted and merged, resulting
-  into a set of data that covers more than 15 billion estimated trips over the years 2011 to 2016. The
-  work was jointly carried out by the European Commission Knowledge Centre on Migration and Demography
-  (KCMD) and the European University Institute (EUI) Migration Policy Centre (MPC) as part of the Global
-  Mobilities Project (GMP).
+description: Estimates of country-to-country cross-border human mobility ("trips")
+  on the basis of global statistics on tourism and air passenger traffic. The two
+  sources are adjusted and merged, resulting into a set of data that covers more than
+  15 billion estimated trips over the years 2011 to 2016. The work was jointly carried
+  out by the European Commission Knowledge Centre on Migration and Demography (KCMD)
+  and the European University Institute (EUI) Migration Policy Centre (MPC) as part
+  of the Global Mobilities Project (GMP).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2ca0fa06-856a-49eb-9a14-797112cc6302 (data.europa.eu
-      dataset 2ca0fa06-856a-49eb-9a14-797112cc6302; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2ca0fa06-856a-49eb-9a14-797112cc6302
+      (data.europa.eu dataset 2ca0fa06-856a-49eb-9a14-797112cc6302; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 2ca0fa06-856a-49eb-9a14-797112-global-trans
+assigned_id: dea:data-product-2ca0fa06-856a-49eb-9a14-797112-global-trans-usdcmd
+admitted: '2026-11-14'

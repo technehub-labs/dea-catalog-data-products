@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 66f4195d998e27b458c23fa8
-name: Blueprint for charging infrastructure for electric vehicles and plug-in hybrids (Morbihan Energies
-  Organisation)
-description: This dataset meets the specifications of the diagram "Managing framework for charging infrastructure
-  for electric and plug-in hybrid vehicles" available on the website [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-sdirve)
+name: Blueprint for charging infrastructure for electric vehicles and plug-in hybrids
+  (Morbihan Energies Organisation)
+description: This dataset meets the specifications of the diagram "Managing framework
+  for charging infrastructure for electric and plug-in hybrid vehicles" available
+  on the website [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-sdirve)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/66f4195d998e27b458c23fa8 (data.europa.eu dataset
-      66f4195d998e27b458c23fa8; publisher: Morbihan énergies)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/66f4195d998e27b458c23fa8 (data.europa.eu
+      dataset 66f4195d998e27b458c23fa8; publisher: Morbihan énergies)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - orbihan-nergies
 slug: 66f4195d998e27b458c23fa8-blueprint-fo
+assigned_id: dea:data-product-66f4195d998e27b458c23fa8-blueprint-fo-35qvjz
+admitted: '2026-11-14'

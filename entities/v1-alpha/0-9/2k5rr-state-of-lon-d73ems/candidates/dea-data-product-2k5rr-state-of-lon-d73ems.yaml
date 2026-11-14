@@ -1,0 +1,43 @@
+id: dea:data-product-2k5rr-state-of-lon-d73ems
+type: DataProduct
+name: State of London
+description: '<dp-prose> <p>The <a href="https://apps.london.gov.uk/state-of-london/"><strong>State
+  of London report</strong> </a>brings together over 100 datasets about life in the
+  capital &ndash; covering its economy, environment, housing market, and social outcomes
+  such as health and education, among many other topics.</p> <p>Published annually
+  by the GLA&rsquo;s City Intelligence Unit, the report&rsquo;s ten chapters provide
+  an array of charts and data, organised around the outcomes the Mayor of London wants
+  to achieve for the city. Together, these indicators provide a shared evidence base
+  to inform discussion, scrutiny and decision-making about London&rsquo;s future.</p>
+  <p>The report is best viewed online: <a href="https://apps.london.gov.uk/state-of-london/">https://apps.london.gov.uk/state-of-london/</a></p>
+  <p>Previous editions of the report are available to download in PDF format below.</p>
+  <p>We welcome feedback on the report via email to: <a href="mailto:intelligence@london.gov.uk">intelligence@london.gov.uk</a>.</p>
+  </dp-prose>'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2k5rr (data.europa.eu dataset
+      2k5rr; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

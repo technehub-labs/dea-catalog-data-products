@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: 'An Garda Síochána Organisational Structure Level 1: Diversity St
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/1a843f93-8f9a-4581-8d21-5aa34a411ac1 (data.europa.eu
-      dataset 1a843f93-8f9a-4581-8d21-5aa34a411ac1; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/1a843f93-8f9a-4581-8d21-5aa34a411ac1
+      (data.europa.eu dataset 1a843f93-8f9a-4581-8d21-5aa34a411ac1; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 1a843f93-8f9a-4581-8d21-5aa34a-ags01-an-gar
+assigned_id: dea:data-product-1a843f93-8f9a-4581-8d21-5aa34a-ags01-an-gar-pwtm2w
+admitted: '2026-11-14'

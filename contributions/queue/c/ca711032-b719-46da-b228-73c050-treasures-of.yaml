@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Description of landscapes and versatile nature of Latvia
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ca711032-b719-46da-b228-73c050b6bcce (data.europa.eu
-      dataset ca711032-b719-46da-b228-73c050b6bcce; publisher: Latvijas Institūts)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ca711032-b719-46da-b228-73c050b6bcce
+      (data.europa.eu dataset ca711032-b719-46da-b228-73c050b6bcce; publisher: Latvijas
+      Institūts)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - atvijas-nstitts
 slug: ca711032-b719-46da-b228-73c050-treasures-of
+assigned_id: dea:data-product-ca711032-b719-46da-b228-73c050-treasures-of-st2tb5
+admitted: '2026-11-14'

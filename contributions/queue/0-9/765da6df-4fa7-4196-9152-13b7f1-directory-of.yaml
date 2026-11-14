@@ -1,21 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 765da6df-4fa7-4196-9152-13b7f1110be4
-name: Directory of enterprises, institutions (institutions) and organizations of the information manager
-  and organizations belonging to the sphere of his management, including their identification codes, of
-description: 'The set contains: Organizations - information about the Department of Health ’ and Medical
-  Services of Cherkasy City Council. OrganizationalUnits — directory of the Department of Health’ and
-  Medical Services of Cherkasy City Council. Posts — Directory of officials of the Department of Health
-  ’ and Medical Services of Cherkasy City Council'
+name: Directory of enterprises, institutions (institutions) and organizations of the
+  information manager and organizations belonging to the sphere of his management,
+  including their identification codes, of
+description: 'The set contains: Organizations - information about the Department of
+  Health ’ and Medical Services of Cherkasy City Council. OrganizationalUnits — directory
+  of the Department of Health’ and Medical Services of Cherkasy City Council. Posts
+  — Directory of officials of the Department of Health ’ and Medical Services of Cherkasy
+  City Council'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/765da6df-4fa7-4196-9152-13b7f1110be4 (data.europa.eu
-      dataset 765da6df-4fa7-4196-9152-13b7f1110be4; publisher: Черкаська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/765da6df-4fa7-4196-9152-13b7f1110be4
+      (data.europa.eu dataset 765da6df-4fa7-4196-9152-13b7f1110be4; publisher: Черкаська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 765da6df-4fa7-4196-9152-13b7f1-directory-of
+assigned_id: dea:data-product-765da6df-4fa7-4196-9152-13b7f1-directory-of-bufpyf
+admitted: '2026-11-14'

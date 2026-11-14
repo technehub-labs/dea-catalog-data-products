@@ -1,0 +1,40 @@
+id: dea:data-product-b0dd7d39-8eb5-4710-b46c-6a0db4-psra-dublin-zgdmhm
+type: DataProduct
+name: PSRA - Dublin Residential Property Price Register
+description: 'The Residential Property Price Register is produced by the Property
+  Services Regulatory Authority (PSRA) pursuant to section 86 of the Property Services
+  (Regulation) Act 2011. It includes Date of Sale, Price and Address of all residential
+  properties purchased in Ireland since the 1st January 2010, as declared to the Revenue
+  Commissioners for stamp duty purposes. It is important to note that the Register
+  is not intended as a "Property Price Index". Please also note the data available
+  in the resources below only relates to Dublin and is a subset of a much larger register.
+  Any queries relating to the data within the resources should be directed to: info@psr.ie'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b0dd7d39-8eb5-4710-b46c-6a0db49e64af
+      (data.europa.eu dataset b0dd7d39-8eb5-4710-b46c-6a0db49e64af; publisher: Property
+      Services Regulatory Authority)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- roperty-ervices-egul

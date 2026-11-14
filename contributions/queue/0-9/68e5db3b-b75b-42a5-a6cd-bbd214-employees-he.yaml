@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 68e5db3b-b75b-42a5-a6cd-bbd214f66724~~1
 name: Employees Heading
-description: List of employees of Alsia (Agency Lucana of Development and Innovation in Agriculture)
+description: List of employees of Alsia (Agency Lucana of Development and Innovation
+  in Agriculture)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/68e5db3b-b75b-42a5-a6cd-bbd214f66724~~1 (data.europa.eu
-      dataset 68e5db3b-b75b-42a5-a6cd-bbd214f66724~~1; publisher: Regione Basilicata)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/68e5db3b-b75b-42a5-a6cd-bbd214f66724~~1
+      (data.europa.eu dataset 68e5db3b-b75b-42a5-a6cd-bbd214f66724~~1; publisher:
+      Regione Basilicata)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - egione-asilicata
 slug: 68e5db3b-b75b-42a5-a6cd-bbd214-employees-he
+assigned_id: dea:data-product-68e5db3b-b75b-42a5-a6cd-bbd214-employees-he-fdkvba
+admitted: '2026-11-14'

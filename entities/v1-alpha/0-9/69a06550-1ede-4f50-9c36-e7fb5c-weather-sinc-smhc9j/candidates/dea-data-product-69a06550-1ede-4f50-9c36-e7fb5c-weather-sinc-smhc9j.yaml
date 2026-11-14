@@ -1,0 +1,35 @@
+id: dea:data-product-69a06550-1ede-4f50-9c36-e7fb5c-weather-sinc-smhc9j
+type: DataProduct
+name: Weather since 1872 Hohe Warte Vienna
+description: 'Monthly weather data of the measuring station Hohe Warte on air temperature,
+  air pressure, cloudiness, wind speed and precipitation since April 1872 - Vienna
+  Information on the methodological basis: <ahref="https://www.wien.gv.at/statistics/weather/#erlaeuterungen">https://www.wien.gv.at/statistics/weather/#erlaeuterungen</a>
+  <ahref="https://www.wien.gv.at/statistics/weather/#definitions">https://www.wien.gv.at/statistics/weather/#definitions</a>'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/69a06550-1ede-4f50-9c36-e7fb5cf6e7e8
+      (data.europa.eu dataset 69a06550-1ede-4f50-9c36-e7fb5cf6e7e8; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

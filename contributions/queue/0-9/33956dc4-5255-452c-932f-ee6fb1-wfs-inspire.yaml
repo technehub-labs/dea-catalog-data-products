@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 33956dc4-5255-452c-932f-ee6fb1ee64d5
 name: WFS INSPIRE PLU Education Center II
-description: WFS INSPIRE PLU Education Center II — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by the publishing body.
+description: WFS INSPIRE PLU Education Center II — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by the publishing body.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/33956dc4-5255-452c-932f-ee6fb1ee64d5 (data.europa.eu
-      dataset 33956dc4-5255-452c-932f-ee6fb1ee64d5; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/33956dc4-5255-452c-932f-ee6fb1ee64d5
+      (data.europa.eu dataset 33956dc4-5255-452c-932f-ee6fb1ee64d5; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 33956dc4-5255-452c-932f-ee6fb1-wfs-inspire
+assigned_id: dea:data-product-33956dc4-5255-452c-932f-ee6fb1-wfs-inspire-e6vtaj
+admitted: '2026-11-14'

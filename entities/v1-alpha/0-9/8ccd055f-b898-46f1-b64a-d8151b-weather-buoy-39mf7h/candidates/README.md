@@ -1,0 +1,31 @@
+# Weather Buoy Network
+
+> The Irish Weather Buoy Network is a network of 5 weather buoys around Ireland. These weather buoys are moored surface buoys with instruments which collect weather and ocean data including air temperature, atmospheric humidity, sea surface temperature, sea temperature and salinity on moored chain, wave statistics and wind speed/direction. The Weather Buoys are located in marine waters around Ireland including M2 off Co. Dublin in the Irish Sea, M3 in the south-east off Co. Wexford, M4 in the northwest off Co. Donegal, M5 off the southwest coastline of Co. Cork and M6 in deep ocean 200 nautical miles west of Slyne Head Co. Galway. The first weather buoy was deployed in 2001 and the network added to in 2002, 2003, 2004 and 2006. There is, in addition, historical data from M1 between 2001-2007. The weather buoy platforms stationed at each node of the network are serviced once per year. The basis of operations is the Marine Institute technical support base located in Galway’s new dock. This is an onerous task as a freshly serviced and refurbished buoy and mooring are located on site, with the existing buoy being simultaneously recovered. A wide variety of vessels are used ranging from the nations ships (RV Celtic Voyager and RV Celtic Explorer) to a variety of privately run vessels and crews. The Weather Buoy network has been established to improve predictive weather forecasting. The weather buoy project has consisted of a team drawn together under an MOU between Department Transport Tourism and Sport (DTTAS), Marine Institute (MI), Met Eireann and the UK Met Office. There have been incomplete data observations for periods when the weather buoys were offline for maintenance and or damage from adverse weather conditions such as storms.
+
+## Identity
+
+- **Record id**: `dea:data-product-8ccd055f-b898-46f1-b64a-d8151b-weather-buoy-39mf7h`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/8ccd055f-b898-46f1-b64a-d8151b4cd32d (data.europa.eu dataset 8ccd055f-b898-46f1-b64a-d8151b4cd32d; publisher: Marine Institute)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

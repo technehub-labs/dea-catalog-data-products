@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 30303031-3431-4032-312d-303030340000
-name: 'Valid second votes (Representative Bundestag election statistics): Federal states, reference date,
-  parties, gender'
-description: 'Valid second votes (Representative Bundestag election statistics): Federal states, reference
-  date, parties, gender'
+name: 'Valid second votes (Representative Bundestag election statistics): Federal
+  states, reference date, parties, gender'
+description: 'Valid second votes (Representative Bundestag election statistics): Federal
+  states, reference date, parties, gender'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/30303031-3431-4032-312d-303030340000 (data.europa.eu
-      dataset 30303031-3431-4032-312d-303030340000; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/30303031-3431-4032-312d-303030340000
+      (data.europa.eu dataset 30303031-3431-4032-312d-303030340000; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 30303031-3431-4032-312d-303030-valid-second
+assigned_id: dea:data-product-30303031-3431-4032-312d-303030-valid-second-uvnnc4
+admitted: '2026-11-14'

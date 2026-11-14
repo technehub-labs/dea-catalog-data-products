@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu camden-profile-latest1
 name: Camden Profile (latest)
-description: 'The Camden Profile provides an up-to-date analysis across a range of the latest available
-  demographic statistics for the borough. If you require further information about the statistics covered
-  in the Camden Profile please email population@camden.gov.uk. Copyright: The data contained is covered
-  by various copyrights which are included as footnotes within the document.'
+description: 'The Camden Profile provides an up-to-date analysis across a range of
+  the latest available demographic statistics for the borough. If you require further
+  information about the statistics covered in the Camden Profile please email population@camden.gov.uk.
+  Copyright: The data contained is covered by various copyrights which are included
+  as footnotes within the document.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/camden-profile-latest1 (data.europa.eu dataset camden-profile-latest1;
-      publisher: London Borough of Camden)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/camden-profile-latest1 (data.europa.eu
+      dataset camden-profile-latest1; publisher: London Borough of Camden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ondon-orough-of-amde
 slug: camden-profile-latest1-camden-profi
+assigned_id: dea:data-product-camden-profile-latest1-camden-profi-kaw738
+admitted: '2026-11-14'

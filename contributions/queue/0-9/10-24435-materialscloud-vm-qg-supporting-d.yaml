@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 10-24435_materialscloud-vm-qg-materialscloud
-name: Supporting data for "Many-body first principles calculations of carrier mobility with record accuracy
-  using GW perturbation theory"
-description: 'Abstract [Accepted in Phys. Rev. Lett.]: Accurate prediction of carrier mobility is critical
-  for the discovery and design of next-generation electronic materials. Despite sustained progress, state-of-the-art
-  ab initio methods remain limited by the approximate treatment of electron-phonon interactions at the
-  density functional theory level. Here, we demonstrate that incorporating many-body GW corrections to
-  both the electronic band structure and electron-phonon couplings when solving the ab initio Boltzmann
-  transport equation yields a mean absolute relative error of just 11% for electron mobilities across
-  benchmark semiconductors, including Si, GaAs, GaP, diamond, and SiC. The common practice of neglecting
-  GW corrections to the electron–phonon interaction can lead to mobility errors exceeding 50%. The present
-  findings highlight the importance of many-body self-energy effects in carrier transport simulations,
-  and provides fundamental insights into how many-body electron--phonon interactions govern charge transport
-  in crystalline solids.'
+name: Supporting data for "Many-body first principles calculations of carrier mobility
+  with record accuracy using GW perturbation theory"
+description: 'Abstract [Accepted in Phys. Rev. Lett.]: Accurate prediction of carrier
+  mobility is critical for the discovery and design of next-generation electronic
+  materials. Despite sustained progress, state-of-the-art ab initio methods remain
+  limited by the approximate treatment of electron-phonon interactions at the density
+  functional theory level. Here, we demonstrate that incorporating many-body GW corrections
+  to both the electronic band structure and electron-phonon couplings when solving
+  the ab initio Boltzmann transport equation yields a mean absolute relative error
+  of just 11% for electron mobilities across benchmark semiconductors, including Si,
+  GaAs, GaP, diamond, and SiC. The common practice of neglecting GW corrections to
+  the electron–phonon interaction can lead to mobility errors exceeding 50%. The present
+  findings highlight the importance of many-body self-energy effects in carrier transport
+  simulations, and provides fundamental insights into how many-body electron--phonon
+  interactions govern charge transport in crystalline solids.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/10-24435_materialscloud-vm-qg-materialscloud (data.europa.eu
-      dataset 10-24435_materialscloud-vm-qg-materialscloud; publisher: Materials Cloud)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/10-24435_materialscloud-vm-qg-materialscloud
+      (data.europa.eu dataset 10-24435_materialscloud-vm-qg-materialscloud; publisher:
+      Materials Cloud)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - aterials-loud
 slug: 10-24435-materialscloud-vm-qg-supporting-d
+assigned_id: dea:data-product-10-24435-materialscloud-vm-qg-supporting-d-sfmje4
+admitted: '2026-11-14'

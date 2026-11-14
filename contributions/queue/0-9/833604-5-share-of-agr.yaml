@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 833604-5
 name: Share of agriculture and fisheries (without carers) among self-employed
-description: 'The indicator reports the number of self-employed persons (including carers) practising
-  a liberal profession (doctors, lawyers, etc.) in total self-employed persons, as at 31 December. See
-  also: - Other indicators relating to self-employment are available under the theme ''Labour market''
-  and focus instead on the characteristics of the worker. - The professions are detailed in the nomenclature
-  of professions used by INASTI, which can be consulted on their "[\2](\1)".'
+description: 'The indicator reports the number of self-employed persons (including
+  carers) practising a liberal profession (doctors, lawyers, etc.) in total self-employed
+  persons, as at 31 December. See also: - Other indicators relating to self-employment
+  are available under the theme ''Labour market'' and focus instead on the characteristics
+  of the worker. - The professions are detailed in the nomenclature of professions
+  used by INASTI, which can be consulted on their "[\2](\1)".'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/833604-5 (data.europa.eu dataset 833604-5; publisher:
-      IWEPS)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/833604-5 (data.europa.eu dataset
+      833604-5; publisher: IWEPS)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 833604-5-share-of-agr
+assigned_id: dea:data-product-833604-5-share-of-agr-2smmh2
+admitted: '2026-11-14'

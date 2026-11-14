@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36880232-bundesamt-fur-statistik-bfs
-name: 'Hotel sector: arrivals and overnight stays of open establishments by year, month, tourist region
-  and visitors'' country of residence'
-description: This dataset presents the monthly data of arrivals and overnight stays in the hotel sector
-  for open establishments by tourist region and visitors' country of residence, since 2005.
+name: 'Hotel sector: arrivals and overnight stays of open establishments by year,
+  month, tourist region and visitors'' country of residence'
+description: This dataset presents the monthly data of arrivals and overnight stays
+  in the hotel sector for open establishments by tourist region and visitors' country
+  of residence, since 2005.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36880232-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36880232-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36880232-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36880232-bundesamt-fur-statistik-bfs; publisher: Bundesamt
+      für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesamt-fr-tatistik
 slug: 36880232-bundesamt-fur-statist-hotel-sector
+assigned_id: dea:data-product-36880232-bundesamt-fur-statist-hotel-sector-76z3mm
+admitted: '2026-11-14'

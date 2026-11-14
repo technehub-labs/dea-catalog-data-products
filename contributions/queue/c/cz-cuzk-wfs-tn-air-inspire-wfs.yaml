@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cz-cuzk-wfs-tn_air
 name: INSPIRE WFS Download service for the theme Transport Networks-AIR (TN_AIR)
-description: The INSPIRE Download Service for the Transport Networks – AIR (TN_AIR) theme is a service
-  that allows users to repeatedly download data using WFS 2.0.0 technology. The download service provides
-  harmonised INSPIRE data for the Transport Networks – AIR (TN_AIR) theme, corresponding to the INSPIRE
-  XML schema version 4.0 and the ELF XML schema version 1.0. Data are provided in GML 3.2.1 format. This
-  dataset of transport networks of the Czech Republic therefore has a unified structure with other data
-  created for this INSPIRE theme across Europe. The basis of the dataset is the Fundamental Base of Geographic
-  Data of the Czech Republic (ZABAGED®). The service complies with the Technical Guidance for the Implementation
-  of INSPIRE Download Services, version 3.1, and also with the OGC Standard for WFS 2.0.0.
+description: The INSPIRE Download Service for the Transport Networks – AIR (TN_AIR)
+  theme is a service that allows users to repeatedly download data using WFS 2.0.0
+  technology. The download service provides harmonised INSPIRE data for the Transport
+  Networks – AIR (TN_AIR) theme, corresponding to the INSPIRE XML schema version 4.0
+  and the ELF XML schema version 1.0. Data are provided in GML 3.2.1 format. This
+  dataset of transport networks of the Czech Republic therefore has a unified structure
+  with other data created for this INSPIRE theme across Europe. The basis of the dataset
+  is the Fundamental Base of Geographic Data of the Czech Republic (ZABAGED®). The
+  service complies with the Technical Guidance for the Implementation of INSPIRE Download
+  Services, version 3.1, and also with the OGC Standard for WFS 2.0.0.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cz-cuzk-wfs-tn_air (data.europa.eu dataset cz-cuzk-wfs-tn_air;
-      publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cz-cuzk-wfs-tn_air (data.europa.eu
+      dataset cz-cuzk-wfs-tn_air; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: cz-cuzk-wfs-tn-air-inspire-wfs
+assigned_id: dea:data-product-cz-cuzk-wfs-tn-air-inspire-wfs-h3duwy
+admitted: '2026-11-14'

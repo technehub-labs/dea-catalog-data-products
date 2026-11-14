@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c18decab-356e-4bc1-8924-1b9a99f2570b
 name: Directory of the Municipal Enterprise "Dnipro Municipal Energy Service Company"
-description: OrganizationalUnits — directory of structural subdivisions of the Municipal Enterprise "Dnipro
-  Municipal Energy Service Company "Dnipro City Council. Posts — Directory of officials of the Municipal
-  Enterprise "Dnipro Municipal Energy Service Company"
+description: OrganizationalUnits — directory of structural subdivisions of the Municipal
+  Enterprise "Dnipro Municipal Energy Service Company "Dnipro City Council. Posts
+  — Directory of officials of the Municipal Enterprise "Dnipro Municipal Energy Service
+  Company"
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c18decab-356e-4bc1-8924-1b9a99f2570b (data.europa.eu
-      dataset c18decab-356e-4bc1-8924-1b9a99f2570b; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c18decab-356e-4bc1-8924-1b9a99f2570b
+      (data.europa.eu dataset c18decab-356e-4bc1-8924-1b9a99f2570b; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: c18decab-356e-4bc1-8924-1b9a99-directory-of
+assigned_id: dea:data-product-c18decab-356e-4bc1-8924-1b9a99-directory-of-t254mb
+admitted: '2026-11-14'

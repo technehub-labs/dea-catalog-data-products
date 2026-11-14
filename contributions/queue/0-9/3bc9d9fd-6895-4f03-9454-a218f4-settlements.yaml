@@ -1,17 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3bc9d9fd-6895-4f03-9454-a218f4c12103
 name: Settlements with debtors KP "Green Economy"
-description: Accounting for settlements with debtors of the municipal enterprise "Green Economy"
+description: Accounting for settlements with debtors of the municipal enterprise "Green
+  Economy"
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3bc9d9fd-6895-4f03-9454-a218f4c12103 (data.europa.eu
-      dataset 3bc9d9fd-6895-4f03-9454-a218f4c12103; publisher: Дубенська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3bc9d9fd-6895-4f03-9454-a218f4c12103
+      (data.europa.eu dataset 3bc9d9fd-6895-4f03-9454-a218f4c12103; publisher: Дубенська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 3bc9d9fd-6895-4f03-9454-a218f4-settlements
+assigned_id: dea:data-product-3bc9d9fd-6895-4f03-9454-a218f4-settlements-msg5kc
+admitted: '2026-11-14'

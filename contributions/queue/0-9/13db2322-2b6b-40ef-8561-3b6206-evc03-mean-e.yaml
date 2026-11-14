@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 13db2322-2b6b-40ef-8561-3b620630d899~~1
 name: EVC03 - Mean Earnings in the Energy Value Chain
-description: EVC03 - Mean Earnings in the Energy Value Chain — a published dataset in the EU Open Data
-  Portal (data.europa.eu), maintained by Central Statistics Office.
+description: EVC03 - Mean Earnings in the Energy Value Chain — a published dataset
+  in the EU Open Data Portal (data.europa.eu), maintained by Central Statistics Office.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/13db2322-2b6b-40ef-8561-3b620630d899~~1 (data.europa.eu
-      dataset 13db2322-2b6b-40ef-8561-3b620630d899~~1; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/13db2322-2b6b-40ef-8561-3b620630d899~~1
+      (data.europa.eu dataset 13db2322-2b6b-40ef-8561-3b620630d899~~1; publisher:
+      Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 13db2322-2b6b-40ef-8561-3b6206-evc03-mean-e
+assigned_id: dea:data-product-13db2322-2b6b-40ef-8561-3b6206-evc03-mean-e-r24jym
+admitted: '2026-11-14'

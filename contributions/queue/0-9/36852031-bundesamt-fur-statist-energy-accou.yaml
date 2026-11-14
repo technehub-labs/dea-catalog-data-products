@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36852031-bundesamt-fur-statistik-bfs
 name: Energy accounts of economy and households
-description: This dataset presents the annual energy used by the economy and the households in terajoules
-  by energy product, economic sector and activity, and the type of use of households (transport, heating),
-  since 1990.
+description: This dataset presents the annual energy used by the economy and the households
+  in terajoules by energy product, economic sector and activity, and the type of use
+  of households (transport, heating), since 1990.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36852031-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36852031-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36852031-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36852031-bundesamt-fur-statistik-bfs; publisher: Bundesamt
+      für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesamt-fr-tatistik
 slug: 36852031-bundesamt-fur-statist-energy-accou
+assigned_id: dea:data-product-36852031-bundesamt-fur-statist-energy-accou-dugvuq
+admitted: '2026-11-14'

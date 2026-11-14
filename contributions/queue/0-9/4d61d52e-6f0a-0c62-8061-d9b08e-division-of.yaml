@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4d61d52e-6f0a-0c62-8061-d9b08e1eba7a
-name: Division of marine areas according to the Marine Environment Ordinance - Areas of assessment
-description: Classification of marine areas according to the Marine Environment Ordinance (2010:1341),
-  updated 2018
+name: Division of marine areas according to the Marine Environment Ordinance - Areas
+  of assessment
+description: Classification of marine areas according to the Marine Environment Ordinance
+  (2010:1341), updated 2018
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4d61d52e-6f0a-0c62-8061-d9b08e1eba7a (data.europa.eu
-      dataset 4d61d52e-6f0a-0c62-8061-d9b08e1eba7a; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4d61d52e-6f0a-0c62-8061-d9b08e1eba7a
+      (data.europa.eu dataset 4d61d52e-6f0a-0c62-8061-d9b08e1eba7a; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4d61d52e-6f0a-0c62-8061-d9b08e-division-of
+assigned_id: dea:data-product-4d61d52e-6f0a-0c62-8061-d9b08e-division-of-ug6sgd
+admitted: '2026-11-14'

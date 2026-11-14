@@ -1,0 +1,36 @@
+id: dea:data-product-aerodrome-reports-and-forecast-aerodrome-re-5gt3er
+type: DataProduct
+name: Aerodrome Reports and Forecasts for Luxembourg-Airport (ELLX)
+description: 'METAR: Meteorological Aerodrome Report issued every 30 minutes at HH+20
+  and HH+50 TAF: Terminal Aerodrome Forecast issued every 6 hours - aeronautical forecast
+  valid for the next 30 hours LAF: Local Aerodrome Forecast issued every 3 hours -
+  aeronautical forecast valid for the next 9 hours'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/aerodrome-reports-and-forecasts-for-luxembourg-airport-ellx~~1
+      (data.europa.eu dataset aerodrome-reports-and-forecasts-for-luxembourg-airport-ellx~~1;
+      publisher: MeteoLux)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eteoux

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu census_2011
 name: Census 2011
-description: 'Census 2011 statistics providing estimates of the number and characteristics of the non-UK
-  born short-term resident population of Northern Ireland. Source agency: Northern Ireland Statistics
-  and Research Agency Designation: National Statistics Language: English Alternative title: 2011 Census
-  Northern Ireland'
+description: 'Census 2011 statistics providing estimates of the number and characteristics
+  of the non-UK born short-term resident population of Northern Ireland. Source agency:
+  Northern Ireland Statistics and Research Agency Designation: National Statistics
+  Language: English Alternative title: 2011 Census Northern Ireland'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/census_2011 (data.europa.eu dataset census_2011;
-      publisher: Northern Ireland Statistics and Research Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/census_2011 (data.europa.eu dataset
+      census_2011; publisher: Northern Ireland Statistics and Research Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - orthern-reland-tatis
 slug: census-2011-census-2011
+assigned_id: dea:data-product-census-2011-census-2011-kefqc5
+admitted: '2026-11-14'

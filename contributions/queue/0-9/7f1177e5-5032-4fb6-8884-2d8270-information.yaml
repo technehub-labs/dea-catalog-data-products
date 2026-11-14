@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 7f1177e5-5032-4fb6-8884-2d8270622f94
-name: Information on the normative and legal principles of the activities of the Kremenchuk Municipal
-  Enterprise "CPMSD No3" Kremenchuk
-description: The set contains data on the normative and legal principles of the activities of the Kremenchuk
-  Municipal Enterprise "CPMSD No. 3", namely the Charter, the decision on reorganization and its annexes,
-  the enterprise development program. An administrative document on the appointment of a responsible person
-  for the disclosure of information in the form of open data.
+name: Information on the normative and legal principles of the activities of the Kremenchuk
+  Municipal Enterprise "CPMSD No3" Kremenchuk
+description: The set contains data on the normative and legal principles of the activities
+  of the Kremenchuk Municipal Enterprise "CPMSD No. 3", namely the Charter, the decision
+  on reorganization and its annexes, the enterprise development program. An administrative
+  document on the appointment of a responsible person for the disclosure of information
+  in the form of open data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7f1177e5-5032-4fb6-8884-2d8270622f94 (data.europa.eu
-      dataset 7f1177e5-5032-4fb6-8884-2d8270622f94; publisher: Комунальне некомерційне медичне підприємство
-      "Центр первинної медико-санітарної допомоги №3", м. Кременчук)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7f1177e5-5032-4fb6-8884-2d8270622f94
+      (data.europa.eu dataset 7f1177e5-5032-4fb6-8884-2d8270622f94; publisher: Комунальне
+      некомерційне медичне підприємство "Центр первинної медико-санітарної допомоги
+      №3", м. Кременчук)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - '3'
 slug: 7f1177e5-5032-4fb6-8884-2d8270-information
+assigned_id: dea:data-product-7f1177e5-5032-4fb6-8884-2d8270-information-3a2wqp
+admitted: '2026-11-14'

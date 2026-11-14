@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 35b42279-fbbb-4ee4-a9c9-01640f87d956
-name: Service area of the communal institution "Training and educational association ’ "General education
-  school of I-III degrees No 17 – center of aesthetic education "Kalinka" of Kirovograd city council o
-description: The set contains data on the service area of the communal institution "Training and Educational
-  Association ’" General Education School of I-III Degrees No. 17 – Center for Aesthetic Education "Kalinka"
-  of the Kirovohrad City Council of the Kirovohrad region".
+name: Service area of the communal institution "Training and educational association
+  ’ "General education school of I-III degrees No 17 – center of aesthetic education
+  "Kalinka" of Kirovograd city council o
+description: The set contains data on the service area of the communal institution
+  "Training and Educational Association ’" General Education School of I-III Degrees
+  No. 17 – Center for Aesthetic Education "Kalinka" of the Kirovohrad City Council
+  of the Kirovohrad region".
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/35b42279-fbbb-4ee4-a9c9-01640f87d956 (data.europa.eu
-      dataset 35b42279-fbbb-4ee4-a9c9-01640f87d956; publisher: КЗ Фортечна гімназія Кропивницької міської
-      ради)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/35b42279-fbbb-4ee4-a9c9-01640f87d956
+      (data.europa.eu dataset 35b42279-fbbb-4ee4-a9c9-01640f87d956; publisher: КЗ
+      Фортечна гімназія Кропивницької міської ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 35b42279-fbbb-4ee4-a9c9-01640f-service-area
+assigned_id: dea:data-product-35b42279-fbbb-4ee4-a9c9-01640f-service-area-nrggq8
+admitted: '2026-11-14'

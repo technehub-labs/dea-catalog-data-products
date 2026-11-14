@@ -1,0 +1,40 @@
+id: dea:data-product-9b057251-f090-480d-bc69-c69810-usv-internat-7xr89h
+type: DataProduct
+name: USV International Mobility INCOMING ay 2024-2025
+description: This dataset contains detailed information on incoming Erasmus+ students
+  hosted by Stefan cel Mare University from Suceava during the academic year 2024-2025.
+  It includes data on students' home universities and countries, gender, study cycle,
+  mobility period, and associated departments within USV. Short-term mobilities carried
+  out under Blended Intensive Programmes (BIP), with a duration of 4–5 days, have
+  been excluded from this dataset. This decision was made to ensure analytical consistency
+  and to more accurately reflect international mobilities with significant institutional
+  impact.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9b057251-f090-480d-bc69-c69810e1768e
+      (data.europa.eu dataset 9b057251-f090-480d-bc69-c69810e1768e; publisher: “Ştefan
+      Cel Mare” University of Suceava)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- tefan-el-are-niversi

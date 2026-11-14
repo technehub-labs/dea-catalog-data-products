@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 30205646-bundesamt-fur-statistik-bfs~~1
 name: Assessment of environmental quality
-description: This table presents the population’s assessment of the quality of the environment in the
-  residential environment, in Switzerland and worldwide – by gender, age, language region, city/country,
-  level of education, nationality and financial situation.
+description: This table presents the population’s assessment of the quality of the
+  environment in the residential environment, in Switzerland and worldwide – by gender,
+  age, language region, city/country, level of education, nationality and financial
+  situation.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/30205646-bundesamt-fur-statistik-bfs~~1 (data.europa.eu
-      dataset 30205646-bundesamt-fur-statistik-bfs~~1; publisher: Bundesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/30205646-bundesamt-fur-statistik-bfs~~1
+      (data.europa.eu dataset 30205646-bundesamt-fur-statistik-bfs~~1; publisher:
+      Bundesamt für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesamt-fr-tatistik
 slug: 30205646-bundesamt-fur-statist-assessment-o
+assigned_id: dea:data-product-30205646-bundesamt-fur-statist-assessment-o-38uhxj
+admitted: '2026-11-14'

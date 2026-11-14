@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 708df8e2-d452-483e-9e57-f04027d52a17
 name: Disabled parking in Heidelberg
-description: <p>The dataset contains the georeferenced location information of the public disabled parking
-  spaces in the Heidelberg city area.</p> <p>In addition to point coordinates, the dataset contains information
-  on address, operator and notes on viewing conditions or markings of the parking area.</p>
+description: <p>The dataset contains the georeferenced location information of the
+  public disabled parking spaces in the Heidelberg city area.</p> <p>In addition to
+  point coordinates, the dataset contains information on address, operator and notes
+  on viewing conditions or markings of the parking area.</p>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/708df8e2-d452-483e-9e57-f04027d52a17 (data.europa.eu
-      dataset 708df8e2-d452-483e-9e57-f04027d52a17; publisher: Amt für Mobilität)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/708df8e2-d452-483e-9e57-f04027d52a17
+      (data.europa.eu dataset 708df8e2-d452-483e-9e57-f04027d52a17; publisher: Amt
+      für Mobilität)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - mt-fr-obilitt
 slug: 708df8e2-d452-483e-9e57-f04027-disabled-par
+assigned_id: dea:data-product-708df8e2-d452-483e-9e57-f04027-disabled-par-vvu4kn
+admitted: '2026-11-14'

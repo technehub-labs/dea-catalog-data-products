@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3751-ondervonden-delicten-pleegomgeving-en-typering-plaats-voorval-1997-2004
 name: Offences encountered; foster environment and typing place incident, 1997-2004
-description: 'Data available for the years 1997-2004 Frequency: discontinued on 1 January 2005 Status
-  of the figures final Changes compared to the previous version textual adaptations to titles, topics,
-  categories and explanations When will there be new figures? The data collection for this series has
-  been discontinued as of 1 January 2005.'
+description: 'Data available for the years 1997-2004 Frequency: discontinued on 1
+  January 2005 Status of the figures final Changes compared to the previous version
+  textual adaptations to titles, topics, categories and explanations When will there
+  be new figures? The data collection for this series has been discontinued as of
+  1 January 2005.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/3751-ondervonden-delicten-pleegomgeving-en-typering-plaats-voorval-1997-2004
       (data.europa.eu dataset 3751-ondervonden-delicten-pleegomgeving-en-typering-plaats-voorval-1997-2004;
       publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 3751-ondervonden-delicten-plee-offences-enc
+assigned_id: dea:data-product-3751-ondervonden-delicten-plee-offences-enc-eakjf4
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ae8c5de6-16c0-462a-bd99-7cc579a1c846
 name: Local Property Tax LPT statistics July 2021
-description: Local Property Tax LPT statistics July 2021 — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Revenue Commissioners.
+description: Local Property Tax LPT statistics July 2021 — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by Revenue Commissioners.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ae8c5de6-16c0-462a-bd99-7cc579a1c846 (data.europa.eu
-      dataset ae8c5de6-16c0-462a-bd99-7cc579a1c846; publisher: Revenue Commissioners)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ae8c5de6-16c0-462a-bd99-7cc579a1c846
+      (data.europa.eu dataset ae8c5de6-16c0-462a-bd99-7cc579a1c846; publisher: Revenue
+      Commissioners)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - evenue-ommissioners
 slug: ae8c5de6-16c0-462a-bd99-7cc579-local-proper
+assigned_id: dea:data-product-ae8c5de6-16c0-462a-bd99-7cc579-local-proper-pjymun
+admitted: '2026-11-14'

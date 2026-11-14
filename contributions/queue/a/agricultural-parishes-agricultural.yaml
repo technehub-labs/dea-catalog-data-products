@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu agricultural-parishes
 name: Agricultural Parishes
-description: Agricultural parishes are based on Civil Parishes which were abolished as an administrative
-  unit in Scotland in 1975. Agricultural parishes continue to be used for boundary and statistical purposes.
-  Agricultural parish boundaries were last updated in 2016. There are 891 agricultural parishes in Scotland
-  and they are used in the Agricultural Census and for the payment of farming grants and subsidies. The
-  dataset contains parish boundaries, parish names, parish codes and GSS codes (the latter were assigned
-  in September 2023 to allow for the publication of Official Statistics for this geography, although the
-  original parish codes also remain in use).
+description: Agricultural parishes are based on Civil Parishes which were abolished
+  as an administrative unit in Scotland in 1975. Agricultural parishes continue to
+  be used for boundary and statistical purposes. Agricultural parish boundaries were
+  last updated in 2016. There are 891 agricultural parishes in Scotland and they are
+  used in the Agricultural Census and for the payment of farming grants and subsidies.
+  The dataset contains parish boundaries, parish names, parish codes and GSS codes
+  (the latter were assigned in September 2023 to allow for the publication of Official
+  Statistics for this geography, although the original parish codes also remain in
+  use).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/agricultural-parishes (data.europa.eu dataset agricultural-parishes;
-      publisher: Scottish Government SpatialData.gov.scot)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/agricultural-parishes (data.europa.eu
+      dataset agricultural-parishes; publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - cottish-overnment-pa
 slug: agricultural-parishes-agricultural
+assigned_id: dea:data-product-agricultural-parishes-agricultural-mvknwt
+admitted: '2026-11-14'

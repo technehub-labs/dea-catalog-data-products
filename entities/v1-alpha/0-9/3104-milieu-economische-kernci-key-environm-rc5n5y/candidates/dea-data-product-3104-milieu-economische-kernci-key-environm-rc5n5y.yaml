@@ -1,0 +1,44 @@
+id: dea:data-product-3104-milieu-economische-kernci-key-environm-rc5n5y
+type: DataProduct
+name: Key environmental economic figures; NAMEA
+description: 'This table of key environmental economic figures shows per industry
+  in one overview to: contributions to certain environmental problems (greenhouse
+  effect, acidification, etc.), environmental expenditure (environmental costs, environmental
+  taxes, etc.) and the role in the economy (value added, volume of labour employed
+  persons, etc.). All figures come from pre-existing Statline tables. The indicators
+  presented here can be used for analysis and in support of environmental economic
+  policies. Data available from: 1995 Frequency: discontinued on 21 November 2011.
+  Status of figures The entire series is annually adjusted to the source figures from
+  the Statline tables. Changes compared to the previous version N/A Release policy
+  Stopped. This table has been replaced by a table based on the renewed sectoral classification
+  (SBI 2008). <a href="http://statline.cbs.nl/StatWeb/table.asp?PA=81409ned" >Environmental
+  accounts; key figures (SBI 2008)</a>'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3104-milieu-economische-kerncijfers-namea
+      (data.europa.eu dataset 3104-milieu-economische-kerncijfers-namea; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

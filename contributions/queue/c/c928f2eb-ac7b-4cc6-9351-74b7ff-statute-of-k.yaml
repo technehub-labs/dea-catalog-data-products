@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Statute of KNP "Vinnytsia District Center of PHC"
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c928f2eb-ac7b-4cc6-9351-74b7ff10a8ac (data.europa.eu
-      dataset c928f2eb-ac7b-4cc6-9351-74b7ff10a8ac; publisher: Комунальне некомерційне підприємство "Вінницький
-      районний медичний центр первинної медико-санітарної допомоги")'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c928f2eb-ac7b-4cc6-9351-74b7ff10a8ac
+      (data.europa.eu dataset c928f2eb-ac7b-4cc6-9351-74b7ff10a8ac; publisher: Комунальне
+      некомерційне підприємство "Вінницький районний медичний центр первинної медико-санітарної
+      допомоги")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: c928f2eb-ac7b-4cc6-9351-74b7ff-statute-of-k
+assigned_id: dea:data-product-c928f2eb-ac7b-4cc6-9351-74b7ff-statute-of-k-gwjyuu
+admitted: '2026-11-14'

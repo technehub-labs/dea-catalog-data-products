@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6f0ad54d-bed9-41f5-8900-4385f3ab4636
 name: WMS XPlanung BPL ‘Station environment II’
-description: 'WMS service of the development plan ‘BahnhofsUmgebung II’ of the municipality of Mudau from
-  XPlanung 5.0. Description: Mixed area, special area, priority use MI/SO.'
+description: 'WMS service of the development plan ‘BahnhofsUmgebung II’ of the municipality
+  of Mudau from XPlanung 5.0. Description: Mixed area, special area, priority use
+  MI/SO.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6f0ad54d-bed9-41f5-8900-4385f3ab4636 (data.europa.eu
-      dataset 6f0ad54d-bed9-41f5-8900-4385f3ab4636; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6f0ad54d-bed9-41f5-8900-4385f3ab4636
+      (data.europa.eu dataset 6f0ad54d-bed9-41f5-8900-4385f3ab4636; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 6f0ad54d-bed9-41f5-8900-4385f3-wms-xplanung
+assigned_id: dea:data-product-6f0ad54d-bed9-41f5-8900-4385f3-wms-xplanung-vyvh4r
+admitted: '2026-11-14'

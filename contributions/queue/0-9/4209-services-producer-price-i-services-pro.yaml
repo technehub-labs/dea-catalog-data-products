@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4209-services-producer-price-index-sppi-index-2015-100
 name: Services producer price index (SPPI); index 2015=100, 2002-2023
-description: 'This table shows the price indices, quarterly and yearly changes in prices of services that
-  companies provide. The figures are broken down by type of services according to the Classification of
-  Products by Activity (CPA 2008). For some services, a further breakdown has been made on the basis of
-  market data that differs from the CPA. This breakdown is simply with a letter after the CPA code. The
-  base year for all Services producer price indices is 2015. The year average, quarterly and yearly changes
-  are calculated with unrounded figures. Data available from: 4th quarter 2002 up to and including 2023.
-  Status of the figures: The figures in this table are final. Changes as of May 17 2024: None, this table
-  is stopped. When will new figures be published? Not applicable anymore. This table was discontinued
-  on May 17, 2024 and continued as Services producer price index (SPPI); index 2021=100. See paragraph
-  3. The Services producer price indices publication schedule can be downloaded as an Excel file under
-  section: 3 Relevant articles. More information about the pricing method can be found in the video under
-  section: 3 Relevant articles.'
+description: 'This table shows the price indices, quarterly and yearly changes in
+  prices of services that companies provide. The figures are broken down by type of
+  services according to the Classification of Products by Activity (CPA 2008). For
+  some services, a further breakdown has been made on the basis of market data that
+  differs from the CPA. This breakdown is simply with a letter after the CPA code.
+  The base year for all Services producer price indices is 2015. The year average,
+  quarterly and yearly changes are calculated with unrounded figures. Data available
+  from: 4th quarter 2002 up to and including 2023. Status of the figures: The figures
+  in this table are final. Changes as of May 17 2024: None, this table is stopped.
+  When will new figures be published? Not applicable anymore. This table was discontinued
+  on May 17, 2024 and continued as Services producer price index (SPPI); index 2021=100.
+  See paragraph 3. The Services producer price indices publication schedule can be
+  downloaded as an Excel file under section: 3 Relevant articles. More information
+  about the pricing method can be found in the video under section: 3 Relevant articles.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/4209-services-producer-price-index-sppi-index-2015-100
-      (data.europa.eu dataset 4209-services-producer-price-index-sppi-index-2015-100; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 4209-services-producer-price-index-sppi-index-2015-100;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4209-services-producer-price-i-services-pro
+assigned_id: dea:data-product-4209-services-producer-price-i-services-pro-w9yy4j
+admitted: '2026-11-14'

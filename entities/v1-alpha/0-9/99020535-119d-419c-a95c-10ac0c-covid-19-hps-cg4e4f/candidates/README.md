@@ -1,0 +1,31 @@
+# COVID-19 - HPSC Detailed Statistics Profile
+
+> This dataset contains COVID-19 Daily Statistics and the Profile of Covid-19 Daily Statistics for Ireland as reported by the Health Protection Surveillance Centre. This data includes confirmed cases (PCR) only and does not include positive antigen results uploaded to the HSE portal. Time series dataset from March 2020 to November 2023. Deaths: From 16th May 2022 to November 2023, reporting of Notified Deaths changed from daily to weekly. Data on deaths is based on the date on which a death was notified on CIDR, not the date on which the death occurred. Data on deaths by date of death is available on the HPSC Respiratory Virus Notification Hub https://respiratoryvirus.hpsc.ie/. Notice: Please be advised that on 29th April 2021, the 'Aged65up' and 'HospitalisedAged65up' fields were removed from this table. The three fields 'Aged65to74', 'Aged75to84', and 'Aged85up' replace the 'Aged65up' field. The three fields 'HospitalisedAged65to74', 'HospitalisedAged75to84' and 'HospitalisedAged85up' replace the 'HospitalisedAged65up' field. On the week beginning 1st March 2021, the values in the following fields in this table were set to zero: 'CommunityTransmission', 'CloseContact', 'TravelAbroad' and ‘ClustersNotified’. The primary Date applies to the following fields: ConfirmedCovidCases, TotalConfirmedCovidCases, ConfirmedCovidDeaths, TotalCovidDeaths, ConfirmedCovidRecovered, SevenDayAverageCases. The StatisticProfileDate applies to the following fields: CovidCasesConfirmed, HospitalisedCovidCases, RequiringICUCovidCases, HealthcareWorkersCovidCases, Clusters Notified, HospitalisedAged5, HospitalisedAged5to14, HospitalisedAged15to24, HospitalisedAged25to34, HospitalisedAged35to44, HospitalisedAged45to54, HospitalisedAged55to64, HospitalisedAged65to74, HospitalisedAged75to84, HospitalisedAged85up, Male, Female, Unknown, Aged1to4, Aged5to14, Aged15to24, Aged25to34, Aged35to44, Aged45to54, Aged55to64, Aged65to74, Aged75to84, Aged85up, MedianAge CommunityTransmission, CloseContac
+
+## Identity
+
+- **Record id**: `dea:data-product-99020535-119d-419c-a95c-10ac0c-covid-19-hps-cg4e4f`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/99020535-119d-419c-a95c-10ac0c1150d2 (data.europa.eu dataset 99020535-119d-419c-a95c-10ac0c1150d2; publisher: Department of Health)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

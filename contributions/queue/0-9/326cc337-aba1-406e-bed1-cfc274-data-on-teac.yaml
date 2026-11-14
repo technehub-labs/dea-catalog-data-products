@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 326cc337-aba1-406e-bed1-cfc274ebc1e9
-name: Data on teaching staff of preschool educational institutions of the Koblivska AH
-description: 'Pedagogical workers of preschool educational institutions of Koblivska village council:
-  Communal institution "Vynohradne institution of preschool education (nursery-garden) "Golden Cockerel";
-  Municipal institution "Ukrainian institution of preschool education (kindergarten) "Vasylok".'
+name: Data on teaching staff of preschool educational institutions of the Koblivska
+  AH
+description: 'Pedagogical workers of preschool educational institutions of Koblivska
+  village council: Communal institution "Vynohradne institution of preschool education
+  (nursery-garden) "Golden Cockerel"; Municipal institution "Ukrainian institution
+  of preschool education (kindergarten) "Vasylok".'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/326cc337-aba1-406e-bed1-cfc274ebc1e9 (data.europa.eu
-      dataset 326cc337-aba1-406e-bed1-cfc274ebc1e9; publisher: Коблівська сільська рада Березанського
-      району Миколаївської області)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/326cc337-aba1-406e-bed1-cfc274ebc1e9
+      (data.europa.eu dataset 326cc337-aba1-406e-bed1-cfc274ebc1e9; publisher: Коблівська
+      сільська рада Березанського району Миколаївської області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 326cc337-aba1-406e-bed1-cfc274-data-on-teac
+assigned_id: dea:data-product-326cc337-aba1-406e-bed1-cfc274-data-on-teac-g6mv85
+admitted: '2026-11-14'

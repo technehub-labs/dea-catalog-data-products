@@ -1,0 +1,41 @@
+id: dea:data-product-181eb5ba-ad4d-4d7f-8403-6bbb38-1955-local-e-mcpbsa
+type: DataProduct
+name: 1955 Local elections- election statistics
+description: 'This document sets out the following statistics for the 1955 local elections:
+  i) the total number of electors nationwide, the number of electors in contested
+  areas and valid votes at the elections. It also sets out the Urban Districts Councils
+  and Town Commissioners where no elections were held or contested. ii) The number
+  of local electors, valid poll and percentage poll for elections in the County Council
+  and County Boroughs elections. iii) The number of local electors, valid poll and
+  percentage poll for elections in the Boroughs and Urban District Council elections.
+  iv) The number of electors, valid poll and percentage poll for elections in the
+  Town Commissioners elections.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/181eb5ba-ad4d-4d7f-8403-6bbb38db7ef0
+      (data.europa.eu dataset 181eb5ba-ad4d-4d7f-8403-6bbb38db7ef0; publisher: Department
+      of Housing, Local Government and Heritage)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- epartment-of-ousing

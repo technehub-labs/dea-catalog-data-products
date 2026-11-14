@@ -1,0 +1,31 @@
+# OpenStreetMap: Economic activities and services
+
+> This dataset provides a daily extraction of OpenStreetMap data flows relating to economic activity resources and services in the territories of Provence-Alpes-Côte d’Azur, Occitanie, Auvergne-Rhône-Alpes, as well as the border regions in Italy: Liguria, Piedmont, Aosta Valley. The data extracted concern the map elements associated with economic activities: **amenity, craft, landuse, office, shop and tourism** The specifications followed are those described in the OpenStreetMap documentation: [🔗 wiki.openstreetmap.org/wiki/EN:Key:amenity](https://wiki.openstreetmap.org/wiki/EN:Key:amenity) [🔗 wiki.openstreetmap.org/wiki/EN:Key:craft](https://wiki.openstreetmap.org/wiki/EN:Key:craft) [🔗 wiki.openstreetmap.org/wiki/EN:Key:landuse](https://wiki.openstreetmap.org/wiki/EN:Key:landuse) [🔗 wiki.openstreetmap.org/wiki/EN:Key:office](https://wiki.openstreetmap.org/wiki/FR:Key:office) [🔗 wiki.openstreetmap.org/wiki/EN:Key:shop](https://wiki.openstreetmap.org/wiki/EN:Key:shop) [🔗 wiki.openstreetmap.org/wiki/EN:Key:tourism](https://wiki.openstreetmap.org/wiki/EN:Key:tourism) Data is processed and extracted using the SQL script available in the DataSud GitLab repository: [🗃_activities_economiques.sql](https://gitlab.datasud.fr/projects_publics/openstreetmap4datasud/-/blob/main/sql/activities_economiques.sql?reftype=heads) © [OpenStreetMap Contributors](https://www.openstreetmap.org/copyright).
+
+## Identity
+
+- **Record id**: `dea:data-product-684b6ae9eaa45a00b452b648-openstreetma-37wuue`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/684b6ae9eaa45a00b452b648 (data.europa.eu dataset 684b6ae9eaa45a00b452b648; publisher: Région Provence-Alpes-Côte-d'Azur)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

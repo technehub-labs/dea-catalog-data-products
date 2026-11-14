@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 7ba27c89-117b-41e7-a452-f76a74d09c6a
 name: Data behind Energy Scenarios Tool
-description: This dataset includes the data behind the JRC Energy Scenarios Tool that is available online.
-  The aim of this tool is to explain how energy is produced and used in the EU, today and in the future.
-  The tool helps to understand the magnitude and speed of the projected changes, in other words, to understand
-  the energy transition.
+description: This dataset includes the data behind the JRC Energy Scenarios Tool that
+  is available online. The aim of this tool is to explain how energy is produced and
+  used in the EU, today and in the future. The tool helps to understand the magnitude
+  and speed of the projected changes, in other words, to understand the energy transition.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7ba27c89-117b-41e7-a452-f76a74d09c6a (data.europa.eu
-      dataset 7ba27c89-117b-41e7-a452-f76a74d09c6a; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7ba27c89-117b-41e7-a452-f76a74d09c6a
+      (data.europa.eu dataset 7ba27c89-117b-41e7-a452-f76a74d09c6a; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 7ba27c89-117b-41e7-a452-f76a74-data-behind
+assigned_id: dea:data-product-7ba27c89-117b-41e7-a452-f76a74-data-behind-puzbaw
+admitted: '2026-11-14'

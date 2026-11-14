@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c54376a8-4277-4a43-ac56-480e3b04a923
 name: Rathfarnham (St.Columba Coll.) Climate Data
-description: Daily and monthly climatalogical records for our station at Rathfarnham (St.Columba Coll.)
-  in Co. Dublin. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Rathfarnham
+  (St.Columba Coll.) in Co. Dublin. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c54376a8-4277-4a43-ac56-480e3b04a923 (data.europa.eu
-      dataset c54376a8-4277-4a43-ac56-480e3b04a923; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c54376a8-4277-4a43-ac56-480e3b04a923
+      (data.europa.eu dataset c54376a8-4277-4a43-ac56-480e3b04a923; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: c54376a8-4277-4a43-ac56-480e3b-rathfarnham
+assigned_id: dea:data-product-c54376a8-4277-4a43-ac56-480e3b-rathfarnham-d688b6
+admitted: '2026-11-14'

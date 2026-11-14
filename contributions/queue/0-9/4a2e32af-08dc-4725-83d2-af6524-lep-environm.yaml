@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4a2e32af-08dc-4725-83d2-af6524cd1ea0
 name: LEP Environment 2004 Forest area
-description: An area-based representation of the forest area as part of the environmental development
-  plan.
+description: An area-based representation of the forest area as part of the environmental
+  development plan.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4a2e32af-08dc-4725-83d2-af6524cd1ea0 (data.europa.eu
-      dataset 4a2e32af-08dc-4725-83d2-af6524cd1ea0; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4a2e32af-08dc-4725-83d2-af6524cd1ea0
+      (data.europa.eu dataset 4a2e32af-08dc-4725-83d2-af6524cd1ea0; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4a2e32af-08dc-4725-83d2-af6524-lep-environm
+assigned_id: dea:data-product-4a2e32af-08dc-4725-83d2-af6524-lep-environm-f3xgb7
+admitted: '2026-11-14'

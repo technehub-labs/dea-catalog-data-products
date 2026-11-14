@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60255ba2454ae3a8b8284ec0
 name: REA 2019 - State of the Environment Report 2019
-description: REA 2019 - State of the Environment Report 2019 The State of the Environment Report (SER)
-  examines how the own name indicates, the state of the environment in Portugal – an annual progress recognition
-  exercise achieved, but also of the main constraints, identifying the country's position in relation
-  to the commitments and targets made in relation to the environment and sustainable development.
+description: REA 2019 - State of the Environment Report 2019 The State of the Environment
+  Report (SER) examines how the own name indicates, the state of the environment in
+  Portugal – an annual progress recognition exercise achieved, but also of the main
+  constraints, identifying the country's position in relation to the commitments and
+  targets made in relation to the environment and sustainable development.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60255ba2454ae3a8b8284ec0 (data.europa.eu dataset
-      60255ba2454ae3a8b8284ec0; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60255ba2454ae3a8b8284ec0 (data.europa.eu
+      dataset 60255ba2454ae3a8b8284ec0; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60255ba2454ae3a8b8284ec0-rea-2019-sta
+assigned_id: dea:data-product-60255ba2454ae3a8b8284ec0-rea-2019-sta-8fvefe
+admitted: '2026-11-14'

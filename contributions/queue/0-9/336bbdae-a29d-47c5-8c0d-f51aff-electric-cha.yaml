@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Electric charging stations on public land in Vienna
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/336bbdae-a29d-47c5-8c0d-f51affffd44f (data.europa.eu
-      dataset 336bbdae-a29d-47c5-8c0d-f51affffd44f; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/336bbdae-a29d-47c5-8c0d-f51affffd44f
+      (data.europa.eu dataset 336bbdae-a29d-47c5-8c0d-f51affffd44f; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 336bbdae-a29d-47c5-8c0d-f51aff-electric-cha
+assigned_id: dea:data-product-336bbdae-a29d-47c5-8c0d-f51aff-electric-cha-4mcrw3
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cita-infos-parking-en-datex-ii
 name: 'Cita: Parking info in DATEX II'
-description: 'Cita: Parking info in DATEX II — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Administration des Ponts et Chaussées.'
+description: 'Cita: Parking info in DATEX II — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by Administration des Ponts et Chaussées.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cita-infos-parking-en-datex-ii (data.europa.eu dataset
-      cita-infos-parking-en-datex-ii; publisher: Administration des Ponts et Chaussées)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cita-infos-parking-en-datex-ii
+      (data.europa.eu dataset cita-infos-parking-en-datex-ii; publisher: Administration
+      des Ponts et Chaussées)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - dministration-des-on
 slug: cita-infos-parking-en-datex-ii-cita-parking
+assigned_id: dea:data-product-cita-infos-parking-en-datex-ii-cita-parking-ekrf3z
+admitted: '2026-11-14'

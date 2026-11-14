@@ -1,26 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bb786c2f-daf4-49fb-ac24-9eaa42dc7f85
 name: SmartBay Ireland Galway Bay Buoy Wave
-description: 'This data comprises wave data collected from the SmartBay buoy moored in Galway Bay. The
-  TRIAXYS Directional Wave Sensor collects wave data and returns the following parameters: No Zero Crossings
-  (Number) HAvg (Average Wave Height) (Meters) Tz (Mean Spectral Period) (Seconds) HMax (Max Wave Height)
-  (Meters) HSig (Significant Wave Height) (Meters) TSig (Significant Period) (Seconds) H10 (Meters) T10
-  (Seconds) TAvg (Mean Wave Period) (Seconds) TP (Peak Period) (Seconds) TP5 (Seconds) HMO (Meters) Mean
-  Direction (Degrees) Mean Spread (Degrees) The TRIAXYS Directional Wave Sensor is comprised of three
-  accelerometers and three rate sensors that ultimately measure the total displacement along the three
-  orthogonal axes of the floating platform. In addition, this sensor is equipped with a gimballed fluxgate
-  compass to measure true magnetic direction.'
+description: 'This data comprises wave data collected from the SmartBay buoy moored
+  in Galway Bay. The TRIAXYS Directional Wave Sensor collects wave data and returns
+  the following parameters: No Zero Crossings (Number) HAvg (Average Wave Height)
+  (Meters) Tz (Mean Spectral Period) (Seconds) HMax (Max Wave Height) (Meters) HSig
+  (Significant Wave Height) (Meters) TSig (Significant Period) (Seconds) H10 (Meters)
+  T10 (Seconds) TAvg (Mean Wave Period) (Seconds) TP (Peak Period) (Seconds) TP5 (Seconds)
+  HMO (Meters) Mean Direction (Degrees) Mean Spread (Degrees) The TRIAXYS Directional
+  Wave Sensor is comprised of three accelerometers and three rate sensors that ultimately
+  measure the total displacement along the three orthogonal axes of the floating platform.
+  In addition, this sensor is equipped with a gimballed fluxgate compass to measure
+  true magnetic direction.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bb786c2f-daf4-49fb-ac24-9eaa42dc7f85 (data.europa.eu
-      dataset bb786c2f-daf4-49fb-ac24-9eaa42dc7f85; publisher: SmartBay Ireland)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bb786c2f-daf4-49fb-ac24-9eaa42dc7f85
+      (data.europa.eu dataset bb786c2f-daf4-49fb-ac24-9eaa42dc7f85; publisher: SmartBay
+      Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - martay-reland
 slug: bb786c2f-daf4-49fb-ac24-9eaa42-smartbay-ire
+assigned_id: dea:data-product-bb786c2f-daf4-49fb-ac24-9eaa42-smartbay-ire-9dfmey
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu adresar-zdravstvenih-ustanova
 name: ADRESAR OF HEALTHY INSTITUTIONS
-description: ADRESAR OF HEALTHY INSTITUTIONS — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Općina Zlatar Bistrica.
+description: ADRESAR OF HEALTHY INSTITUTIONS — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by Općina Zlatar Bistrica.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/adresar-zdravstvenih-ustanova (data.europa.eu dataset
-      adresar-zdravstvenih-ustanova; publisher: Općina Zlatar Bistrica)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/adresar-zdravstvenih-ustanova
+      (data.europa.eu dataset adresar-zdravstvenih-ustanova; publisher: Općina Zlatar
+      Bistrica)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - pina-latar-istrica
 slug: adresar-zdravstvenih-ustanova-adresar-of-h
+assigned_id: dea:data-product-adresar-zdravstvenih-ustanova-adresar-of-h-353qcq
+admitted: '2026-11-14'
