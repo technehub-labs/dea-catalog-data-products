@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu id_2004_outdoors_living_environment_sub-domain
 name: Index of Deprivation 2004 - Outdoors Living Environment sub-domain
-description: 'ID 2004 Outdoors Living Environment Subdomain (air quality and road safety) Source: Office
-  of the Deputy Prime Minister (ODPM): ID 2004 Publisher: Communities and Local Government (CLG) Geographies:
-  Lower Layer Super Output Area (LSOA) Geographic coverage: England Time coverage: 2004 (using 2001 data)
-  Type of data: Modelled data'
+description: 'ID 2004 Outdoors Living Environment Subdomain (air quality and road
+  safety) Source: Office of the Deputy Prime Minister (ODPM): ID 2004 Publisher: Communities
+  and Local Government (CLG) Geographies: Lower Layer Super Output Area (LSOA) Geographic
+  coverage: England Time coverage: 2004 (using 2001 data) Type of data: Modelled data'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/id_2004_outdoors_living_environment_sub-domain (data.europa.eu
-      dataset id_2004_outdoors_living_environment_sub-domain; publisher: Ministry of Housing, Communities
-      and Local Government)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/id_2004_outdoors_living_environment_sub-domain
+      (data.europa.eu dataset id_2004_outdoors_living_environment_sub-domain; publisher:
+      Ministry of Housing, Communities and Local Government)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistry-of-ousing-om
 slug: id-2004-outdoors-living-enviro-index-of-dep
+assigned_id: dea:data-product-id-2004-outdoors-living-enviro-index-of-dep-6zbefk
+admitted: '2026-11-14'

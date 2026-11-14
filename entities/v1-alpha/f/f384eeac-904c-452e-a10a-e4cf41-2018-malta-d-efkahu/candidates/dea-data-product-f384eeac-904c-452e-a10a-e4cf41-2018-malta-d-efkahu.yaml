@@ -1,0 +1,33 @@
+id: dea:data-product-f384eeac-904c-452e-a10a-e4cf41-2018-malta-d-efkahu
+type: DataProduct
+name: 2018 Malta Development Bank - Annual Report and Financial Statements
+description: 2018 Malta Development Bank - Annual Report and Financial Statements
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f384eeac-904c-452e-a10a-e4cf41870cb4
+      (data.europa.eu dataset f384eeac-904c-452e-a10a-e4cf41870cb4; publisher: Malta
+      Development Bank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- alta-evelopment-ank

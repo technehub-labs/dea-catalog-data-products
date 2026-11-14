@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu gis-agrinio-wms-agriniovec-env_pol_rlwb_50k_greece_1rev
 name: 'Λιμναία Υδατικά Συστήματα Αιτωλοακαρνανίας: Ταμιευτήρες - 1η Αναθεώρηση'
-description: Πολυγωνικό σύνολο γεωχωρικών δεδομένων των λιμναίων υδατικών συστημάτων για την περιφερειακή
-  ενότητα της Αιτωλοακαρνανίας.
+description: Πολυγωνικό σύνολο γεωχωρικών δεδομένων των λιμναίων υδατικών συστημάτων
+  για την περιφερειακή ενότητα της Αιτωλοακαρνανίας.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/gis-agrinio-wms-agriniovec-env_pol_rlwb_50k_greece_1rev
-      (data.europa.eu dataset gis-agrinio-wms-agriniovec-env_pol_rlwb_50k_greece_1rev; publisher: Δήμος
-      Αγρινίου)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset gis-agrinio-wms-agriniovec-env_pol_rlwb_50k_greece_1rev;
+      publisher: Δήμος Αγρινίου)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: gis-agrinio-wms-agriniovec-env-1
+assigned_id: dea:data-product-gis-agrinio-wms-agriniovec-env-1-ue2z4e
+admitted: '2026-11-14'

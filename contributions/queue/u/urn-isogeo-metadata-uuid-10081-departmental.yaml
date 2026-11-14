@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu urn-isogeo-metadata-uuid-1008114b-6c54-49ef-8617-7c9ec898507c
 name: Departmental Greenway Lines (PDIPR)
-description: 'This data represents the Linear of the Departmental Greenways (version 2018). (location:
-  R:\catalogue\dones_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_VOIES_VERTES_2018//N:\documentations
+description: 'This data represents the Linear of the Departmental Greenways (version
+  2018). (location: R:\catalogue\dones_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_VOIES_VERTES_2018//N:\documentations
   and sources produced\project_portal\data_and_file sde\prod\reference\environment@reference_prod.sde\reference.environment.cd59_pdipr_voies_greens)'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/urn-isogeo-metadata-uuid-1008114b-6c54-49ef-8617-7c9ec898507c
-      (data.europa.eu dataset urn-isogeo-metadata-uuid-1008114b-6c54-49ef-8617-7c9ec898507c; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset urn-isogeo-metadata-uuid-1008114b-6c54-49ef-8617-7c9ec898507c;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: urn-isogeo-metadata-uuid-10081-departmental
+assigned_id: dea:data-product-urn-isogeo-metadata-uuid-10081-departmental-3y3rvm
+admitted: '2026-11-14'

@@ -1,0 +1,41 @@
+id: dea:data-product-fef6af4e-8ab0-48ef-96eb-182587-principal-an-uq6wke
+type: DataProduct
+name: Principal and Secondary Ports around Ireland and Northern Ireland for Ocean
+  Energy
+description: The Irish Ports Offshore Renewable Energy Services (IPORES) report provides
+  an extensive and updated summary of information on port infrastructure, facilities
+  and management plans in relation to meeting requirements for marine renewable energy
+  developers. In total, consultations and analysis are provided on 14 ports on the
+  island. A number of ports in the Republic are identified as having the necessary
+  facilities, infrastructure and hinterland that could support the development of
+  the offshore renewable energy industry. We have consequently identified 3 ports
+  as being Category A, 5 ports as Category B and 3 ports as Category C.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fef6af4e-8ab0-48ef-96eb-182587f25f87
+      (data.europa.eu dataset fef6af4e-8ab0-48ef-96eb-182587f25f87; publisher: Irish
+      Maritime Development Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- rish-aritime-evelopm

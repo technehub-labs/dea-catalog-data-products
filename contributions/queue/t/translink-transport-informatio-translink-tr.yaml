@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu translink-transport-information-api
 name: Translink Transport Information API
-description: API allows developer access to the same underlying Transport planning data from Translink's
-  Journey Planner, Website Station Screens and App in JSON format. Opendata API Licence and user Agreement
-  acceptance required
+description: API allows developer access to the same underlying Transport planning
+  data from Translink's Journey Planner, Website Station Screens and App in JSON format.
+  Opendata API Licence and user Agreement acceptance required
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/translink-transport-information-api (data.europa.eu
-      dataset translink-transport-information-api; publisher: OpenDataNI)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/translink-transport-information-api
+      (data.europa.eu dataset translink-transport-information-api; publisher: OpenDataNI)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - penata
 slug: translink-transport-informatio-translink-tr
+assigned_id: dea:data-product-translink-transport-informatio-translink-tr-c734ea
+admitted: '2026-11-14'

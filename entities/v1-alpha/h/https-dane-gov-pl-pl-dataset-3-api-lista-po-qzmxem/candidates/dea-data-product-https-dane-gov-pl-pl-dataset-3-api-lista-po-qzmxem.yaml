@@ -1,0 +1,38 @@
+id: dea:data-product-https-dane-gov-pl-pl-dataset-3-api-lista-po-qzmxem
+type: DataProduct
+name: API - Lista podmiotów z aktualną akredytacją Ministra Zdrowia
+description: <p>Interfejs API portalu "Centrum Monitorowania Jakości w Ochronie Zdrowia
+  w Krakowie (CMJ)" umożliwia dostęp do danych dotyczących wszystkich podmiotów działalności
+  leczniczej osiadających akredytację Ministra Zdrowia.</p> <p>Dane udostępniane są
+  w formacie JSON i są aktualne na dana chwię czasu polskiego.</p> <p>Użytkownik ponownie
+  wykorzystujący informacje sektora publicznego udostępniane na portalu CMJ zobowiązany
+  jest w sposób czytelny i wyraźny wskazać źródło pozyskania informacji.</p>
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-3427-api-lista-podmiotow-z-akredytacja-ministra-zdrowia
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-3427-api-lista-podmiotow-z-akredytacja-ministra-zdrowia;
+      publisher: Centrum Monitorowania Jakości w Ochronie Zdrowia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- entrum-onitorowania

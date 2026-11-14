@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu special-report-21-2025-rrf-support-for-an-improved-business-environment
 name: 'Special report 21/2025: RRF support for an improved business environment'
-description: RRF support for an improved business environment - Only partially addresses country-specific
-  recommendations, but some first results contributed to progress in their implementation
+description: RRF support for an improved business environment - Only partially addresses
+  country-specific recommendations, but some first results contributed to progress
+  in their implementation
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/special-report-21-2025-rrf-support-for-an-improved-business-environment
       (data.europa.eu dataset special-report-21-2025-rrf-support-for-an-improved-business-environment;
       publisher: European Court of Auditors)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - uropean-ourt-of-udit
 slug: special-report-21-2025-rrf-sup-special-repo
+assigned_id: dea:data-product-special-report-21-2025-rrf-sup-special-repo-u25en3
+admitted: '2026-11-14'

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu http-descartes-dev-cete-mediterranee-i2-284c115b-6e9f-48e8-a984-11615b178f9a~~1
 name: _eolien _suivi _environmental _s _r32
-description: _eolien _suivi _environmental _s _r32 — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by DREAL Hauts-de-France.
+description: _eolien _suivi _environmental _s _r32 — a published dataset in the EU
+  Open Data Portal (data.europa.eu), maintained by DREAL Hauts-de-France.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/http-descartes-dev-cete-mediterranee-i2-284c115b-6e9f-48e8-a984-11615b178f9a~~1
       (data.europa.eu dataset http-descartes-dev-cete-mediterranee-i2-284c115b-6e9f-48e8-a984-11615b178f9a~~1;
       publisher: DREAL Hauts-de-France)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - autsderance
 slug: http-descartes-dev-cete-medite-eolien-suivi
+assigned_id: dea:data-product-http-descartes-dev-cete-medite-eolien-suivi-cp2dtj
+admitted: '2026-11-14'

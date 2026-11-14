@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ville-desch-sur-alzette-stationnement-mobilite-reduite
 name: 'City of Esch-sur-Alzette: Parking Reduced Mobility'
-description: Parking for people with reduced mobility in the territory of the City of Esch-sur-Alzette.
+description: Parking for people with reduced mobility in the territory of the City
+  of Esch-sur-Alzette.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/ville-desch-sur-alzette-stationnement-mobilite-reduite
-      (data.europa.eu dataset ville-desch-sur-alzette-stationnement-mobilite-reduite; publisher: Ville
-      d''Esch-sur-Alzette)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset ville-desch-sur-alzette-stationnement-mobilite-reduite;
+      publisher: Ville d''Esch-sur-Alzette)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-dschsurlzette
 slug: ville-desch-sur-alzette-statio-city-of-esch
+assigned_id: dea:data-product-ville-desch-sur-alzette-statio-city-of-esch-uz7d9y
+admitted: '2026-11-14'

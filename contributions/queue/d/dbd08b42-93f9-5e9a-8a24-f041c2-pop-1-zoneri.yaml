@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu dbd08b42-93f9-5e9a-8a24-f041c203284c
 name: Pop-1, Zonering (determined) (history)
-description: Zone zones. Established function map, Provincial Environment Plan Drenthe. Pop-1, card 1.
+description: Zone zones. Established function map, Provincial Environment Plan Drenthe.
+  Pop-1, card 1.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/dbd08b42-93f9-5e9a-8a24-f041c203284c (data.europa.eu
-      dataset dbd08b42-93f9-5e9a-8a24-f041c203284c; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/dbd08b42-93f9-5e9a-8a24-f041c203284c
+      (data.europa.eu dataset dbd08b42-93f9-5e9a-8a24-f041c203284c; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: dbd08b42-93f9-5e9a-8a24-f041c2-pop-1-zoneri
+assigned_id: dea:data-product-dbd08b42-93f9-5e9a-8a24-f041c2-pop-1-zoneri-ux32ns
+admitted: '2026-11-14'

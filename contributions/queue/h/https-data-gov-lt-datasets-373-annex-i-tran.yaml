@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-gov-lt-datasets-3730-
 name: Annex I. Transport networks (INSPIRE dataset)
-description: INSPIRE dataset for Transport networks theme represents information about airports, roads,
-  railways and water transport network located in the territory of Lithuania.
+description: INSPIRE dataset for Transport networks theme represents information about
+  airports, roads, railways and water transport network located in the territory of
+  Lithuania.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-3730- (data.europa.eu
-      dataset https-data-gov-lt-datasets-3730-; publisher: Viešoji įstaiga Statybos sektoriaus vystymo
-      agentūra)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-3730-
+      (data.europa.eu dataset https-data-gov-lt-datasets-3730-; publisher: Viešoji
+      įstaiga Statybos sektoriaus vystymo agentūra)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ieoji-staiga-tatybos
 slug: https-data-gov-lt-datasets-373-annex-i-tran
+assigned_id: dea:data-product-https-data-gov-lt-datasets-373-annex-i-tran-k9ycg3
+admitted: '2026-11-14'

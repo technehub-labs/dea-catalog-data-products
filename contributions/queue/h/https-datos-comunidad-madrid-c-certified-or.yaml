@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-datos-comunidad-madrid-catalogo-dataset-1911907
 name: Certified organic farming area
-description: 'Organic or organic farming: The production of agri-food products without the use of synthetic
-  chemicals and whose production methods comply with current regulations is understood.The agricultural
-  holding: It can be defined as an agricultural unit (set of land and/or livestock), under a single management,
-  located in a given geographical location and using the same means of production. Set of the area of
-  tilled land and land for permanent pasture. Carved land includes arable crops, fallow land, family gardens
-  and land used for woody crops.'
+description: 'Organic or organic farming: The production of agri-food products without
+  the use of synthetic chemicals and whose production methods comply with current
+  regulations is understood.The agricultural holding: It can be defined as an agricultural
+  unit (set of land and/or livestock), under a single management, located in a given
+  geographical location and using the same means of production. Set of the area of
+  tilled land and land for permanent pasture. Carved land includes arable crops, fallow
+  land, family gardens and land used for woody crops.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-datos-comunidad-madrid-catalogo-dataset-1911907
-      (data.europa.eu dataset https-datos-comunidad-madrid-catalogo-dataset-1911907; publisher: Comunidad
-      de Madrid)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-datos-comunidad-madrid-catalogo-dataset-1911907;
+      publisher: Comunidad de Madrid)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - omunidad-de-adrid
 slug: https-datos-comunidad-madrid-c-certified-or
+assigned_id: dea:data-product-https-datos-comunidad-madrid-c-certified-or-6zj7de
+admitted: '2026-11-14'

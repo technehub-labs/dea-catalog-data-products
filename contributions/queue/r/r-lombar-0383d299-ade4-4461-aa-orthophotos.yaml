@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu r_lombar-0383d299-ade4-4461-aaf1-53e40163b041
 name: Orthophotos 2015
-description: Aerial shots of the Lombard territory made by AGEA (Agency for Payments in Agriculture) in
-  the period from June to September 2015.
+description: Aerial shots of the Lombard territory made by AGEA (Agency for Payments
+  in Agriculture) in the period from June to September 2015.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/r_lombar-0383d299-ade4-4461-aaf1-53e40163b041 (data.europa.eu
-      dataset r_lombar-0383d299-ade4-4461-aaf1-53e40163b041; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/r_lombar-0383d299-ade4-4461-aaf1-53e40163b041
+      (data.europa.eu dataset r_lombar-0383d299-ade4-4461-aaf1-53e40163b041; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: r-lombar-0383d299-ade4-4461-aa-orthophotos
+assigned_id: dea:data-product-r-lombar-0383d299-ade4-4461-aa-orthophotos-mdn7gv
+admitted: '2026-11-14'

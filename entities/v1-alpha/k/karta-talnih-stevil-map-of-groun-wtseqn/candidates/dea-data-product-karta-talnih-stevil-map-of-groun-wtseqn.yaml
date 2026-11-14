@@ -1,0 +1,34 @@
+id: dea:data-product-karta-talnih-stevil-map-of-groun-wtseqn
+type: DataProduct
+name: Map of ground numbers
+description: A soil number map is a spatial record containing a basic assessment of
+  soil properties given in numerical terms. In determining the basic assessment of
+  soil properties, the geological basis, the stage of development and the texture
+  from the data of the soil map of Slovenia shall be taken into account.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/karta-talnih-stevil (data.europa.eu
+      dataset karta-talnih-stevil; publisher: MINISTRSTVO ZA KMETIJSTVO)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

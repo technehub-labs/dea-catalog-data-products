@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu life
 name: LIFE Programme Data
-description: The LIFE programme is the EU's financial instrument for environment and climate action. Launched
-  in 1992, it co-finances nature conservation, environmental technologies and climate change adaptation
-  and mitigation projects across the European Union.
+description: The LIFE programme is the EU's financial instrument for environment and
+  climate action. Launched in 1992, it co-finances nature conservation, environmental
+  technologies and climate change adaptation and mitigation projects across the European
+  Union.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/life (data.europa.eu dataset life; publisher: European
-      Climate, Infrastructure and Environment Executive Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/life (data.europa.eu dataset
+      life; publisher: European Climate, Infrastructure and Environment Executive
+      Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - uropean-limate-nfras
 slug: life-life-program
+assigned_id: dea:data-product-life-life-program-pswwv4
+admitted: '2026-11-14'

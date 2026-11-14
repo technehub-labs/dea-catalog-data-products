@@ -1,0 +1,40 @@
+id: dea:data-product-http-pxweb-etjanst-domstol-se-filed-incomi-g23sas
+type: DataProduct
+name: Filed (incoming), determined and pending cases and matters at Land and environment
+  courts and at the Land and Environment Court of Appeal
+description: Number of cases and matters at the five Land and environment courts and
+  at the Land and Environment Court of Appeal. The cases and matters are divided in
+  case categories. Pending cases and matters are ongoing (open) cases or matters at
+  a specific date. On May 2, 2011, Land and environment courts were established at
+  five of the country's district courts and the Land and Environment Court of Appeal
+  was established as a part of Svea Court of Appeal. Previously, there were special
+  property courts and environment courts at certain district courts.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/http-pxweb-etjanst-domstol-se-dataset-01_malutveckling_mmd_mmod-px
+      (data.europa.eu dataset http-pxweb-etjanst-domstol-se-dataset-01_malutveckling_mmd_mmod-px;
+      publisher: Domstolsverket)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- omstolsverket

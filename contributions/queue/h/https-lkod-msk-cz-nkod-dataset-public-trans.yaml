@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-lkod-msk-cz-nkod-dataset-0c8d67cd095543adb3ba08d4dc62c0cb_0
 name: Public transport stops in the Moravian-Silesian Region
-description: 'The dataset shows the location of public transport stops and basic attributes. It is used
-  for transport analysis and mobility planning. The dataset is updated as needed. Attributes: Stop ID
-  = Unique IdentifierStop Name = Name of the StopProvider = Data Provider'
+description: 'The dataset shows the location of public transport stops and basic attributes.
+  It is used for transport analysis and mobility planning. The dataset is updated
+  as needed. Attributes: Stop ID = Unique IdentifierStop Name = Name of the StopProvider
+  = Data Provider'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-lkod-msk-cz-nkod-dataset-0c8d67cd095543adb3ba08d4dc62c0cb_0
-      (data.europa.eu dataset https-lkod-msk-cz-nkod-dataset-0c8d67cd095543adb3ba08d4dc62c0cb_0; publisher:
-      Moravskoslezský kraj)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-lkod-msk-cz-nkod-dataset-0c8d67cd095543adb3ba08d4dc62c0cb_0;
+      publisher: Moravskoslezský kraj)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oravskoslezsk-kraj
 slug: https-lkod-msk-cz-nkod-dataset-public-trans
+assigned_id: dea:data-product-https-lkod-msk-cz-nkod-dataset-public-trans-ymygpd
+admitted: '2026-11-14'

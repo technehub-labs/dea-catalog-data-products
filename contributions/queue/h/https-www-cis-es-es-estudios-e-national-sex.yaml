@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-cis-es-es-estudios-encuesta-nacional-de-salud-sexual
 name: National Sexual Health Survey
-description: National Sexual Health Survey — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Centro de Investigaciones Sociológicas.
+description: National Sexual Health Survey — a published dataset in the EU Open Data
+  Portal (data.europa.eu), maintained by Centro de Investigaciones Sociológicas.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-cis-es-es-estudios-encuesta-nacional-de-salud-sexual
-      (data.europa.eu dataset https-www-cis-es-es-estudios-encuesta-nacional-de-salud-sexual; publisher:
-      Centro de Investigaciones Sociológicas)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-www-cis-es-es-estudios-encuesta-nacional-de-salud-sexual;
+      publisher: Centro de Investigaciones Sociológicas)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entro-de-nvestigacio
 slug: https-www-cis-es-es-estudios-e-national-sex
+assigned_id: dea:data-product-https-www-cis-es-es-estudios-e-national-sex-zkzugh
+admitted: '2026-11-14'

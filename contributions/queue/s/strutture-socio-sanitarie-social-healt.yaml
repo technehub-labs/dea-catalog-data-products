@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Map Open Data of the Municipality of Rimini - Health
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/strutture-socio-sanitarie (data.europa.eu dataset
-      strutture-socio-sanitarie; publisher: Comune di Rimini)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/strutture-socio-sanitarie (data.europa.eu
+      dataset strutture-socio-sanitarie; publisher: Comune di Rimini)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - omune-di-imini
 slug: strutture-socio-sanitarie-social-healt
+assigned_id: dea:data-product-strutture-socio-sanitarie-social-healt-v7qcrv
+admitted: '2026-11-14'

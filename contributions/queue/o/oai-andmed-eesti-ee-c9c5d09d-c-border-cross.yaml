@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -9,10 +9,14 @@ evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-c9c5d09d-c947-4233-9e6b-81f90726bc45
-      (data.europa.eu dataset oai-andmed-eesti-ee-c9c5d09d-c947-4233-9e6b-81f90726bc45; publisher: Statistikaamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-c9c5d09d-c947-4233-9e6b-81f90726bc45;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistikaamet
 slug: oai-andmed-eesti-ee-c9c5d09d-c-border-cross
+assigned_id: dea:data-product-oai-andmed-eesti-ee-c9c5d09d-c-border-cross-4eufwy
+admitted: '2026-11-14'

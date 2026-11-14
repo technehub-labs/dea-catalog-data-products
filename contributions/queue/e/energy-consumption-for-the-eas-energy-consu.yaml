@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu energy-consumption-for-the-east-of-england-2013-141
 name: Energy Consumption for the East of England 2013/14
-description: <p>Contained are data sets for the total annual fuel consumption in the East of England in
-  2014 and annual domestic consumption of electricity and gas in Cambridgeshire and Peterborough at a
-  LSOA level for 2013.</p>
+description: <p>Contained are data sets for the total annual fuel consumption in the
+  East of England in 2014 and annual domestic consumption of electricity and gas in
+  Cambridgeshire and Peterborough at a LSOA level for 2013.</p>
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/energy-consumption-for-the-east-of-england-2013-141
-      (data.europa.eu dataset energy-consumption-for-the-east-of-england-2013-141; publisher: Cambridgeshire
-      Insight)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset energy-consumption-for-the-east-of-england-2013-141;
+      publisher: Cambridgeshire Insight)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ambridgeshire-nsight
 slug: energy-consumption-for-the-eas-energy-consu
+assigned_id: dea:data-product-energy-consumption-for-the-eas-energy-consu-4vqx3u
+admitted: '2026-11-14'

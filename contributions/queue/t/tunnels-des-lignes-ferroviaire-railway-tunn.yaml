@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu tunnels-des-lignes-ferroviaires
 name: railway tunnels
-description: This database contains the _tunnels of the _** railway lines of the Luxembourg rail network
-  as defined by the CFL as _**Infrastructure Manager**_. The data are available in _**ESRI Shape**_ format.
-  Data are projected in the national coordinate system **_LUREF (EPSG:2169)_**. The data is also available
-  in _**KML**_ format. The data is then projected in the **_WGS84 (EPSG:4326)_** coordinate system.
+description: This database contains the _tunnels of the _** railway lines of the Luxembourg
+  rail network as defined by the CFL as _**Infrastructure Manager**_. The data are
+  available in _**ESRI Shape**_ format. Data are projected in the national coordinate
+  system **_LUREF (EPSG:2169)_**. The data is also available in _**KML**_ format.
+  The data is then projected in the **_WGS84 (EPSG:4326)_** coordinate system.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/tunnels-des-lignes-ferroviaires (data.europa.eu dataset
-      tunnels-des-lignes-ferroviaires; publisher: Société nationale des Chemins de Fer Luxembourgeois)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/tunnels-des-lignes-ferroviaires
+      (data.europa.eu dataset tunnels-des-lignes-ferroviaires; publisher: Société
+      nationale des Chemins de Fer Luxembourgeois)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ocit-nationale-des-h
 slug: tunnels-des-lignes-ferroviaire-railway-tunn
+assigned_id: dea:data-product-tunnels-des-lignes-ferroviaire-railway-tunn-s6dmk5
+admitted: '2026-11-14'

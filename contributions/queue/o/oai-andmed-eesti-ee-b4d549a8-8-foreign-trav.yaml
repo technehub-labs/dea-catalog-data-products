@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-b4d549a8-8c95-4a71-bb8c-a179623feed1
 name: Foreign travel statistics
-description: Foreign travel statistics give an overview of the movement of natural persons travelling
-  abroad across the Estonian border. A foreign trip is a trip of a resident of one country to another
-  country, the trip lasts no longer than one year and the main purpose of the trip is not a paid activity
-  or long-term studies in the country of destination. The data have been found using statistical models
-  with input from the anonymous mobile positioning method data on the movement of passengers across the
-  Estonian border.
+description: Foreign travel statistics give an overview of the movement of natural
+  persons travelling abroad across the Estonian border. A foreign trip is a trip of
+  a resident of one country to another country, the trip lasts no longer than one
+  year and the main purpose of the trip is not a paid activity or long-term studies
+  in the country of destination. The data have been found using statistical models
+  with input from the anonymous mobile positioning method data on the movement of
+  passengers across the Estonian border.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-b4d549a8-8c95-4a71-bb8c-a179623feed1
-      (data.europa.eu dataset oai-andmed-eesti-ee-b4d549a8-8c95-4a71-bb8c-a179623feed1; publisher: Eesti
-      Pank)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-b4d549a8-8c95-4a71-bb8c-a179623feed1;
+      publisher: Eesti Pank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - esti-ank
 slug: oai-andmed-eesti-ee-b4d549a8-8-foreign-trav
+assigned_id: dea:data-product-oai-andmed-eesti-ee-b4d549a8-8-foreign-trav-qppdnd
+admitted: '2026-11-14'

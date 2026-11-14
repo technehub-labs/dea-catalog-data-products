@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu http-data-naturvardsverket-se-resources-e929bec9-8709-4b7c-9cb1-c24fa2ed97d6
 name: 'Environmental monitoring sites: Data hosting Agricultural land'
-description: Within the farmland data hosting, results from monitoring of nutrients, plant protection
-  products, analyses of soil samples, and soil compaction in agricultural land, among other things, are
-  managed. It is mainly the results of ongoing surveys that are stored and managed in the farmland data
-  hosting. Sites for sampling are registered together with measurement data in the database of the Swedish
-  University of Agricultural Sciences (SLU) and in the Stations Register, which is a single national register
-  of facilities (stations, test sites) where environmental monitoring is carried out.
+description: Within the farmland data hosting, results from monitoring of nutrients,
+  plant protection products, analyses of soil samples, and soil compaction in agricultural
+  land, among other things, are managed. It is mainly the results of ongoing surveys
+  that are stored and managed in the farmland data hosting. Sites for sampling are
+  registered together with measurement data in the database of the Swedish University
+  of Agricultural Sciences (SLU) and in the Stations Register, which is a single national
+  register of facilities (stations, test sites) where environmental monitoring is
+  carried out.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/http-data-naturvardsverket-se-resources-e929bec9-8709-4b7c-9cb1-c24fa2ed97d6
       (data.europa.eu dataset http-data-naturvardsverket-se-resources-e929bec9-8709-4b7c-9cb1-c24fa2ed97d6;
       publisher: Naturvårdsverket)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - aturvrdsverket
 slug: http-data-naturvardsverket-se-environmenta
+assigned_id: dea:data-product-http-data-naturvardsverket-se-environmenta-eteg2q
+admitted: '2026-11-14'

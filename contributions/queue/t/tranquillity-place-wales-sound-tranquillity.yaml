@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu tranquillity-place-wales-sound-environment-part-1-20231
 name: Tranquillity & Place Wales Sound Environment Part 1 2023
-description: The nationally consistent terrestrial Tranquillity & Place resource identifies the strategic
-  and local resource in remote, rural, peri-urban and urban areas for use as an evidence base to inform
-  policy intent, practice and provision for well-being benefits. There are 6 themes. Tranquillity is associated
-  with the degree to which places and ecosystems deliver a state of quiet, calm, peace and well-being.
-  This can be described as a relative abundance, perception or experience of nature, natural landscapes
-  and features and/or a relative freedom from unwanted visual disturbance, signs of human influence and
-  artificial noise. Tranquillity & Place Sound Environment Part I delivers Theme 4, mapping sound environments
-  where natural sounds are more prominent than noise and are appropriate to context. It includes sounds
-  other than road and railway noise.
+description: The nationally consistent terrestrial Tranquillity & Place resource identifies
+  the strategic and local resource in remote, rural, peri-urban and urban areas for
+  use as an evidence base to inform policy intent, practice and provision for well-being
+  benefits. There are 6 themes. Tranquillity is associated with the degree to which
+  places and ecosystems deliver a state of quiet, calm, peace and well-being. This
+  can be described as a relative abundance, perception or experience of nature, natural
+  landscapes and features and/or a relative freedom from unwanted visual disturbance,
+  signs of human influence and artificial noise. Tranquillity & Place Sound Environment
+  Part I delivers Theme 4, mapping sound environments where natural sounds are more
+  prominent than noise and are appropriate to context. It includes sounds other than
+  road and railway noise.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/tranquillity-place-wales-sound-environment-part-1-20231
-      (data.europa.eu dataset tranquillity-place-wales-sound-environment-part-1-20231; publisher: Natural
-      Resources Wales)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset tranquillity-place-wales-sound-environment-part-1-20231;
+      publisher: Natural Resources Wales)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - atural-esources-ales
 slug: tranquillity-place-wales-sound-tranquillity
+assigned_id: dea:data-product-tranquillity-place-wales-sound-tranquillity-kkp5jf
+admitted: '2026-11-14'

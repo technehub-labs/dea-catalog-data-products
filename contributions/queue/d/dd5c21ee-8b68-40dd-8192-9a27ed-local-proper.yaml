@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu dd5c21ee-8b68-40dd-8192-9a27ede655c4
 name: Local Property Tax LPT statistics 2016
-description: Local Property Tax LPT statistics 2016 — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Revenue Commissioners.
+description: Local Property Tax LPT statistics 2016 — a published dataset in the EU
+  Open Data Portal (data.europa.eu), maintained by Revenue Commissioners.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/dd5c21ee-8b68-40dd-8192-9a27ede655c4 (data.europa.eu
-      dataset dd5c21ee-8b68-40dd-8192-9a27ede655c4; publisher: Revenue Commissioners)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/dd5c21ee-8b68-40dd-8192-9a27ede655c4
+      (data.europa.eu dataset dd5c21ee-8b68-40dd-8192-9a27ede655c4; publisher: Revenue
+      Commissioners)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - evenue-ommissioners
 slug: dd5c21ee-8b68-40dd-8192-9a27ed-local-proper
+assigned_id: dea:data-product-dd5c21ee-8b68-40dd-8192-9a27ed-local-proper-bfuwqn
+admitted: '2026-11-14'

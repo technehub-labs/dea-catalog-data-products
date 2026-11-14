@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-komserv4gdi-service24-rlp-de-1d893de6-fc62-fd98-7057-b0ee87d00e1e
 name: ZW 126 East of Amerikastrasse 4th Amendment
-description: ZW 126 East of Amerikastrasse 4th Amendment — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Stadt Zweibrücken.
+description: ZW 126 East of Amerikastrasse 4th Amendment — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by Stadt Zweibrücken.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-komserv4gdi-service24-rlp-de-1d893de6-fc62-fd98-7057-b0ee87d00e1e
       (data.europa.eu dataset https-komserv4gdi-service24-rlp-de-1d893de6-fc62-fd98-7057-b0ee87d00e1e;
       publisher: Stadt Zweibrücken)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadt-weibrcken
 slug: https-komserv4gdi-service24-rl-zw-126-east
+assigned_id: dea:data-product-https-komserv4gdi-service24-rl-zw-126-east-e35c96
+admitted: '2026-11-14'

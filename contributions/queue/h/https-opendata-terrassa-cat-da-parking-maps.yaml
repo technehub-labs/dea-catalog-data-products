@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -9,11 +9,14 @@ evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-opendata-terrassa-cat-dataset-mapa-aparcaments-de-terrassa
-      (data.europa.eu dataset https-opendata-terrassa-cat-dataset-mapa-aparcaments-de-terrassa; publisher:
-      Ayuntamiento de Terrassa)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-opendata-terrassa-cat-dataset-mapa-aparcaments-de-terrassa;
+      publisher: Ayuntamiento de Terrassa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-erras
 slug: https-opendata-terrassa-cat-da-parking-maps
+assigned_id: dea:data-product-https-opendata-terrassa-cat-da-parking-maps-rzjt2p
+admitted: '2026-11-14'

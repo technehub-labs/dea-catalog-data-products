@@ -1,0 +1,40 @@
+id: dea:data-product-wfd-river-canal-and-swt-water-wfd-river-ca-c3kk6m
+type: DataProduct
+name: WFD River, Canal, and SWT Water Bodies Cycle 4 Classification 2025 (Simplified)
+description: 'This is a polyline dataset showing Water Framework Directive (WFD) River,
+  Canal, and Surface Water Transfer Water Bodies. River centrelines represent the
+  official river water body definition for the WFD. This dataset provides attribution
+  relating to the 2025 classification results, as well as other relevant information
+  and data about each river, canal, and surface water transfer water body. See the
+  Environment Agency''s Water Hub for more information (link below). Attribution statement:
+  © Environment Agency copyright and/or database right 2026. All rights reserved.
+  Contains OS data © Crown copyright and database right 2026.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/wfd-river-canal-and-swt-water-bodies-cycle-4-classification-2025-simplified
+      (data.europa.eu dataset wfd-river-canal-and-swt-water-bodies-cycle-4-classification-2025-simplified;
+      publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- nvironment-gency

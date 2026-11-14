@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-b8cb4f546f7e442dafded9bea22ecdb0~~1
 name: CULTURE - LIBRARY
-description: Inventory of equipment such as library, discotheque, videotheque, mediatheque, toy library,
-  documentation centre, university and scientific research library, specialized library, archives, artotheque
+description: Inventory of equipment such as library, discotheque, videotheque, mediatheque,
+  toy library, documentation centre, university and scientific research library, specialized
+  library, archives, artotheque
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-b8cb4f546f7e442dafded9bea22ecdb0~~1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-b8cb4f546f7e442dafded9bea22ecdb0~~1;
       publisher: Métropole du Grand Paris)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tropole-du-rand-aris
 slug: https-www-arcgis-com-home-item-culture-libr
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-culture-libr-e7wwcu
+admitted: '2026-11-14'

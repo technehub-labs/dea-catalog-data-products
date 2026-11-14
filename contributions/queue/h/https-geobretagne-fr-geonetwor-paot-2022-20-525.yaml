@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-geobretagne-fr-geonetwork-srv-fre-xml_iso19139-uuid-6b53fec9-c2d6-4e3f-87fc-11867b068d8d
 name: PAOT 2022-2027 - Planned actions in Brittany - Agriculture / Sustainable practices
-description: PAOT 2022-2027 - Planned actions in Brittany - Agriculture / Sustainable practices — a published
-  dataset in the EU Open Data Portal (data.europa.eu), maintained by Direction régionale de l'environnement,
-  de l'aménagement et du logement de Bretagne.
+description: PAOT 2022-2027 - Planned actions in Brittany - Agriculture / Sustainable
+  practices — a published dataset in the EU Open Data Portal (data.europa.eu), maintained
+  by Direction régionale de l'environnement, de l'aménagement et du logement de Bretagne.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-geobretagne-fr-geonetwork-srv-fre-xml_iso19139-uuid-6b53fec9-c2d6-4e3f-87fc-11867b068d8d
       (data.europa.eu dataset https-geobretagne-fr-geonetwork-srv-fre-xml_iso19139-uuid-6b53fec9-c2d6-4e3f-87fc-11867b068d8d;
-      publisher: Direction régionale de l''environnement, de l''aménagement et du logement de Bretagne)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      publisher: Direction régionale de l''environnement, de l''aménagement et du
+      logement de Bretagne)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - irection-rgionale-de
 slug: https-geobretagne-fr-geonetwor-paot-2022-20-525
+assigned_id: dea:data-product-https-geobretagne-fr-geonetwor-paot-2022-20-525-jrgbrr
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-c58ecc9e-c1fc-4b48-bab8-8573820005f5
 name: Maavarade registri energeetilised maavarad
-description: Maavarade registri energeetiliste maavarade ruumiandmekogum koondab põlevkivi ja turbaga
-  seotud teavet. Andmed on esitatud põlevkivi aktiivsete varuplokkide kohta, turba puhul kirjeldatakse
-  ainult hästilagunenud turba aktiivseid varusid.
+description: Maavarade registri energeetiliste maavarade ruumiandmekogum koondab põlevkivi
+  ja turbaga seotud teavet. Andmed on esitatud põlevkivi aktiivsete varuplokkide kohta,
+  turba puhul kirjeldatakse ainult hästilagunenud turba aktiivseid varusid.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-c58ecc9e-c1fc-4b48-bab8-8573820005f5
-      (data.europa.eu dataset oai-andmed-eesti-ee-c58ecc9e-c1fc-4b48-bab8-8573820005f5; publisher: Maa-
-      ja Ruumiamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-c58ecc9e-c1fc-4b48-bab8-8573820005f5;
+      publisher: Maa- ja Ruumiamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - aa-ja-uumiamet
 slug: oai-andmed-eesti-ee-c58ecc9e-c-maavarade-re
+assigned_id: dea:data-product-oai-andmed-eesti-ee-c58ecc9e-c-maavarade-re-ma8eya
+admitted: '2026-11-14'

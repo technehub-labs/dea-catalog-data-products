@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu zdravstvene-ustanove-v-obcini-trzic
 name: Health institutions in the municipality of Tržič
-description: List of all health institutions, clinics located in the territory of the municipality of
-  Tržič, including an indication of the types of health services in a specific unit.
+description: List of all health institutions, clinics located in the territory of
+  the municipality of Tržič, including an indication of the types of health services
+  in a specific unit.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/zdravstvene-ustanove-v-obcini-trzic (data.europa.eu
-      dataset zdravstvene-ustanove-v-obcini-trzic; publisher: OBČINA TRŽIČ)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/zdravstvene-ustanove-v-obcini-trzic
+      (data.europa.eu dataset zdravstvene-ustanove-v-obcini-trzic; publisher: OBČINA
+      TRŽIČ)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: zdravstvene-ustanove-v-obcini-health-insti
+assigned_id: dea:data-product-zdravstvene-ustanove-v-obcini-health-insti-q6ukuy
+admitted: '2026-11-14'

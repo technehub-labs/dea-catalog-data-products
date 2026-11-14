@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-84a2a4af-2881-49d6-919c-bd7a8455cd67
-name: Foreign visitors served by estonian travel agencies and tour operators by country of residence (2003–2009,
-  quarters)
-description: Foreign visitors served by estonian travel agencies and tour operators by country of residence
-  (2003–2009, quarters).
+name: Foreign visitors served by estonian travel agencies and tour operators by country
+  of residence (2003–2009, quarters)
+description: Foreign visitors served by estonian travel agencies and tour operators
+  by country of residence (2003–2009, quarters).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-84a2a4af-2881-49d6-919c-bd7a8455cd67
-      (data.europa.eu dataset oai-andmed-eesti-ee-84a2a4af-2881-49d6-919c-bd7a8455cd67; publisher: Statistikaamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-84a2a4af-2881-49d6-919c-bd7a8455cd67;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistikaamet
 slug: oai-andmed-eesti-ee-84a2a4af-2-foreign-visi
+assigned_id: dea:data-product-oai-andmed-eesti-ee-84a2a4af-2-foreign-visi-3prag2
+admitted: '2026-11-14'

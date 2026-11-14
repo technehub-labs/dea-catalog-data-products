@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu flex-carsharing-by-cfl-1~~1
 name: FLEX Carsharing by CFL
-description: 'The primary objective here is to provide the list of available FLEX vehicles and to describe
-  the last known station per vehicle. The fields included in this document are as follows: - because _type
-  : Type of car (e.g.: Small Car, Transporter, …) - fuel _type : Fuel type (Ex.:Diesel, Electric, Super
-  petrol) - available : Availability of the car (TRUE) - brand_name : Car brand (e.g. Audi, BMW, VW, Mini,
-  …) - model_name : Car model _name Station : Name of the station _town Station : City/village of the
-  resort _zipcode Station : Postal code of the station _street Station : Station Street _streetnumber
-  Station : Street number of the station _latitude Station : Latitude GPS Point _longitude Station : GPS
-  Point Longitude - createdDate : Date and time of creation of the file GPS coordinates show the exact
+description: 'The primary objective here is to provide the list of available FLEX
+  vehicles and to describe the last known station per vehicle. The fields included
+  in this document are as follows: - because _type : Type of car (e.g.: Small Car,
+  Transporter, …) - fuel _type : Fuel type (Ex.:Diesel, Electric, Super petrol) -
+  available : Availability of the car (TRUE) - brand_name : Car brand (e.g. Audi,
+  BMW, VW, Mini, …) - model_name : Car model _name Station : Name of the station _town
+  Station : City/village of the resort _zipcode Station : Postal code of the station
+  _street Station : Station Street _streetnumber Station : Street number of the station
+  _latitude Station : Latitude GPS Point _longitude Station : GPS Point Longitude
+  - createdDate : Date and time of creation of the file GPS coordinates show the exact
   position of the station, the address may differ from the actual position.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/flex-carsharing-by-cfl-1~~1 (data.europa.eu dataset
-      flex-carsharing-by-cfl-1~~1; publisher: CFL Mobility)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/flex-carsharing-by-cfl-1~~1 (data.europa.eu
+      dataset flex-carsharing-by-cfl-1~~1; publisher: CFL Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obility
 slug: flex-carsharing-by-cfl-1-1-flex-carshar
+assigned_id: dea:data-product-flex-carsharing-by-cfl-1-1-flex-carshar-26qcyu
+admitted: '2026-11-14'

@@ -1,0 +1,31 @@
+# Statistics - Charter between users, residents and authorities
+
+> The charter between users, residents and authorities concerning the practice of tuning and continuous training of general aviation at Findel airport was signed on 15 January 2008 and has as its main purpose the management of noise emissions and nuisances in the direct vicinity of Findel airport in connection with the training of general aviation pilots without calling into question the interest and legitimacy of these activities. The objectives are as follows: - Reduce noise at source; - Specify the touch-and-go circuits and the holding circuits by mentioning their entire configurations with reference to the ground markings aimed at overflighting as many uninhabited areas as possible; - Reduce the level of noise pollution to the benefit of the populations bordering the airport in a balanced manner; - Draw up and make available to pilots instructions on the respect of the trajectories and the least noise in flight; - Set up a monitoring mechanism for commitments. General aviation has been practised in the Grand Duchy for a century. It is a mode of transport, business activity, community life and leisure. Aviation practice is subject to pilot training. One of the measures included in the Charter concerns the quarterly publication of general aviation movements at Luxembourg airport (measure 8 – statistics) and in particular: - total movements; - number of ‘touch and go’ movements on track 06; - number of movements "touch and go" track 24. The Charter has been signed by the following bodies: Union des Pilotes d’Aviation du Grand-Duché de Luxembourg (UPL), Fédération Aéronautique Luxembourgeoise (FAL), Avialux asbl, Aviasport II asbl, Aérosport asbl, Kee Kaméidi vu Sportfliger iwwer Sandweiler asbl, Syndicat d’Initiative et d’Interêts Locales de la Commune de Sandweiler asbl, Syndicat d’Interêts Locales de Schrassig asbl, Syndicat d’Interêts Locales Hamm-Pulvermühle asbl, Syndicat d’Initiative et d’Interêts Locales Fetschenhof-Cents asbl, the Director of Airport, the Dir
+
+## Identity
+
+- **Record id**: `dea:data-product-statistiques-charte-entre-usag-statistics-c-q3j2c9`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/statistiques-charte-entre-usagers-riverains-et-autorites (data.europa.eu dataset statistiques-charte-entre-usagers-riverains-et-autorites; publisher: Administration de la navigation aérienne)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

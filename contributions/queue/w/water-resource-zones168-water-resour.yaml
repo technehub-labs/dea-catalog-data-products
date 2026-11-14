@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu water-resource-zones168
 name: Water Resource Zones
-description: 'The Water Resource Zones are a polygon data layer provided by Water Companies in England
-  showing the supply operating boundaries, known as resource zones. These data have been supplied by water
-  companies and collated into a national dataset by the Environment Agency. Attribution statement: Contains
-  Environment Agency information © Environment Agency and/or database rights. Some information used in
+description: 'The Water Resource Zones are a polygon data layer provided by Water
+  Companies in England showing the supply operating boundaries, known as resource
+  zones. These data have been supplied by water companies and collated into a national
+  dataset by the Environment Agency. Attribution statement: Contains Environment Agency
+  information © Environment Agency and/or database rights. Some information used in
   this dataset is © water companies'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/water-resource-zones168 (data.europa.eu dataset water-resource-zones168;
-      publisher: Environment Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/water-resource-zones168 (data.europa.eu
+      dataset water-resource-zones168; publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: water-resource-zones168-water-resour
+assigned_id: dea:data-product-water-resource-zones168-water-resour-z32xqr
+admitted: '2026-11-14'

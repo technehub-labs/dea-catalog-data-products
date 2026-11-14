@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https-datos-gob-es-catalogo-l01360577-instituto-ensenanza-secundaria-ies-de-vigo1
       (data.europa.eu dataset https-datos-gob-es-catalogo-l01360577-instituto-ensenanza-secundaria-ies-de-vigo1;
       publisher: Ayuntamiento de Vigo)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-igo
 slug: https-datos-gob-es-catalogo-l0-secondary-ed
+assigned_id: dea:data-product-https-datos-gob-es-catalogo-l0-secondary-ed-6hx3tt
+admitted: '2026-11-14'

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/http-datos-apc-es-poc-ut-p-wcm-oid3a317394c9-13cd-4832-b650-0f73641acf31
       (data.europa.eu dataset http-datos-apc-es-poc-ut-p-wcm-oid3a317394c9-13cd-4832-b650-0f73641acf31;
       publisher: Autoridad Portuaria de Cartagena)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - utoridad-ortuaria-de
 slug: http-datos-apc-es-poc-ut-p-wcm-traffic-stat-866
+assigned_id: dea:data-product-http-datos-apc-es-poc-ut-p-wcm-traffic-stat-866-fr75c6
+admitted: '2026-11-14'

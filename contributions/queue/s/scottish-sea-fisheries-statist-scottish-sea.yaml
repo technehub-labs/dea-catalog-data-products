@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu scottish-sea-fisheries-statistical-districts-2013-onwards
 name: Scottish Sea Fisheries Statistical Districts (2013 onwards)
-description: The annual Scottish Sea Fisheries Statistics report is aggregated into districts, which reflect
-  the area of responsibility of the local fishery office. This dataset shows the approximate extent of
-  each district using the 1:50,000 scale OS Meridian 2 mean high water spring coastline. The districts
-  are for illustrative purposes only. The districts were updated in the 2013 report to reflect changes
-  in responsibility of the Ullapool fishery office and renamed the Pittenweem district as Anstruther.
+description: The annual Scottish Sea Fisheries Statistics report is aggregated into
+  districts, which reflect the area of responsibility of the local fishery office.
+  This dataset shows the approximate extent of each district using the 1:50,000 scale
+  OS Meridian 2 mean high water spring coastline. The districts are for illustrative
+  purposes only. The districts were updated in the 2013 report to reflect changes
+  in responsibility of the Ullapool fishery office and renamed the Pittenweem district
+  as Anstruther.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/scottish-sea-fisheries-statistical-districts-2013-onwards
-      (data.europa.eu dataset scottish-sea-fisheries-statistical-districts-2013-onwards; publisher: Scottish
-      Government SpatialData.gov.scot)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset scottish-sea-fisheries-statistical-districts-2013-onwards;
+      publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - cottish-overnment-pa
 slug: scottish-sea-fisheries-statist-scottish-sea
+assigned_id: dea:data-product-scottish-sea-fisheries-statist-scottish-sea-kgwk3s
+admitted: '2026-11-14'

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fachinfos-budgetdienst-ug-24-gesundheit-budgets-2027-und-2028
 name: UG 24-Health Budgets 2027 and 2028
-description: UG 24-Health Budgets 2027 and 2028 — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Parlamentsdirektion.
+description: UG 24-Health Budgets 2027 and 2028 — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by Parlamentsdirektion.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/fachinfos-budgetdienst-ug-24-gesundheit-budgets-2027-und-2028
-      (data.europa.eu dataset fachinfos-budgetdienst-ug-24-gesundheit-budgets-2027-und-2028; publisher:
-      Parlamentsdirektion)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset fachinfos-budgetdienst-ug-24-gesundheit-budgets-2027-und-2028;
+      publisher: Parlamentsdirektion)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - arlamentsdirektion
 slug: fachinfos-budgetdienst-ug-24-g-ug-24-health
+assigned_id: dea:data-product-fachinfos-budgetdienst-ug-24-g-ug-24-health-5a2u9y
+admitted: '2026-11-14'

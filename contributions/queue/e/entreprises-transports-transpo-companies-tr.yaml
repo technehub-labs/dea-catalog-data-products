@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu entreprises-transports-transport-routier-infrastructures
 name: Companies - Transport - Road transport - Infrastructure
-description: 'This dataset includes the following resource: Length of road network (km) --- Automatically
-  synced from the [LUSTAT database](https://lustat.statec.lu)'
+description: 'This dataset includes the following resource: Length of road network
+  (km) --- Automatically synced from the [LUSTAT database](https://lustat.statec.lu)'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/entreprises-transports-transport-routier-infrastructures
-      (data.europa.eu dataset entreprises-transports-transport-routier-infrastructures; publisher: STATEC
-      Institut national de la statistique et des études économiques du Grand-Duché de Luxembourg)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset entreprises-transports-transport-routier-infrastructures;
+      publisher: STATEC Institut national de la statistique et des études économiques
+      du Grand-Duché de Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nstitut-national-de
 slug: entreprises-transports-transpo-companies-tr
+assigned_id: dea:data-product-entreprises-transports-transpo-companies-tr-2x2d7b
+admitted: '2026-11-14'

@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu exclusions-from-school
 name: Exclusions from school
-description: Exclusions from school — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by North Yorkshire County Council.
+description: Exclusions from school — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by North Yorkshire County Council.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/exclusions-from-school (data.europa.eu dataset exclusions-from-school;
-      publisher: North Yorkshire County Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/exclusions-from-school (data.europa.eu
+      dataset exclusions-from-school; publisher: North Yorkshire County Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - orth-orkshire-ounty
 slug: exclusions-from-school-exclusions-f
+assigned_id: dea:data-product-exclusions-from-school-exclusions-f-c3cdpc
+admitted: '2026-11-14'

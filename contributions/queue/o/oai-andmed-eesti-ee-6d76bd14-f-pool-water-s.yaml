@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-6d76bd14-fe37-40c1-b2ff-1b1b9dfbae7b
 name: Pool water samples
-description: Data of pool water samples from swimming pools under the supervision of the Health Board
-  from the Water Health Information System.
+description: Data of pool water samples from swimming pools under the supervision
+  of the Health Board from the Water Health Information System.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-6d76bd14-fe37-40c1-b2ff-1b1b9dfbae7b
-      (data.europa.eu dataset oai-andmed-eesti-ee-6d76bd14-fe37-40c1-b2ff-1b1b9dfbae7b; publisher: Terviseamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-6d76bd14-fe37-40c1-b2ff-1b1b9dfbae7b;
+      publisher: Terviseamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - erviseamet
 slug: oai-andmed-eesti-ee-6d76bd14-f-pool-water-s
+assigned_id: dea:data-product-oai-andmed-eesti-ee-6d76bd14-f-pool-water-s-yjfqmc
+admitted: '2026-11-14'

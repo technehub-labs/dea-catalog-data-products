@@ -1,0 +1,37 @@
+id: dea:data-product-doi-10-24417-msfd2017ref2d-msdf-2017-cy-jyesap
+type: DataProduct
+name: MSDF 2017 cycle. Windmills impact on hydrodynamics. Reference 2D fields
+description: This dataset is part of the MSFD D7 2017 cycle. It aims at assessing
+  the impact of the windmills on the hydrodynamical conditions and hydrodynamical
+  climate in their neighbourhood. The impact is measured by comparing a domain with
+  and without the presence of windmills. This particular dataset gathers the 2D fields
+  of the reference (no windmills) simulation.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/doi-10-24417-msfd2017ref2d (data.europa.eu
+      dataset doi-10-24417-msfd2017ref2d; publisher: Koninklijk Belgisch Instituut
+      voor Natuurwetenschappen (KBIN))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- oninklijk-elgisch-ns

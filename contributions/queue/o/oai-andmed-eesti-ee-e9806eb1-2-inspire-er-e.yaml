@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-e9806eb1-2a53-4fe5-bb5c-4b9e1624670e
 name: INSPIRE (ER) - Eesti energeetilised maavarad (WFS)
-description: Energeetiliste maavarade ruumiandmekogum on maavarade registri andmestik, mis hõlmab ainult
-  põlevkivi ning turbaga seotud teavet. Energeetiline väärtus on siinkohal esitatud ainult põlevkivi aktiivsete
-  varuplokkide kohta. NB! Seoses kõigi geoloogia andmete üleminekuga Eesti Geoloogiateenistusele on teenuses
-  andmed 10.12.2024 seisuga.
+description: Energeetiliste maavarade ruumiandmekogum on maavarade registri andmestik,
+  mis hõlmab ainult põlevkivi ning turbaga seotud teavet. Energeetiline väärtus on
+  siinkohal esitatud ainult põlevkivi aktiivsete varuplokkide kohta. NB! Seoses kõigi
+  geoloogia andmete üleminekuga Eesti Geoloogiateenistusele on teenuses andmed 10.12.2024
+  seisuga.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-e9806eb1-2a53-4fe5-bb5c-4b9e1624670e
-      (data.europa.eu dataset oai-andmed-eesti-ee-e9806eb1-2a53-4fe5-bb5c-4b9e1624670e; publisher: Maa-
-      ja Ruumiamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-e9806eb1-2a53-4fe5-bb5c-4b9e1624670e;
+      publisher: Maa- ja Ruumiamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - aa-ja-uumiamet
 slug: oai-andmed-eesti-ee-e9806eb1-2-inspire-er-e
+assigned_id: dea:data-product-oai-andmed-eesti-ee-e9806eb1-2-inspire-er-e-egfcqm
+admitted: '2026-11-14'

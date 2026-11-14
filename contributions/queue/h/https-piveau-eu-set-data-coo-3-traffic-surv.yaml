@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-piveau-eu-set-data-coo_3000_106_2_3614397
 name: Traffic survey, traffic statistics, data bases
-description: surveys in the field of passenger and freight transport, technical coordination and legal
-  bases in the field of official transport statistics (Statistik Austria); cross-border coordination and
-  exchange on transport statistics iwS issues; Procurement and provision of basic data for federal traffic
-  planning and reporting obligations;
+description: surveys in the field of passenger and freight transport, technical coordination
+  and legal bases in the field of official transport statistics (Statistik Austria);
+  cross-border coordination and exchange on transport statistics iwS issues; Procurement
+  and provision of basic data for federal traffic planning and reporting obligations;
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_106_2_3614397 (data.europa.eu
-      dataset https-piveau-eu-set-data-coo_3000_106_2_3614397; publisher: Bundesministerium für Innovation,
-      Mobilität und Infrastruktur)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_106_2_3614397
+      (data.europa.eu dataset https-piveau-eu-set-data-coo_3000_106_2_3614397; publisher:
+      Bundesministerium für Innovation, Mobilität und Infrastruktur)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesministerium-fr
 slug: https-piveau-eu-set-data-coo-3-traffic-surv
+assigned_id: dea:data-product-https-piveau-eu-set-data-coo-3-traffic-surv-9kj3xa
+admitted: '2026-11-14'

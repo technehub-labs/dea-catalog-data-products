@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https:-genesis.destatis.de-genesisws-downloads-00-tables-12251-0005_00
-name: 'Employed persons from main residence households: Germany, Years, Gender, Position at work, Transport
-  used to get to work'
-description: 'Employed persons from main residence households: Germany, Years, Gender, Position at work,
-  Transport used to get to work'
+name: 'Employed persons from main residence households: Germany, Years, Gender, Position
+  at work, Transport used to get to work'
+description: 'Employed persons from main residence households: Germany, Years, Gender,
+  Position at work, Transport used to get to work'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https:-genesis.destatis.de-genesisws-downloads-00-tables-12251-0005_00
       (data.europa.eu dataset https:-genesis.destatis.de-genesisws-downloads-00-tables-12251-0005_00;
       publisher: Statistisches Bundesamt)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistisches-undesam
 slug: https-genesis-destatis-de-gene-employed-per
+assigned_id: dea:data-product-https-genesis-destatis-de-gene-employed-per-v62r8w
+admitted: '2026-11-14'

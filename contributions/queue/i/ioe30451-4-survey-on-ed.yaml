@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ioe30451_4
-name: Survey on Educational-Training Transition and Labor Market Insertion (ETEFIL_GS_2019). Advanced
-  Vocational Training graduates in 2013-14. Restricted access rights.
-description: Confidential dataset for scientific purposes from the Survey on Educational-Training Transition
-  and Labor Market Insertion (ETEFIL_GS_2019) regarding Advanced Vocational Training graduates in 2013-14.
-  The survey aims to provide information on the subsequent educational path of individuals who have completed
-  these advanced vocational training studies, as well as various aspects of their labor market insertion
-  process—namely, the transition from non-university higher education to the labor market.
+name: Survey on Educational-Training Transition and Labor Market Insertion (ETEFIL_GS_2019).
+  Advanced Vocational Training graduates in 2013-14. Restricted access rights.
+description: Confidential dataset for scientific purposes from the Survey on Educational-Training
+  Transition and Labor Market Insertion (ETEFIL_GS_2019) regarding Advanced Vocational
+  Training graduates in 2013-14. The survey aims to provide information on the subsequent
+  educational path of individuals who have completed these advanced vocational training
+  studies, as well as various aspects of their labor market insertion process—namely,
+  the transition from non-university higher education to the labor market.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ioe30451_4 (data.europa.eu dataset ioe30451_4; publisher:
-      Instituto Nacional de Estadística)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ioe30451_4 (data.europa.eu dataset
+      ioe30451_4; publisher: Instituto Nacional de Estadística)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nstituto-acional-de
 slug: ioe30451-4-survey-on-ed
+assigned_id: dea:data-product-ioe30451-4-survey-on-ed-anapkk
+admitted: '2026-11-14'

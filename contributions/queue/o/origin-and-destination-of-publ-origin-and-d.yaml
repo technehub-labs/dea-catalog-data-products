@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu origin-and-destination-of-public-transport-journeys1
 name: Origin and destination of public transport journeys
-description: <dp-prose> <p>Origin and destination of London public transport journeys by time of day and
-  day of week.</p> <blockquote> <p><a href="/night-time-observatory/">This dataset is included in the
-  Greater London Authority&apos;s Night Time Observatory. Click here to find out more.</a></p> </blockquote>
-  </dp-prose>
+description: <dp-prose> <p>Origin and destination of London public transport journeys
+  by time of day and day of week.</p> <blockquote> <p><a href="/night-time-observatory/">This
+  dataset is included in the Greater London Authority&apos;s Night Time Observatory.
+  Click here to find out more.</a></p> </blockquote> </dp-prose>
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/origin-and-destination-of-public-transport-journeys1
-      (data.europa.eu dataset origin-and-destination-of-public-transport-journeys1; publisher: Greater
-      London Authority)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset origin-and-destination-of-public-transport-journeys1;
+      publisher: Greater London Authority)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - reater-ondon-uthorit
 slug: origin-and-destination-of-publ-origin-and-d
+assigned_id: dea:data-product-origin-and-destination-of-publ-origin-and-d-eypdw2
+admitted: '2026-11-14'

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Wolverhampton City Council Historic Environment Record
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/historic-environment-record (data.europa.eu dataset
-      historic-environment-record; publisher: Wolverhampton City Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/historic-environment-record (data.europa.eu
+      dataset historic-environment-record; publisher: Wolverhampton City Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - olverhampton-ity-oun
 slug: historic-environment-record-historic-env
+assigned_id: dea:data-product-historic-environment-record-historic-env-c8y7dc
+admitted: '2026-11-14'

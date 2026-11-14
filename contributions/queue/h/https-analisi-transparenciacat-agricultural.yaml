@@ -1,31 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-dqg7-r9tb
 name: Agricultural elections
-description: 'En aquesta sèrie històrica es recullen les dades de participació i resultats de les Eleccions
-  agràries des de l’any 1994. Iniciem la sèrie amb les dades del 2026, 2021, 2016, 2011, 2007, 2002 i
-  1998 i anirem incorporant les dades restants fins a les primeres eleccions del 1994. Properament, afegirem
-  les dades de les Eleccions Agràries 2026 que tindran lloc el proper 27 de febrer de 2026. En les eleccions
-  de “Cambres Agràries”, cada 4 anys, des de 1994 i fins les que van tenir lloc el 2016, es recollien
-  les votacions en els diferents col·legis electorals. En aquests anys 1994, 1999, 2002, 2009, 2011 i
-  2016, la normativa que regulaven les eleccions en aquest període eren: - L’article 108.4 de la Llei
-  orgànica 5/1985, de 19 de juny, de règim general de les eleccions. - El Decret 242/1994, de 13 de setembre
-  pel qual es regula el règim electoral general de les cambres agràries. Les Eleccions Agràries de 2021
-  (a partir d’aquestes passen a ser Eleccions Agràries i no Cambres Agràries), van ser les primeres en
-  què el vot es va emetre, en tots els casos, mitjançant el vot electrònic. Per ajustar les eleccions
-  a aquest sistema de vot, va caldre fer algunes modificacions en la Llei 17/2014, mitjançant el Decret
-  Llei 32/2020. A partir del 2021, els Col·legis Electorals passen a ser Districtes Electorals.'
+description: 'En aquesta sèrie històrica es recullen les dades de participació i resultats
+  de les Eleccions agràries des de l’any 1994. Iniciem la sèrie amb les dades del
+  2026, 2021, 2016, 2011, 2007, 2002 i 1998 i anirem incorporant les dades restants
+  fins a les primeres eleccions del 1994. Properament, afegirem les dades de les Eleccions
+  Agràries 2026 que tindran lloc el proper 27 de febrer de 2026. En les eleccions
+  de “Cambres Agràries”, cada 4 anys, des de 1994 i fins les que van tenir lloc el
+  2016, es recollien les votacions en els diferents col·legis electorals. En aquests
+  anys 1994, 1999, 2002, 2009, 2011 i 2016, la normativa que regulaven les eleccions
+  en aquest període eren: - L’article 108.4 de la Llei orgànica 5/1985, de 19 de juny,
+  de règim general de les eleccions. - El Decret 242/1994, de 13 de setembre pel qual
+  es regula el règim electoral general de les cambres agràries. Les Eleccions Agràries
+  de 2021 (a partir d’aquestes passen a ser Eleccions Agràries i no Cambres Agràries),
+  van ser les primeres en què el vot es va emetre, en tots els casos, mitjançant el
+  vot electrònic. Per ajustar les eleccions a aquest sistema de vot, va caldre fer
+  algunes modificacions en la Llei 17/2014, mitjançant el Decret Llei 32/2020. A partir
+  del 2021, els Col·legis Electorals passen a ser Districtes Electorals.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-dqg7-r9tb
-      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-dqg7-r9tb; publisher:
-      Generalitat de Catalunya)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-dqg7-r9tb;
+      publisher: Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eneralitat-de-atalun
 slug: https-analisi-transparenciacat-agricultural
+assigned_id: dea:data-product-https-analisi-transparenciacat-agricultural-jfxcfs
+admitted: '2026-11-14'

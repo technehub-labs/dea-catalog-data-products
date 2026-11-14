@@ -1,0 +1,31 @@
+# Energy consumption overview of the district acceptance points 2019
+
+> The regularly evaluated energy consumption of the district-administered buildings is published annually in accordance with the Berlin Energy Transition Act. The consumption data from 2017 are available for download here. It should be noted that not every object has its own supply and thus a separate heat or electricity meter. This can lead to the fact that the overview for individual properties shows no or only a pro rata consumption. Other properties, on the other hand, may additionally contain the (shared) heat or electricity consumption of neighboring properties. In addition, an area-based distribution of the total consumption invoiced was carried out in individual cases. The specific boundary conditions of individual objects are not taken into account. Other temporary special effects (such as the limited use of a property in the course of a refurbishment) are also not taken into account in this presentation. The consumption data shown correspond to the current state of knowledge and may change in individual cases (e.g. due to subsequent billing corrections by suppliers).
+
+## Identity
+
+- **Record id**: `dea:data-product-fb1a916a-a62f-452e-958f-6566b5-energy-consu-f3nbua`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/fb1a916a-a62f-452e-958f-6566b5229f70 (data.europa.eu dataset fb1a916a-a62f-452e-958f-6566b5229f70; publisher: Bezirksamt Lichtenberg, Abteilung Personal, Finanzen, Immobilien und Kultur Serviceeinheit Facility Management)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

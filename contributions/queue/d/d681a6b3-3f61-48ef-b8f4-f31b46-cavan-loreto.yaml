@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d681a6b3-3f61-48ef-b8f4-f31b463478b8
 name: Cavan Loreto College Climate Data
-description: Daily and monthly climatalogical records for our station at Cavan Loreto College in Co. Cavan.
-  This station is now closed.
+description: Daily and monthly climatalogical records for our station at Cavan Loreto
+  College in Co. Cavan. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/d681a6b3-3f61-48ef-b8f4-f31b463478b8 (data.europa.eu
-      dataset d681a6b3-3f61-48ef-b8f4-f31b463478b8; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/d681a6b3-3f61-48ef-b8f4-f31b463478b8
+      (data.europa.eu dataset d681a6b3-3f61-48ef-b8f4-f31b463478b8; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: d681a6b3-3f61-48ef-b8f4-f31b46-cavan-loreto
+assigned_id: dea:data-product-d681a6b3-3f61-48ef-b8f4-f31b46-cavan-loreto-hxhht2
+admitted: '2026-11-14'

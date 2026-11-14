@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu databestand_buurtmonitor_jeugdgezondheid
-name: 'Health young people Flevoland: You and your health research (tm school year 2018/2019)'
-description: 'Data on the health of young people at neighbourhood- , district- and municipality level
-  in Flevoland based on the annual preventive health surveys among secondary school students of grades
-  1 and 3 of VMBO and grades 2 and 4 of Havo VWO (project You and your health). The data is collected
-  during the school year and updated once a year. Area: Almere, Dronten, Lelystad Noordoostpolder, Urk
-  and Zeewolde.'
+name: 'Health young people Flevoland: You and your health research (tm school year
+  2018/2019)'
+description: 'Data on the health of young people at neighbourhood- , district- and
+  municipality level in Flevoland based on the annual preventive health surveys among
+  secondary school students of grades 1 and 3 of VMBO and grades 2 and 4 of Havo VWO
+  (project You and your health). The data is collected during the school year and
+  updated once a year. Area: Almere, Dronten, Lelystad Noordoostpolder, Urk and Zeewolde.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/databestand_buurtmonitor_jeugdgezondheid (data.europa.eu
-      dataset databestand_buurtmonitor_jeugdgezondheid; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/databestand_buurtmonitor_jeugdgezondheid
+      (data.europa.eu dataset databestand_buurtmonitor_jeugdgezondheid; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: databestand-buurtmonitor-jeugd-health-young
+assigned_id: dea:data-product-databestand-buurtmonitor-jeugd-health-young-r3jhcc
+admitted: '2026-11-14'

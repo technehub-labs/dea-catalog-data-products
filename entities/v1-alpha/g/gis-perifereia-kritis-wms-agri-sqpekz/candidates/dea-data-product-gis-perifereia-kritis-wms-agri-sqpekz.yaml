@@ -1,0 +1,33 @@
+id: dea:data-product-gis-perifereia-kritis-wms-agri-sqpekz
+type: DataProduct
+name: Κτηνιατρεία Μικρών Ζώων Π.Ε. Ηρακλείου
+description: Κτηνιατρεία Μικρών Ζώων Π.Ε. Ηρακλείου — a published dataset in the EU
+  Open Data Portal (data.europa.eu), maintained by Περιφέρεια Κρήτης.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/gis-perifereia-kritis-wms-agriculture-daokt_her_ktiniatreia_mikron_zoon_v
+      (data.europa.eu dataset gis-perifereia-kritis-wms-agriculture-daokt_her_ktiniatreia_mikron_zoon_v;
+      publisher: Περιφέρεια Κρήτης)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

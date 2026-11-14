@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu xarxa-itineraris-saludables-bolvir
 name: Bolvir healthy itineraries network
-description: Bolvir healthy itineraries network is a set of cartographic data that provides information
-  on Bolvir healthy itineraries, the location of the urban health park and a link to the Healthy Itineraries
-  Network that leads to a page where you can see a map. or interactive satellite image with various routes
-  from which you can know its location, length and height profile. It also has a guide of tips and recommendations
-  for completing the itineraries.
+description: Bolvir healthy itineraries network is a set of cartographic data that
+  provides information on Bolvir healthy itineraries, the location of the urban health
+  park and a link to the Healthy Itineraries Network that leads to a page where you
+  can see a map. or interactive satellite image with various routes from which you
+  can know its location, length and height profile. It also has a guide of tips and
+  recommendations for completing the itineraries.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/xarxa-itineraris-saludables-bolvir (data.europa.eu
-      dataset xarxa-itineraris-saludables-bolvir; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/xarxa-itineraris-saludables-bolvir
+      (data.europa.eu dataset xarxa-itineraris-saludables-bolvir; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: xarxa-itineraris-saludables-bo-bolvir-healt
+assigned_id: dea:data-product-xarxa-itineraris-saludables-bo-bolvir-healt-5cwsyn
+admitted: '2026-11-14'

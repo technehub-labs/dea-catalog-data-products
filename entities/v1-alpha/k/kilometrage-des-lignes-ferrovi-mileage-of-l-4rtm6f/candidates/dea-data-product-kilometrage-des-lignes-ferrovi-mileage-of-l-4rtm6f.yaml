@@ -1,0 +1,38 @@
+id: dea:data-product-kilometrage-des-lignes-ferrovi-mileage-of-l-4rtm6f
+type: DataProduct
+name: mileage of Luxembourg railway lines
+description: This database contains the **_kilometre of the _** railway lines of the
+  Luxembourg rail network as defined by the CFL as _**Infrastructure Manager**_. These
+  are the hectometric points of the rail network. The data are available in _**ESRI
+  Shape**_ format. Data are projected in the national coordinate system **_LUREF (EPSG:2169)_**.
+  The data is also available in _**KML**_ format. The data is then projected in the
+  **_WGS84 (EPSG:4326)_** coordinate system.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/kilometrage-des-lignes-ferroviaires-luxembourgeoises
+      (data.europa.eu dataset kilometrage-des-lignes-ferroviaires-luxembourgeoises;
+      publisher: Société nationale des Chemins de Fer Luxembourgeois)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- ocit-nationale-des-h

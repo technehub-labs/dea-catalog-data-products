@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ed35c170-5186-4bfd-842b-26681b7ceb9d
 name: Data on queues of children in preschool educational institutions
-description: Data on queues of children in preschool educational institutions of the Koblivska AH (amalgamated
-  hromada).
+description: Data on queues of children in preschool educational institutions of the
+  Koblivska AH (amalgamated hromada).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ed35c170-5186-4bfd-842b-26681b7ceb9d (data.europa.eu
-      dataset ed35c170-5186-4bfd-842b-26681b7ceb9d; publisher: Коблівська сільська рада Березанського
-      району Миколаївської області)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ed35c170-5186-4bfd-842b-26681b7ceb9d
+      (data.europa.eu dataset ed35c170-5186-4bfd-842b-26681b7ceb9d; publisher: Коблівська
+      сільська рада Березанського району Миколаївської області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: ed35c170-5186-4bfd-842b-26681b-data-on-queu
+assigned_id: dea:data-product-ed35c170-5186-4bfd-842b-26681b-data-on-queu-utsfzy
+admitted: '2026-11-14'

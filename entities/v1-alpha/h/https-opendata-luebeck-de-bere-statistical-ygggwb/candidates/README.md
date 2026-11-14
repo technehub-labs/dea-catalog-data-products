@@ -1,0 +1,31 @@
+# Statistical yearbook 2023-2025: Chapter "Labour market and economy"
+
+> The Statistical Yearbook of the Hanseatic City of Lübeck offers comprehensive insights in population, economy, environment and finance with tables, graphs and Maps at district level. More at <https://www.luebeck.de/yearbook>. As a supplement to the PDF publication, the Statistical Yearbook is published here. Provided in Excel format as open data. Overview of the content of the chapter "Labour market and economy": - Sign explanations / abbreviations - Key messages National accounts: - Employment trends 2000-2022 by economic sector - Gross value added 2000 - 2022 n. Economic sectors in each Prices in Mill. € - Development of the gross domestic product 2000 - 2022 in current prices in Mill. € - Evolution of gross wages and salaries per employee:in (domestic) 2000 - 2022 in € - Development of primary income of households 2000 - 2022 in Mill. € - Evolution of household disposable income per capita 2000 - 2022 in € - Development of the purchasing power of households and per person 2019/21/24 in € n. Municipalities/Districts Employees subject to social security contributions: - Development of employees subject to social security contributions at the place of work 2010 - 2024 - Development of the SvB and marginally paid employees at the place of work 2010 - 2024 - Development of the SvB and marginally paid employees at the place of residence 2000 - 2024 - Employees subject to social security contributions at their place of residence on 30 June 2024 by district - Development of SvB at residence 2010 - 2024 by age group - Development of commuters to Lübeck 2010 - 2024 - Development of commuters from Lübeck 2010 - 2024 - Development of the commuter balance for Lübeck 2005 - 2024 Labour market: - Development of unemployment and unemployment rates in regional comparison 1950 - 2024 - Development of the unemployed in the Hanseatic city of Lübeck 2010 - 2025 - Unemployed on 30/06/2025 by district - Development of the unemployed according to SGB III (ALG I) 2010 - 2025 - Developmen
+
+## Identity
+
+- **Record id**: `dea:data-product-https-opendata-luebeck-de-bere-statistical-ygggwb`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-opendata-luebeck-de-bereich-1-102-statistik-jahrbuch-2025-03-arbeitsmarkt (data.europa.eu dataset https-opendata-luebeck-de-bereich-1-102-statistik-jahrbuch-2025-03-arbeitsmarkt; publisher: Hansestadt Lübeck)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu registar-sponzorstva-donacija-pomoci-i-subvencija-u-2021-g
 name: SPONSORSTURE REGISTRATION, DONATION, AID AND ENVIRONMENT
-description: SPONSORSTURE REGISTRATION, DONATION, AID AND ENVIRONMENT — a published dataset in the EU
-  Open Data Portal (data.europa.eu), maintained by Općina Šolta.
+description: SPONSORSTURE REGISTRATION, DONATION, AID AND ENVIRONMENT — a published
+  dataset in the EU Open Data Portal (data.europa.eu), maintained by Općina Šolta.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/registar-sponzorstva-donacija-pomoci-i-subvencija-u-2021-g
-      (data.europa.eu dataset registar-sponzorstva-donacija-pomoci-i-subvencija-u-2021-g; publisher: Općina
-      Šolta)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset registar-sponzorstva-donacija-pomoci-i-subvencija-u-2021-g;
+      publisher: Općina Šolta)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - pina-olta
 slug: registar-sponzorstva-donacija-sponsorsture
+assigned_id: dea:data-product-registar-sponzorstva-donacija-sponsorsture-kj33mg
+admitted: '2026-11-14'

@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu frais-de-deplacement-forfaitaire-a-partir-de-2013
 name: Flat-rate travel costs from 2013
-description: The memorial A N°25 / 13 February 2012 offer public information about the [Flat-rate travel
-  expenses](http://www.impotsdirects.public.lu/content/dam/acd/en/legislation/legi12/M__morial_A_-_N___25_du_13_f__vier_2012.pdf)
-  from city to city. Those pieces of information were only available in PDF. Excell & JSON Data are better
-  to use for a machine. So, I brought it up.
+description: The memorial A N°25 / 13 February 2012 offer public information about
+  the [Flat-rate travel expenses](http://www.impotsdirects.public.lu/content/dam/acd/en/legislation/legi12/M__morial_A_-_N___25_du_13_f__vier_2012.pdf)
+  from city to city. Those pieces of information were only available in PDF. Excell
+  & JSON Data are better to use for a machine. So, I brought it up.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/frais-de-deplacement-forfaitaire-a-partir-de-2013
-      (data.europa.eu dataset frais-de-deplacement-forfaitaire-a-partir-de-2013; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset frais-de-deplacement-forfaitaire-a-partir-de-2013; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: frais-de-deplacement-forfaitai-flat-rate-tr
+assigned_id: dea:data-product-frais-de-deplacement-forfaitai-flat-rate-tr-ewfn73
+admitted: '2026-11-14'

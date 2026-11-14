@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-geodata-csu-gov-cz-as-odsdatovyportalapi-api-lod-catalog-1d764466-3b70-4c52-a308-03bf8f437521
 name: Collective accommodation establishments (address points)
-description: Pointers of addresses of collective accommodation establishments (CAE) and their basic statistical
-  data.
+description: Pointers of addresses of collective accommodation establishments (CAE)
+  and their basic statistical data.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-geodata-csu-gov-cz-as-odsdatovyportalapi-api-lod-catalog-1d764466-3b70-4c52-a308-03bf8f437521
       (data.europa.eu dataset https-geodata-csu-gov-cz-as-odsdatovyportalapi-api-lod-catalog-1d764466-3b70-4c52-a308-03bf8f437521;
       publisher: Český statistický úřad)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - esk-statistick-ad
 slug: https-geodata-csu-gov-cz-as-od-collective-a
+assigned_id: dea:data-product-https-geodata-csu-gov-cz-as-od-collective-a-ss7reg
+admitted: '2026-11-14'

@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-catalog-gavle-se-store-1-resource-194
 name: Valued cultural environments
-description: Valued cultural environments within Gävle Municipality. The Municipality of Gävle disclaims
-  all responsibility for any errors or changes in open data that has been supplied by Gävle Municipality
-  to the consumer. The Municipality of Gävle disclaims all responsibility for damage or other inconvenience
-  resulting from improper use of open data in assimilated products or with other information.
+description: Valued cultural environments within Gävle Municipality. The Municipality
+  of Gävle disclaims all responsibility for any errors or changes in open data that
+  has been supplied by Gävle Municipality to the consumer. The Municipality of Gävle
+  disclaims all responsibility for damage or other inconvenience resulting from improper
+  use of open data in assimilated products or with other information.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-catalog-gavle-se-store-1-resource-194 (data.europa.eu
-      dataset https-catalog-gavle-se-store-1-resource-194; publisher: Gävle kommun)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-catalog-gavle-se-store-1-resource-194
+      (data.europa.eu dataset https-catalog-gavle-se-store-1-resource-194; publisher:
+      Gävle kommun)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - vle-kommun
 slug: https-catalog-gavle-se-store-1-valued-cultu
+assigned_id: dea:data-product-https-catalog-gavle-se-store-1-valued-cultu-eng932
+admitted: '2026-11-14'

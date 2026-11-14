@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu da2a1ad9-4a90-4ad5-b348-86ca0bdbe958
 name: High-quality data sets Berlin Statistics
-description: High-quality data sets for the statistical data in Berlin can be found in the Genesis Online
-  Database
+description: High-quality data sets for the statistical data in Berlin can be found
+  in the Genesis Online Database
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/da2a1ad9-4a90-4ad5-b348-86ca0bdbe958 (data.europa.eu
-      dataset da2a1ad9-4a90-4ad5-b348-86ca0bdbe958; publisher: Senatskanzlei Berlin)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/da2a1ad9-4a90-4ad5-b348-86ca0bdbe958
+      (data.europa.eu dataset da2a1ad9-4a90-4ad5-b348-86ca0bdbe958; publisher: Senatskanzlei
+      Berlin)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enatskanzlei-erlin
 slug: da2a1ad9-4a90-4ad5-b348-86ca0b-high-quality
+assigned_id: dea:data-product-da2a1ad9-4a90-4ad5-b348-86ca0b-high-quality-x8md4z
+admitted: '2026-11-14'

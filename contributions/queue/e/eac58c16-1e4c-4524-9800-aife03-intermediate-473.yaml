@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu eac58c16-1e4c-4524-9800-aife0342012g
-name: Intermediate Consumption and Investment Price Indices in Agriculture (Base Year 2020=100), Annual
-description: Intermediate Consumption and Investment Price Indices in Agriculture (Base Year 2020=100),
-  Annual
+name: Intermediate Consumption and Investment Price Indices in Agriculture (Base Year
+  2020=100), Annual
+description: Intermediate Consumption and Investment Price Indices in Agriculture
+  (Base Year 2020=100), Annual
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/eac58c16-1e4c-4524-9800-aife0342012g (data.europa.eu
-      dataset eac58c16-1e4c-4524-9800-aife0342012g; publisher: Στατιστική Υπηρεσία)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/eac58c16-1e4c-4524-9800-aife0342012g
+      (data.europa.eu dataset eac58c16-1e4c-4524-9800-aife0342012g; publisher: Στατιστική
+      Υπηρεσία)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: eac58c16-1e4c-4524-9800-aife03-intermediate-473
+assigned_id: dea:data-product-eac58c16-1e4c-4524-9800-aife03-intermediate-473-vdvcyw
+admitted: '2026-11-14'

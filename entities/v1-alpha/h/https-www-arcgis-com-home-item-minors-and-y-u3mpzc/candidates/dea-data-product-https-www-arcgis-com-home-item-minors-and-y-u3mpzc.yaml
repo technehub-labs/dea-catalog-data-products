@@ -1,0 +1,52 @@
+id: dea:data-product-https-www-arcgis-com-home-item-minors-and-y-u3mpzc
+type: DataProduct
+name: Minors and young adults welcomed ASE CD76 type reception UTAS 20231231
+description: Minors and young adults entrusted to Social Aid for Children of the Seine-Maritime
+  Department, by details of the accommodation methods (family reception, authorised
+  establishments, third parties welcoming volunteers, trustworthy third parties/beneficiaries,
+  etc.; see glossary, in the metadata) and by type of establishment (SAFT, family
+  assistant, mother-child care, modular care and MAPA, independent or semi-autonomous
+  accommodation, conventional accommodation, place of life, social nurseries, support
+  service for unaccompanied minors, etc.) by Territorial Social Action Unit (UTAS)
+  on 31 December 2023. Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/f0fd85e9d6414100a962d012df35b3fc/data)
+  Additional resources * **Site of the Seine-Maritime Department:** The Department’s
+  official website offers for download the [summaries of the reports of the Departmental
+  Child Protection Observatory](https://www.seinemaritime.fr/le-departement/nos-compétences/action-sociale/enfant-et-famille/)
+  2022 and 2023, as well as the [full report 2023](https://www.seinemaritime.fr/docs/rapport%20ODPE%202023.pdf)
+  which contains extensive information on young beneficiaries of child protection
+  measures, * **Site Data DREES** DREES (Directorate for Research, Studies, Evaluation
+  and Statistics) is a directorate of the central administration of health and social
+  ministries. Its website provides data, downloadable in excel format, from the Social
+  Assistance – ([child welfare component](https://data.drees.solidarites-sante.gouv.fr/explore/dataset/bases-de-donnees-brutes-de-l-enquete-aide-sociale-volet-aide-a-l-enfant/information/)
+  and [financial component](https://data.drees.solidarites-sante.gouv.fr/explore/dataset/bases-de-donnees-brutes-de-l-enquete-aide-sociale-volet-depenses/information/)
+  survey, by department, from 2015 and 2018 to 2023, respectively, and data on recipients
+  of child welfare assistance from 1999 to 2023. * **Site drees.solidarités-santé
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-ad871418ddcc4a5597fa086850c0a6de-sublayer-0~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-ad871418ddcc4a5597fa086850c0a6de-sublayer-0~~1;
+      publisher: Département de la Seine-Maritime)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- partement-de-la-eine

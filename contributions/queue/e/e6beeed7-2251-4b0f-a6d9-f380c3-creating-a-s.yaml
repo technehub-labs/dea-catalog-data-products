@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e6beeed7-2251-4b0f-a6d9-f380c31af15f
 name: Creating a safe environment
-description: This data set contains an assessment of information about initiatives and tools aimed at
-  creating a safe digital environment for citizens, including video surveillance and monitoring systems.
+description: This data set contains an assessment of information about initiatives
+  and tools aimed at creating a safe digital environment for citizens, including video
+  surveillance and monitoring systems.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e6beeed7-2251-4b0f-a6d9-f380c31af15f (data.europa.eu
-      dataset e6beeed7-2251-4b0f-a6d9-f380c31af15f; publisher: Львівська обласна державна адміністрація)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e6beeed7-2251-4b0f-a6d9-f380c31af15f
+      (data.europa.eu dataset e6beeed7-2251-4b0f-a6d9-f380c31af15f; publisher: Львівська
+      обласна державна адміністрація)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: e6beeed7-2251-4b0f-a6d9-f380c3-creating-a-s
+assigned_id: dea:data-product-e6beeed7-2251-4b0f-a6d9-f380c3-creating-a-s-r5t5k4
+admitted: '2026-11-14'

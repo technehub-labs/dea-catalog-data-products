@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu http-catalogue-geo-ide-developpement-durable-gouv-fr-ea195eb0-25c2-4f9e-ad7c-e3caacffacb3
 name: Agriculture - Grazing plots with slope above 7% (2018) in Loir-et-cher
-description: Location of pasture plots with a slope of more than 7% in Loir-et-cher based on data from
-  the MNT of the BD Alti (IGN). __________________________ AGRICULTURE\N_AGRI_ENVIRONMENT\N_PENTES_EPAND_S_041
+description: Location of pasture plots with a slope of more than 7% in Loir-et-cher
+  based on data from the MNT of the BD Alti (IGN). __________________________ AGRICULTURE\N_AGRI_ENVIRONMENT\N_PENTES_EPAND_S_041
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/http-catalogue-geo-ide-developpement-durable-gouv-fr-ea195eb0-25c2-4f9e-ad7c-e3caacffacb3
       (data.europa.eu dataset http-catalogue-geo-ide-developpement-durable-gouv-fr-ea195eb0-25c2-4f9e-ad7c-e3caacffacb3;
       publisher: Direction Départementale des Territoires de Loir-et-Cher)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - irection-partemental
 slug: http-catalogue-geo-ide-develop-agriculture
+assigned_id: dea:data-product-http-catalogue-geo-ide-develop-agriculture-gy6nzc
+admitted: '2026-11-14'

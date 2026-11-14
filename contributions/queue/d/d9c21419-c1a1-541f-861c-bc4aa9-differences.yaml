@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d9c21419-c1a1-541f-861c-bc4aa90c2e75
-name: Differences in development paths of tourism and agriculture within abruzzo region protected areas.
-description: Differences in development paths of tourism and agriculture within abruzzo region protected
-  areas. — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by Nationalparks
-  Austria.
+name: Differences in development paths of tourism and agriculture within abruzzo region
+  protected areas.
+description: Differences in development paths of tourism and agriculture within abruzzo
+  region protected areas. — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Nationalparks Austria.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/d9c21419-c1a1-541f-861c-bc4aa90c2e75 (data.europa.eu
-      dataset d9c21419-c1a1-541f-861c-bc4aa90c2e75; publisher: Nationalparks Austria)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/d9c21419-c1a1-541f-861c-bc4aa90c2e75
+      (data.europa.eu dataset d9c21419-c1a1-541f-861c-bc4aa90c2e75; publisher: Nationalparks
+      Austria)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ationalparks-ustria
 slug: d9c21419-c1a1-541f-861c-bc4aa9-differences
+assigned_id: dea:data-product-d9c21419-c1a1-541f-861c-bc4aa9-differences-jnew2p
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-1309-informacja-o-przekazywanych-srodkach-finansowych-sp-zoz-mswia-przez-ministra-spraw-wewnetrznych-i-administracji
-name: Dotacje udzielone przez MSWiA na realizację zadań Narodowego Programu Zdrowia i  służby krwi oraz
-  programów zdrowotnych państwa
-description: <p>Dotacje udzielone przez MSWiA na realizację zadań Narodowego Programu Zdrowia i służby
-  krwi oraz programów zdrowotnych państwa</p>
+name: Dotacje udzielone przez MSWiA na realizację zadań Narodowego Programu Zdrowia
+  i  służby krwi oraz programów zdrowotnych państwa
+description: <p>Dotacje udzielone przez MSWiA na realizację zadań Narodowego Programu
+  Zdrowia i służby krwi oraz programów zdrowotnych państwa</p>
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-1309-informacja-o-przekazywanych-srodkach-finansowych-sp-zoz-mswia-przez-ministra-spraw-wewnetrznych-i-administracji
       (data.europa.eu dataset https-dane-gov-pl-pl-dataset-1309-informacja-o-przekazywanych-srodkach-finansowych-sp-zoz-mswia-przez-ministra-spraw-wewnetrznych-i-administracji;
       publisher: Ministerstwo Spraw Wewnętrznych i Administracji)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterstwo-praw-ewn
 slug: https-dane-gov-pl-pl-dataset-1-dotacje-udzi
+assigned_id: dea:data-product-https-dane-gov-pl-pl-dataset-1-dotacje-udzi-vuskqx
+admitted: '2026-11-14'

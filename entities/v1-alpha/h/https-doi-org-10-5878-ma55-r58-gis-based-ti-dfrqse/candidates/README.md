@@ -1,0 +1,31 @@
+# GIS-based Time model. Gothenburg, 1960-2015
+
+> The GIS-based Time model of Gothenburg aims to map the process of urban development in Gothenburg since 1960 and in particular to document the changes in the spatial form of the city - streets, buildings and plots - through time. Major steps have in recent decades been taken when it comes to understanding how cities work. Essential is the change from understanding cities as locations to understanding them as flows (Batty 2013)1. In principle this means that we need to understand locations (or places) as defined by flows (or different forms of traffic), rather than locations only served by flows. This implies that we need to understand the built form and spatial structure of cities as a system, that by shaping flows creates a series of places with very specific relations to all other places in the city, which also give them very specific performative potentials. It also implies the rather fascinating notion that what happens in one place is dependent on its relation to all other places (Hillier 1996)2. Hence, to understand the individual place, we need a model of the city as a whole. Extensive research in this direction has taken place in recent years, that has also spilled over to urban design practice, not least in Sweden, where the idea that to understand the part you need to understand the whole is starting to be established. With the GIS-based Time model for Gothenburg that we present here, we address the next challenge. Place is not only something defined by its spatial relation to all other places in its system, but also by its history, or its evolution over time. Since the built form of the city changes over time, often by cities growing but at times also by cities shrinking, the spatial relation between places changes over time. If cities tend to grow, and most often by extending their periphery, it means that most places get a more central location over time. If this is a general tendency, it does not mean that all places increase their centrality to an equ
+
+## Identity
+
+- **Record id**: `dea:data-product-https-doi-org-10-5878-ma55-r58-gis-based-ti-dfrqse`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-doi-org-10-5878-ma55-r589 (data.europa.eu dataset https-doi-org-10-5878-ma55-r589; publisher: Chalmers tekniska högskola)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

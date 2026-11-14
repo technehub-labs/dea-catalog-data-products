@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fgs-tree-health-options
 name: FGS Tree Health - Options
-description: 'Scotland’s woodlands and forests are a vital national resource and play an important role
-  in rural development and sustainable land use. As well as helping to reduce the impacts of climate change
-  and providing timber for industry, our forests enhance and protect the environment and provide opportunities
-  for public enjoyment. The Forestry Grant Scheme (FGS) will support: - the creation of new woodlands,
-  contributing towards the Scottish Government target of over 10,000 hectares of new woodlands per year
-  - the sustainable management of existing woodlands TREE HEALTH - OPTION ==================== This option
-  provides support to prevent the spread of Phytophthora ramorum (P. ramorum). This option helps with
-  the restoration of forests affected by P. ramorum by supporting the work to remove affected trees and
-  carry out subsequent replanting.'
+description: 'Scotland’s woodlands and forests are a vital national resource and play
+  an important role in rural development and sustainable land use. As well as helping
+  to reduce the impacts of climate change and providing timber for industry, our forests
+  enhance and protect the environment and provide opportunities for public enjoyment.
+  The Forestry Grant Scheme (FGS) will support: - the creation of new woodlands, contributing
+  towards the Scottish Government target of over 10,000 hectares of new woodlands
+  per year - the sustainable management of existing woodlands TREE HEALTH - OPTION
+  ==================== This option provides support to prevent the spread of Phytophthora
+  ramorum (P. ramorum). This option helps with the restoration of forests affected
+  by P. ramorum by supporting the work to remove affected trees and carry out subsequent
+  replanting.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/fgs-tree-health-options (data.europa.eu dataset fgs-tree-health-options;
-      publisher: Scottish Government SpatialData.gov.scot)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/fgs-tree-health-options (data.europa.eu
+      dataset fgs-tree-health-options; publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - cottish-overnment-pa
 slug: fgs-tree-health-options-fgs-tree-hea
+assigned_id: dea:data-product-fgs-tree-health-options-fgs-tree-hea-m6ecuk
+admitted: '2026-11-14'

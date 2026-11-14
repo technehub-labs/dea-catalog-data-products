@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Seats of the Departments of Food, Agriculture and Forestry.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/f2aa4c06-2a70-4acb-aa1d-c8e62278c486~~1 (data.europa.eu
-      dataset f2aa4c06-2a70-4acb-aa1d-c8e62278c486~~1; publisher: Bayerische Staatsregierung)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/f2aa4c06-2a70-4acb-aa1d-c8e62278c486~~1
+      (data.europa.eu dataset f2aa4c06-2a70-4acb-aa1d-c8e62278c486~~1; publisher:
+      Bayerische Staatsregierung)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ayerische-taatsregie
 slug: f2aa4c06-2a70-4acb-aa1d-c8e622-agriculture
+assigned_id: dea:data-product-f2aa4c06-2a70-4acb-aa1d-c8e622-agriculture-t5zsd2
+admitted: '2026-11-14'

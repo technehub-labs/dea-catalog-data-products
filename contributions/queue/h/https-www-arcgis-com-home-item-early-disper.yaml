@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-90a8a6f5af2543ebb8c1e1e53aa2f952-sublayer-9~~1
 name: EARLY DISPERSION OF THE GREEN TRADE (without URBAN RUGOSITY)
-description: The maximum dispersal area calculated without taking into account urban roughness. MOS classifications
-  with 81 positions classified in 5 roughness classes according to the environment (global green frame,
-  wood TV, open TV). This nomenclature is used to calculate the dispersion areas for the components of
-  the green grid. *** Update not planned to date
+description: The maximum dispersal area calculated without taking into account urban
+  roughness. MOS classifications with 81 positions classified in 5 roughness classes
+  according to the environment (global green frame, wood TV, open TV). This nomenclature
+  is used to calculate the dispersion areas for the components of the green grid.
+  *** Update not planned to date
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-90a8a6f5af2543ebb8c1e1e53aa2f952-sublayer-9~~1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-90a8a6f5af2543ebb8c1e1e53aa2f952-sublayer-9~~1;
       publisher: Métropole du Grand Paris)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tropole-du-rand-aris
 slug: https-www-arcgis-com-home-item-early-disper
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-early-disper-gc4gzs
+admitted: '2026-11-14'

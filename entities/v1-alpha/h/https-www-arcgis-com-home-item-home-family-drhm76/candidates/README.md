@@ -1,0 +1,31 @@
+# Home Family Seniors Expenses and Beneficiaries CANTONS76 2023
+
+> This file provides the number of persons assisted under the family care of the elderly (AFPA) by canton and the amounts of aid granted. The data relate to the period during which the services were provided (service provided). Where a canton has fewer than 5 beneficiaries, the data shall be subject to statistical confidentiality. In total, in 2023, there were 38 AFPA beneficiaries at departmental level, for a total expenditure of €461,086.01. AFPA consists of the reception, at the home of a third party who has obtained the approval of the President of the Department, for a fee, of an elderly person. The foster family member is remunerated by the host: the Department is not his employer. Hosts may apply for social assistance to cover accommodation costs in the event of insufficient resources. It is granted in accordance with the provisions of admission to social assistance. Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/abd9af26282a4660bbc3361e0c688d19/data) Additional resources * Website of the Seine-Maritime Department: <https://www.seinemaritime.fr/guide-des-aides/my-cadre-de-vie/aides-aux-communes/guide-des-aides/personnes-agees-2/lhebergement-des-personnes-agees-chez-un-accueillant-familial.html> The official website of the Département de la Seine-Maritime offers a page dedicated to family housing assistance for the elderly, detailing the award criteria and the documents to be provided in order to compile an application file. It is also useful to consult [the departmental social assistance regulations] (https://www.seinemaritime.fr/my-department/the-competences-of-the-department/social action/the-departmental-daide-sociale-rdas.html) (fiches 1-15). * "For the elderly" website: <https://www.pour-les-personnes-agees.gouv.fr/changer-de-habitation/vivre-en-accueil-familial/vivre-en-accueil-familial> The government information portal for elderly people and their relatives offers a page dedicated to family care, its regula
+
+## Identity
+
+- **Record id**: `dea:data-product-https-www-arcgis-com-home-item-home-family-drhm76`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-4e8fc7f6d157442ba0eb0411c423434e-sublayer-0 (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-4e8fc7f6d157442ba0eb0411c423434e-sublayer-0; publisher: Département de la Seine-Maritime)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

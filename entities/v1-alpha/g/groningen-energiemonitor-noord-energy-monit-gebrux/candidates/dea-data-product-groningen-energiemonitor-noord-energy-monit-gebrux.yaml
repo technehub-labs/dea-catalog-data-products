@@ -1,0 +1,39 @@
+id: dea:data-product-groningen-energiemonitor-noord-energy-monit-gebrux
+type: DataProduct
+name: Energy monitor Northern Netherlands
+description: 'The 4th edition of the Energy Monitor Northern Netherlands provides
+  facts & figures from 2013 about the energy sector in the Energy Valley region: Drenthe,
+  Fryslân, Groningen and Noord-Holland Noord. The monitor was commissioned by the
+  Energy Valley Foundation and the northern provinces to make the regional energy
+  developments visible. This 4th edition of the Energy Monitor Northern Netherlands
+  has been designed in such a way that it can also be used to make the progress of
+  the implementation of the Northern Energy Agenda SWITCH transparent.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/groningen-energiemonitor-noord-nederland
+      (data.europa.eu dataset groningen-energiemonitor-noord-nederland; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

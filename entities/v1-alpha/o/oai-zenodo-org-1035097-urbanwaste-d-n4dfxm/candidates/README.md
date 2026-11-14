@@ -1,0 +1,31 @@
+# URBANWASTE - Dataset 1 URBAN_METABOLISM_DATA
+
+> General description Within URBANWASTE Work Package 2 data from the pilot cases needed to perform the metabolic analysis was collected. In this sense, mainly data regarding waste generation and management, tourism (accommodation capacity, tourist flows, tourism economy) and socio-economic data of each pilot was collected. The indicator sets finally collected were previously cross-checked with the 11 URBANWASTE Pilot Cases regarding data availability on pilot case scale to ensure their suitability and practicability to answer specific URBANWASTE questions. This cross-checking was done by the means of performing a "Survey on data availability" within Task 2.3. Origin, Nature and scale of data For data collection, all pilot cases partners received an empty excel database divided into three thematic areas (waste related data, socio-economic data and tourism related data). In case the pilot case partners did not have access to the requested information, other organisations such as local municipal departments, waste management companies, tourism associations, national statistical agencies etc. were contacted by them for support in data provision. The data collected with these databases mainly represent statistical data. For transparency reasons, data sources were to be specified as well. The spatial scale of the collected data was supposed to be the pilot case area (meaning for the whole city, municipality or metropolitan area). As data on this small scale was not available for all data sets, some of the provided data is on regional or even national level. For ensuring transparency, the spatial scale had to be specified for each data set. According to the type of indicators, the temporal scale varies from annual data to monthly data. For selected data sets, time series data at annual scale were collected for the period 2000 – 2015. For some selected data sets (e.g. waste quantities, tourist arrivals & overnight stays), additionally, also time series on monthly scale were c
+
+## Identity
+
+- **Record id**: `dea:data-product-oai-zenodo-org-1035097-urbanwaste-d-n4dfxm`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/oai-zenodo-org-1035097 (data.europa.eu dataset oai-zenodo-org-1035097; publisher: Zenodo)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

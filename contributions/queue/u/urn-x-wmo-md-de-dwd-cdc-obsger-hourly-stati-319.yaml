@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-dew_point~~1
 name: Hourly station observations of air and dew point temperature for Germany
-description: These data originate from the stations of the DWD and legally and qualitatively equivalent
-  partner networks. Extensive station metadata (station relocations, instrument changes, change of reference
-  time, changes in algorithms) are included in the download. The dataset is divided into a versioned part
-  with a completed quality check, in the directory ./historical/. And a continuously updating part, for
-  which the quality check is not yet completed, in the directory ./recent/.
+description: These data originate from the stations of the DWD and legally and qualitatively
+  equivalent partner networks. Extensive station metadata (station relocations, instrument
+  changes, change of reference time, changes in algorithms) are included in the download.
+  The dataset is divided into a versioned part with a completed quality check, in
+  the directory ./historical/. And a continuously updating part, for which the quality
+  check is not yet completed, in the directory ./recent/.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-dew_point~~1
-      (data.europa.eu dataset urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-dew_point~~1; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-dew_point~~1;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: urn-x-wmo-md-de-dwd-cdc-obsger-hourly-stati-319
+assigned_id: dea:data-product-urn-x-wmo-md-de-dwd-cdc-obsger-hourly-stati-319-gks2bd
+admitted: '2026-11-14'

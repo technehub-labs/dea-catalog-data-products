@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu inspire-annex-i-theme-transport-networks-air-air-components
 name: INSPIRE - Annex I Theme Transport Networks - Air - Air Components
-description: 'This dataset contains geographical data related to aeronautic in the Grand Duchy of Luxembourg.
-  AirspaceArea DesignatedPoint InstrumentApproachProcedure StandardInstrumentArrival StandardInstrumentDeparture
-  Disclaimer: This dataset is provided in compliance with the INSPIRE directive. Updates may not occur
-  as frequently as those in the national Aeronautical Information Publication (AIP). For the most current
-  and accurate information, please refer to the official source (https://ops.skeyes.be/html/belgocontrol
-  _static/eaip/eAIP _Main/html/index-en-GB.html). This data should not be used for operational purposes
-  in aviation. Description copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/8ab87994-c137-4d60-a338-2fe331887ac2).'
+description: 'This dataset contains geographical data related to aeronautic in the
+  Grand Duchy of Luxembourg. AirspaceArea DesignatedPoint InstrumentApproachProcedure
+  StandardInstrumentArrival StandardInstrumentDeparture Disclaimer: This dataset is
+  provided in compliance with the INSPIRE directive. Updates may not occur as frequently
+  as those in the national Aeronautical Information Publication (AIP). For the most
+  current and accurate information, please refer to the official source (https://ops.skeyes.be/html/belgocontrol
+  _static/eaip/eAIP _Main/html/index-en-GB.html). This data should not be used for
+  operational purposes in aviation. Description copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/8ab87994-c137-4d60-a338-2fe331887ac2).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/inspire-annex-i-theme-transport-networks-air-air-components
-      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-air-air-components; publisher:
-      Géoportail)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-air-air-components;
+      publisher: Géoportail)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oportail
 slug: inspire-annex-i-theme-transpor-inspire-anne
+assigned_id: dea:data-product-inspire-annex-i-theme-transpor-inspire-anne-35reuf
+admitted: '2026-11-14'

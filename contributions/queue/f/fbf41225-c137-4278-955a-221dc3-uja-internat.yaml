@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fbf41225-c137-4278-955a-221dc34f3720
 name: UJA International Mobility OUTGOING ay 2023-2024
-description: This dataset contains an overview of the outgoing students from the University of Jaén (UJA),
-  within the Erasmus+ KA131 funding programme, during the academic year 2023/2024.
+description: This dataset contains an overview of the outgoing students from the University
+  of Jaén (UJA), within the Erasmus+ KA131 funding programme, during the academic
+  year 2023/2024.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/fbf41225-c137-4278-955a-221dc34f3720 (data.europa.eu
-      dataset fbf41225-c137-4278-955a-221dc34f3720; publisher: University of Jaén)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/fbf41225-c137-4278-955a-221dc34f3720
+      (data.europa.eu dataset fbf41225-c137-4278-955a-221dc34f3720; publisher: University
+      of Jaén)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - niversity-of-an
 slug: fbf41225-c137-4278-955a-221dc3-uja-internat
+assigned_id: dea:data-product-fbf41225-c137-4278-955a-221dc3-uja-internat-4vmp8s
+admitted: '2026-11-14'

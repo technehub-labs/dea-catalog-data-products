@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https:-genesis.destatis.de-genesisws-downloads-00-tables-99911-0007_00
       (data.europa.eu dataset https:-genesis.destatis.de-genesisws-downloads-00-tables-99911-0007_00;
       publisher: Statistisches Bundesamt)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistisches-undesam
 slug: https-genesis-destatis-de-gene-internationa
+assigned_id: dea:data-product-https-genesis-destatis-de-gene-internationa-udbfs7
+admitted: '2026-11-14'

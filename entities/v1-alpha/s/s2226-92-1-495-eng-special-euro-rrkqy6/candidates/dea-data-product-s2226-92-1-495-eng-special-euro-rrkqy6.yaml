@@ -1,0 +1,40 @@
+id: dea:data-product-s2226-92-1-495-eng-special-euro-rrkqy6
+type: DataProduct
+name: 'Special Eurobarometer 495: Mobility and transport'
+description: 'The Directorate-General for Mobility and Transport conducted a survey
+  in the European Union Member States between 11 and 29 September 2019 to explore
+  a range of factors relating to mobility, including daily and longer-distance travel
+  amongst Europeans. #####The results by volumes are distributed as follows: * Volume
+  A: Countries * Volume AA: Groups of countries * Volume A'' (AP): Trends * Volume
+  AA'' (AAP): Trends of groups of countries * Volume B: EU/socio-demographics * Volume
+  B'' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics
+  ---- Researchers may also contact GESIS - Leibniz Institute for the Social Sciences:
+  [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/s2226_92_1_495_eng (data.europa.eu
+      dataset s2226_92_1_495_eng; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- irectorateeneral-for

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fr-120066022-srv-72050de2-8ece-405a-af1e-b1cb38f4df2d
-name: 'Dataset Direct Download Service (WFS): Culture Society — Lists Circumscriptions Education Nationale
-  en Loir-et-Cher'
+name: 'Dataset Direct Download Service (WFS): Culture Society — Lists Circumscriptions
+  Education Nationale en Loir-et-Cher'
 description: Lists Circumscriptions Education Nationale en Loir-et-Cher
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/fr-120066022-srv-72050de2-8ece-405a-af1e-b1cb38f4df2d
-      (data.europa.eu dataset fr-120066022-srv-72050de2-8ece-405a-af1e-b1cb38f4df2d; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset fr-120066022-srv-72050de2-8ece-405a-af1e-b1cb38f4df2d;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: fr-120066022-srv-72050de2-8ece-dataset-dire
+assigned_id: dea:data-product-fr-120066022-srv-72050de2-8ece-dataset-dire-kgstpw
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-landesdatenbank-nrw-de-ldbnrwws-downloader-00-tables-86521-07i_00
 name: Extraction of vegetable biomass from agriculture by species - Country - Year
-description: Extraction of vegetable biomass from agriculture by species - Country - Year
+description: Extraction of vegetable biomass from agriculture by species - Country
+  - Year
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-landesdatenbank-nrw-de-ldbnrwws-downloader-00-tables-86521-07i_00
       (data.europa.eu dataset https-www-landesdatenbank-nrw-de-ldbnrwws-downloader-00-tables-86521-07i_00;
       publisher: Information und Technik Nordrhein-Westfalen)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nformation-und-echni
 slug: https-www-landesdatenbank-nrw-extraction-o
+assigned_id: dea:data-product-https-www-landesdatenbank-nrw-extraction-o-cfecjj
+admitted: '2026-11-14'

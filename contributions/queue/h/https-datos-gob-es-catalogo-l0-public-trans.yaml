@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-datos-gob-es-catalogo-l01281150-transporte-publico
 name: Public transport
-description: Data on the transport of people by road, rail or water such as bus, taxi, metro, light metro,
-  tram, funicular, ferry, ferry and other types.
+description: Data on the transport of people by road, rail or water such as bus, taxi,
+  metro, light metro, tram, funicular, ferry, ferry and other types.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-datos-gob-es-catalogo-l01281150-transporte-publico
-      (data.europa.eu dataset https-datos-gob-es-catalogo-l01281150-transporte-publico; publisher: Ayuntamiento
-      de Pozuelo de Alarcón)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-datos-gob-es-catalogo-l01281150-transporte-publico;
+      publisher: Ayuntamiento de Pozuelo de Alarcón)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-ozuel
 slug: https-datos-gob-es-catalogo-l0-public-trans
+assigned_id: dea:data-product-https-datos-gob-es-catalogo-l0-public-trans-ww2p82
+admitted: '2026-11-14'

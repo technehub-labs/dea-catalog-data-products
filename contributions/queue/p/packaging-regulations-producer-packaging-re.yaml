@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu packaging-regulations-producers-registered-entities-only
 name: Packaging Regulations - Producers - Registered Entities only
-description: 'Contact details of approximately 5250 Packaging producers who have registered with the Environment
-  Agency under the Producer Responsibility Regulations for Packaging. Owing to data protection concerns
-  we have only included producers who are registered companies (typically PLC, LTD, LLP etc). Attribution
-  statement: © Environment Agency copyright and/or database right 2023. All rights reserved.'
+description: 'Contact details of approximately 5250 Packaging producers who have registered
+  with the Environment Agency under the Producer Responsibility Regulations for Packaging.
+  Owing to data protection concerns we have only included producers who are registered
+  companies (typically PLC, LTD, LLP etc). Attribution statement: © Environment Agency
+  copyright and/or database right 2023. All rights reserved.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/packaging-regulations-producers-registered-entities-only
-      (data.europa.eu dataset packaging-regulations-producers-registered-entities-only; publisher: Environment
-      Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset packaging-regulations-producers-registered-entities-only;
+      publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: packaging-regulations-producer-packaging-re
+assigned_id: dea:data-product-packaging-regulations-producer-packaging-re-pqhxf5
+admitted: '2026-11-14'

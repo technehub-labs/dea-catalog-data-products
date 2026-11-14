@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu v8pmm
 name: Road Transport Energy Consumption, Borough
-description: <dp-prose> <p>Estimates of road transport consumption statistics for fuels used in road transport.</p>
-  <p>(1) Personal travel includes buses, diesel cars, petrol cars and motorcycles.</p> <p>(2) Freight
-  includes HGV, diesel LGV and petrol LGV.</p> <p>The UK total excludes motorcycles in Northern Ireland.</p>
-  <p>There were major revisions to this data due to improvements in methodology, for more details please
-  see the <a href="https://www.gov.uk/government/statistics/regional-energy-data-guidance-note">General
-  Guidance Note</a>.</p> <p>2002-04 are experimental statistics. Later years are National Statistics.
-  Therefore data created using differing methodologies should not be directly compared.</p> <p>Data for
-  Middle Super Output Areas (MSOA) available.</p> <p>See more on <a href="https://www.gov.uk/government/collections/road-transport-consumption-at-regional-and-local-level">Sub-national
+description: <dp-prose> <p>Estimates of road transport consumption statistics for
+  fuels used in road transport.</p> <p>(1) Personal travel includes buses, diesel
+  cars, petrol cars and motorcycles.</p> <p>(2) Freight includes HGV, diesel LGV and
+  petrol LGV.</p> <p>The UK total excludes motorcycles in Northern Ireland.</p> <p>There
+  were major revisions to this data due to improvements in methodology, for more details
+  please see the <a href="https://www.gov.uk/government/statistics/regional-energy-data-guidance-note">General
+  Guidance Note</a>.</p> <p>2002-04 are experimental statistics. Later years are National
+  Statistics. Therefore data created using differing methodologies should not be directly
+  compared.</p> <p>Data for Middle Super Output Areas (MSOA) available.</p> <p>See
+  more on <a href="https://www.gov.uk/government/collections/road-transport-consumption-at-regional-and-local-level">Sub-national
   road transport data</a> or <a href="https://www.gov.uk/government/statistical-data-sets/road-transport-energy-consumption-at-regional-and-local-authority-level">Road
   transport energy consumption at regional and local authority level</a>.</p> </dp-prose>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/v8pmm (data.europa.eu dataset v8pmm; publisher: Department
-      for Business, Energy & Industrial Strategy (BEIS))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/v8pmm (data.europa.eu dataset
+      v8pmm; publisher: Department for Business, Energy & Industrial Strategy (BEIS))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-for-usines
 slug: v8pmm-road-transpo
+assigned_id: dea:data-product-v8pmm-road-transpo-zsv8gz
+admitted: '2026-11-14'

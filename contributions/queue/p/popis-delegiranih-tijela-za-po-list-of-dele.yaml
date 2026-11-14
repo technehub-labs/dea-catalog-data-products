@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu popis-delegiranih-tijela-za-potvrdivanje-sukladnosti-sa-specifikacijom-za-dokazanu-kvalitetu
-name: List of delegated bodies certifying compliance with the Specification for Proven Quality
-description: List of delegated bodies certifying compliance with the Specification for Proven Quality
-  — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by Ministarstvo poljoprivrede,
-  šumarstva i ribarstva.
+name: List of delegated bodies certifying compliance with the Specification for Proven
+  Quality
+description: List of delegated bodies certifying compliance with the Specification
+  for Proven Quality — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Ministarstvo poljoprivrede, šumarstva i ribarstva.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/popis-delegiranih-tijela-za-potvrdivanje-sukladnosti-sa-specifikacijom-za-dokazanu-kvalitetu
       (data.europa.eu dataset popis-delegiranih-tijela-za-potvrdivanje-sukladnosti-sa-specifikacijom-za-dokazanu-kvalitetu;
       publisher: Ministarstvo poljoprivrede, šumarstva i ribarstva)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistarstvo-poljopri
 slug: popis-delegiranih-tijela-za-po-list-of-dele
+assigned_id: dea:data-product-popis-delegiranih-tijela-za-po-list-of-dele-yq9sx8
+admitted: '2026-11-14'

@@ -1,0 +1,38 @@
+id: dea:data-product-e90445d7-3110-40ac-b9d5-6d0aa0-song-and-dan-437vuq
+type: DataProduct
+name: Song and Dance celebration
+description: The Song and Dance Celebration is one of the grandest festivals in the
+  Baltic region in terms of scope, authenticity and style. Every five years in the
+  beginning of July, the whole city of Riga, the capital of Latvia, becoming a buzzing
+  stage for choir singers and folk dancers, folklore musicians, masters of folk crafts
+  and amateur theatre troupes, young and old, dressed in folk costumes, living the
+  tradition.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1
+      (data.europa.eu dataset e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1; publisher:
+      Latvijas Institūts)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- atvijas-nstitts

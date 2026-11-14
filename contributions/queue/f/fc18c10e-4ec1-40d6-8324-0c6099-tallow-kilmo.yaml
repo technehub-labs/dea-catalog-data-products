@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fc18c10e-4ec1-40d6-8324-0c6099150102
 name: Tallow Kilmore Climate Data
-description: Daily and monthly climatalogical records for our station at Tallow Kilmore in Co. Waterford.
-  This station is now closed.
+description: Daily and monthly climatalogical records for our station at Tallow Kilmore
+  in Co. Waterford. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/fc18c10e-4ec1-40d6-8324-0c6099150102 (data.europa.eu
-      dataset fc18c10e-4ec1-40d6-8324-0c6099150102; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/fc18c10e-4ec1-40d6-8324-0c6099150102
+      (data.europa.eu dataset fc18c10e-4ec1-40d6-8324-0c6099150102; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: fc18c10e-4ec1-40d6-8324-0c6099-tallow-kilmo
+assigned_id: dea:data-product-fc18c10e-4ec1-40d6-8324-0c6099-tallow-kilmo-zuqeyd
+admitted: '2026-11-14'

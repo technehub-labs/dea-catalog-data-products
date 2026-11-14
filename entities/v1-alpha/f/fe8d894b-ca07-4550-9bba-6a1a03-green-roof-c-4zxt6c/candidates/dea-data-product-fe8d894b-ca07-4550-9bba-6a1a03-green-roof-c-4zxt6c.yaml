@@ -1,0 +1,42 @@
+id: dea:data-product-fe8d894b-ca07-4550-9bba-6a1a03-green-roof-c-4zxt6c
+type: DataProduct
+name: Green roof cadastre NRW
+description: The "Gründachkataster NRW" informs about the potentials of retrospective
+  green roofing, serves as orientation for owners and provides municipal actors with
+  important basic data for climate adaptation strategies. The data are model results
+  that serve as a non-binding initial information and not exact measurement data.
+  The calculated values may differ from the actual conditions for methodological reasons
+  and are to be understood as orientation. Roof greening can only be carried out after
+  checking the local conditions, in particular the statics. Roof windows and the like
+  cannot be detected. In principle, specialist companies for the subsequent greening
+  of the roof should be commissioned for larger roof sections. If necessary, requirements
+  of the monument protection or local design statutes must be observed.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fe8d894b-ca07-4550-9bba-6a1a032f470f~~1
+      (data.europa.eu dataset fe8d894b-ca07-4550-9bba-6a1a032f470f~~1; publisher:
+      Landesamt für Natur, Umwelt und Klima Nordrhein-Westfalen)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- andesamt-fr-atur-mwe

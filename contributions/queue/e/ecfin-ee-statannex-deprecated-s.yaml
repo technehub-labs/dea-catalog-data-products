@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ecfin-ee-statannex
 name: DEPRECATED – Statistical Annex to European Economy
-description: Statistical annexes published with DG ECFIN's macro-economic forecasts. The statistical annex
-  of European Economy contains the main body of macroeconomic data underlying the forecast publications
-  of DG ECFIN. Tables are derived from AMECO, the macroeconomic working database of the Directorate General.
-  They include long historical series and the DG's forecasts. Countries covered are EU-28, the euro area,
-  EU Member States, candidate countries, United States and Japan.
+description: Statistical annexes published with DG ECFIN's macro-economic forecasts.
+  The statistical annex of European Economy contains the main body of macroeconomic
+  data underlying the forecast publications of DG ECFIN. Tables are derived from AMECO,
+  the macroeconomic working database of the Directorate General. They include long
+  historical series and the DG's forecasts. Countries covered are EU-28, the euro
+  area, EU Member States, candidate countries, United States and Japan.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ecfin-ee-statannex (data.europa.eu dataset ecfin-ee-statannex;
-      publisher: Directorate-General for Economic and Financial Affairs)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ecfin-ee-statannex (data.europa.eu
+      dataset ecfin-ee-statannex; publisher: Directorate-General for Economic and
+      Financial Affairs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - irectorateeneral-for
 slug: ecfin-ee-statannex-deprecated-s
+assigned_id: dea:data-product-ecfin-ee-statannex-deprecated-s-ggnp7z
+admitted: '2026-11-14'

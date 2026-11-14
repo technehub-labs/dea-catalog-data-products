@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-datos-aviles-es-dataset-presupuestos-2015-f-m-cultura
 name: Budgets 2015. F.M. Cultura
-description: Global vision of the income, expenses and functional classification of the 2015 budget of
-  the "Fundación Municipal de Cultura"
+description: Global vision of the income, expenses and functional classification of
+  the 2015 budget of the "Fundación Municipal de Cultura"
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-datos-aviles-es-dataset-presupuestos-2015-f-m-cultura
-      (data.europa.eu dataset https-datos-aviles-es-dataset-presupuestos-2015-f-m-cultura; publisher:
-      Ayuntamiento de Avilés)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-datos-aviles-es-dataset-presupuestos-2015-f-m-cultura;
+      publisher: Ayuntamiento de Avilés)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-vils
 slug: https-datos-aviles-es-dataset-budgets-2015
+assigned_id: dea:data-product-https-datos-aviles-es-dataset-budgets-2015-y2zu3k
+admitted: '2026-11-14'

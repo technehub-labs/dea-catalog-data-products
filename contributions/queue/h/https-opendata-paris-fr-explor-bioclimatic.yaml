@@ -1,24 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-opendata-paris-fr-explore-dataset-plub_ess-
-name: Bioclimatic PLU - Sites for the protection of social and solidarity economy activities
-description: 'Plan Local d''Urbanisme Bioclimatique de Paris - **Sites for the protection of social and
-  solidarity economy activities** Version of the PLU voted by the Paris Council on 20 November 2024. Full
-  documentation: See "Site for the protection of social and solidarity economy activities.pdf" attached.
-  Data available for information and without regulatory value. To access the official PLU, consult the
-  [Portal of Urban Planning Rules](https://regles-urbanisme.paris.fr/) of Paris. For other PLU data available
-  on Opendata, see [this page](https://opendata.paris.fr/explore/?sort=modified&refine.keyword=PLU). PLU
-  documents and data can also be downloaded from the [Géoporttail National de l''Urbanisme] (https://www.geoportail-urbanisme.gouv.fr/).'
+name: Bioclimatic PLU - Sites for the protection of social and solidarity economy
+  activities
+description: 'Plan Local d''Urbanisme Bioclimatique de Paris - **Sites for the protection
+  of social and solidarity economy activities** Version of the PLU voted by the Paris
+  Council on 20 November 2024. Full documentation: See "Site for the protection of
+  social and solidarity economy activities.pdf" attached. Data available for information
+  and without regulatory value. To access the official PLU, consult the [Portal of
+  Urban Planning Rules](https://regles-urbanisme.paris.fr/) of Paris. For other PLU
+  data available on Opendata, see [this page](https://opendata.paris.fr/explore/?sort=modified&refine.keyword=PLU).
+  PLU documents and data can also be downloaded from the [Géoporttail National de
+  l''Urbanisme] (https://www.geoportail-urbanisme.gouv.fr/).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-opendata-paris-fr-explore-dataset-plub_ess-
-      (data.europa.eu dataset https-opendata-paris-fr-explore-dataset-plub_ess-; publisher: Ville de Paris)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-opendata-paris-fr-explore-dataset-plub_ess-; publisher:
+      Ville de Paris)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-de-aris
 slug: https-opendata-paris-fr-explor-bioclimatic
+assigned_id: dea:data-product-https-opendata-paris-fr-explor-bioclimatic-vsgdg3
+admitted: '2026-11-14'

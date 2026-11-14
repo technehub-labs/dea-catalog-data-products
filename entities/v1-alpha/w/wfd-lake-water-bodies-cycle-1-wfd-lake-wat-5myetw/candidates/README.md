@@ -1,0 +1,31 @@
+# WFD Lake Water Bodies Cycle 1
+
+> WFD Lake Water Bodies Cycle 1 is a polygon Shapefile dataset containing attributes that have been collated as defined in the Water Framework Directive as '…a body of standing inland surface water'. Artificial and modified lake water bodies are included within this dataset; however, generally only lakes above > 50 hectares were assessed under the WFD except for lakes in protected areas, where a minimum of 5.0ha was used. Lakes below this threshold are not included within this dataset unless allocated as Sites of Special Scientific Interest (SSSI) as supplied by Natural England. Water bodies are attributed with a unique identifier ‘EA_WB_ID' (equivalent to WB_ID in Cycle 2) so this dataset can be linked directly to other WFD data sources such as physical characteristics, risk, classification and proposed objectives as well as Cycle 2 datasets. This dataset was previously known as WFD Lake Waterbodies This dataset covers the layer for Cycle 1 of the Water Framework Directive. The equivalent layer for Cycle 2 is covered under WFD Lake Water bodies Cycle 2 Please note that the Environment Agency no longer provide data for water bodies in Wales - this should now available from Natural Resources Wales. Attribution statement: © Environment Agency copyright and/or database right 2017. All rights reserved.Contains Ordnance Survey data © Crown copyright and database right 2008.
+
+## Identity
+
+- **Record id**: `dea:data-product-wfd-lake-water-bodies-cycle-1-wfd-lake-wat-5myetw`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/wfd-lake-water-bodies-cycle-1 (data.europa.eu dataset wfd-lake-water-bodies-cycle-1; publisher: Environment Agency)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

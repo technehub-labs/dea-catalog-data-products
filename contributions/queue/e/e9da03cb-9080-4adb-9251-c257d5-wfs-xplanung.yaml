@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e9da03cb-9080-4adb-9251-c257d5ed0bc4
 name: WFS XPlanung BPL ‘Station environment II’
-description: 'WFS service of the development plan ‘BahnhofsUmgebung II’ of the municipality of Mudau from
-  XPlanung 5.0. Description: Mixed area, special area, priority use MI/SO.'
+description: 'WFS service of the development plan ‘BahnhofsUmgebung II’ of the municipality
+  of Mudau from XPlanung 5.0. Description: Mixed area, special area, priority use
+  MI/SO.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e9da03cb-9080-4adb-9251-c257d5ed0bc4 (data.europa.eu
-      dataset e9da03cb-9080-4adb-9251-c257d5ed0bc4; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e9da03cb-9080-4adb-9251-c257d5ed0bc4
+      (data.europa.eu dataset e9da03cb-9080-4adb-9251-c257d5ed0bc4; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: e9da03cb-9080-4adb-9251-c257d5-wfs-xplanung
+assigned_id: dea:data-product-e9da03cb-9080-4adb-9251-c257d5-wfs-xplanung-7esknr
+admitted: '2026-11-14'

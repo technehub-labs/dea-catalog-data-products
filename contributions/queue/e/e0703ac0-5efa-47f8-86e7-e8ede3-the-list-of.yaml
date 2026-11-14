@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e0703ac0-5efa-47f8-86e7-e8ede35cd0d3
-name: The list of concluded agreements of the Municipal Non-Profit Enterprise "Dnipro Primary Health Care
-  Center No. 6" of the Dnipro City Council
-description: The set contains information on the list of concluded agreements of the Municipal Non-Profit
-  Enterprise "Dnipro Primary Health Care Center No. 6" of the Dnipro City Council
+name: The list of concluded agreements of the Municipal Non-Profit Enterprise "Dnipro
+  Primary Health Care Center No. 6" of the Dnipro City Council
+description: The set contains information on the list of concluded agreements of the
+  Municipal Non-Profit Enterprise "Dnipro Primary Health Care Center No. 6" of the
+  Dnipro City Council
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e0703ac0-5efa-47f8-86e7-e8ede35cd0d3 (data.europa.eu
-      dataset e0703ac0-5efa-47f8-86e7-e8ede35cd0d3; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e0703ac0-5efa-47f8-86e7-e8ede35cd0d3
+      (data.europa.eu dataset e0703ac0-5efa-47f8-86e7-e8ede35cd0d3; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: e0703ac0-5efa-47f8-86e7-e8ede3-the-list-of
+assigned_id: dea:data-product-e0703ac0-5efa-47f8-86e7-e8ede3-the-list-of-xgfzs5
+admitted: '2026-11-14'

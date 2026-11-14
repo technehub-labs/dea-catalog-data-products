@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu unesco-memory-of-the-world-register-2025
 name: UNESCO Memory of the World Register 2025
-description: 'Recognized UNESCO sites 2025: Memory of the World Register - Data source: Culture Working
-  Group of the Greater Region Summit 2025'
+description: 'Recognized UNESCO sites 2025: Memory of the World Register - Data source:
+  Culture Working Group of the Greater Region Summit 2025'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/unesco-memory-of-the-world-register-2025 (data.europa.eu
-      dataset unesco-memory-of-the-world-register-2025; publisher: SIG-GR @ Ministère du Logement et de
-      l''Aménagement du territoire - Département de l’aménagement du territoire)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/unesco-memory-of-the-world-register-2025
+      (data.europa.eu dataset unesco-memory-of-the-world-register-2025; publisher:
+      SIG-GR @ Ministère du Logement et de l''Aménagement du territoire - Département
+      de l’aménagement du territoire)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-du-ogement
 slug: unesco-memory-of-the-world-reg-unesco-memor
+assigned_id: dea:data-product-unesco-memory-of-the-world-reg-unesco-memor-nxnak4
+admitted: '2026-11-14'

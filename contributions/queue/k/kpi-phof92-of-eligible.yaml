@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu kpi-phof92
-name: '% of eligible population aged 40-74 offered an NHS Health Check who received an NHS Health Check'
-description: '% of eligible population aged 40-74 offered an NHS Health Check who received an NHS Health
-  Check'
+name: '% of eligible population aged 40-74 offered an NHS Health Check who received
+  an NHS Health Check'
+description: '% of eligible population aged 40-74 offered an NHS Health Check who
+  received an NHS Health Check'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/kpi-phof92 (data.europa.eu dataset kpi-phof92; publisher:
-      City of York Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/kpi-phof92 (data.europa.eu dataset
+      kpi-phof92; publisher: City of York Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ity-of-ork-ouncil
 slug: kpi-phof92-of-eligible
+assigned_id: dea:data-product-kpi-phof92-of-eligible-bnsmzu
+admitted: '2026-11-14'

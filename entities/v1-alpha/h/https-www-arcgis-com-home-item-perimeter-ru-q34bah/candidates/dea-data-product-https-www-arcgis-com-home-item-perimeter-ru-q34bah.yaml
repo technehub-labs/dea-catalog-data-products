@@ -1,0 +1,33 @@
+id: dea:data-product-https-www-arcgis-com-home-item-perimeter-ru-q34bah
+type: DataProduct
+name: Perimeter RUCH
+description: The perimeters of the Urban Renovation Projects of the City of Saint-Denis.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-87738cbc22ad43c4bfbaf90e69491c64-sublayer-110~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-87738cbc22ad43c4bfbaf90e69491c64-sublayer-110~~1;
+      publisher: Mairie de Saint-Denis)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- airie-de-aintenis

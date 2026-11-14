@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-piveau-eu-set-data-coo_3000_105_2_212685
 name: Federal estimate (BVA)
-description: Federal estimate (BVA) — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by BMASGPK.
+description: Federal estimate (BVA) — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by BMASGPK.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_105_2_212685 (data.europa.eu
-      dataset https-piveau-eu-set-data-coo_3000_105_2_212685; publisher: BMASGPK)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_105_2_212685
+      (data.europa.eu dataset https-piveau-eu-set-data-coo_3000_105_2_212685; publisher:
+      BMASGPK)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: https-piveau-eu-set-data-coo-3-federal-esti
+assigned_id: dea:data-product-https-piveau-eu-set-data-coo-3-federal-esti-44zzf9
+admitted: '2026-11-14'

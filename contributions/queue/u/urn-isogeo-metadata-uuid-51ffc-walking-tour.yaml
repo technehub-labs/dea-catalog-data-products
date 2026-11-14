@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu urn-isogeo-metadata-uuid-51ffc2d1-9dff-4c49-900c-58b1b26a45be
 name: Walking tours registered with the PDIPR in the department of the North
-description: 'This data represents the walking circuits (or loops) registered with the PDIPR in the department
-  of the North. Line of tracks inscribed in the Departmental Plan of Routes of Promenade and Hiking (P.D.I.P.R.).
-  (location: R:\catalogue\dones_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_PEDESTRE_CIRCUITS//N:\documentations
+description: 'This data represents the walking circuits (or loops) registered with
+  the PDIPR in the department of the North. Line of tracks inscribed in the Departmental
+  Plan of Routes of Promenade and Hiking (P.D.I.P.R.). (location: R:\catalogue\dones_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_PEDESTRE_CIRCUITS//N:\documentations
   and sources products\project_portal\data_and_file sde\prod\reference\environment@reference_prod.sde\reference.environment.cd59_pdipr_pedestre_circuits)'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/urn-isogeo-metadata-uuid-51ffc2d1-9dff-4c49-900c-58b1b26a45be
-      (data.europa.eu dataset urn-isogeo-metadata-uuid-51ffc2d1-9dff-4c49-900c-58b1b26a45be; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset urn-isogeo-metadata-uuid-51ffc2d1-9dff-4c49-900c-58b1b26a45be;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: urn-isogeo-metadata-uuid-51ffc-walking-tour
+assigned_id: dea:data-product-urn-isogeo-metadata-uuid-51ffc-walking-tour-6zvjma
+admitted: '2026-11-14'

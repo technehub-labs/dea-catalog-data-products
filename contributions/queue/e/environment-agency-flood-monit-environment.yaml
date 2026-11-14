@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu environment-agency-flood-monitoring1
 name: Environment Agency flood-monitoring
-description: '<p>The Environment Agency flood-monitoring API provides developers with access to real time
-  information covering:<br /> •flood warnings and flood alerts<br /> •flood areas which to which warnings
-  or alerts apply<br /> •forecast of flood risks over the next three days<br /> •measurements of water
-  levels and flows<br /> •information on the monitoring stations providing those measurements</p> <p>These
-  APIs are provided as open data under the Open Government Licence with no requirement for registration.
-  If you make use of this data please acknowledge this with the following attribution statement:</p> <p><em>This
-  uses Environment Agency flood and river level data from the real-time data API (Beta)</em></p> <p>For
-  questions on the APIs please contact <a href="mailto:data.info@environment-agency.gov.uk">data.info@environment-agency.gov.uk</a>,
-  a forum for announcements and discussion is under consideration.</p> <p><em>This uses Environment Agency
-  flood and river level data from the real-time data API (Beta)</em></p> <p>More details available at:
-  <a href="http://environment.data.gov.uk/flood-monitoring/doc/reference#introduction">http://environment.data.gov.uk/flood-monitoring/doc/reference#introduction</a></p>'
+description: '<p>The Environment Agency flood-monitoring API provides developers with
+  access to real time information covering:<br /> •flood warnings and flood alerts<br
+  /> •flood areas which to which warnings or alerts apply<br /> •forecast of flood
+  risks over the next three days<br /> •measurements of water levels and flows<br
+  /> •information on the monitoring stations providing those measurements</p> <p>These
+  APIs are provided as open data under the Open Government Licence with no requirement
+  for registration. If you make use of this data please acknowledge this with the
+  following attribution statement:</p> <p><em>This uses Environment Agency flood and
+  river level data from the real-time data API (Beta)</em></p> <p>For questions on
+  the APIs please contact <a href="mailto:data.info@environment-agency.gov.uk">data.info@environment-agency.gov.uk</a>,
+  a forum for announcements and discussion is under consideration.</p> <p><em>This
+  uses Environment Agency flood and river level data from the real-time data API (Beta)</em></p>
+  <p>More details available at: <a href="http://environment.data.gov.uk/flood-monitoring/doc/reference#introduction">http://environment.data.gov.uk/flood-monitoring/doc/reference#introduction</a></p>'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/environment-agency-flood-monitoring1 (data.europa.eu
-      dataset environment-agency-flood-monitoring1; publisher: Cambridgeshire Insight)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/environment-agency-flood-monitoring1
+      (data.europa.eu dataset environment-agency-flood-monitoring1; publisher: Cambridgeshire
+      Insight)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ambridgeshire-nsight
 slug: environment-agency-flood-monit-environment
+assigned_id: dea:data-product-environment-agency-flood-monit-environment-zqx76c
+admitted: '2026-11-14'

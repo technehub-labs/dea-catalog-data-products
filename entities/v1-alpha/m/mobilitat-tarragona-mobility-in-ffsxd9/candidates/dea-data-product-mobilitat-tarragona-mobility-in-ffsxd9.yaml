@@ -1,0 +1,35 @@
+id: dea:data-product-mobilitat-tarragona-mobility-in-ffsxd9
+type: DataProduct
+name: Mobility in Tarragona
+description: 'Mobility of Tarragona is an aggregated dataset in which it is possible
+  to find several entries referring to the theme of mobility. Thus, each download
+  file carries each dataset on the theme: parking spaces for people with reduced mobility,
+  motorcycle parking areas and mobility by taxi, by public transport or by bicycle.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/mobilitat-tarragona (data.europa.eu
+      dataset mobilitat-tarragona; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

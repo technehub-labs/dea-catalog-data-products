@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https-intranet-caib-es-opendatacataleg-dataset-89510927-be28-422f-8491-a737d646430f
       (data.europa.eu dataset https-intranet-caib-es-opendatacataleg-dataset-89510927-be28-422f-8491-a737d646430f;
       publisher: Gobierno de las Illes Balears)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obierno-de-las-lles
 slug: https-intranet-caib-es-opendat-parking-annu
+assigned_id: dea:data-product-https-intranet-caib-es-opendat-parking-annu-md9may
+admitted: '2026-11-14'

@@ -1,35 +1,43 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu r_piemon-d0f9b064-0672-4137-8674-a9e6b97df6b4
 name: SIBI — Information System Remediation and Irrigation
-description: The Regional Law No 21 of 9 August 1999 entitled ‘Rules on reclamation and irrigation’ in
-  force states that the Region recognises that reclamation and irrigation activities are a permanent means
-  of developing, protecting and enhancing agricultural production, with particular regard to the quality,
-  protection and conservation of soil, water regulation and the protection of the environment and natural
-  resources; the Region also recognises in the ‘Remediation Consortia’, the ‘Irrigation Consortia’ and
-  the ‘Irrigation and Remediation Consortia’ the body best suited to carrying out remediation and irrigation
-  activities by the users concerned.As indicated by the Law, in order to collect, organise, process and
-  disseminate data and processes, including maps, on reclamation, irrigation and rural areas, the Information
-  System for Remediation and Irrigation, called SIBI, is set up at the Regional Executive.This project
-  is developed in two parts:- census in Piedmont of irrigation infrastructure- subsequent computerisation
-  of data within the information systemThe management also collaborates with INEA (National Institute
-  of Agricultural Economy) in order to deepen the knowledge of irrigation resources on the national territory.
-  INEA carries out research, detection, analysis and forecasting in the structural and socio-economic
-  fields of the agro-industrial, forestry and fisheries sectors. In recent years, the Institute’s activities
-  have expanded in support activities to the Public Administration for the implementation of agricultural
-  policies, primarily those deriving from the European Union.The data collected on the territory and included
-  in SIBI are regularly transmitted to CREA.The available data are:- the district areas- the consortium
+description: The Regional Law No 21 of 9 August 1999 entitled ‘Rules on reclamation
+  and irrigation’ in force states that the Region recognises that reclamation and
+  irrigation activities are a permanent means of developing, protecting and enhancing
+  agricultural production, with particular regard to the quality, protection and conservation
+  of soil, water regulation and the protection of the environment and natural resources;
+  the Region also recognises in the ‘Remediation Consortia’, the ‘Irrigation Consortia’
+  and the ‘Irrigation and Remediation Consortia’ the body best suited to carrying
+  out remediation and irrigation activities by the users concerned.As indicated by
+  the Law, in order to collect, organise, process and disseminate data and processes,
+  including maps, on reclamation, irrigation and rural areas, the Information System
+  for Remediation and Irrigation, called SIBI, is set up at the Regional Executive.This
+  project is developed in two parts:- census in Piedmont of irrigation infrastructure-
+  subsequent computerisation of data within the information systemThe management also
+  collaborates with INEA (National Institute of Agricultural Economy) in order to
+  deepen the knowledge of irrigation resources on the national territory. INEA carries
+  out research, detection, analysis and forecasting in the structural and socio-economic
+  fields of the agro-industrial, forestry and fisheries sectors. In recent years,
+  the Institute’s activities have expanded in support activities to the Public Administration
+  for the implementation of agricultural policies, primarily those deriving from the
+  European Union.The data collected on the territory and included in SIBI are regularly
+  transmitted to CREA.The available data are:- the district areas- the consortium
   areas- the route of channels and pipelines
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/r_piemon-d0f9b064-0672-4137-8674-a9e6b97df6b4 (data.europa.eu
-      dataset r_piemon-d0f9b064-0672-4137-8674-a9e6b97df6b4; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/r_piemon-d0f9b064-0672-4137-8674-a9e6b97df6b4
+      (data.europa.eu dataset r_piemon-d0f9b064-0672-4137-8674-a9e6b97df6b4; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: r-piemon-d0f9b064-0672-4137-86-sibi-informa
+assigned_id: dea:data-product-r-piemon-d0f9b064-0672-4137-86-sibi-informa-w6qzbz
+admitted: '2026-11-14'

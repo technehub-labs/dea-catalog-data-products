@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/raport-statistic-centralizator-privind-activitatea-bibliotecilor-publice
       (data.europa.eu dataset raport-statistic-centralizator-privind-activitatea-bibliotecilor-publice;
       publisher: Silivestru Diana)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ilivestru-iana
 slug: raport-statistic-centralizator-summary-stat
+assigned_id: dea:data-product-raport-statistic-centralizator-summary-stat-ztnumu
+admitted: '2026-11-14'

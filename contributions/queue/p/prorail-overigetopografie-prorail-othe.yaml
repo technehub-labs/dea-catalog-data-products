@@ -1,36 +1,44 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu prorail-overigetopografie
 name: ProRail Other _ Topography
-description: '<div style=''text-align:Left;''><ul> <li><span style=''font-size:10.0pt;''>Services without
-  version number can be continuously adjusted and therefore not via releases.</span></li> <li><span style=''font-size:10.0pt;''>When
-  customers use these services, They always work with the latest version of the service.</span></li> <li><span
-  style=''font-size:10.0pt;''>(NB) If a declining system uses These services, the system must therefore
-  be able to deal with services that do not require releases and communications are modified.</span></li>
-  </ul><p style=''margin-bottom:0cm; background-image:initial; background-position:initial; background-size:initial;
-  background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;''><span
-  style=''font-size:10pt;''>Actuality: is refreshed daily.</span></p><p style=''margin-bottom:0cm; background-image:initial;
-  background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial;
-  background-origin:initial; background-clip:initial;''><span style=''font-size:10pt;''></span></p><p
-  style=''margin-bottom:0cm; background-image:initial; background-position:initial; background-size:initial;
-  background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;''><span
-  style=''font-size:10pt;''>Zoom level: &lt;=1:10.000</span></p><p style=''margin-bottom:0cm; background-image:initial;
-  background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial;
-  background-origin:initial; background-clip:initial;''><span style=''font-size:10pt;''></span></p><p
-  style=''margin-bottom:0cm; background-image:initial; background-position:initial; background-size:initial;
-  background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;''><span
-  style=''font-size:10pt;''>This service contains a number of map layers with environmental objects that
-  are not track specific.</span></p><p st'
+description: '<div style=''text-align:Left;''><ul> <li><span style=''font-size:10.0pt;''>Services
+  without version number can be continuously adjusted and therefore not via releases.</span></li>
+  <li><span style=''font-size:10.0pt;''>When customers use these services, They always
+  work with the latest version of the service.</span></li> <li><span style=''font-size:10.0pt;''>(NB)
+  If a declining system uses These services, the system must therefore be able to
+  deal with services that do not require releases and communications are modified.</span></li>
+  </ul><p style=''margin-bottom:0cm; background-image:initial; background-position:initial;
+  background-size:initial; background-repeat:initial; background-attachment:initial;
+  background-origin:initial; background-clip:initial;''><span style=''font-size:10pt;''>Actuality:
+  is refreshed daily.</span></p><p style=''margin-bottom:0cm; background-image:initial;
+  background-position:initial; background-size:initial; background-repeat:initial;
+  background-attachment:initial; background-origin:initial; background-clip:initial;''><span
+  style=''font-size:10pt;''></span></p><p style=''margin-bottom:0cm; background-image:initial;
+  background-position:initial; background-size:initial; background-repeat:initial;
+  background-attachment:initial; background-origin:initial; background-clip:initial;''><span
+  style=''font-size:10pt;''>Zoom level: &lt;=1:10.000</span></p><p style=''margin-bottom:0cm;
+  background-image:initial; background-position:initial; background-size:initial;
+  background-repeat:initial; background-attachment:initial; background-origin:initial;
+  background-clip:initial;''><span style=''font-size:10pt;''></span></p><p style=''margin-bottom:0cm;
+  background-image:initial; background-position:initial; background-size:initial;
+  background-repeat:initial; background-attachment:initial; background-origin:initial;
+  background-clip:initial;''><span style=''font-size:10pt;''>This service contains
+  a number of map layers with environmental objects that are not track specific.</span></p><p
+  st'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/prorail-overigetopografie (data.europa.eu dataset
-      prorail-overigetopografie; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/prorail-overigetopografie (data.europa.eu
+      dataset prorail-overigetopografie; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: prorail-overigetopografie-prorail-othe
+assigned_id: dea:data-product-prorail-overigetopografie-prorail-othe-jqzhk4
+admitted: '2026-11-14'

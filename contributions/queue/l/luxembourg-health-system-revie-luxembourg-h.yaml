@@ -1,30 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu luxembourg-health-system-review
 name: 'Luxembourg: Health system review'
-description: The National Health Observatory, in collaboration with the European Observatory on Health
-  Systems and Policies, published the Health System Review for Luxembourg in the Health Systems in Transition
-  (HiT) series. This report provides a detailed analysis of the health system, its current and developing
-  structures, reforms and policies. This report is the result of a valuable collaboration with many experts
-  in the Luxembourg health system, whose invaluable support, information, availability, critical comments
-  and proofreading were essential to its realization. This publication was presented on 5 February 2025
-  at a conference attended by Martine Deprez, Minister of Health and Social Security and many stakeholders
-  in the health system. The conference was followed by a panel discussion on the challenges of sustainable
-  health system resource planning. The report presents a comprehensive assessment of the Luxembourg health
-  system, an essential resource for decision-makers, researchers and health professionals wishing to understand
-  the challenges and dynamics of the Luxembourg health system. A concise version of the report is also
-  available in French and English, summarizing the key elements of the health system in a clear and relevant
-  way for authorities and the public.
+description: The National Health Observatory, in collaboration with the European Observatory
+  on Health Systems and Policies, published the Health System Review for Luxembourg
+  in the Health Systems in Transition (HiT) series. This report provides a detailed
+  analysis of the health system, its current and developing structures, reforms and
+  policies. This report is the result of a valuable collaboration with many experts
+  in the Luxembourg health system, whose invaluable support, information, availability,
+  critical comments and proofreading were essential to its realization. This publication
+  was presented on 5 February 2025 at a conference attended by Martine Deprez, Minister
+  of Health and Social Security and many stakeholders in the health system. The conference
+  was followed by a panel discussion on the challenges of sustainable health system
+  resource planning. The report presents a comprehensive assessment of the Luxembourg
+  health system, an essential resource for decision-makers, researchers and health
+  professionals wishing to understand the challenges and dynamics of the Luxembourg
+  health system. A concise version of the report is also available in French and English,
+  summarizing the key elements of the health system in a clear and relevant way for
+  authorities and the public.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/luxembourg-health-system-review (data.europa.eu dataset
-      luxembourg-health-system-review; publisher: Observatoire national de la santé)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/luxembourg-health-system-review
+      (data.europa.eu dataset luxembourg-health-system-review; publisher: Observatoire
+      national de la santé)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - bservatoire-national
 slug: luxembourg-health-system-revie-luxembourg-h
+assigned_id: dea:data-product-luxembourg-health-system-revie-luxembourg-h-hvcnbq
+admitted: '2026-11-14'

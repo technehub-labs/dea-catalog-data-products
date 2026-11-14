@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -9,10 +9,14 @@ evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/fr-120066022-jdd-7dd6cc68-145e-43cb-a3af-d212155bfc62
-      (data.europa.eu dataset fr-120066022-jdd-7dd6cc68-145e-43cb-a3af-d212155bfc62; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset fr-120066022-jdd-7dd6cc68-145e-43cb-a3af-d212155bfc62;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: fr-120066022-jdd-7dd6cc68-145e-development
+assigned_id: dea:data-product-fr-120066022-jdd-7dd6cc68-145e-development-hmfnf8
+admitted: '2026-11-14'

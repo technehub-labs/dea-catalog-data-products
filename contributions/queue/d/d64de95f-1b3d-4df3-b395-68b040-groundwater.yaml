@@ -1,31 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d64de95f-1b3d-4df3-b395-68b0404ac8ca-bundesamt-fur-energie-bfe
 name: Groundwater heat utilisation potential
-description: The thermal energy stored in groundwater can be used for heating purposes. With groundwater
-  heat pump systems, the heat can be extracted from the groundwater and transferred to the heating system.
-  The potential of groundwater for heating is large and can be estimated. The groundwater heat utilisation
-  potential in Switzerland's unconsolidated aquifers was estimated using a heat balance approach. This
-  involves determining the usable heat from a simplified heat balance, taking long-term changes into account.
-  The groundwater is considered an open system, i.e. heat is exchanged with the atmosphere, hydrosphere
-  and geosphere. The calculated heat utilisation potential is regarded as heat that can be used sustainably
-  in the medium term. It should be noted that only the potential for heat recovery from groundwater was
-  taken into account; any utilisation for cooling purposes or seasonal heat storage was not considered.
-  Existing utilisation plants were also not taken into account. The basis for the calculation was provided
-  by the cantons and the federal government. The geodata set "Groundwater heat utilisation potential in
-  Switzerland's unconsolidated aquifers" shows the maximum sustainable heat that can be extracted from
-  groundwater in the medium term.
+description: The thermal energy stored in groundwater can be used for heating purposes.
+  With groundwater heat pump systems, the heat can be extracted from the groundwater
+  and transferred to the heating system. The potential of groundwater for heating
+  is large and can be estimated. The groundwater heat utilisation potential in Switzerland's
+  unconsolidated aquifers was estimated using a heat balance approach. This involves
+  determining the usable heat from a simplified heat balance, taking long-term changes
+  into account. The groundwater is considered an open system, i.e. heat is exchanged
+  with the atmosphere, hydrosphere and geosphere. The calculated heat utilisation
+  potential is regarded as heat that can be used sustainably in the medium term. It
+  should be noted that only the potential for heat recovery from groundwater was taken
+  into account; any utilisation for cooling purposes or seasonal heat storage was
+  not considered. Existing utilisation plants were also not taken into account. The
+  basis for the calculation was provided by the cantons and the federal government.
+  The geodata set "Groundwater heat utilisation potential in Switzerland's unconsolidated
+  aquifers" shows the maximum sustainable heat that can be extracted from groundwater
+  in the medium term.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/d64de95f-1b3d-4df3-b395-68b0404ac8ca-bundesamt-fur-energie-bfe
-      (data.europa.eu dataset d64de95f-1b3d-4df3-b395-68b0404ac8ca-bundesamt-fur-energie-bfe; publisher:
-      Ufficio federale dell''energia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset d64de95f-1b3d-4df3-b395-68b0404ac8ca-bundesamt-fur-energie-bfe;
+      publisher: Ufficio federale dell''energia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - fficio-federale-dell
 slug: d64de95f-1b3d-4df3-b395-68b040-groundwater
+assigned_id: dea:data-product-d64de95f-1b3d-4df3-b395-68b040-groundwater-3ww6wn
+admitted: '2026-11-14'

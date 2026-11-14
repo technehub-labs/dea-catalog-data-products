@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Resource Management of Environment Goods and Services Sector Gross 
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/fd5ce917-8401-49a3-82c6-d5d16cda5617~~2 (data.europa.eu
-      dataset fd5ce917-8401-49a3-82c6-d5d16cda5617~~2; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/fd5ce917-8401-49a3-82c6-d5d16cda5617~~2
+      (data.europa.eu dataset fd5ce917-8401-49a3-82c6-d5d16cda5617~~2; publisher:
+      Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: fd5ce917-8401-49a3-82c6-d5d16c-egs04-resour
+assigned_id: dea:data-product-fd5ce917-8401-49a3-82c6-d5d16c-egs04-resour-rxb29t
+admitted: '2026-11-14'

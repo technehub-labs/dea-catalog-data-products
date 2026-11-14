@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-odwb-be-explore-dataset-data-set-test-mobilityhubs-
 name: Mobility hubs - Arrondissement of Liège
-description: Map coordinates of mobility hubs on the territory of the Arrondissement of Liège. These hubs
-  are the multimodal exchange hubs that concentrate mobility services (public transport, shared mobility)
-  and parking infrastructure (car as bicycle).
+description: Map coordinates of mobility hubs on the territory of the Arrondissement
+  of Liège. These hubs are the multimodal exchange hubs that concentrate mobility
+  services (public transport, shared mobility) and parking infrastructure (car as
+  bicycle).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-odwb-be-explore-dataset-data-set-test-mobilityhubs-
-      (data.europa.eu dataset https-www-odwb-be-explore-dataset-data-set-test-mobilityhubs-; publisher:
-      Liège Métropole)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-www-odwb-be-explore-dataset-data-set-test-mobilityhubs-;
+      publisher: Liège Métropole)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ige-tropole
 slug: https-www-odwb-be-explore-data-mobility-hub
+assigned_id: dea:data-product-https-www-odwb-be-explore-data-mobility-hub-96fmma
+admitted: '2026-11-14'

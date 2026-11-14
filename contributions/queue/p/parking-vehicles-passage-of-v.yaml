@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu parking-vehicles
 name: Passage of vehicles to car parks - ODALA
-description: '# Data on the passage of vehicles to parking bars in the city of Arezzo For each car park
-  there are several bars, exiting and entering. This dataset collects aggregated data of 15 minutes for
-  each bar. Data is updated in real time'
+description: '# Data on the passage of vehicles to parking bars in the city of Arezzo
+  For each car park there are several bars, exiting and entering. This dataset collects
+  aggregated data of 15 minutes for each bar. Data is updated in real time'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/parking-vehicles (data.europa.eu dataset parking-vehicles;
-      publisher: Odala)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/parking-vehicles (data.europa.eu
+      dataset parking-vehicles; publisher: Odala)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - dala
 slug: parking-vehicles-passage-of-v
+assigned_id: dea:data-product-parking-vehicles-passage-of-v-vpqpvv
+admitted: '2026-11-14'

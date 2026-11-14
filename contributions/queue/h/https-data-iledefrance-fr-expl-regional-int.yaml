@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-iledefrance-fr-explore-dataset-interventions-regionales-en-faveur-du-logement-locatif-social-amelioration-ener0-
-name: Regional interventions for social rental housing (energy improvement - operation aid) - 2010 to
-  2014
-description: 'Assignments of programme authorisations voted in the Standing Committee in favour of social
-  rental housing (investment grant for the operation). This game concerns actions to improve energy performance,
-  as part of the fight against energy and social poverty. Attention: geolocation is sometimes imprecise.
-  **Details**: * The names of some beneficiaries have changed over time and the entries are not always
-  the same even if, in the end, they are the same operator. * The data relate to assignments of PAs (Programme
-  Authorisations) and do not presuppose the payment of PAs (Payment Appropriations) which fall under the
-  application of the RBF (Budgetary and Financial Regulation) and the data transmitted by each beneficiary.
-  * Some appellations are specific to the Region (MORE diversity, renewal, increase, etc.)'
+name: Regional interventions for social rental housing (energy improvement - operation
+  aid) - 2010 to 2014
+description: 'Assignments of programme authorisations voted in the Standing Committee
+  in favour of social rental housing (investment grant for the operation). This game
+  concerns actions to improve energy performance, as part of the fight against energy
+  and social poverty. Attention: geolocation is sometimes imprecise. **Details**:
+  * The names of some beneficiaries have changed over time and the entries are not
+  always the same even if, in the end, they are the same operator. * The data relate
+  to assignments of PAs (Programme Authorisations) and do not presuppose the payment
+  of PAs (Payment Appropriations) which fall under the application of the RBF (Budgetary
+  and Financial Regulation) and the data transmitted by each beneficiary. * Some appellations
+  are specific to the Region (MORE diversity, renewal, increase, etc.)'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-data-iledefrance-fr-explore-dataset-interventions-regionales-en-faveur-du-logement-locatif-social-amelioration-ener0-
       (data.europa.eu dataset https-data-iledefrance-fr-explore-dataset-interventions-regionales-en-faveur-du-logement-locatif-social-amelioration-ener0-;
       publisher: Région Île-de-France)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gion-lederance
 slug: https-data-iledefrance-fr-expl-regional-int
+assigned_id: dea:data-product-https-data-iledefrance-fr-expl-regional-int-sdeccc
+admitted: '2026-11-14'

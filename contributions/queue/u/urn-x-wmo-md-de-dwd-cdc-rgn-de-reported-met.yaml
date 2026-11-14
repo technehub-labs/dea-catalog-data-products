@@ -1,22 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu urn-x-wmo-md-de-dwd-cdc-rgn_deu_p1y_ch4_e_r_1002
 name: Reported methane (CH4) emissions from the agriculture sector in kt/year
-description: The size and spatial variability of reported methane emissions from the agriculture sector
-  are presented for the federal states and the rural districts of Germany. The figure given is the sum
-  of all emissions in the agriculture sector for the whole year. Agriculture is defined as the sum of
-  the GNFR (Gridded Nomenclature For Reporting) sectors (Agricultural _Livestock, Agricultural _Other,
-  Off _Road). Future improvements can be expected through future developments and refinements of the methods.
+description: The size and spatial variability of reported methane emissions from the
+  agriculture sector are presented for the federal states and the rural districts
+  of Germany. The figure given is the sum of all emissions in the agriculture sector
+  for the whole year. Agriculture is defined as the sum of the GNFR (Gridded Nomenclature
+  For Reporting) sectors (Agricultural _Livestock, Agricultural _Other, Off _Road).
+  Future improvements can be expected through future developments and refinements
+  of the methods.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/urn-x-wmo-md-de-dwd-cdc-rgn_deu_p1y_ch4_e_r_1002
-      (data.europa.eu dataset urn-x-wmo-md-de-dwd-cdc-rgn_deu_p1y_ch4_e_r_1002; publisher: Deutscher Wetterdienst)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset urn-x-wmo-md-de-dwd-cdc-rgn_deu_p1y_ch4_e_r_1002; publisher:
+      Deutscher Wetterdienst)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eutscher-etterdienst
 slug: urn-x-wmo-md-de-dwd-cdc-rgn-de-reported-met
+assigned_id: dea:data-product-urn-x-wmo-md-de-dwd-cdc-rgn-de-reported-met-cvd7aq
+admitted: '2026-11-14'

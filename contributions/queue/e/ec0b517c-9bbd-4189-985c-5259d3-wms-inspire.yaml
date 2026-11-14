@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: INSPIRE PLU Education Center - 1st Amendment
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ec0b517c-9bbd-4189-985c-5259d32e78b4 (data.europa.eu
-      dataset ec0b517c-9bbd-4189-985c-5259d32e78b4; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ec0b517c-9bbd-4189-985c-5259d32e78b4
+      (data.europa.eu dataset ec0b517c-9bbd-4189-985c-5259d32e78b4; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: ec0b517c-9bbd-4189-985c-5259d3-wms-inspire
+assigned_id: dea:data-product-ec0b517c-9bbd-4189-985c-5259d3-wms-inspire-su2tyr
+admitted: '2026-11-14'

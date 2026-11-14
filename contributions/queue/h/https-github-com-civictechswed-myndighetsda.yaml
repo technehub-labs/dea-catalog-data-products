@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-github-com-civictechsweden-myndighetsdata
 name: Myndighetsdata
-description: 'This project collects data from the various government agency registers and makes it available
-  in a standardised format. It also attemts to merge the registers. WARNING: This project is independent
-  and out of date or incorrect information can be present in the data.'
+description: 'This project collects data from the various government agency registers
+  and makes it available in a standardised format. It also attemts to merge the registers.
+  WARNING: This project is independent and out of date or incorrect information can
+  be present in the data.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-github-com-civictechsweden-myndighetsdata (data.europa.eu
-      dataset https-github-com-civictechsweden-myndighetsdata; publisher: Civic Tech Sweden)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-github-com-civictechsweden-myndighetsdata
+      (data.europa.eu dataset https-github-com-civictechsweden-myndighetsdata; publisher:
+      Civic Tech Sweden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ivic-ech-weden
 slug: https-github-com-civictechswed-myndighetsda
+assigned_id: dea:data-product-https-github-com-civictechswed-myndighetsda-f7ma4f
+admitted: '2026-11-14'

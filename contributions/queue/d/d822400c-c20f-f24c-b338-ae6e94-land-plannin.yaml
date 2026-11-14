@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d822400c-c20f-f24c-b338-ae6e94c61b5d
 name: Land Planning - VG _Agriculture-VL - OGC API Features
-description: The Map Service (WFS Group) provides the map bases of the Land Development Plan Environment
-  (2004) and Settlement (2006) of the Saarland.:Area-wide representation of priority areas for agriculture
-  (VL) within the framework of the LEP Environment 2004.
+description: The Map Service (WFS Group) provides the map bases of the Land Development
+  Plan Environment (2004) and Settlement (2006) of the Saarland.:Area-wide representation
+  of priority areas for agriculture (VL) within the framework of the LEP Environment
+  2004.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/d822400c-c20f-f24c-b338-ae6e94c61b5d (data.europa.eu
-      dataset d822400c-c20f-f24c-b338-ae6e94c61b5d; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/d822400c-c20f-f24c-b338-ae6e94c61b5d
+      (data.europa.eu dataset d822400c-c20f-f24c-b338-ae6e94c61b5d; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: d822400c-c20f-f24c-b338-ae6e94-land-plannin
+assigned_id: dea:data-product-d822400c-c20f-f24c-b338-ae6e94-land-plannin-vqzgtq
+admitted: '2026-11-14'

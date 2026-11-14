@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-1169-uznane-morskie-jednostki-edukacyjne
 name: Uznane Morskie Jednostki Edukacyjne
-description: <p>Lista uznanych morskich jednostek edukacyjnych na podstawie art.75 ust.1 ustawy z dnia
-  18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r., poz.281, z póżn. zm.)</p>
+description: <p>Lista uznanych morskich jednostek edukacyjnych na podstawie art.75
+  ust.1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016
+  r., poz.281, z póżn. zm.)</p>
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-1169-uznane-morskie-jednostki-edukacyjne
-      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-1169-uznane-morskie-jednostki-edukacyjne; publisher:
-      Ministerstwo Infrastruktury)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-1169-uznane-morskie-jednostki-edukacyjne;
+      publisher: Ministerstwo Infrastruktury)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterstwo-nfrastru
 slug: https-dane-gov-pl-pl-dataset-1-uznane-morsk
+assigned_id: dea:data-product-https-dane-gov-pl-pl-dataset-1-uznane-morsk-rmnfjh
+admitted: '2026-11-14'

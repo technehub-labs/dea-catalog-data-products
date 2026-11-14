@@ -1,0 +1,44 @@
+id: dea:data-product-gross-value-added-income-based-gross-value-gw5mdu
+type: DataProduct
+name: Gross Value Added (GVA)
+description: Gross Value Added measures the value generated in the production of goods
+  and services. It is one measure of overall economic performance. This dataset shows
+  Gross Value Added at current basic prices (which include the effects of inflation),
+  in Pounds (£). The measure shown is Balanced GVA, that is GVA(B). The data shows
+  the total annual GVA(B) figure in billions of pounds, and then as pounds per head.
+  Another figure is also included in the dataset, showing GVA(B) in pounds per head
+  as a percentage of the equivalent UK figure. The most recent year's data is normally
+  provisional, with finalised data being shown in the next year's update. Data that
+  is provisional is indicated within the dataset. Historical data is subject to revision.
+  This data is updated annually. For more information about the GVA(B) data and its
+  methodology, please refer to the source link to the Office for National Statistics
+  (ONS).
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/gross-value-added-income-based
+      (data.europa.eu dataset gross-value-added-income-based; publisher: Lincolnshire
+      County Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- incolnshire-ounty-ou

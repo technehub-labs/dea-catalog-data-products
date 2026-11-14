@@ -1,0 +1,41 @@
+id: dea:data-product-https-data-orleans-metropole-f-parking-lots-g6ytaa
+type: DataProduct
+name: Parking lots - Orléans Métropole
+description: 'List of Orléans Métropole car parks (parkings, bus relay car parks and
+  tram relay car parks), with mention of the places available in real time for parks
+  equipped with an access control system. **This data can be viewed here:<https://data.orleans-metropole.fr/pages/mobilite-automobile/>**
+  This dataset conforms to the national scheme <https://schema.data.gouv.fr/etalab/schema-parking/0.1.5/>[](https://schema.data.gouv.fr/etalab/schema-parking/0.1.5/documentation.html#property-type-users)
+  Compared to the national scheme, the following columns have been added: * name of
+  the manager * type of car park: car park / bus relay car park / tram relay car park
+  * real-time availability of parking spaces: yes / no * number of places available
+  => **this data is updated every 5 minutes** * availability rate * condition of the
+  car park (closure for works, etc.), resulting from the equipment repository <https://data.orleans-metropole.fr/explore/dataset/om-territoire-equipements/>'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-orleans-metropole-fr-explore-dataset-om-mobilite-parcs-stationnement-~~1
+      (data.europa.eu dataset https-data-orleans-metropole-fr-explore-dataset-om-mobilite-parcs-stationnement-~~1;
+      publisher: Orléans Métropole)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- rlans-tropole

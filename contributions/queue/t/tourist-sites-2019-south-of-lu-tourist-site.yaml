@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu tourist-sites-2019-south-of-luxembourg-pays-de-longwy-val-de-fensch
 name: 'Tourist sites 2019: South of Luxembourg, Country of Longwy, Val de Fensch'
-description: 'Tourist sites defined in 2019 by the tourist offices ORT Sud, Pays de Longwy and Val de
-  Fensch - Sources: Val de Fensch Tourism, South Regional Tourist Office A.s.b.l, Longwy Country Tourist
-  Office 2019'
+description: 'Tourist sites defined in 2019 by the tourist offices ORT Sud, Pays de
+  Longwy and Val de Fensch - Sources: Val de Fensch Tourism, South Regional Tourist
+  Office A.s.b.l, Longwy Country Tourist Office 2019'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/tourist-sites-2019-south-of-luxembourg-pays-de-longwy-val-de-fensch
-      (data.europa.eu dataset tourist-sites-2019-south-of-luxembourg-pays-de-longwy-val-de-fensch; publisher:
-      SIG-GR @ Ministère du Logement et de l''Aménagement du territoire - Département de l’aménagement
-      du territoire)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset tourist-sites-2019-south-of-luxembourg-pays-de-longwy-val-de-fensch;
+      publisher: SIG-GR @ Ministère du Logement et de l''Aménagement du territoire
+      - Département de l’aménagement du territoire)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-du-ogement
 slug: tourist-sites-2019-south-of-lu-tourist-site
+assigned_id: dea:data-product-tourist-sites-2019-south-of-lu-tourist-site-k2hchx
+admitted: '2026-11-14'

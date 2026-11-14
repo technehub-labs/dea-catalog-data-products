@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-5cf14c7e-a6d7-4d7c-87bf-900c83d44d84
-name: Expenditure on the visits of non-residents leaving Estonia by duration of the visit and  country
-  of residence (2014–2017)
-description: Expenditure on the visits of non-residents leaving Estonia by duration of the visit and country
-  of residence (2014–2017).
+name: Expenditure on the visits of non-residents leaving Estonia by duration of the
+  visit and  country of residence (2014–2017)
+description: Expenditure on the visits of non-residents leaving Estonia by duration
+  of the visit and country of residence (2014–2017).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-5cf14c7e-a6d7-4d7c-87bf-900c83d44d84
-      (data.europa.eu dataset oai-andmed-eesti-ee-5cf14c7e-a6d7-4d7c-87bf-900c83d44d84; publisher: Statistikaamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-5cf14c7e-a6d7-4d7c-87bf-900c83d44d84;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistikaamet
 slug: oai-andmed-eesti-ee-5cf14c7e-a-expenditure
+assigned_id: dea:data-product-oai-andmed-eesti-ee-5cf14c7e-a-expenditure-hu6z7b
+admitted: '2026-11-14'

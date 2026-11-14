@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu surs0805205s
-name: Self-assessment of overall satisfaction with public green areas in the surroundings by current activity
-  status, Slovenia, 2025
-description: This collection automatically captures metadata sourced from the GOVERNMENT OF THE REPUBLIC
-  OF SLOVENIA STATISTICAL OFFICE OF THE REPUBLIC OF SLOVENIA and corresponds to the source collection
-  entitled "Self-assessment of overall satisfaction with the public green areas in the surroundings by
-  current activity status, Slovenia, 2025". The actual data is available in PC-Axis (.px) format. Among
-  the additional links, you can access the page of the source portal for insight and selection of data,
-  and there is also the PX-Win program, which can be downloaded for free. Both allow you to select data
-  for display, change the printout format and store it in different formats, as well as view and print
-  tables of unlimited size and some basic statistical analyses and graphical representations.
+name: Self-assessment of overall satisfaction with public green areas in the surroundings
+  by current activity status, Slovenia, 2025
+description: This collection automatically captures metadata sourced from the GOVERNMENT
+  OF THE REPUBLIC OF SLOVENIA STATISTICAL OFFICE OF THE REPUBLIC OF SLOVENIA and corresponds
+  to the source collection entitled "Self-assessment of overall satisfaction with
+  the public green areas in the surroundings by current activity status, Slovenia,
+  2025". The actual data is available in PC-Axis (.px) format. Among the additional
+  links, you can access the page of the source portal for insight and selection of
+  data, and there is also the PX-Win program, which can be downloaded for free. Both
+  allow you to select data for display, change the printout format and store it in
+  different formats, as well as view and print tables of unlimited size and some basic
+  statistical analyses and graphical representations.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/surs0805205s (data.europa.eu dataset surs0805205s;
-      publisher: VLADA REPUBLIKE SLOVENIJE STATISTIČNI URAD REPUBLIKE SLOVENIJE)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/surs0805205s (data.europa.eu
+      dataset surs0805205s; publisher: VLADA REPUBLIKE SLOVENIJE STATISTIČNI URAD
+      REPUBLIKE SLOVENIJE)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: surs0805205s-self-assessm
+assigned_id: dea:data-product-surs0805205s-self-assessm-hnfkq3
+admitted: '2026-11-14'

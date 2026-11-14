@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-zenodo-org-6389653
-name: Relative Humidity from Copernicus Essential Climate Variables for July months from 1980 to 2018
-description: This dataset can be used if you have issues with the Essential Climate Variables Galaxy Tool
-  for the Training "Getting your hands-on climate data" in the section "Essential Climate Variables".
-  You can then upload this dataset in your Galaxy history and skip the 1st step (Copernicus Essential
-  Climate Variables) and directly start with 2. map plot gridded (lat/lon) netCDF data.
+name: Relative Humidity from Copernicus Essential Climate Variables for July months
+  from 1980 to 2018
+description: This dataset can be used if you have issues with the Essential Climate
+  Variables Galaxy Tool for the Training "Getting your hands-on climate data" in the
+  section "Essential Climate Variables". You can then upload this dataset in your
+  Galaxy history and skip the 1st step (Copernicus Essential Climate Variables) and
+  directly start with 2. map plot gridded (lat/lon) netCDF data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-6389653 (data.europa.eu dataset oai-zenodo-org-6389653;
-      publisher: Zenodo)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-6389653 (data.europa.eu
+      dataset oai-zenodo-org-6389653; publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enodo
 slug: oai-zenodo-org-6389653-relative-hum
+assigned_id: dea:data-product-oai-zenodo-org-6389653-relative-hum-spqyea
+admitted: '2026-11-14'

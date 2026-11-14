@@ -1,0 +1,35 @@
+id: dea:data-product-fe1afed4-9d95-46ad-8d2a-b84329-data-on-the-h3edue
+type: DataProduct
+name: Data on the accessibility of buildings for people with disabilities and other
+  low-mobility groups
+description: The data published on the page created by the administrator, namely the
+  executive committee of the Kryvyi Rih City Council, is no longer updated on this
+  page.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fe1afed4-9d95-46ad-8d2a-b843296f690c
+      (data.europa.eu dataset fe1afed4-9d95-46ad-8d2a-b843296f690c; publisher: Виконавчий
+      комітет Криворізької міської ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

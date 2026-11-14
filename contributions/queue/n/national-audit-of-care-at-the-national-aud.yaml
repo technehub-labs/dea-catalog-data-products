@@ -1,13 +1,14 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu national-audit-of-care-at-the-end-of-life-mental-health-spotlight-audit-2025
 name: 'National Audit of Care at the End of Life: Mental Health Spotlight Audit 2025'
-description: The National Audit of Care at the End of Life is a national comparative audit of the quality
-  and outcomes of care experienced by the dying person (18+) and those important to them during the last
-  admission leading to death in England, Wales and Jersey. The Mental Health Spotlight Audit focusses
-  on care delivered within mental health inpatient facilities. The reported data covers the 12-month period
+description: The National Audit of Care at the End of Life is a national comparative
+  audit of the quality and outcomes of care experienced by the dying person (18+)
+  and those important to them during the last admission leading to death in England,
+  Wales and Jersey. The Mental Health Spotlight Audit focusses on care delivered within
+  mental health inpatient facilities. The reported data covers the 12-month period
   from January to December 2025.
 evidence:
   sources:
@@ -15,9 +16,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/national-audit-of-care-at-the-end-of-life-mental-health-spotlight-audit-2025
       (data.europa.eu dataset national-audit-of-care-at-the-end-of-life-mental-health-spotlight-audit-2025;
       publisher: Healthcare Quality Improvement Partnership)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ealthcare-uality-mpr
 slug: national-audit-of-care-at-the-national-aud
+assigned_id: dea:data-product-national-audit-of-care-at-the-national-aud-9fddbf
+admitted: '2026-11-14'

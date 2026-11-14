@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu f178f1ef-6be3-4377-8441-433e3531c11f
 name: Money and Banking Statistics
-description: The Money and Banking Statistics contain data on the liabilities and assets of within-the-State
-  offices of credit institutions. These data are further broken down by institutional sector, residency
-  of counterparties, and by the type and maturity of the main asset (loans, holdings of securities) and
-  liability instruments (deposits, securities issued) of interest. Detailed statistics are available on
+description: The Money and Banking Statistics contain data on the liabilities and
+  assets of within-the-State offices of credit institutions. These data are further
+  broken down by institutional sector, residency of counterparties, and by the type
+  and maturity of the main asset (loans, holdings of securities) and liability instruments
+  (deposits, securities issued) of interest. Detailed statistics are available on
   developments in Irish mortgage, consumer and deposit markets.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/f178f1ef-6be3-4377-8441-433e3531c11f (data.europa.eu
-      dataset f178f1ef-6be3-4377-8441-433e3531c11f; publisher: Central Bank of Ireland)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/f178f1ef-6be3-4377-8441-433e3531c11f
+      (data.europa.eu dataset f178f1ef-6be3-4377-8441-433e3531c11f; publisher: Central
+      Bank of Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-ank-of-reland
 slug: f178f1ef-6be3-4377-8441-433e35-money-and-ba
+assigned_id: dea:data-product-f178f1ef-6be3-4377-8441-433e35-money-and-ba-m6jeps
+admitted: '2026-11-14'

@@ -1,0 +1,35 @@
+id: dea:data-product-https-opendata-terrassa-cat-da-bus-stops-an-jarrng
+type: DataProduct
+name: Bus stops and timetables of urban buses from Terrassa
+description: 'Stops and schedules of the urban bus lines of Terrassa. This data set
+  provides the download of the data in gtfs, through a zip file that allows its treatment
+  and reuse. To consult the data, you can access the web: https://tmesa.com/'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-opendata-terrassa-cat-dataset-parades-bus
+      (data.europa.eu dataset https-opendata-terrassa-cat-dataset-parades-bus; publisher:
+      Ayuntamiento de Terrassa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- yuntamiento-de-erras

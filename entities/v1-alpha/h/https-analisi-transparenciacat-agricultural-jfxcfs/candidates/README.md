@@ -1,0 +1,31 @@
+# Agricultural elections
+
+> En aquesta sèrie històrica es recullen les dades de participació i resultats de les Eleccions agràries des de l’any 1994. Iniciem la sèrie amb les dades del 2026, 2021, 2016, 2011, 2007, 2002 i 1998 i anirem incorporant les dades restants fins a les primeres eleccions del 1994. Properament, afegirem les dades de les Eleccions Agràries 2026 que tindran lloc el proper 27 de febrer de 2026. En les eleccions de “Cambres Agràries”, cada 4 anys, des de 1994 i fins les que van tenir lloc el 2016, es recollien les votacions en els diferents col·legis electorals. En aquests anys 1994, 1999, 2002, 2009, 2011 i 2016, la normativa que regulaven les eleccions en aquest període eren: - L’article 108.4 de la Llei orgànica 5/1985, de 19 de juny, de règim general de les eleccions. - El Decret 242/1994, de 13 de setembre pel qual es regula el règim electoral general de les cambres agràries. Les Eleccions Agràries de 2021 (a partir d’aquestes passen a ser Eleccions Agràries i no Cambres Agràries), van ser les primeres en què el vot es va emetre, en tots els casos, mitjançant el vot electrònic. Per ajustar les eleccions a aquest sistema de vot, va caldre fer algunes modificacions en la Llei 17/2014, mitjançant el Decret Llei 32/2020. A partir del 2021, els Col·legis Electorals passen a ser Districtes Electorals.
+
+## Identity
+
+- **Record id**: `dea:data-product-https-analisi-transparenciacat-agricultural-jfxcfs`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-dqg7-r9tb (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-dqg7-r9tb; publisher: Generalitat de Catalunya)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

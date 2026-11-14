@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu doi-10-24417-msfd2017mills3d
 name: MSDF 2017 cycle. Windmills impact on hydrodynamics. Windmills 3D fields
-description: This dataset is part of the MSFD D7 2017 cycle. It aims at assessing the impact of the windmills
-  on the hydrodynamical conditions and hydrodynamical climate in their neighbourhood. The impcat is measured
-  by comparing a domain with and without the presence of windmills. This particular dataset gathers the
-  3D fields of the windmills simulation.
+description: This dataset is part of the MSFD D7 2017 cycle. It aims at assessing
+  the impact of the windmills on the hydrodynamical conditions and hydrodynamical
+  climate in their neighbourhood. The impcat is measured by comparing a domain with
+  and without the presence of windmills. This particular dataset gathers the 3D fields
+  of the windmills simulation.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/doi-10-24417-msfd2017mills3d (data.europa.eu dataset
-      doi-10-24417-msfd2017mills3d; publisher: Koninklijk Belgisch Instituut voor Natuurwetenschappen
-      (KBIN))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/doi-10-24417-msfd2017mills3d
+      (data.europa.eu dataset doi-10-24417-msfd2017mills3d; publisher: Koninklijk
+      Belgisch Instituut voor Natuurwetenschappen (KBIN))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oninklijk-elgisch-ns
 slug: doi-10-24417-msfd2017mills3d-msdf-2017-cy
+assigned_id: dea:data-product-doi-10-24417-msfd2017mills3d-msdf-2017-cy-4dvhn6
+admitted: '2026-11-14'

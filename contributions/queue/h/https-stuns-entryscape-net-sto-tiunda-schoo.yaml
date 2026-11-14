@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-stuns-entryscape-net-store-1-resource-302
 name: Tiunda School - power measurments - 5 min res - 20200320-20220331
-description: Measurement data for instantaneous effect and energy use at Tiunda school in Uppsala. The
-  measurement takes place on incoming lines in the school's switchgear. The school has about 1200 students
-  and a central kitchen which produces about 2500 portions of food a day and also provides other schools
-  and preschools and nursing homes with food. The service to the school is at 1250 A (amperes).
+description: Measurement data for instantaneous effect and energy use at Tiunda school
+  in Uppsala. The measurement takes place on incoming lines in the school's switchgear.
+  The school has about 1200 students and a central kitchen which produces about 2500
+  portions of food a day and also provides other schools and preschools and nursing
+  homes with food. The service to the school is at 1250 A (amperes).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-stuns-entryscape-net-store-1-resource-302 (data.europa.eu
-      dataset https-stuns-entryscape-net-store-1-resource-302; publisher: STUNS Energi)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-stuns-entryscape-net-store-1-resource-302
+      (data.europa.eu dataset https-stuns-entryscape-net-store-1-resource-302; publisher:
+      STUNS Energi)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nergi
 slug: https-stuns-entryscape-net-sto-tiunda-schoo
+assigned_id: dea:data-product-https-stuns-entryscape-net-sto-tiunda-schoo-nzg7hq
+admitted: '2026-11-14'

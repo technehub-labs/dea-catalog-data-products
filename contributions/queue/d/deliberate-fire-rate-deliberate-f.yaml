@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu deliberate_fire_rate
 name: Deliberate fire rate
-description: 'The number of deliberate fires per 100,000 population Source: Communities and Local Government
-  (CLG), Office for National Statistics (ONS) Publisher: DCLG Floor Targets Interactive Geographies: Local
-  Authority District (LAD), County/Unitary Authority, Government Office Region (GOR), National Geographic
-  coverage: England Time coverage: 2002 to 2004 Type of data: Administrative data'
+description: 'The number of deliberate fires per 100,000 population Source: Communities
+  and Local Government (CLG), Office for National Statistics (ONS) Publisher: DCLG
+  Floor Targets Interactive Geographies: Local Authority District (LAD), County/Unitary
+  Authority, Government Office Region (GOR), National Geographic coverage: England
+  Time coverage: 2002 to 2004 Type of data: Administrative data'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/deliberate_fire_rate (data.europa.eu dataset deliberate_fire_rate;
-      publisher: Ministry of Housing, Communities and Local Government)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/deliberate_fire_rate (data.europa.eu
+      dataset deliberate_fire_rate; publisher: Ministry of Housing, Communities and
+      Local Government)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistry-of-ousing-om
 slug: deliberate-fire-rate-deliberate-f
+assigned_id: dea:data-product-deliberate-fire-rate-deliberate-f-m49cvw
+admitted: '2026-11-14'

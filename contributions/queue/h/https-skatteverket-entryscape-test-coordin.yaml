@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-skatteverket-entryscape-net-store-9-resource-153
 name: Test coordination number
-description: Test coordination number with century figures for the years 1914-2025. Test coordination
-  numbers may only be used in test environments.
+description: Test coordination number with century figures for the years 1914-2025.
+  Test coordination numbers may only be used in test environments.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-skatteverket-entryscape-net-store-9-resource-153
-      (data.europa.eu dataset https-skatteverket-entryscape-net-store-9-resource-153; publisher: Skatteverket)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-skatteverket-entryscape-net-store-9-resource-153;
+      publisher: Skatteverket)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - katteverket
 slug: https-skatteverket-entryscape-test-coordin
+assigned_id: dea:data-product-https-skatteverket-entryscape-test-coordin-pckcd7
+admitted: '2026-11-14'

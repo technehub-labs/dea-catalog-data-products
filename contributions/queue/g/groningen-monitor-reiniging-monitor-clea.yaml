@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu groningen-monitor-reiniging
 name: Monitor cleaning
-description: The annual reports provide an explanation of the results of the Department of Cleaning over
-  the years. In doing so, as much as possible is connected to the annual accounts, the business plan,
-  the environmental policy plan and the environment! and quality management system of the Cleaning. The
-  annual reports can be seen as a monitor that pays attention to collected quantities of waste, waste
-  separation, the quality of public space, various policies, working conditions and financial data.
+description: The annual reports provide an explanation of the results of the Department
+  of Cleaning over the years. In doing so, as much as possible is connected to the
+  annual accounts, the business plan, the environmental policy plan and the environment!
+  and quality management system of the Cleaning. The annual reports can be seen as
+  a monitor that pays attention to collected quantities of waste, waste separation,
+  the quality of public space, various policies, working conditions and financial
+  data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/groningen-monitor-reiniging (data.europa.eu dataset
-      groningen-monitor-reiniging; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/groningen-monitor-reiniging (data.europa.eu
+      dataset groningen-monitor-reiniging; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: groningen-monitor-reiniging-monitor-clea
+assigned_id: dea:data-product-groningen-monitor-reiniging-monitor-clea-w8nzkt
+admitted: '2026-11-14'

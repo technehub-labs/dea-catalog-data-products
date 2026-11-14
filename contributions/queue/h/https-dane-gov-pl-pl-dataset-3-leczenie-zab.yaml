@@ -1,32 +1,38 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-3389-leczenie-zabiegowe-w-poszczegolnych-nowotworach
 name: Leczenie zabiegowe w poszczególnych nowotworach
-description: <p>W lipcu 2018 roku wprowadzono możliwość rozliczania świadczeń zabiegowych (katalog 3c)
-  z uwzględnieniem współczynników korygujących dla świadczeniodawców, którzy wykonują określoną liczbę
-  świadczeń w ramach pakietu onkologicznego.</p> <p>Progi liczbowe zostały zdefiniowane odrębnie dla grup
-  wybranych grup nowotworów złośliwych i wynoszą:</p> <ul> <li>nowotwór złośliwy płuca - 70 zabiegów;</li>
-  <li>nowotwór złośliwy pęcherza moczowego - 30 zabiegów;</li> <li>nowotwór złośliwy jajnika - 30 zabiegów;</li>
-  <li>nowotwór złośliwy jelita grubego - 75 zabiegów;</li> <li>nowotwór złośliwy macicy - 60 zabiegów;</li>
-  <li>nowotwór złośliwy nerki - 50 zabiegów;</li> <li>nowotwór złośliwy piersi - 250 zabiegów;</li> <li>nowotwór
-  złośliwy gruczołu krokowego - 75 zabiegów;</li> <li>nowotwór złośliwy trzustki - 30 zabiegów;</li> <li>nowotwór
-  złośliwy żołądka - 30 zabiegów;</li> <li>nowotwór złośliwy tarczycy i przytarczyc - 75 zabiegów;</li>
-  <li>nowotwór złośliwy OUN - 150 zabiegów;</li> <li>nowotwór złośliwy gardła i krtani - 50 zabiegów.</li>
-  </ul> <p>Dodatkowo wprowadzono onkologiczne grupy JGP oraz kompleksową opiekę onkologiczną w leczeniu
-  nowotworów jelita grubego oraz nowotworów piersi, które ujęto w raporcie.</p> <p>Celem działań jest
-  zwiększenie bezpieczeństwa pacjenta poprzez stopniową centralizację świadczeń chirurgicznych oraz promowanie
-  wielodyscyplinarności i kompleksowości leczenia.</p>
+description: <p>W lipcu 2018 roku wprowadzono możliwość rozliczania świadczeń zabiegowych
+  (katalog 3c) z uwzględnieniem współczynników korygujących dla świadczeniodawców,
+  którzy wykonują określoną liczbę świadczeń w ramach pakietu onkologicznego.</p>
+  <p>Progi liczbowe zostały zdefiniowane odrębnie dla grup wybranych grup nowotworów
+  złośliwych i wynoszą:</p> <ul> <li>nowotwór złośliwy płuca - 70 zabiegów;</li> <li>nowotwór
+  złośliwy pęcherza moczowego - 30 zabiegów;</li> <li>nowotwór złośliwy jajnika -
+  30 zabiegów;</li> <li>nowotwór złośliwy jelita grubego - 75 zabiegów;</li> <li>nowotwór
+  złośliwy macicy - 60 zabiegów;</li> <li>nowotwór złośliwy nerki - 50 zabiegów;</li>
+  <li>nowotwór złośliwy piersi - 250 zabiegów;</li> <li>nowotwór złośliwy gruczołu
+  krokowego - 75 zabiegów;</li> <li>nowotwór złośliwy trzustki - 30 zabiegów;</li>
+  <li>nowotwór złośliwy żołądka - 30 zabiegów;</li> <li>nowotwór złośliwy tarczycy
+  i przytarczyc - 75 zabiegów;</li> <li>nowotwór złośliwy OUN - 150 zabiegów;</li>
+  <li>nowotwór złośliwy gardła i krtani - 50 zabiegów.</li> </ul> <p>Dodatkowo wprowadzono
+  onkologiczne grupy JGP oraz kompleksową opiekę onkologiczną w leczeniu nowotworów
+  jelita grubego oraz nowotworów piersi, które ujęto w raporcie.</p> <p>Celem działań
+  jest zwiększenie bezpieczeństwa pacjenta poprzez stopniową centralizację świadczeń
+  chirurgicznych oraz promowanie wielodyscyplinarności i kompleksowości leczenia.</p>
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-3389-leczenie-zabiegowe-w-poszczegolnych-nowotworach
       (data.europa.eu dataset https-dane-gov-pl-pl-dataset-3389-leczenie-zabiegowe-w-poszczegolnych-nowotworach;
       publisher: Narodowy Fundusz Zdrowia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - arodowy-undusz-drowi
 slug: https-dane-gov-pl-pl-dataset-3-leczenie-zab
+assigned_id: dea:data-product-https-dane-gov-pl-pl-dataset-3-leczenie-zab-j8b8vx
+admitted: '2026-11-14'

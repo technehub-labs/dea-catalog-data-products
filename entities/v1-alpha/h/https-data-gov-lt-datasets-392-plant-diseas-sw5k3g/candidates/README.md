@@ -1,0 +1,31 @@
+# Plant disease and pest monitoring data
+
+> The dataset provides detailed information on plant diseases, pests and estimates of the harmful effects of their spread in Lithuania. This package combines three closely related sources of information: a catalogue of plant pests, a catalogue of plant diseases and estimates of the harmful effects of observed harmful organisms for the analysis of the plant protection and agricultural sector. The pest catalogue includes data on the most common plant pests in Lithuania. Each pest is assigned a Lithuanian and Latin name, a group of biological dependency, a description, favourable spreading conditions and a limit of harmfulness. The package also sets out which plants are damaged by the pest, what are the main signs of damage and what control measures apply to their management. Each entry has been supplemented by recommendations on the management of resistance, specifying the means and conditions under which the spread of pests can be prevented most effectively. The catalogue of plant diseases shall contain information on plant diseases and their agents, the circumstances of their spread, favourable conditions and damage to plants. The record of each disease shall indicate which plant group it belongs to, a description of the disease, its symptoms and the species of vulnerable plants. The data contained in the package makes it possible to identify both isolated diseases and more complex pathological complexes that affect specific plants during different growing periods. At the same time, the recommended control measures shall be specified, ranging from the choice of resistant plant varieties and crop rotation to the use of suitable fungicides or other protective measures. The collection of estimates of the incidence of harmful organisms of the observed plants shall contain factual observational data on the occurrence of diseases and pests in various municipalities of Lithuania. Each entry shall indicate the date of observation, the name of the plant, the disease or pest fo
+
+## Identity
+
+- **Record id**: `dea:data-product-https-data-gov-lt-datasets-392-plant-diseas-sw5k3g`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-3922- (data.europa.eu dataset https-data-gov-lt-datasets-3922-; publisher: Valstybės duomenų agentūra)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

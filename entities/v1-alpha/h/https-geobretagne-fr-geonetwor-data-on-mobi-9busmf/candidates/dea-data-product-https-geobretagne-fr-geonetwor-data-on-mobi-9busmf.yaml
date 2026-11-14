@@ -1,0 +1,36 @@
+id: dea:data-product-https-geobretagne-fr-geonetwor-data-on-mobi-9busmf
+type: DataProduct
+name: Data on mobility events in Brittany
+description: Data on mobility events in Brittany — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by Direction régionale de l'environnement,
+  de l'aménagement et du logement de Bretagne.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-geobretagne-fr-geonetwork-srv-fre-xml_iso19139-uuid-fd5b3372-bf11-4c56-83b6-17a1785dcf68
+      (data.europa.eu dataset https-geobretagne-fr-geonetwork-srv-fre-xml_iso19139-uuid-fd5b3372-bf11-4c56-83b6-17a1785dcf68;
+      publisher: Direction régionale de l''environnement, de l''aménagement et du
+      logement de Bretagne)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- irection-rgionale-de

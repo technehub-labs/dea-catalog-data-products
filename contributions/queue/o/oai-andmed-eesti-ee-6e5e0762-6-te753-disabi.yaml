@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-6e5e0762-6149-4a34-a710-966ab96dbe9b
 name: 'TE753: Disability free life expectancy by sex, age and county'
-description: 'The dataset shows the number of years of healthy life expectancy by county (15 counties),
-  age (0, 65-69), sex and year. The purpose of collecting these data is to provide a standard population
-  health indicator for monitoring trends over time and comparing population groups and regions. Data source:
-  Statistics Estonia'
+description: 'The dataset shows the number of years of healthy life expectancy by
+  county (15 counties), age (0, 65-69), sex and year. The purpose of collecting these
+  data is to provide a standard population health indicator for monitoring trends
+  over time and comparing population groups and regions. Data source: Statistics Estonia'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-6e5e0762-6149-4a34-a710-966ab96dbe9b
-      (data.europa.eu dataset oai-andmed-eesti-ee-6e5e0762-6149-4a34-a710-966ab96dbe9b; publisher: Tervise
-      Arengu Instituut)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-6e5e0762-6149-4a34-a710-966ab96dbe9b;
+      publisher: Tervise Arengu Instituut)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ervise-rengu-nstituu
 slug: oai-andmed-eesti-ee-6e5e0762-6-te753-disabi
+assigned_id: dea:data-product-oai-andmed-eesti-ee-6e5e0762-6-te753-disabi-hva5we
+admitted: '2026-11-14'
