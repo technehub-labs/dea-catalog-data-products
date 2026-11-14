@@ -1,37 +1,44 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 10-16904_envidat-47-envidat
 name: Dataset on PV Production in Snow Covered Mountains
-description: 'Overview The SUNWELL Modelling Environment is a combination of data and code that models
-  electricity production from satellite-derived irradiance data and other spatial data sets for all of
-  Switzerland. This ensemble accompanies the publication "The bright side of PV production in snow-covered
-  mountains", published in the Proceedings of the National Academy of Science and reproduces all results
-  and figures of. Code and resources are in their original form (with documentation). A new version with
-  a more generalized application to PV modelling and with more flexibility in terms of input and output
-  formats will be released in the coming months. Format All code is written and has to be executed in
-  Matlab. The input and output data sets are also in the Matlab-specific .mat format. Whenever publicly
-  available, the original data is provided as geotif, .xlsx or other common format. This is the case for:
-  - Digital Elevation Model (InputsFromMatlab/MSG/OriginalData/ASTERDEM), - Landsurface cover type (InputsFromMatlab/MSG/OriginalData/CORINE),
-  - Population Density (InputsFromMatlab/MSG/OriginalData/popdensRaster, - Electricity production from
-  three of our validation sites (/Validation/WSL), - Measured irradiance for two validation sites (/Validation/ASRB)
-  The ‘Metadata’ documents in the respective folders provide further information about the data sources
-  and processing. Figures are produced either in .pdf or .png format. Structure The central level of the
-  SUNWELL environment holds the 5 Mains, which run the different modelling aspects of the paper; each
-  code is documented separately. Additional code is located in the ‘DataProcessing’ and the ‘functions’
-  folder. Functions are called in the different Mains. ‘InputsFromMatlab’ contains the radiation and albedo
-  input data sets in separate subfolders (SIS/SISDIR/ALB). The original data is not publicly available,
-  but can be requested for research purposes free of charge. We provide a processed subset of the data
-  set that was used '
+description: 'Overview The SUNWELL Modelling Environment is a combination of data
+  and code that models electricity production from satellite-derived irradiance data
+  and other spatial data sets for all of Switzerland. This ensemble accompanies the
+  publication "The bright side of PV production in snow-covered mountains", published
+  in the Proceedings of the National Academy of Science and reproduces all results
+  and figures of. Code and resources are in their original form (with documentation).
+  A new version with a more generalized application to PV modelling and with more
+  flexibility in terms of input and output formats will be released in the coming
+  months. Format All code is written and has to be executed in Matlab. The input and
+  output data sets are also in the Matlab-specific .mat format. Whenever publicly
+  available, the original data is provided as geotif, .xlsx or other common format.
+  This is the case for: - Digital Elevation Model (InputsFromMatlab/MSG/OriginalData/ASTERDEM),
+  - Landsurface cover type (InputsFromMatlab/MSG/OriginalData/CORINE), - Population
+  Density (InputsFromMatlab/MSG/OriginalData/popdensRaster, - Electricity production
+  from three of our validation sites (/Validation/WSL), - Measured irradiance for
+  two validation sites (/Validation/ASRB) The ‘Metadata’ documents in the respective
+  folders provide further information about the data sources and processing. Figures
+  are produced either in .pdf or .png format. Structure The central level of the SUNWELL
+  environment holds the 5 Mains, which run the different modelling aspects of the
+  paper; each code is documented separately. Additional code is located in the ‘DataProcessing’
+  and the ‘functions’ folder. Functions are called in the different Mains. ‘InputsFromMatlab’
+  contains the radiation and albedo input data sets in separate subfolders (SIS/SISDIR/ALB).
+  The original data is not publicly available, but can be requested for research purposes
+  free of charge. We provide a processed subset of the data set that was used '
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/10-16904_envidat-47-envidat (data.europa.eu dataset
-      10-16904_envidat-47-envidat; publisher: EnviDat)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/10-16904_envidat-47-envidat (data.europa.eu
+      dataset 10-16904_envidat-47-envidat; publisher: EnviDat)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nviat
 slug: 10-16904-envidat-47-envidat-dataset-on-p
+assigned_id: dea:data-product-10-16904-envidat-47-envidat-dataset-on-p-bzfwp6
+admitted: '2026-11-14'

@@ -1,34 +1,42 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 57823-environmental-taxes-and-fees-environmental-accounts
 name: Environmental taxes and fees; environmental accounts
-description: 'The government charges several taxes and fees to support and finance environmental policy.
-  This table presents an overview of the revenues of the environmental taxes and fees, classified in four
-  categories: energy, transport, pollution and natural resources. The revenues of environmental taxes
-  and fees can be attributed by taxpayer, distinguishing private households, industries and non-residents.
-  The above mentioned revenues of environmental taxes and fees are presented in the following variables:
-  - value in current prices, million euros. The table is part of the environmental accounts. The environmental
-  accounts quantify the relationship between economy and environment. In order to arrive at a consistent
-  statistical description of this relationship, the environmental accounts are in line with the classifications,
-  definitions and revision strategy of the environmental accounts. As a result, environmental figures
-  from the environmental accounts deviate in a number of cases from the environmental figures elsewhere
-  on the CBS website, and in some cases, from the national accounts themselves. Data available from: 1995
-  Status of the figures: The figures for the reporting years 2024 and 2025 are provisional. The figures
-  for the reporting years 1995 through 2023 are final. Changes as of 2 October 2026: The figures for the
-  reporting years 2024 and 2025 have been updated. The ‘Environmental taxes and levies’ selection has
-  been converted into separate topics to improve the table''s presentation. Additionally, the levies ‘other
-  CO<sub>2</sub> levies’ and ‘inframarginal electricity levy’ have been added. When will new figures be
-  published? New figures are published annually, around October.'
+description: 'The government charges several taxes and fees to support and finance
+  environmental policy. This table presents an overview of the revenues of the environmental
+  taxes and fees, classified in four categories: energy, transport, pollution and
+  natural resources. The revenues of environmental taxes and fees can be attributed
+  by taxpayer, distinguishing private households, industries and non-residents. The
+  above mentioned revenues of environmental taxes and fees are presented in the following
+  variables: - value in current prices, million euros. The table is part of the environmental
+  accounts. The environmental accounts quantify the relationship between economy and
+  environment. In order to arrive at a consistent statistical description of this
+  relationship, the environmental accounts are in line with the classifications, definitions
+  and revision strategy of the environmental accounts. As a result, environmental
+  figures from the environmental accounts deviate in a number of cases from the environmental
+  figures elsewhere on the CBS website, and in some cases, from the national accounts
+  themselves. Data available from: 1995 Status of the figures: The figures for the
+  reporting years 2024 and 2025 are provisional. The figures for the reporting years
+  1995 through 2023 are final. Changes as of 2 October 2026: The figures for the reporting
+  years 2024 and 2025 have been updated. The ‘Environmental taxes and levies’ selection
+  has been converted into separate topics to improve the table''s presentation. Additionally,
+  the levies ‘other CO<sub>2</sub> levies’ and ‘inframarginal electricity levy’ have
+  been added. When will new figures be published? New figures are published annually,
+  around October.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/57823-environmental-taxes-and-fees-environmental-accounts
-      (data.europa.eu dataset 57823-environmental-taxes-and-fees-environmental-accounts; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 57823-environmental-taxes-and-fees-environmental-accounts;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 57823-environmental-taxes-and-environmenta
+assigned_id: dea:data-product-57823-environmental-taxes-and-environmenta-j22m7z
+admitted: '2026-11-14'

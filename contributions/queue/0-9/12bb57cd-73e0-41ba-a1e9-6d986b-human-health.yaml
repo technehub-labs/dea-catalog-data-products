@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 12bb57cd-73e0-41ba-a1e9-6d986b9109d3
 name: Human Health NL NUTS2
-description: This meta data record refers to SDMX files with human Health data like total number of death
-  per 100,000 people or number of doctors in the Netherlands per NUTS2 region.
+description: This meta data record refers to SDMX files with human Health data like
+  total number of death per 100,000 people or number of doctors in the Netherlands
+  per NUTS2 region.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/12bb57cd-73e0-41ba-a1e9-6d986b9109d3 (data.europa.eu
-      dataset 12bb57cd-73e0-41ba-a1e9-6d986b9109d3; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/12bb57cd-73e0-41ba-a1e9-6d986b9109d3
+      (data.europa.eu dataset 12bb57cd-73e0-41ba-a1e9-6d986b9109d3; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 12bb57cd-73e0-41ba-a1e9-6d986b-human-health
+assigned_id: dea:data-product-12bb57cd-73e0-41ba-a1e9-6d986b-human-health-zz5rz8
+admitted: '2026-11-14'

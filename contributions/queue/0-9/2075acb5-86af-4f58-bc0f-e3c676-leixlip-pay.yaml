@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Leixlip Pay Parking Bye-Laws 2015 (TEXT) as adopted
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2075acb5-86af-4f58-bc0f-e3c67694dd60 (data.europa.eu
-      dataset 2075acb5-86af-4f58-bc0f-e3c67694dd60; publisher: Kildare County Council )'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2075acb5-86af-4f58-bc0f-e3c67694dd60
+      (data.europa.eu dataset 2075acb5-86af-4f58-bc0f-e3c67694dd60; publisher: Kildare
+      County Council )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ildare-ounty-ouncil
 slug: 2075acb5-86af-4f58-bc0f-e3c676-leixlip-pay
+assigned_id: dea:data-product-2075acb5-86af-4f58-bc0f-e3c676-leixlip-pay-qabx4e
+admitted: '2026-11-14'

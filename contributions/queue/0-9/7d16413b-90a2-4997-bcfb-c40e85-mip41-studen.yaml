@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Students enrolled in third level education
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7d16413b-90a2-4997-bcfb-c40e85290d49 (data.europa.eu
-      dataset 7d16413b-90a2-4997-bcfb-c40e85290d49; publisher: Higher Education Authority)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7d16413b-90a2-4997-bcfb-c40e85290d49
+      (data.europa.eu dataset 7d16413b-90a2-4997-bcfb-c40e85290d49; publisher: Higher
+      Education Authority)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - igher-ducation-uthor
 slug: 7d16413b-90a2-4997-bcfb-c40e85-mip41-studen
+assigned_id: dea:data-product-7d16413b-90a2-4997-bcfb-c40e85-mip41-studen-2e9hu5
+admitted: '2026-11-14'

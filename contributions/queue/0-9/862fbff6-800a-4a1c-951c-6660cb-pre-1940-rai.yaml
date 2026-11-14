@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 862fbff6-800a-4a1c-951c-6660cb1f7dcb
 name: Pre-1940 Rainfall data
-description: The data contained in this resource consists of rescued rainfall data from 114 locations
-  across Ireland. The data covers a range of periods pre-1940. Each folder comprises of a csv file with
-  an accompaning metadata text file. The metadata provides a discription of the data, period covered and
-  additional information to support the use of this data.
+description: The data contained in this resource consists of rescued rainfall data
+  from 114 locations across Ireland. The data covers a range of periods pre-1940.
+  Each folder comprises of a csv file with an accompaning metadata text file. The
+  metadata provides a discription of the data, period covered and additional information
+  to support the use of this data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/862fbff6-800a-4a1c-951c-6660cb1f7dcb (data.europa.eu
-      dataset 862fbff6-800a-4a1c-951c-6660cb1f7dcb; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/862fbff6-800a-4a1c-951c-6660cb1f7dcb
+      (data.europa.eu dataset 862fbff6-800a-4a1c-951c-6660cb1f7dcb; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 862fbff6-800a-4a1c-951c-6660cb-pre-1940-rai
+assigned_id: dea:data-product-862fbff6-800a-4a1c-951c-6660cb-pre-1940-rai-nt3s5a
+admitted: '2026-11-14'

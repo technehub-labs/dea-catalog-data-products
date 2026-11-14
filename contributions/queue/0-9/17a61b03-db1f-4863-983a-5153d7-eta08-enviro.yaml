@@ -1,18 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 17a61b03-db1f-4863-983a-5153d76ce433~~1
-name: ETA08 - Environment Taxes, Energy Taxes, Transport Taxes and Pollution and Resource Taxes
-description: Environment Taxes, Energy Taxes, Transport Taxes and Pollution and Resource Taxes
+name: ETA08 - Environment Taxes, Energy Taxes, Transport Taxes and Pollution and Resource
+  Taxes
+description: Environment Taxes, Energy Taxes, Transport Taxes and Pollution and Resource
+  Taxes
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/17a61b03-db1f-4863-983a-5153d76ce433~~1 (data.europa.eu
-      dataset 17a61b03-db1f-4863-983a-5153d76ce433~~1; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/17a61b03-db1f-4863-983a-5153d76ce433~~1
+      (data.europa.eu dataset 17a61b03-db1f-4863-983a-5153d76ce433~~1; publisher:
+      Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 17a61b03-db1f-4863-983a-5153d7-eta08-enviro
+assigned_id: dea:data-product-17a61b03-db1f-4863-983a-5153d7-eta08-enviro-3t582h
+admitted: '2026-11-14'

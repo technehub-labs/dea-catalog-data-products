@@ -1,18 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 19ad08e8-a8c4-4139-b9a0-81086391b285
-name: HSPAL19B - Performance of health technology assessments by the Health Information and Quality Authority
-description: Performance of health technology assessments by the Health Information and Quality Authority
+name: HSPAL19B - Performance of health technology assessments by the Health Information
+  and Quality Authority
+description: Performance of health technology assessments by the Health Information
+  and Quality Authority
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/19ad08e8-a8c4-4139-b9a0-81086391b285 (data.europa.eu
-      dataset 19ad08e8-a8c4-4139-b9a0-81086391b285; publisher: Department of Health)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/19ad08e8-a8c4-4139-b9a0-81086391b285
+      (data.europa.eu dataset 19ad08e8-a8c4-4139-b9a0-81086391b285; publisher: Department
+      of Health)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-of-ealth
 slug: 19ad08e8-a8c4-4139-b9a0-810863-hspal19b-per
+assigned_id: dea:data-product-19ad08e8-a8c4-4139-b9a0-810863-hspal19b-per-5uuegy
+admitted: '2026-11-14'

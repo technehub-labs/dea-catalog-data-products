@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: The datasets provided by Office de Tourisme So Toulouse for data.go
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5369977da3a729239d204ce4 (data.europa.eu dataset
-      5369977da3a729239d204ce4; publisher: Toulouse-Métropole.data)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5369977da3a729239d204ce4 (data.europa.eu
+      dataset 5369977da3a729239d204ce4; publisher: Toulouse-Métropole.data)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oulousetropoledata
 slug: 5369977da3a729239d204ce4-datasets-tou
+assigned_id: dea:data-product-5369977da3a729239d204ce4-datasets-tou-4pj2m4
+admitted: '2026-11-14'

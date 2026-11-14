@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 99d82732-2783-383f-b0f6-14506b83df30
 name: Land Planning - TB _Strassen_TS - OGC WFS Interface
-description: The Map Service (WFS Group) provides the map bases of the Saarland State Development Plan
-  Environment (2004) and Settlement (2006).:Generalized representation of route areas for roads (TS) within
-  the framework of the LEP Environment 2004.
+description: The Map Service (WFS Group) provides the map bases of the Saarland State
+  Development Plan Environment (2004) and Settlement (2006).:Generalized representation
+  of route areas for roads (TS) within the framework of the LEP Environment 2004.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/99d82732-2783-383f-b0f6-14506b83df30 (data.europa.eu
-      dataset 99d82732-2783-383f-b0f6-14506b83df30; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/99d82732-2783-383f-b0f6-14506b83df30
+      (data.europa.eu dataset 99d82732-2783-383f-b0f6-14506b83df30; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 99d82732-2783-383f-b0f6-14506b-land-plannin
+assigned_id: dea:data-product-99d82732-2783-383f-b0f6-14506b-land-plannin-c3mc3b
+admitted: '2026-11-14'

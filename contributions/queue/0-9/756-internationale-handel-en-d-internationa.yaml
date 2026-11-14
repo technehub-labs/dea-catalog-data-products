@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 756-internationale-handel-en-doorvoer-vervoerwijze-2007-2017
 name: International trade and transit; mode of transport, 2007-2017
-description: 'This table provides insight into the international flows of goods from, to and through the
-  Netherlands. The table shows, for import, export and transit flows, the value and gross weight of goods
-  transported per NSTR goods chapter, mode of transport and continent of loading or unloading. This publication
-  was co-financed by the Ministry of Infrastructure and Water Management. Data available from 2007 to
-  2017 Status of figures: The data in this table are provisional. As this table has been discontinued,
-  the data will no longer be made definitive. Changes as of 21 February 2020 None, this table has been
-  discontinued. When will there be new figures? No longer applicable.'
+description: 'This table provides insight into the international flows of goods from,
+  to and through the Netherlands. The table shows, for import, export and transit
+  flows, the value and gross weight of goods transported per NSTR goods chapter, mode
+  of transport and continent of loading or unloading. This publication was co-financed
+  by the Ministry of Infrastructure and Water Management. Data available from 2007
+  to 2017 Status of figures: The data in this table are provisional. As this table
+  has been discontinued, the data will no longer be made definitive. Changes as of
+  21 February 2020 None, this table has been discontinued. When will there be new
+  figures? No longer applicable.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/756-internationale-handel-en-doorvoer-vervoerwijze-2007-2017
-      (data.europa.eu dataset 756-internationale-handel-en-doorvoer-vervoerwijze-2007-2017; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 756-internationale-handel-en-doorvoer-vervoerwijze-2007-2017;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 756-internationale-handel-en-d-internationa
+assigned_id: dea:data-product-756-internationale-handel-en-d-internationa-3s5g4q
+admitted: '2026-11-14'

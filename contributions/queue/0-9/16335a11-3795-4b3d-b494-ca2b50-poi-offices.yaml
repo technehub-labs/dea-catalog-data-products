@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 16335a11-3795-4b3d-b494-ca2b50fa385b~~1
 name: POI - Offices of statutory health insurance funds
-description: Points of interest include locations of various leisure and infrastructure facilities for
-  the entire Ruhr metropolis. The descriptive content is updated regularly and includes detailed information
-  on contact addresses and equipment components.
+description: Points of interest include locations of various leisure and infrastructure
+  facilities for the entire Ruhr metropolis. The descriptive content is updated regularly
+  and includes detailed information on contact addresses and equipment components.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/16335a11-3795-4b3d-b494-ca2b50fa385b~~1 (data.europa.eu
-      dataset 16335a11-3795-4b3d-b494-ca2b50fa385b~~1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/16335a11-3795-4b3d-b494-ca2b50fa385b~~1
+      (data.europa.eu dataset 16335a11-3795-4b3d-b494-ca2b50fa385b~~1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 16335a11-3795-4b3d-b494-ca2b50-poi-offices
+assigned_id: dea:data-product-16335a11-3795-4b3d-b494-ca2b50-poi-offices-88fs7h
+admitted: '2026-11-14'

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,10 +8,14 @@ description: Objects of improvement of green economy on the territory of the cit
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b762aaae-8ccf-47ca-9356-b78f38bb44de (data.europa.eu
-      dataset b762aaae-8ccf-47ca-9356-b78f38bb44de; publisher: Дубенська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b762aaae-8ccf-47ca-9356-b78f38bb44de
+      (data.europa.eu dataset b762aaae-8ccf-47ca-9356-b78f38bb44de; publisher: Дубенська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: b762aaae-8ccf-47ca-9356-b78f38-the-green-zo
+assigned_id: dea:data-product-b762aaae-8ccf-47ca-9356-b78f38-the-green-zo-y424zu
+admitted: '2026-11-14'

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 11241-statistica-regionala-agricultura
 name: 'Regional statistics: Agriculture'
-description: Data in territorial aspect regarding the sown area, average yield and global production by
-  agricultural crops in agricultural enterprises and peasant households (farmer), livestock; productivity
-  of animals and birds
+description: Data in territorial aspect regarding the sown area, average yield and
+  global production by agricultural crops in agricultural enterprises and peasant
+  households (farmer), livestock; productivity of animals and birds
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/11241-statistica-regionala-agricultura (data.europa.eu
-      dataset 11241-statistica-regionala-agricultura; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/11241-statistica-regionala-agricultura
+      (data.europa.eu dataset 11241-statistica-regionala-agricultura; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 11241-statistica-regionala-agr-regional-sta
+assigned_id: dea:data-product-11241-statistica-regionala-agr-regional-sta-r2c99e
+admitted: '2026-11-14'

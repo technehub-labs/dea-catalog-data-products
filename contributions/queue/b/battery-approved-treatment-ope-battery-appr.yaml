@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu battery-approved-treatment-operators-portable1
 name: Battery Approved Treatment Operators - Portable
-description: 'This record is for Approval for Access product AfA334. These data contain details of Treatment
-  Operators Approved for Portable batteries under the Producer Responsibility Regulations for Batteries
-  2009. Attribution statement: © Environment Agency copyright and/or database right 2019. All rights reserved.'
+description: 'This record is for Approval for Access product AfA334. These data contain
+  details of Treatment Operators Approved for Portable batteries under the Producer
+  Responsibility Regulations for Batteries 2009. Attribution statement: © Environment
+  Agency copyright and/or database right 2019. All rights reserved.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/battery-approved-treatment-operators-portable1 (data.europa.eu
-      dataset battery-approved-treatment-operators-portable1; publisher: Environment Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/battery-approved-treatment-operators-portable1
+      (data.europa.eu dataset battery-approved-treatment-operators-portable1; publisher:
+      Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: battery-approved-treatment-ope-battery-appr
+assigned_id: dea:data-product-battery-approved-treatment-ope-battery-appr-et3264
+admitted: '2026-11-14'

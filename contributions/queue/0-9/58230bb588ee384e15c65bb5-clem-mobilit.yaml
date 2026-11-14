@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 58230bb588ee384e15c65bb5
 name: Clem' Mobility Charging Stations
-description: This file provides contact information for electric vehicle charging points administered
-  by Clem'Mobilité for various communities, organizations and companies, which they have decided to make
-  public.
+description: This file provides contact information for electric vehicle charging
+  points administered by Clem'Mobilité for various communities, organizations and
+  companies, which they have decided to make public.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/58230bb588ee384e15c65bb5 (data.europa.eu dataset
-      58230bb588ee384e15c65bb5; publisher: Clem'' Ecomobilité)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/58230bb588ee384e15c65bb5 (data.europa.eu
+      dataset 58230bb588ee384e15c65bb5; publisher: Clem'' Ecomobilité)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - lem-comobilit
 slug: 58230bb588ee384e15c65bb5-clem-mobilit
+assigned_id: dea:data-product-58230bb588ee384e15c65bb5-clem-mobilit-sxhpjg
+admitted: '2026-11-14'

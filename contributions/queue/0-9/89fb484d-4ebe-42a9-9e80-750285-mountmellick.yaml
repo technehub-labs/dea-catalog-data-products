@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 89fb484d-4ebe-42a9-9e80-7502857734d5
 name: Mountmellick (Anngrove) Climate Data
-description: Daily and monthly climatalogical records for our station at Mountmellick (Anngrove) in Co.
-  Laois. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Mountmellick
+  (Anngrove) in Co. Laois. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/89fb484d-4ebe-42a9-9e80-7502857734d5 (data.europa.eu
-      dataset 89fb484d-4ebe-42a9-9e80-7502857734d5; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/89fb484d-4ebe-42a9-9e80-7502857734d5
+      (data.europa.eu dataset 89fb484d-4ebe-42a9-9e80-7502857734d5; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 89fb484d-4ebe-42a9-9e80-750285-mountmellick
+assigned_id: dea:data-product-89fb484d-4ebe-42a9-9e80-750285-mountmellick-7db6td
+admitted: '2026-11-14'

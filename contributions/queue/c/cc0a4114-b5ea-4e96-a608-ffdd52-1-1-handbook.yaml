@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cc0a4114-b5ea-4e96-a608-ffdd52bb358e
-name: 1.1.Handbook of communal institution "Preschool educational institution No.13 of Vinnytsia City
-  Council"
-description: The resource contains registration and contact details of the institution of preschool education,
-  which is subordinated to the Department of Education of Vinnytsia City Council. Including the EDRPOU
-  code, name, information about the head, a link to the postal address, e-mail address, phone number,
-  days and hours of reception, etc.
+name: 1.1.Handbook of communal institution "Preschool educational institution No.13
+  of Vinnytsia City Council"
+description: The resource contains registration and contact details of the institution
+  of preschool education, which is subordinated to the Department of Education of
+  Vinnytsia City Council. Including the EDRPOU code, name, information about the head,
+  a link to the postal address, e-mail address, phone number, days and hours of reception,
+  etc.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cc0a4114-b5ea-4e96-a608-ffdd52bb358e (data.europa.eu
-      dataset cc0a4114-b5ea-4e96-a608-ffdd52bb358e; publisher: Вінницька міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cc0a4114-b5ea-4e96-a608-ffdd52bb358e
+      (data.europa.eu dataset cc0a4114-b5ea-4e96-a608-ffdd52bb358e; publisher: Вінницька
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: cc0a4114-b5ea-4e96-a608-ffdd52-1-1-handbook
+assigned_id: dea:data-product-cc0a4114-b5ea-4e96-a608-ffdd52-1-1-handbook-nzsje3
+admitted: '2026-11-14'

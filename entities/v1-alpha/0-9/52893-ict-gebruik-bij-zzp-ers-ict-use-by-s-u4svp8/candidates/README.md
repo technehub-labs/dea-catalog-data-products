@@ -1,0 +1,31 @@
+# ICT use by self-employed workers; Industry, 2024
+
+> This table provides figures on the use of information and communication technology (ICT) by self-employed persons without staff (self-employed persons). The data can be broken down by industry. The reporting period covers the year 2024. However, a number of topics relate to the year 2023. In such cases, this shall be stated in the explanatory memorandum to the subject in question. Data available for 2024. Status of figures: The figures in this table are further provisional. Changes as of 12 December 2025: By mistake, variables were included that do not belong in the table. This version of the table has been restored. The provisional figures for ‘Time work via ICT client’ have also improved. Changes as of 12 December 2024: None, this is a new table. When will there be new figures? Figures for 2025 will be available in December 2025. These figures will be published in a new table.
+
+## Identity
+
+- **Record id**: `dea:data-product-52893-ict-gebruik-bij-zzp-ers-ict-use-by-s-u4svp8`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/52893-ict-gebruik-bij-zzp-ers-bedrijfstak-2024 (data.europa.eu dataset 52893-ict-gebruik-bij-zzp-ers-bedrijfstak-2024; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

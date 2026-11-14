@@ -1,37 +1,45 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_f572-viabilita_mobilita_e_trasporti-1~~1
 name: Roads, Mobility and Transport
-description: 'It is the layer that collects information related to mobility and transport of whatever
-  nature they are. The layer describes: - modelling by areas that mainly collects the geometrical construction
-  characteristics of transport infrastructures; - road modelling with traffic current simulation graphs,
-  more aimed at the completion of the characteristics of interest Transport of mobility. The following
-  contents are therefore grouped in this section of the specification: - Roads and their details, including
-  both primary and secondary road infrastructure, within the theme "roads" include areas specifically
-  designed for vehicular and/or pedestrian and/or cycle traffic. - Rail transport infrastructure and its
-  details, including under this heading both railways and metros, tramways, funiculars. - Other transport
-  installations and infrastructures and their particulars, including under this heading cableway transport
-  (railways, ski-lifts) ecc…), the modes of transport connection on water (ferry…), other transport facilities.
-  Description of the DECREE 10 November 2011 Technical rules for defining the content specifications of
-  geotopographical databases. (Official Gazette No 48 of 27 February 2012 - Ordinary Supplement No 37).
-  Corresponds to Stratum 01 Road and Mobility of the DM. Contains datasets such as: Vehicle circulation
-  area (AC_VEI - 010101), Pedestrian traffic area (AC_PED - 010102), Cycle Circulation Area (AC_CIC -
-  010103), Road area (AR_STR - 010104), Secondary mixed traffic (AR_VMS - 010105), Road element (EL_STR
-  - 010107), Road junction (GZ_STR - 010108), Road section (TR_STR - 010109), Road intersection (IZ_STR
-  - 010110), Cycle element (EL_CIC - 010112), Bike junction (GZ_CIC - 010113), Road network liv.1 (RT_ST1
-  - 010114), Road network liv.2 (RT_ST2 - 010115), Secondary mixed road element (EL_VMS - 010116), Secondary
-  mixed road junction (GZ_VMS - 010117), Secondary mixed road network (RT_VMS - 010118), Cycle network
-  (RT_CIC - 010119), Iron transport site (SD_FER - '
+description: 'It is the layer that collects information related to mobility and transport
+  of whatever nature they are. The layer describes: - modelling by areas that mainly
+  collects the geometrical construction characteristics of transport infrastructures;
+  - road modelling with traffic current simulation graphs, more aimed at the completion
+  of the characteristics of interest Transport of mobility. The following contents
+  are therefore grouped in this section of the specification: - Roads and their details,
+  including both primary and secondary road infrastructure, within the theme "roads"
+  include areas specifically designed for vehicular and/or pedestrian and/or cycle
+  traffic. - Rail transport infrastructure and its details, including under this heading
+  both railways and metros, tramways, funiculars. - Other transport installations
+  and infrastructures and their particulars, including under this heading cableway
+  transport (railways, ski-lifts) ecc…), the modes of transport connection on water
+  (ferry…), other transport facilities. Description of the DECREE 10 November 2011
+  Technical rules for defining the content specifications of geotopographical databases.
+  (Official Gazette No 48 of 27 February 2012 - Ordinary Supplement No 37). Corresponds
+  to Stratum 01 Road and Mobility of the DM. Contains datasets such as: Vehicle circulation
+  area (AC_VEI - 010101), Pedestrian traffic area (AC_PED - 010102), Cycle Circulation
+  Area (AC_CIC - 010103), Road area (AR_STR - 010104), Secondary mixed traffic (AR_VMS
+  - 010105), Road element (EL_STR - 010107), Road junction (GZ_STR - 010108), Road
+  section (TR_STR - 010109), Road intersection (IZ_STR - 010110), Cycle element (EL_CIC
+  - 010112), Bike junction (GZ_CIC - 010113), Road network liv.1 (RT_ST1 - 010114),
+  Road network liv.2 (RT_ST2 - 010115), Secondary mixed road element (EL_VMS - 010116),
+  Secondary mixed road junction (GZ_VMS - 010117), Secondary mixed road network (RT_VMS
+  - 010118), Cycle network (RT_CIC - 010119), Iron transport site (SD_FER - '
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_f572-viabilita_mobilita_e_trasporti-1~~1 (data.europa.eu
-      dataset c_f572-viabilita_mobilita_e_trasporti-1~~1; publisher: Comune di Montemurlo)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_f572-viabilita_mobilita_e_trasporti-1~~1
+      (data.europa.eu dataset c_f572-viabilita_mobilita_e_trasporti-1~~1; publisher:
+      Comune di Montemurlo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - omune-di-ontemurlo
 slug: c-f572-viabilita-mobilita-e-tr-roads-mobili
+assigned_id: dea:data-product-c-f572-viabilita-mobilita-e-tr-roads-mobili-htu495
+admitted: '2026-11-14'

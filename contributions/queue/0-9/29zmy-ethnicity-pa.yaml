@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 29zmy
 name: Ethnicity Pay Gaps in London
-description: <dp-prose> <p>This dataset contains ethnicity pay gap figures for all employees in London.
-  The pay gap figures for GLA group organisations can be found on their respective websites.</p> <p>The
-  ethnicity pay gap is the difference in the average hourly wage of White employees and employees of other
-  ethnic groups across a workforce. If Black, Asian or minority ethnic employees do more of the less well
-  paid jobs within an organisation than White employees, the ethnicity pay gap is usually bigger.</p>
-  <p><br /></p> <blockquote> <p><a href="/economic-fairness/labour-market/">This dataset is one of the
-  Greater London Authority&apos;s measures of Economic Fairness. Click here to find out more.</a></p>
-  </blockquote> </dp-prose>
+description: <dp-prose> <p>This dataset contains ethnicity pay gap figures for all
+  employees in London. The pay gap figures for GLA group organisations can be found
+  on their respective websites.</p> <p>The ethnicity pay gap is the difference in
+  the average hourly wage of White employees and employees of other ethnic groups
+  across a workforce. If Black, Asian or minority ethnic employees do more of the
+  less well paid jobs within an organisation than White employees, the ethnicity pay
+  gap is usually bigger.</p> <p><br /></p> <blockquote> <p><a href="/economic-fairness/labour-market/">This
+  dataset is one of the Greater London Authority&apos;s measures of Economic Fairness.
+  Click here to find out more.</a></p> </blockquote> </dp-prose>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/29zmy (data.europa.eu dataset 29zmy; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/29zmy (data.europa.eu dataset
+      29zmy; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 29zmy-ethnicity-pa
+assigned_id: dea:data-product-29zmy-ethnicity-pa-jfay2t
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_d969-2a464b29-d9fe-484d-9f62-b79c3cb51ecc
 name: Blue Area
-description: Paid parking areas on public land of the Blu Area system, as defined by the disciplinary
-  regulations approved by the City Council.
+description: Paid parking areas on public land of the Blu Area system, as defined
+  by the disciplinary regulations approved by the City Council.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_d969-2a464b29-d9fe-484d-9f62-b79c3cb51ecc (data.europa.eu
-      dataset c_d969-2a464b29-d9fe-484d-9f62-b79c3cb51ecc; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_d969-2a464b29-d9fe-484d-9f62-b79c3cb51ecc
+      (data.europa.eu dataset c_d969-2a464b29-d9fe-484d-9f62-b79c3cb51ecc; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: c-d969-2a464b29-d9fe-484d-9f62-blue-area
+assigned_id: dea:data-product-c-d969-2a464b29-d9fe-484d-9f62-blue-area-w9taca
+admitted: '2026-11-14'

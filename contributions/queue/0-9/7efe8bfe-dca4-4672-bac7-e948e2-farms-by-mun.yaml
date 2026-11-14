@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 7efe8bfe-dca4-4672-bac7-e948e29e251c
 name: Farms by municipality - Years 1982:2010
-description: <p>The dataset contains data on the number of farms in the Veneto municipalities from four
-  Istat Censuses of Agriculture (1982, 1990, 2000, 2010).</p>
+description: <p>The dataset contains data on the number of farms in the Veneto municipalities
+  from four Istat Censuses of Agriculture (1982, 1990, 2000, 2010).</p>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7efe8bfe-dca4-4672-bac7-e948e29e251c (data.europa.eu
-      dataset 7efe8bfe-dca4-4672-bac7-e948e29e251c; publisher: Regione del Veneto)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7efe8bfe-dca4-4672-bac7-e948e29e251c
+      (data.europa.eu dataset 7efe8bfe-dca4-4672-bac7-e948e29e251c; publisher: Regione
+      del Veneto)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - egione-del-eneto
 slug: 7efe8bfe-dca4-4672-bac7-e948e2-farms-by-mun
+assigned_id: dea:data-product-7efe8bfe-dca4-4672-bac7-e948e2-farms-by-mun-bz8qvs
+admitted: '2026-11-14'

@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 10-14459-2017mp1375836
 name: 'BLOND: Building-Level Office eNvironment Dataset'
-description: 'The BLOND dataset: continuous energy measurements of a typical office environment at high
-  sampling rates with common appliances and load profiles. We provide voltage and current readings for
-  aggregated circuits and matching fully-labelled ground truth data (individual appliance measurements).
-  The dataset contains 53 appliances (17 classes) in a 3-phase power grid. BLOND-50 contains 213 days
-  of uninterrupted measurements sampled at 50 kSps (aggregate) and 6.4kSps (individual appliances). BLOND-250
-  consists of the same setup: 50 days, 250 kSps (aggregates), 50 kSps (individual appliances). These are
-  the longest continuous measurements at such high sampling rates and fully-labelled ground truth we are
-  aware of. Third-party funding: Alexander von Humboldt Foundation established by the government of the
-  Federal Republic of Germany, Federal Ministry for Economic Affairs and Energy on the basis of a decision
+description: 'The BLOND dataset: continuous energy measurements of a typical office
+  environment at high sampling rates with common appliances and load profiles. We
+  provide voltage and current readings for aggregated circuits and matching fully-labelled
+  ground truth data (individual appliance measurements). The dataset contains 53 appliances
+  (17 classes) in a 3-phase power grid. BLOND-50 contains 213 days of uninterrupted
+  measurements sampled at 50 kSps (aggregate) and 6.4kSps (individual appliances).
+  BLOND-250 consists of the same setup: 50 days, 250 kSps (aggregates), 50 kSps (individual
+  appliances). These are the longest continuous measurements at such high sampling
+  rates and fully-labelled ground truth we are aware of. Third-party funding: Alexander
+  von Humboldt Foundation established by the government of the Federal Republic of
+  Germany, Federal Ministry for Economic Affairs and Energy on the basis of a decision
   by the German Bundestag'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/10-14459-2017mp1375836 (data.europa.eu dataset 10-14459-2017mp1375836;
-      publisher: Universitätsbibliothek der Technischen Universität München)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/10-14459-2017mp1375836 (data.europa.eu
+      dataset 10-14459-2017mp1375836; publisher: Universitätsbibliothek der Technischen
+      Universität München)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - niversittsbibliothek
 slug: 10-14459-2017mp1375836-blond-buildi
+assigned_id: dea:data-product-10-14459-2017mp1375836-blond-buildi-vgv7w3
+admitted: '2026-11-14'

@@ -1,0 +1,37 @@
+id: dea:data-product-05bfb0dc-c768-4b01-b926-c72076-power-supply-qx88mg
+type: DataProduct
+name: Power supply network areas
+description: 'Power supply network areas: Dataset includes the areas of the electricity
+  supply companies (ESUs) with their names and the contact persons of the local low-voltage
+  distribution network (level 7 grid areas), the regional medium-voltage distribution
+  network (level 5 grid area) and the trans-regional high-voltage distribution network
+  (level 3 grid areas).'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/05bfb0dc-c768-4b01-b926-c720761fe4f9-kanton-thurgau
+      (data.europa.eu dataset 05bfb0dc-c768-4b01-b926-c720761fe4f9-kanton-thurgau;
+      publisher: Kanton Thurgau, Amt für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- anton-hurgau-mt-fr-e

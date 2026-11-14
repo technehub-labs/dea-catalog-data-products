@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 11507545-bundesamt-fur-statistik-bfs
 name: Swiss tourism statistics 2018
-description: This publication describes the results of the FSO's Swiss tourism statistics for 2018. The
-  first part focuses on tourist accommodation that is partly made up of the hotel sector statistics and
-  partly of the supplementary accommodation statistics. The second section of this publication concerns
-  the survey on the travel behaviour of the Swiss population in 2018. The tourism satellite account, in
-  the third section, gives information on the values measuring the economic influence of tourism in Switzerland.
-  The fourth section of the publication presents a series of economic indicators making it possible to
-  place the findings from the tourism statistics in a wider context.
+description: This publication describes the results of the FSO's Swiss tourism statistics
+  for 2018. The first part focuses on tourist accommodation that is partly made up
+  of the hotel sector statistics and partly of the supplementary accommodation statistics.
+  The second section of this publication concerns the survey on the travel behaviour
+  of the Swiss population in 2018. The tourism satellite account, in the third section,
+  gives information on the values measuring the economic influence of tourism in Switzerland.
+  The fourth section of the publication presents a series of economic indicators making
+  it possible to place the findings from the tourism statistics in a wider context.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/11507545-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 11507545-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/11507545-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 11507545-bundesamt-fur-statistik-bfs; publisher: Office
+      fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffice-fdral-de-la-st
 slug: 11507545-bundesamt-fur-statist-swiss-touris
+assigned_id: dea:data-product-11507545-bundesamt-fur-statist-swiss-touris-cm63p4
+admitted: '2026-11-14'

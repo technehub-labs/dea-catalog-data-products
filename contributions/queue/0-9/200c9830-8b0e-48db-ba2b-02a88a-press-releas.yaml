@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 200c9830-8b0e-48db-ba2b-02a88a7febf5
 name: 'Press release:  Leoben Education Center Fröbelgasse officially opened'
-description: The new educational centre Fröbelgasse was officially opened with a ceremony on Monday, 12
-  October 2026. The city of Leoben celebrated the completion of its third modernized educational center.
-  As part of the festivities, the adjacent park was also officially named ‘Gottfried-Heindler-Park’.
+description: The new educational centre Fröbelgasse was officially opened with a ceremony
+  on Monday, 12 October 2026. The city of Leoben celebrated the completion of its
+  third modernized educational center. As part of the festivities, the adjacent park
+  was also officially named ‘Gottfried-Heindler-Park’.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/200c9830-8b0e-48db-ba2b-02a88a7febf5 (data.europa.eu
-      dataset 200c9830-8b0e-48db-ba2b-02a88a7febf5; publisher: Stadtgemeinde Leoben)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/200c9830-8b0e-48db-ba2b-02a88a7febf5
+      (data.europa.eu dataset 200c9830-8b0e-48db-ba2b-02a88a7febf5; publisher: Stadtgemeinde
+      Leoben)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadtgemeinde-eoben
 slug: 200c9830-8b0e-48db-ba2b-02a88a-press-releas
+assigned_id: dea:data-product-200c9830-8b0e-48db-ba2b-02a88a-press-releas-u8y9v6
+admitted: '2026-11-14'

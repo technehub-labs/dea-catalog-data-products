@@ -1,0 +1,45 @@
+id: dea:data-product-766-akkerbouwgewassen-voorlopi-arable-crops-kfpnkg
+type: DataProduct
+name: Arable crops; Provisional and final harvest estimate 2010-2022
+description: 'This table contains figures on the area cultivated and harvested, the
+  yield per hectare and the total yield in a harvest year, per arable crop. Both the
+  results of the provisional harvest estimate and the results of the final harvest
+  estimate are shown in this table, as well as the percentage difference. In order
+  to arrive at the figure for the yield, a provisional harvest estimate is first made.
+  This happens in the months of August to October. After this estimate, the figures
+  of the final harvest estimate are made in the months of December to March of the
+  year following the harvest year. These figures are still provisional until the end
+  of September in the year following the harvest year. Data available from 2010 to
+  2022. Status of figures The data is final Amendment as of 3 October 2023: None,
+  this table has been discontinued. When will there be new figures? No longer applicable.
+  This table is followed by Arable crops; preliminary and final harvest estimate.
+  See paragraph 3.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/766-akkerbouwgewassen-voorlopige-en-definitieve-oogstraming
+      (data.europa.eu dataset 766-akkerbouwgewassen-voorlopige-en-definitieve-oogstraming;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

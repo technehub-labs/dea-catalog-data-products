@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 075c1533-3a2e-462d-b400-7a7b99bd851b
 name: TRA32 - Satisfaction with Education system
-description: TRA32 - Satisfaction with Education system — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Central Statistics Office.
+description: TRA32 - Satisfaction with Education system — a published dataset in the
+  EU Open Data Portal (data.europa.eu), maintained by Central Statistics Office.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/075c1533-3a2e-462d-b400-7a7b99bd851b (data.europa.eu
-      dataset 075c1533-3a2e-462d-b400-7a7b99bd851b; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/075c1533-3a2e-462d-b400-7a7b99bd851b
+      (data.europa.eu dataset 075c1533-3a2e-462d-b400-7a7b99bd851b; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 075c1533-3a2e-462d-b400-7a7b99-tra32-satisf
+assigned_id: dea:data-product-075c1533-3a2e-462d-b400-7a7b99-tra32-satisf-k7xs8n
+admitted: '2026-11-14'

@@ -1,0 +1,31 @@
+# Helsinki sustainable development indicators
+
+> The Helsinki sustainable development indicators statistical database contains the indicators of the Voluntary Local Review (VLR) of sustainable development in Helsinki. The indicators are based on the UN 2030 Agenda's Sustainable Development Goals (SDGs), and the indicators in the database include dimensions of social, economic, environmental and cultural sustainability. For more information on sustainable development reporting in Helsinki, see the website https://kestäistus.hel.fi/en/frontpage/ The most detailed area level in the statistics is the municipality level. The data is available via the PxWeb database and PxWeb API for statistical data. Available file formats include xlsx, csv, json, and json-stat. Guides for using the PxWeb API have been prepared that you should consult before using the interface: - [How to use the City of Helsinki PX-Web API](https://stat.hel.fi/Resources/Images/PxWebAPI_Help_Helsinki_en.pdf) - [Instructions of Statistics Finland in English and in Finnish](https://www.stat.fi/tup/statistical databases/kaytoopas.html) - [Instructions of Statistics Sweden](https://www.scb.se/en/services/open-data-api/pxwebapi/)
+
+## Identity
+
+- **Record id**: `dea:data-product-bafbef68-670f-4c2b-82ac-fb21c4-helsinki-sus-rtsdme`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/bafbef68-670f-4c2b-82ac-fb21c442b5b1 (data.europa.eu dataset bafbef68-670f-4c2b-82ac-fb21c442b5b1; publisher: Helsingin kaupunginkanslia)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

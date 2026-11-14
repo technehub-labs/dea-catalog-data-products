@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cc421859-1f4f-43f6-b349-f4ca0e1c60fa
 name: Pedestrian Footfall DCC
-description: Pedestrian footfall counts of people at a number of locations in Dublin city. Passersby are
-  counted and logged every hour, 24 hours per day, 7 days per week using a network of PYRO-Box people
-  counters located throughout central Dublin. Data is provided by Dublin City Council and the NTA.
+description: Pedestrian footfall counts of people at a number of locations in Dublin
+  city. Passersby are counted and logged every hour, 24 hours per day, 7 days per
+  week using a network of PYRO-Box people counters located throughout central Dublin.
+  Data is provided by Dublin City Council and the NTA.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cc421859-1f4f-43f6-b349-f4ca0e1c60fa (data.europa.eu
-      dataset cc421859-1f4f-43f6-b349-f4ca0e1c60fa; publisher: Dublin City Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cc421859-1f4f-43f6-b349-f4ca0e1c60fa
+      (data.europa.eu dataset cc421859-1f4f-43f6-b349-f4ca0e1c60fa; publisher: Dublin
+      City Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ublin-ity-ouncil
 slug: cc421859-1f4f-43f6-b349-f4ca0e-pedestrian-f
+assigned_id: dea:data-product-cc421859-1f4f-43f6-b349-f4ca0e-pedestrian-f-fk223e
+admitted: '2026-11-14'

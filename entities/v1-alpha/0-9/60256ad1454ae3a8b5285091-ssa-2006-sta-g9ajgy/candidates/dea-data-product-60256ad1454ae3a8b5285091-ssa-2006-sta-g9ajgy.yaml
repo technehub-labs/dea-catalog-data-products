@@ -1,0 +1,38 @@
+id: dea:data-product-60256ad1454ae3a8b5285091-ssa-2006-sta-g9ajgy
+type: DataProduct
+name: SSA 2006 - State of the Environment Report 2006
+description: Over the last 20 years, environmental and spatial planning issues have
+  evolved considerably. to play an increasingly important role in sectoral policies
+  and in society as a whole. The questions At local and national level, they have
+  given rise to global issues, such as those related to development. sustainable,
+  highlighting the fight against climate change and the conservation of biodiversity.
+  The latest reports the State of the Environment have also been following this trend,
+  reporting the state of the environment in a wider context.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/60256ad1454ae3a8b5285091 (data.europa.eu
+      dataset 60256ad1454ae3a8b5285091; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- gncia-ortuguesa-do-m

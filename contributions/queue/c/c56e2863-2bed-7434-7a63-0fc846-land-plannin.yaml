@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c56e2863-2bed-7434-7a63-0fc8468ad540
 name: Land Planning - LEP Settlement 2006 Central Locations
-description: 'The map service (WMS group) provides the map bases of the Saarland''s Land Development Plan
-  Environment (2004) and Settlement (2006).: Presentation of the central locations within the framework
-  of the LEP Environment 2004.'
+description: 'The map service (WMS group) provides the map bases of the Saarland''s
+  Land Development Plan Environment (2004) and Settlement (2006).: Presentation of
+  the central locations within the framework of the LEP Environment 2004.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c56e2863-2bed-7434-7a63-0fc8468ad540 (data.europa.eu
-      dataset c56e2863-2bed-7434-7a63-0fc8468ad540; publisher: Ministerium für Umwelt, Klima, Mobilität,
-      Agrar und Verbraucherschutz)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c56e2863-2bed-7434-7a63-0fc8468ad540
+      (data.europa.eu dataset c56e2863-2bed-7434-7a63-0fc8468ad540; publisher: Ministerium
+      für Umwelt, Klima, Mobilität, Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterium-fr-mwelt
 slug: c56e2863-2bed-7434-7a63-0fc846-land-plannin
+assigned_id: dea:data-product-c56e2863-2bed-7434-7a63-0fc846-land-plannin-ykkmts
+admitted: '2026-11-14'

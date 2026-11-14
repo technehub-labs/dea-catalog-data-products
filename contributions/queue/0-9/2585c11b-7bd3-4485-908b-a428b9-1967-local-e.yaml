@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2585c11b-7bd3-4485-908b-a428b9337e40
 name: 1967 Local elections- election statistics
-description: 'This document sets out the following statistics from the 1967 local elections: i) The number
-  of local electors, total poll, valid poll, percentage turnout, total invalid votes and invalid votes
-  as percentage of total votes cast in elections in the County and County Boroughs Council elections.
-  ii) The number of electors, valid poll and percentage poll for elections in the County Borough and Urban
-  District Council elections. iii) The number of electors, valid poll and percentage poll for elections
-  in the Town Commissioners elections. iv) The number of candidates and percentage of first-preference
-  votes for each political party in County Council elections. v) The number of candidates and percentage
-  of first-preference votes for each political party in County Borough Council elections. vi) The number
-  of candidates and percentage of first-preference votes for each political party in County Borough and
-  Urban District County elections. vii) The number of candidates and percentage of first-preference votes
-  for each political party in Town Commissioners elections.'
+description: 'This document sets out the following statistics from the 1967 local
+  elections: i) The number of local electors, total poll, valid poll, percentage turnout,
+  total invalid votes and invalid votes as percentage of total votes cast in elections
+  in the County and County Boroughs Council elections. ii) The number of electors,
+  valid poll and percentage poll for elections in the County Borough and Urban District
+  Council elections. iii) The number of electors, valid poll and percentage poll for
+  elections in the Town Commissioners elections. iv) The number of candidates and
+  percentage of first-preference votes for each political party in County Council
+  elections. v) The number of candidates and percentage of first-preference votes
+  for each political party in County Borough Council elections. vi) The number of
+  candidates and percentage of first-preference votes for each political party in
+  County Borough and Urban District County elections. vii) The number of candidates
+  and percentage of first-preference votes for each political party in Town Commissioners
+  elections.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2585c11b-7bd3-4485-908b-a428b9337e40 (data.europa.eu
-      dataset 2585c11b-7bd3-4485-908b-a428b9337e40; publisher: Department of Housing, Local Government
-      and Heritage)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2585c11b-7bd3-4485-908b-a428b9337e40
+      (data.europa.eu dataset 2585c11b-7bd3-4485-908b-a428b9337e40; publisher: Department
+      of Housing, Local Government and Heritage)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-of-ousing
 slug: 2585c11b-7bd3-4485-908b-a428b9-1967-local-e
+assigned_id: dea:data-product-2585c11b-7bd3-4485-908b-a428b9-1967-local-e-j78sux
+admitted: '2026-11-14'

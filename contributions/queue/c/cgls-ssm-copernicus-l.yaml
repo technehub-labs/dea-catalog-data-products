@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cgls_ssm
-name: Copernicus Land Monitoring Service - Surface Soil Moisture indexed with Kerchunk around the original
-  netCDFs.
-description: Copernicus Land Monitoring Service - Surface Soil Moisture 2014-present (raster 1 km), Europe,
-  daily – version 1
+name: Copernicus Land Monitoring Service - Surface Soil Moisture indexed with Kerchunk
+  around the original netCDFs.
+description: Copernicus Land Monitoring Service - Surface Soil Moisture 2014-present
+  (raster 1 km), Europe, daily – version 1
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cgls_ssm (data.europa.eu dataset cgls_ssm; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cgls_ssm (data.europa.eu dataset
+      cgls_ssm; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: cgls-ssm-copernicus-l
+assigned_id: dea:data-product-cgls-ssm-copernicus-l-apx2ud
+admitted: '2026-11-14'

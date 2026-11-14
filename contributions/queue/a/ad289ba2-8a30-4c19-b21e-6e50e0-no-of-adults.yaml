@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ad289ba2-8a30-4c19-b21e-6e50e066e15c
-name: No. of Adults 21-22 Years in Receipt of an Aftercare Service in Other Education / Accredited Training
-  2024
-description: Performance metrics for by year No. of Adults 21-22 Years in Receipt of an Aftercare Service
-  in Other Education / Accredited Training
+name: No. of Adults 21-22 Years in Receipt of an Aftercare Service in Other Education
+  / Accredited Training 2024
+description: Performance metrics for by year No. of Adults 21-22 Years in Receipt
+  of an Aftercare Service in Other Education / Accredited Training
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ad289ba2-8a30-4c19-b21e-6e50e066e15c (data.europa.eu
-      dataset ad289ba2-8a30-4c19-b21e-6e50e066e15c; publisher: Tusla)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ad289ba2-8a30-4c19-b21e-6e50e066e15c
+      (data.europa.eu dataset ad289ba2-8a30-4c19-b21e-6e50e066e15c; publisher: Tusla)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - usla
 slug: ad289ba2-8a30-4c19-b21e-6e50e0-no-of-adults
+assigned_id: dea:data-product-ad289ba2-8a30-4c19-b21e-6e50e0-no-of-adults-jpudmk
+admitted: '2026-11-14'

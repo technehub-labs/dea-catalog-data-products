@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2fdb6540-4771-4f12-abb1-eb4487851e77
 name: Study on Psychosocial Health in Vienna 2023
-description: Data to examine psychozocial health during and after the pandemic Spring 2023
+description: Data to examine psychozocial health during and after the pandemic Spring
+  2023
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2fdb6540-4771-4f12-abb1-eb4487851e77 (data.europa.eu
-      dataset 2fdb6540-4771-4f12-abb1-eb4487851e77; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2fdb6540-4771-4f12-abb1-eb4487851e77
+      (data.europa.eu dataset 2fdb6540-4771-4f12-abb1-eb4487851e77; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 2fdb6540-4771-4f12-abb1-eb4487-study-on-psy
+assigned_id: dea:data-product-2fdb6540-4771-4f12-abb1-eb4487-study-on-psy-favw3k
+admitted: '2026-11-14'

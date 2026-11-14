@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36513933-bundesamt-fur-statistik-bfs
 name: Environmentally related taxes account by tax category and economic player
-description: This dataset presents annual data on revenue from environmentally related taxes of the economy
-  and the households by type of tax (energy taxes, transport taxes, pollution taxes), economic sector
-  and division and the type of use of household (transport, heating), since 1990.
+description: This dataset presents annual data on revenue from environmentally related
+  taxes of the economy and the households by type of tax (energy taxes, transport
+  taxes, pollution taxes), economic sector and division and the type of use of household
+  (transport, heating), since 1990.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36513933-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36513933-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36513933-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36513933-bundesamt-fur-statistik-bfs; publisher: Bundesamt
+      für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesamt-fr-tatistik
 slug: 36513933-bundesamt-fur-statist-environmenta
+assigned_id: dea:data-product-36513933-bundesamt-fur-statist-environmenta-tnfzbs
+admitted: '2026-11-14'

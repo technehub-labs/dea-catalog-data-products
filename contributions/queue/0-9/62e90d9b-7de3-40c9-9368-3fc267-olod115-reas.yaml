@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Reasons to do more to protect the environment by access to a garden
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/62e90d9b-7de3-40c9-9368-3fc267942566 (data.europa.eu
-      dataset 62e90d9b-7de3-40c9-9368-3fc267942566; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/62e90d9b-7de3-40c9-9368-3fc267942566
+      (data.europa.eu dataset 62e90d9b-7de3-40c9-9368-3fc267942566; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 62e90d9b-7de3-40c9-9368-3fc267-olod115-reas
+assigned_id: dea:data-product-62e90d9b-7de3-40c9-9368-3fc267-olod115-reas-mrftm5
+admitted: '2026-11-14'

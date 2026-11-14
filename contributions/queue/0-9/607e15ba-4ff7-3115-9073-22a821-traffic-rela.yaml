@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 607e15ba-4ff7-3115-9073-22a821d668e8~~1
 name: Traffic-related air pollution 2009 (environmental atlas)
-description: Information on traffic-related air pollution in selected road sections in 2009 and trend
-  calculations in 2015 and 2020
+description: Information on traffic-related air pollution in selected road sections
+  in 2009 and trend calculations in 2015 and 2020
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/607e15ba-4ff7-3115-9073-22a821d668e8~~1 (data.europa.eu
-      dataset 607e15ba-4ff7-3115-9073-22a821d668e8~~1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/607e15ba-4ff7-3115-9073-22a821d668e8~~1
+      (data.europa.eu dataset 607e15ba-4ff7-3115-9073-22a821d668e8~~1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 607e15ba-4ff7-3115-9073-22a821-traffic-rela
+assigned_id: dea:data-product-607e15ba-4ff7-3115-9073-22a821-traffic-rela-kcpm26
+admitted: '2026-11-14'

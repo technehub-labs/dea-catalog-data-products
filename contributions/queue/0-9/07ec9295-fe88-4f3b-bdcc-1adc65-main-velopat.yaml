@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 07ec9295-fe88-4f3b-bdcc-1adc6583a99b-canton-du-valais-cc-geo
 name: Main Velopaths
-description: Between Le Bouveret and Gletsch, a main cycle path has been created by the canton for cyclists.
-  It is part of the tourist cycle network Route du Rhône.
+description: Between Le Bouveret and Gletsch, a main cycle path has been created by
+  the canton for cyclists. It is part of the tourist cycle network Route du Rhône.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/07ec9295-fe88-4f3b-bdcc-1adc6583a99b-canton-du-valais-cc-geo
-      (data.europa.eu dataset 07ec9295-fe88-4f3b-bdcc-1adc6583a99b-canton-du-valais-cc-geo; publisher:
-      Kanton Wallis - Dienststelle für Geoinformation)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 07ec9295-fe88-4f3b-bdcc-1adc6583a99b-canton-du-valais-cc-geo;
+      publisher: Kanton Wallis - Dienststelle für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - anton-allis-ienstst
 slug: 07ec9295-fe88-4f3b-bdcc-1adc65-main-velopat
+assigned_id: dea:data-product-07ec9295-fe88-4f3b-bdcc-1adc65-main-velopat-uhrjg3
+admitted: '2026-11-14'

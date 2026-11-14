@@ -1,0 +1,38 @@
+id: dea:data-product-43819-knmi-uv-polarisation-lid-knmi-uv-pola-a2vqwf
+type: DataProduct
+name: KNMI UV polarisation lidar Ascension Island initiative (ASCII) campaign data
+description: A ground-based UV polarisation lidar was deployed to infer cloud droplet
+  sizes and droplet number concentrations near the cloud base of cumulus clouds over
+  Ascension Island. The measurements were part of the 2016 and 2017 ASCII campaigns
+  to study aerosol-cloud interactions in the stratocumulus to cumulus transition zone
+  of the southeast Atlantic Ocean. Measurements of uncalibrated attenuated backscatter
+  were acquired at 30 seconds and 15 meters resolution.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/43819-knmi-uv-polarisation-lidar-ascension-island-initiative-ascii-campaign-data
+      (data.europa.eu dataset 43819-knmi-uv-polarisation-lidar-ascension-island-initiative-ascii-campaign-data;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

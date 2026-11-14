@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu alternative-fuels-infrastructure-data
 name: Alternative fuels infrastructure data
-description: 'The Programme Support Action (PSA) on ID issuing and data collection for alternative fuels
-  (IDACS) has been set-up by the European Commission to support Member States in setting up data collecting
-  for alternative fuels and make the data available through the National Access Points and to develop
-  an effective, EU-wide coordination mechanism to assign unique identification codes to CPOs and EMSPs.
-  The PSA has a duration of three years (2019-2021) and its Consortium consists of 15 Member States: Austria,
-  Belgium, Czech Republic, Croatia, France, Germany, Greece, Hungary, Lithuania, Luxembourg, The Netherlands,
-  Poland, Portugal, Slovenia and Spain. The Consortium mandatorily have to collect data related to alternative
-  fuels infrastructure, elected electric charging points and hydrogen refueling stations (HRS). Other
-  alternative fuels, such as CNG, LNG, LPG and highly-blended biofuels are optional.'
+description: 'The Programme Support Action (PSA) on ID issuing and data collection
+  for alternative fuels (IDACS) has been set-up by the European Commission to support
+  Member States in setting up data collecting for alternative fuels and make the data
+  available through the National Access Points and to develop an effective, EU-wide
+  coordination mechanism to assign unique identification codes to CPOs and EMSPs.
+  The PSA has a duration of three years (2019-2021) and its Consortium consists of
+  15 Member States: Austria, Belgium, Czech Republic, Croatia, France, Germany, Greece,
+  Hungary, Lithuania, Luxembourg, The Netherlands, Poland, Portugal, Slovenia and
+  Spain. The Consortium mandatorily have to collect data related to alternative fuels
+  infrastructure, elected electric charging points and hydrogen refueling stations
+  (HRS). Other alternative fuels, such as CNG, LNG, LPG and highly-blended biofuels
+  are optional.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/alternative-fuels-infrastructure-data (data.europa.eu
-      dataset alternative-fuels-infrastructure-data; publisher: Ministère de la Mobilité et des Travaux
-      publics)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/alternative-fuels-infrastructure-data
+      (data.europa.eu dataset alternative-fuels-infrastructure-data; publisher: Ministère
+      de la Mobilité et des Travaux publics)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-de-la-obilit
 slug: alternative-fuels-infrastructu-alternative
+assigned_id: dea:data-product-alternative-fuels-infrastructu-alternative-c2gey6
+admitted: '2026-11-14'

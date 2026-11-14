@@ -1,0 +1,38 @@
+id: dea:data-product-60255c39454ae3a8b4284ed3-rea-2018-exe-c87fvu
+type: DataProduct
+name: REA 2018 - Executive Summary - State of Environment Report Portugal 2018
+description: Executive Summary - State of Environment Report Portugal 2018 (REA 2018)
+  Being published only five months after the last report, the 2018 edition will be
+  predictable, containing only the indicators which data was possible to update since
+  the last edition. Thus, 28 of the 51 indicators that are completely available in
+  the State of the Environment Portal have been updated. The 2018 edition starts with
+  the usual national socioeconomic framework and the main figures for economic and
+  social indicators.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/60255c39454ae3a8b4284ed3 (data.europa.eu
+      dataset 60255c39454ae3a8b4284ed3; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- gncia-ortuguesa-do-m

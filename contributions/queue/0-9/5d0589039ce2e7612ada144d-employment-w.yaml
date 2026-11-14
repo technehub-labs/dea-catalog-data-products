@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5d0589039ce2e7612ada144d
 name: EMPLOYMENT - Workplace
-description: EMPLOYMENT - Workplace — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Commune de Brocas.
+description: EMPLOYMENT - Workplace — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Commune de Brocas.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5d0589039ce2e7612ada144d (data.europa.eu dataset
-      5d0589039ce2e7612ada144d; publisher: Commune de Brocas)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5d0589039ce2e7612ada144d (data.europa.eu
+      dataset 5d0589039ce2e7612ada144d; publisher: Commune de Brocas)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ommune-de-rocas
 slug: 5d0589039ce2e7612ada144d-employment-w
+assigned_id: dea:data-product-5d0589039ce2e7612ada144d-employment-w-reu5tk
+admitted: '2026-11-14'

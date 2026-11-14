@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 83261-vaisala-radiosonde-rs41
 name: Vaisala Radio Probe RS41
-description: A balloon is released from the ground and rises to 10-30km to measure temperature, pressure,
-  humidity and wind data. Vaisala MW41 sounding software is a radiosounding data processing, analysis,
-  archival and relaying software for DigiCORA Sounding System MW41. The software consisting of the user
-  interface running on a web browser and the sounding processing software running as services on a PC
-  computer. DigiCORA Sounding System MW41 compressed of a PC computer, which is connected to a sounding
-  processing subsystem via a network adapter. Sounding Processing Subsystem SPS311 contains the processor
-  units for PTU (Pressure, Temperature and Humidity) and wind finding, and appropriate connections to
-  the required antennas.
+description: A balloon is released from the ground and rises to 10-30km to measure
+  temperature, pressure, humidity and wind data. Vaisala MW41 sounding software is
+  a radiosounding data processing, analysis, archival and relaying software for DigiCORA
+  Sounding System MW41. The software consisting of the user interface running on a
+  web browser and the sounding processing software running as services on a PC computer.
+  DigiCORA Sounding System MW41 compressed of a PC computer, which is connected to
+  a sounding processing subsystem via a network adapter. Sounding Processing Subsystem
+  SPS311 contains the processor units for PTU (Pressure, Temperature and Humidity)
+  and wind finding, and appropriate connections to the required antennas.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/83261-vaisala-radiosonde-rs41 (data.europa.eu dataset
-      83261-vaisala-radiosonde-rs41; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/83261-vaisala-radiosonde-rs41
+      (data.europa.eu dataset 83261-vaisala-radiosonde-rs41; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 83261-vaisala-radiosonde-rs41-vaisala-radi
+assigned_id: dea:data-product-83261-vaisala-radiosonde-rs41-vaisala-radi-gfn5tc
+admitted: '2026-11-14'

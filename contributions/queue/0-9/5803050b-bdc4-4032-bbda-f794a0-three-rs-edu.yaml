@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5803050b-bdc4-4032-bbda-f794a0fc58c0
 name: Three Rs Education and Training Learning Scenarios
-description: This dataset is a publicly accessible collection of learning scenarios which have been created
-  by education professionals for use by educators who wish to teach topics under the umbrella of the Three
-  Rs and alternative methods. The collection covers university and secondary levels and contains 12 learning
-  scenarios. A learning scenario is a teacher support tool which enables the delivery of a lesson on a
-  certain topic. The learning scenarios available here can form a basis or inspiration for a lecture or
-  provide a ready-to-use plan for a secondary school lesson or series of lessons.
+description: This dataset is a publicly accessible collection of learning scenarios
+  which have been created by education professionals for use by educators who wish
+  to teach topics under the umbrella of the Three Rs and alternative methods. The
+  collection covers university and secondary levels and contains 12 learning scenarios.
+  A learning scenario is a teacher support tool which enables the delivery of a lesson
+  on a certain topic. The learning scenarios available here can form a basis or inspiration
+  for a lecture or provide a ready-to-use plan for a secondary school lesson or series
+  of lessons.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5803050b-bdc4-4032-bbda-f794a0fc58c0 (data.europa.eu
-      dataset 5803050b-bdc4-4032-bbda-f794a0fc58c0; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5803050b-bdc4-4032-bbda-f794a0fc58c0
+      (data.europa.eu dataset 5803050b-bdc4-4032-bbda-f794a0fc58c0; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 5803050b-bdc4-4032-bbda-f794a0-three-rs-edu
+assigned_id: dea:data-product-5803050b-bdc4-4032-bbda-f794a0-three-rs-edu-cgdvms
+admitted: '2026-11-14'

@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bioscience-and-health-technology-database
 name: Bioscience and Health Technology Database
-description: This dataset is used by Departmental officials to analyse and produce annual reports and
-  statistics within the UK Life Sciences sector. This data includes the number of companies, turnover
-  and employment in the principal Life Science industry sectors - Pharmaceuticals, Medical Technology,
-  Medical Biotechnology and Industrial Biotechnology.
+description: This dataset is used by Departmental officials to analyse and produce
+  annual reports and statistics within the UK Life Sciences sector. This data includes
+  the number of companies, turnover and employment in the principal Life Science industry
+  sectors - Pharmaceuticals, Medical Technology, Medical Biotechnology and Industrial
+  Biotechnology.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bioscience-and-health-technology-database (data.europa.eu
-      dataset bioscience-and-health-technology-database; publisher: Department for Business, Energy and
-      Industrial Strategy)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bioscience-and-health-technology-database
+      (data.europa.eu dataset bioscience-and-health-technology-database; publisher:
+      Department for Business, Energy and Industrial Strategy)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-for-usines
 slug: bioscience-and-health-technolo-bioscience-a
+assigned_id: dea:data-product-bioscience-and-health-technolo-bioscience-a-86ev6n
+admitted: '2026-11-14'

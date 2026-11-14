@@ -1,28 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 011dfa14-f4ed-4683-aac8-211a6cff80ff
 name: UDP - Share of protected/designated land
-description: 'This descriptor measures the share of protected/designated land belonging to the European
-  networks Natura 2000 or Emerald Network in relation to the total area of the country or region. Natura
-  2000 is the ecological network for the conservation of wild animal and plant species and natural habitats
-  of European importance across EU Member States. Emerald Network is the equivalent of Natura 2000 in
-  non-EU European countries. For Iceland, not covered by both networks, the Nationally designated areas
-  (CDDA) are considered. A high percentage of protected/designated land indicates the relevant presence
-  of natural assets of high value. This descriptor is provided in the EU Tourism Dashboard as complementary
-  information to characterize tourism offer. UNIT OF MEASURE: %. RESOLUTION: NUTS0, NUTS2, NUTS3. COMPLETENESS:
-  100%. METHODOLOGY: Natura 2000 areas and Emerald sites were merged into a single layer and then intersected
-  with NUTS geometry. The share of protected land was calculated by aggregating the result of the intersection
-  per NUTS code. DATA SOURCES: Natura 2000, Emerald Network, Nationally designated areas, NUTS 2021 classification.'
+description: 'This descriptor measures the share of protected/designated land belonging
+  to the European networks Natura 2000 or Emerald Network in relation to the total
+  area of the country or region. Natura 2000 is the ecological network for the conservation
+  of wild animal and plant species and natural habitats of European importance across
+  EU Member States. Emerald Network is the equivalent of Natura 2000 in non-EU European
+  countries. For Iceland, not covered by both networks, the Nationally designated
+  areas (CDDA) are considered. A high percentage of protected/designated land indicates
+  the relevant presence of natural assets of high value. This descriptor is provided
+  in the EU Tourism Dashboard as complementary information to characterize tourism
+  offer. UNIT OF MEASURE: %. RESOLUTION: NUTS0, NUTS2, NUTS3. COMPLETENESS: 100%.
+  METHODOLOGY: Natura 2000 areas and Emerald sites were merged into a single layer
+  and then intersected with NUTS geometry. The share of protected land was calculated
+  by aggregating the result of the intersection per NUTS code. DATA SOURCES: Natura
+  2000, Emerald Network, Nationally designated areas, NUTS 2021 classification.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/011dfa14-f4ed-4683-aac8-211a6cff80ff (data.europa.eu
-      dataset 011dfa14-f4ed-4683-aac8-211a6cff80ff; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/011dfa14-f4ed-4683-aac8-211a6cff80ff
+      (data.europa.eu dataset 011dfa14-f4ed-4683-aac8-211a6cff80ff; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 011dfa14-f4ed-4683-aac8-211a6c-udp-share-of
+assigned_id: dea:data-product-011dfa14-f4ed-4683-aac8-211a6c-udp-share-of-g8rxus
+admitted: '2026-11-14'

@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 12bff65d-0fea-43dd-9f99-bb3ec7367795
 name: Annual Energy Balances
-description: The annual residential energy consumption statistic is an annual statistical operation whose
-  objective is to provide complete and reliable information on consumption in the residential sector in
-  Spain by uses. To this end, the different energy sources (electricity, petroleum-derived products, coal,
-  natural gas, renewable sources and waste, heat pumps) and the main uses (space heating, space cooling,
-  water heating, cooking, lighting and electrical appliances; and other final uses) are analyzed.
+description: The annual residential energy consumption statistic is an annual statistical
+  operation whose objective is to provide complete and reliable information on consumption
+  in the residential sector in Spain by uses. To this end, the different energy sources
+  (electricity, petroleum-derived products, coal, natural gas, renewable sources and
+  waste, heat pumps) and the main uses (space heating, space cooling, water heating,
+  cooking, lighting and electrical appliances; and other final uses) are analyzed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/12bff65d-0fea-43dd-9f99-bb3ec7367795 (data.europa.eu
-      dataset 12bff65d-0fea-43dd-9f99-bb3ec7367795; publisher: Ministerio para la Transición Ecológica
-      y el Reto Demográfico)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/12bff65d-0fea-43dd-9f99-bb3ec7367795
+      (data.europa.eu dataset 12bff65d-0fea-43dd-9f99-bb3ec7367795; publisher: Ministerio
+      para la Transición Ecológica y el Reto Demográfico)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterio-para-la-ra
 slug: 12bff65d-0fea-43dd-9f99-bb3ec7-annual-energ
+assigned_id: dea:data-product-12bff65d-0fea-43dd-9f99-bb3ec7-annual-energ-a5qdwb
+admitted: '2026-11-14'

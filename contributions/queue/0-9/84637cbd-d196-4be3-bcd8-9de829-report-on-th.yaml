@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Report on the state of the environment in Rivne region for the year
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/84637cbd-d196-4be3-bcd8-9de8290aa328 (data.europa.eu
-      dataset 84637cbd-d196-4be3-bcd8-9de8290aa328; publisher: Департамент екології та природних ресурсів
-      Рівненської обласної державної адміністрації)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/84637cbd-d196-4be3-bcd8-9de8290aa328
+      (data.europa.eu dataset 84637cbd-d196-4be3-bcd8-9de8290aa328; publisher: Департамент
+      екології та природних ресурсів Рівненської обласної державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 84637cbd-d196-4be3-bcd8-9de829-report-on-th
+assigned_id: dea:data-product-84637cbd-d196-4be3-bcd8-9de829-report-on-th-k9mwqj
+admitted: '2026-11-14'

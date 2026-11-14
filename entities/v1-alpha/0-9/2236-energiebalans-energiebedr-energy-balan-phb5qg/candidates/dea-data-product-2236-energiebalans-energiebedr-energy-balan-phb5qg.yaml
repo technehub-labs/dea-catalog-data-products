@@ -1,0 +1,51 @@
+id: dea:data-product-2236-energiebalans-energiebedr-energy-balan-phb5qg
+type: DataProduct
+name: Energy balance; energy companies and industry, 2000 - 2003
+description: 'This table provides figures on energy supply, conversion and consumption.
+  Energy is released by, for example, the combustion of natural gas, oil, coal and
+  biofuels. Energy can also be obtained from electricity or heat or extracted from
+  nature, for example wind power or solar energy. In energy statistics, all these
+  sources from which energy can be used are called ''energy carriers''. The supply
+  of energy is formed by the extraction of energy, supply and delivery and the change
+  in stock. Of the energy conversion, the table gives both figures on the use of energy
+  carriers for conversion (the amount of energy used to make other energy carriers),
+  and on the production of energy after conversion (the amount of energy made from
+  other energy carriers), as well as on the balance of deployment and production.
+  This balance of energy conversion can be interpreted as the loss of energy during
+  the conversion. The energy balance then shows the final consumption of energy, which
+  is the final consumption of energy. This consists of final energy consumption and
+  non-energy use. Final energy consumption is the energy used by energy customers
+  for energy purposes. Non-energy use is the use of an energy carrier to create a
+  product that is not an energy carrier. Data available: From: 2000 1st quarter Status
+  of figures: All figures up to and including the reporting period 2003 3rd quarter
+  are final. Amendment as of 6 May 2004 None, this table has been discontinued. For
+  more information, see Section 3. When will there be new figures: No longer applicable.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2236-energiebalans-energiebedrijven-en-industrie-2000-2003
+      (data.europa.eu dataset 2236-energiebalans-energiebedrijven-en-industrie-2000-2003;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

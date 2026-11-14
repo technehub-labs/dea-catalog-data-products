@@ -1,0 +1,33 @@
+id: dea:data-product-b095a183-1909-4b50-8036-c32bc6-2021-estimat-ewrj8h
+type: DataProduct
+name: 2021 Estimate for the program for KPKVK 0112152
+description: Other programs and activities in the field of healthcare’City Comprehensive
+  Program "Community Health for 2019-2023"
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b095a183-1909-4b50-8036-c32bc6a00db4
+      (data.europa.eu dataset b095a183-1909-4b50-8036-c32bc6a00db4; publisher: Коломийська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

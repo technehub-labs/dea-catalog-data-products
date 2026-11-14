@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bcefd83b-257b-5e45-9960-beb38078c7b4
 name: Nature conservation and alpine farming
-description: Nature conservation and alpine farming — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Nationalparks Austria.
+description: Nature conservation and alpine farming — a published dataset in the EU
+  Open Data Portal (data.europa.eu), maintained by Nationalparks Austria.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bcefd83b-257b-5e45-9960-beb38078c7b4 (data.europa.eu
-      dataset bcefd83b-257b-5e45-9960-beb38078c7b4; publisher: Nationalparks Austria)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bcefd83b-257b-5e45-9960-beb38078c7b4
+      (data.europa.eu dataset bcefd83b-257b-5e45-9960-beb38078c7b4; publisher: Nationalparks
+      Austria)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ationalparks-ustria
 slug: bcefd83b-257b-5e45-9960-beb380-nature-conse
+assigned_id: dea:data-product-bcefd83b-257b-5e45-9960-beb380-nature-conse-xjy7xw
+admitted: '2026-11-14'

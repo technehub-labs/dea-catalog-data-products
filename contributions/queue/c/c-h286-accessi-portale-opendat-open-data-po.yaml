@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_h286-accessi_portale_opendata_2025-1
 name: Open Data Portal Access Statistics - Year 2025
-description: The dataset collects the statistics relating to accesses made on the Open Data portal for
-  the year 2025, with specific reference to the individual datasets published. For each dataset there
-  are key information such as the total number of views and downloads, as well as other useful information
-  such as the title, the dates of creation and last modification, the version etc. This dataset allows
-  to analyze the degree of interest and involvement of users with respect to the content available on
-  the portal, favoring evaluations on the impact and use of open data by the community.
+description: The dataset collects the statistics relating to accesses made on the
+  Open Data portal for the year 2025, with specific reference to the individual datasets
+  published. For each dataset there are key information such as the total number of
+  views and downloads, as well as other useful information such as the title, the
+  dates of creation and last modification, the version etc. This dataset allows to
+  analyze the degree of interest and involvement of users with respect to the content
+  available on the portal, favoring evaluations on the impact and use of open data
+  by the community.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_h286-accessi_portale_opendata_2025-1 (data.europa.eu
-      dataset c_h286-accessi_portale_opendata_2025-1; publisher: Comune di Rignano sull''Arno)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_h286-accessi_portale_opendata_2025-1
+      (data.europa.eu dataset c_h286-accessi_portale_opendata_2025-1; publisher: Comune
+      di Rignano sull''Arno)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - omune-di-ignano-sull
 slug: c-h286-accessi-portale-opendat-open-data-po
+assigned_id: dea:data-product-c-h286-accessi-portale-opendat-open-data-po-px9sfz
+admitted: '2026-11-14'

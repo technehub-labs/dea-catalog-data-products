@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cde9160a-85a7-4e18-a830-d9b33a545aad
 name: Annual financial statements of SE Communal Worker KP KMG
-description: <p>This set contains the financial statements of the Subsidiary Communal Enterprise "Municipal
-  Economy Combine"</p>
+description: <p>This set contains the financial statements of the Subsidiary Communal
+  Enterprise "Municipal Economy Combine"</p>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cde9160a-85a7-4e18-a830-d9b33a545aad (data.europa.eu
-      dataset cde9160a-85a7-4e18-a830-d9b33a545aad; publisher:  Управління цифровізації, інформаційної
-      політики та комунікацій)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cde9160a-85a7-4e18-a830-d9b33a545aad
+      (data.europa.eu dataset cde9160a-85a7-4e18-a830-d9b33a545aad; publisher:  Управління
+      цифровізації, інформаційної політики та комунікацій)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: cde9160a-85a7-4e18-a830-d9b33a-annual-finan
+assigned_id: dea:data-product-cde9160a-85a7-4e18-a830-d9b33a-annual-finan-3f6xhx
+admitted: '2026-11-14'

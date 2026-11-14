@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,12 +8,15 @@ description: Statistical data on emergency prevention activities - 2021
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6f96d254-30d5-44e0-a1d0-28abc73de621 (data.europa.eu
-      dataset 6f96d254-30d5-44e0-a1d0-28abc73de621; publisher: Inspectoratul General pentru Situaţii de
-      Urgenţă)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6f96d254-30d5-44e0-a1d0-28abc73de621
+      (data.europa.eu dataset 6f96d254-30d5-44e0-a1d0-28abc73de621; publisher: Inspectoratul
+      General pentru Situaţii de Urgenţă)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nspectoratul-eneral
 slug: 6f96d254-30d5-44e0-a1d0-28abc7-statistical
+assigned_id: dea:data-product-6f96d254-30d5-44e0-a1d0-28abc7-statistical-2ganpb
+admitted: '2026-11-14'

@@ -1,0 +1,31 @@
+# Climate and Energy - Financial aid
+
+> Housing: 1. Amended Grand-Ducal Regulation of 17 July 2001 establishing an aid scheme for the promotion of the rational use of energy and the development of renewable energy sources (https://legilux.public.lu/eli/etat/leg/rgd/2001/07/17/n1/jo) 2. Amended Grand-Ducal Regulation of 3 August 2005 establishing an aid scheme for natural persons with regard to the promotion of the rational use of energy and the development of renewable energy sources (https://legilux.public.lu/eli/etat/leg/rgd/2005/08/03/n1/jo) 3. Grand-Ducal Regulation of 21 December 2007 establishing an aid scheme for natural persons with regard to the promotion of the rational use of energy and the development of renewable energy (repealed by the following gdr) (https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n29/jo) 4. Amended Grand-Ducal Regulation of 20 April 2009 establishing an aid scheme for the promotion of the rational use of energy and the development of renewable energy (https://legilux.public.lu/eli/etat/leg/rgd/2009/04/20/n1/jo) 5. Amended Grand-Ducal Regulation of 12 December 2012 establishing an aid scheme for the promotion of the rational use of energy and the development of renewable energy sources in the field of housing (https://legilux.public.lu/eli/etat/leg/rgd/2012/12/12/n1/jo) 6. Amended Grand-Ducal Regulation of 23 December 2016 laying down implementing measures for the law of 23 December 2016 establishing an aid scheme for the promotion of sustainability, rational use of energy and renewable energy in the field of housing (https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40/jo) 7. Grand-Ducal Regulation of 7 April 2022 laying down implementing measures for the amended Law of 23 December 2016 establishing an aid scheme for the promotion of sustainability, rational use of energy and renewable energy in the field of housing and amending the amended Grand-Ducal Regulation of 23 December 2016 laying down implementing measures for the Law of 23 December 2016 establishing a
+
+## Identity
+
+- **Record id**: `dea:data-product-climate-and-energy-financial-a-climate-and-kmcsu2`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/climate-and-energy-financial-aid (data.europa.eu dataset climate-and-energy-financial-aid; publisher: Administration de l'environnement)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

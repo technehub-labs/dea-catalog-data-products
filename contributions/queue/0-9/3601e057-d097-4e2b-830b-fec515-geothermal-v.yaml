@@ -1,37 +1,46 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3601e057-d097-4e2b-830b-fec51520b907
 name: Geothermal Vertical Closed Loop Suitability 1:40,000 Ireland (ROI) ITM
-description: 'Geothermal Vertical Closed Loop suitability map. Ground source heat energy, sometimes called
-  shallow geothermal energy, can be collected from the ground and boosted with heat pumps. This can yield
-  up to four times as much energy as is used to collect it, giving ‘four for the price of one’ in energy
-  terms. Heat energy can be harnessed, or ‘collected’, using different types of collector systems: Closed
-  loop collectors are systems where heat is extracted from the ground (or cooling is gained) by pumping
-  a heat exchange fluid through closed pipes within the ground. The pipes can be installed borehole(s)
-  (vertical closed loop) or laid out horizontally (horizontal closed loop). Open loop ground source heat
-  systems operate by taking heat energy from abstracted groundwater using a heat pump. The volume of groundwater
-  that can be abstracted from a borehole or taken from a spring each day (the ‘yield’) determines the
-  total amount of heat energy available, and therefore the size of heat pump that can be used and the
-  size of building that can be heated. The ground source heating/cooling suitability maps indicate which
-  type of ground source heat collector is most compatible with the geology below your site. All maps should
-  be assessed together, since whilst some areas may be unsuitable for one type of ground source heat collector
-  system (‘ground source heat pumps’ or GSHPs), the heat energy can be successfully harnessed by a different
-  type of system. The maps show that there is a shallow geothermal solution for heating or cooling for
-  every location in Ireland. The suitability maps use a suitability rating ranging from 1 (worst) to 5
-  (best) for each type of heat collector/cooling system. Suitability maps for open loop (domestic/small
-  commercial), open loop (larger commercial/industrial processes) and vertical closed loop systems are
-  available. This map is to the scale 1:40,000. This means it should be viewed at that scale. When printed
-  at that scale 1cm on the map relates to a di'
+description: 'Geothermal Vertical Closed Loop suitability map. Ground source heat
+  energy, sometimes called shallow geothermal energy, can be collected from the ground
+  and boosted with heat pumps. This can yield up to four times as much energy as is
+  used to collect it, giving ‘four for the price of one’ in energy terms. Heat energy
+  can be harnessed, or ‘collected’, using different types of collector systems: Closed
+  loop collectors are systems where heat is extracted from the ground (or cooling
+  is gained) by pumping a heat exchange fluid through closed pipes within the ground.
+  The pipes can be installed borehole(s) (vertical closed loop) or laid out horizontally
+  (horizontal closed loop). Open loop ground source heat systems operate by taking
+  heat energy from abstracted groundwater using a heat pump. The volume of groundwater
+  that can be abstracted from a borehole or taken from a spring each day (the ‘yield’)
+  determines the total amount of heat energy available, and therefore the size of
+  heat pump that can be used and the size of building that can be heated. The ground
+  source heating/cooling suitability maps indicate which type of ground source heat
+  collector is most compatible with the geology below your site. All maps should be
+  assessed together, since whilst some areas may be unsuitable for one type of ground
+  source heat collector system (‘ground source heat pumps’ or GSHPs), the heat energy
+  can be successfully harnessed by a different type of system. The maps show that
+  there is a shallow geothermal solution for heating or cooling for every location
+  in Ireland. The suitability maps use a suitability rating ranging from 1 (worst)
+  to 5 (best) for each type of heat collector/cooling system. Suitability maps for
+  open loop (domestic/small commercial), open loop (larger commercial/industrial processes)
+  and vertical closed loop systems are available. This map is to the scale 1:40,000.
+  This means it should be viewed at that scale. When printed at that scale 1cm on
+  the map relates to a di'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3601e057-d097-4e2b-830b-fec51520b907 (data.europa.eu
-      dataset 3601e057-d097-4e2b-830b-fec51520b907; publisher: Geological Survey Ireland)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3601e057-d097-4e2b-830b-fec51520b907
+      (data.europa.eu dataset 3601e057-d097-4e2b-830b-fec51520b907; publisher: Geological
+      Survey Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eological-urvey-rela
 slug: 3601e057-d097-4e2b-830b-fec515-geothermal-v
+assigned_id: dea:data-product-3601e057-d097-4e2b-830b-fec515-geothermal-v-rjekq8
+admitted: '2026-11-14'

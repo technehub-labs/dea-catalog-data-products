@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36355005-bundesamt-fur-statistik-bfs
 name: 'Cross-border city statistics: Education (Agglomerations 2020)'
-description: This dataset provides annual data for a selection of variables of cross-border city statistics
-  concerning education according to the version 2020 of the agglomerations (educational level), from 2020
-  onwards.
+description: This dataset provides annual data for a selection of variables of cross-border
+  city statistics concerning education according to the version 2020 of the agglomerations
+  (educational level), from 2020 onwards.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36355005-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36355005-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36355005-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36355005-bundesamt-fur-statistik-bfs; publisher: Office
+      fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffice-fdral-de-la-st
 slug: 36355005-bundesamt-fur-statist-cross-border
+assigned_id: dea:data-product-36355005-bundesamt-fur-statist-cross-border-fd3s2n
+admitted: '2026-11-14'

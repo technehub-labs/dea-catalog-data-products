@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 1e2f1134-6a08-407d-9f16-2b742a313b03
 name: Limerick (Sexton St.)C.B.S. Climate Data
-description: Daily and monthly climatalogical records for our station at Limerick (Sexton St.)C.B.S. in
-  Co. Limerick. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Limerick
+  (Sexton St.)C.B.S. in Co. Limerick. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/1e2f1134-6a08-407d-9f16-2b742a313b03 (data.europa.eu
-      dataset 1e2f1134-6a08-407d-9f16-2b742a313b03; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/1e2f1134-6a08-407d-9f16-2b742a313b03
+      (data.europa.eu dataset 1e2f1134-6a08-407d-9f16-2b742a313b03; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 1e2f1134-6a08-407d-9f16-2b742a-limerick-sex
+assigned_id: dea:data-product-1e2f1134-6a08-407d-9f16-2b742a-limerick-sex-527677
+admitted: '2026-11-14'

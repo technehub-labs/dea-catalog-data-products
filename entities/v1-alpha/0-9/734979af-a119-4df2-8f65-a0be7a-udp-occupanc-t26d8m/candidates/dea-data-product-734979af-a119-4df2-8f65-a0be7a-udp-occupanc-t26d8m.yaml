@@ -1,0 +1,40 @@
+id: dea:data-product-734979af-a119-4df2-8f65-a0be7a-udp-occupanc-t26d8m
+type: DataProduct
+name: UDP - Occupancy rate
+description: 'The occupancy rate is the percentage of time within a year that available
+  bed-places within a tourist destination (country of region) are occupied with tourists.
+  It provides an indication of balance between capacity and demand. Low values may
+  signal over capacity or the potential to attract more demand. This descriptor is
+  provided in the EU Tourism Dashboard as complementary information to characterize
+  tourism supply and demand. UNIT OF MEASURE: %. RESOLUTION: NUTS0. COMPLETENESS:
+  100%. METHODOLOGY: Net occupancy rate of bedrooms. DATA SOURCES: tour_cap_nuts2
+  [ESTAT].'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/734979af-a119-4df2-8f65-a0be7ac31875
+      (data.europa.eu dataset 734979af-a119-4df2-8f65-a0be7ac31875; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- oint-esearch-entre

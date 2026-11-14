@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 38ccd6b1-a6b7-431f-8536-5caac72976b5
-name: The list of ’ business entities, to which the Ministry of Environment approved the emission indicators
-  (specific emissions) of pollutants into the atmospheric air
-description: Emission indicators (specific emissions) of pollutants into the atmospheric air in Ukraine
+name: The list of ’ business entities, to which the Ministry of Environment approved
+  the emission indicators (specific emissions) of pollutants into the atmospheric
+  air
+description: Emission indicators (specific emissions) of pollutants into the atmospheric
+  air in Ukraine
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/38ccd6b1-a6b7-431f-8536-5caac72976b5 (data.europa.eu
-      dataset 38ccd6b1-a6b7-431f-8536-5caac72976b5; publisher: Міністерство захисту довкілля та природних
-      ресурсів України)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/38ccd6b1-a6b7-431f-8536-5caac72976b5
+      (data.europa.eu dataset 38ccd6b1-a6b7-431f-8536-5caac72976b5; publisher: Міністерство
+      захисту довкілля та природних ресурсів України)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 38ccd6b1-a6b7-431f-8536-5caac7-the-list-of
+assigned_id: dea:data-product-38ccd6b1-a6b7-431f-8536-5caac7-the-list-of-zphw38
+admitted: '2026-11-14'

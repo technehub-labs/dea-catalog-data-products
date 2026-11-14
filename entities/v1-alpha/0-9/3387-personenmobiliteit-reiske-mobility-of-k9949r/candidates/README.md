@@ -1,0 +1,31 @@
+# Mobility of persons; travel characteristics and motives; 2010-2014
+
+> In this table you will find information about the movement behaviour of the Dutch population (excluding mobility of home residents) on Dutch territory. The travel behaviour is described as the number of journeys per person per day, the distance per person per day and the journey duration per person per day, broken down by motives, mobility characteristics (e.g. time of departure and day of the week) and regions. It concerns regular trips and journeys, i.e. not holiday-related and not professional. Mileage traveled abroad does not count. This means that cross-border movements at the border have been cut off and thus the kilometres travelled abroad have not been taken into account. Holiday-related domestic journeys and occupational journeys are also not included in this table. Data available from 2010. Status of figures: The figures in this table are final. Changes as of 17 November 2016: None, this table has been discontinued. When will there be new figures? This table is followed by the table "Person mobility in the Netherlands; travel characteristics and travel motives, regions". See paragraph 3.
+
+## Identity
+
+- **Record id**: `dea:data-product-3387-personenmobiliteit-reiske-mobility-of-k9949r`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/3387-personenmobiliteit-reiskenmerken-en-motieven-2010-2014 (data.europa.eu dataset 3387-personenmobiliteit-reiskenmerken-en-motieven-2010-2014; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

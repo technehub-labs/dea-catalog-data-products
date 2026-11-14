@@ -1,0 +1,38 @@
+id: dea:data-product-12bff65d-0fea-43dd-9f99-bb3ec7-annual-energ-a5qdwb
+type: DataProduct
+name: Annual Energy Balances
+description: The annual residential energy consumption statistic is an annual statistical
+  operation whose objective is to provide complete and reliable information on consumption
+  in the residential sector in Spain by uses. To this end, the different energy sources
+  (electricity, petroleum-derived products, coal, natural gas, renewable sources and
+  waste, heat pumps) and the main uses (space heating, space cooling, water heating,
+  cooking, lighting and electrical appliances; and other final uses) are analyzed.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/12bff65d-0fea-43dd-9f99-bb3ec7367795
+      (data.europa.eu dataset 12bff65d-0fea-43dd-9f99-bb3ec7367795; publisher: Ministerio
+      para la Transición Ecológica y el Reto Demográfico)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- inisterio-para-la-ra

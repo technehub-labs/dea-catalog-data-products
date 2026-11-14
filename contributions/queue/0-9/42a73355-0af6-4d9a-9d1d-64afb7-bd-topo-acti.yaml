@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 42a73355-0af6-4d9a-9d1d-64afb723991b
 name: 'BD TOPO® activity areas: Pai Health'
-description: 'BD TOPO® activity areas: Pai Health — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by the publishing body.'
+description: 'BD TOPO® activity areas: Pai Health — a published dataset in the EU
+  Open Data Portal (data.europa.eu), maintained by the publishing body.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/42a73355-0af6-4d9a-9d1d-64afb723991b (data.europa.eu
-      dataset 42a73355-0af6-4d9a-9d1d-64afb723991b; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/42a73355-0af6-4d9a-9d1d-64afb723991b
+      (data.europa.eu dataset 42a73355-0af6-4d9a-9d1d-64afb723991b; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 42a73355-0af6-4d9a-9d1d-64afb7-bd-topo-acti
+assigned_id: dea:data-product-42a73355-0af6-4d9a-9d1d-64afb7-bd-topo-acti-f8pd5y
+admitted: '2026-11-14'

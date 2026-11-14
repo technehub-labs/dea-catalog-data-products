@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c75ed269-5961-4b0e-bea8-9c64c34d84ee-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
 name: Stations of the national pollen monitoring network
-description: MeteoSwiss operates the national pollen monitoring network. This consists of automatic and
-  manual monitoring stations which cover Switzerland's most important climatic and vegetation regions.
-  Additional monitoring stations are operated in order to monitor levels of ragweed pollen. The measurements
-  recorded by the respective pollen traps provide valuable information for those who suffer from allergies.
+description: MeteoSwiss operates the national pollen monitoring network. This consists
+  of automatic and manual monitoring stations which cover Switzerland's most important
+  climatic and vegetation regions. Additional monitoring stations are operated in
+  order to monitor levels of ragweed pollen. The measurements recorded by the respective
+  pollen traps provide valuable information for those who suffer from allergies.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/c75ed269-5961-4b0e-bea8-9c64c34d84ee-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
       (data.europa.eu dataset c75ed269-5961-4b0e-bea8-9c64c34d84ee-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz;
       publisher: Ufficio federale di meteorologia e climatologia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - fficio-federale-di-m
 slug: c75ed269-5961-4b0e-bea8-9c64c3-stations-of
+assigned_id: dea:data-product-c75ed269-5961-4b0e-bea8-9c64c3-stations-of-vy9b2h
+admitted: '2026-11-14'

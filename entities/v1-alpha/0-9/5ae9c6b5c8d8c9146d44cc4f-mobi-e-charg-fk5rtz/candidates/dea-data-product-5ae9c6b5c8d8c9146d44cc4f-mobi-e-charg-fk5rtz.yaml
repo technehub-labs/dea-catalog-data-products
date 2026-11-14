@@ -1,0 +1,33 @@
+id: dea:data-product-5ae9c6b5c8d8c9146d44cc4f-mobi-e-charg-fk5rtz
+type: DataProduct
+name: Mobi E Charging Stations
+description: Map service related to "Mobi.E charging stations" in Lisbon | Map service
+  of "Electric Mobi.e Points" in Lisbon.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5ae9c6b5c8d8c9146d44cc4f (data.europa.eu
+      dataset 5ae9c6b5c8d8c9146d44cc4f; publisher: Município de Lisboa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- unicpio-de-isboa

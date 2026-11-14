@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5cbc754c-c1a1-4f8a-a201-fbf9ab06f114
 name: WMS XPlanung BPL "SO Tourism+Agriculture Europe Farm"
-description: 'WMS service of the development plan "SO Tourismus+Agriculture Europa-Farm" of the municipality
-  of Meißenheim from XPlanung 5.0. Description: Mostly superimposed by GE thresher, priority use SO.'
+description: 'WMS service of the development plan "SO Tourismus+Agriculture Europa-Farm"
+  of the municipality of Meißenheim from XPlanung 5.0. Description: Mostly superimposed
+  by GE thresher, priority use SO.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5cbc754c-c1a1-4f8a-a201-fbf9ab06f114 (data.europa.eu
-      dataset 5cbc754c-c1a1-4f8a-a201-fbf9ab06f114; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5cbc754c-c1a1-4f8a-a201-fbf9ab06f114
+      (data.europa.eu dataset 5cbc754c-c1a1-4f8a-a201-fbf9ab06f114; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 5cbc754c-c1a1-4f8a-a201-fbf9ab-wms-xplanung
+assigned_id: dea:data-product-5cbc754c-c1a1-4f8a-a201-fbf9ab-wms-xplanung-zzrtqc
+admitted: '2026-11-14'

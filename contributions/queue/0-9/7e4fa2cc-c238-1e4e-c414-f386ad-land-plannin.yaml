@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 7e4fa2cc-c238-1e4e-c414-f386ad24824e
 name: Land Planning - SB _Tourism _BT - OGC API Features
-description: The map service (WFS group) provides the map bases of the Saarland's Land Development Plan
-  Environment (2004) and Settlement (2006).:Generalized presentation of site areas for tourism (BT) within
-  the framework of the LEP Environment 2004.
+description: The map service (WFS group) provides the map bases of the Saarland's
+  Land Development Plan Environment (2004) and Settlement (2006).:Generalized presentation
+  of site areas for tourism (BT) within the framework of the LEP Environment 2004.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7e4fa2cc-c238-1e4e-c414-f386ad24824e (data.europa.eu
-      dataset 7e4fa2cc-c238-1e4e-c414-f386ad24824e; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7e4fa2cc-c238-1e4e-c414-f386ad24824e
+      (data.europa.eu dataset 7e4fa2cc-c238-1e4e-c414-f386ad24824e; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 7e4fa2cc-c238-1e4e-c414-f386ad-land-plannin
+assigned_id: dea:data-product-7e4fa2cc-c238-1e4e-c414-f386ad-land-plannin-ruryg8
+admitted: '2026-11-14'

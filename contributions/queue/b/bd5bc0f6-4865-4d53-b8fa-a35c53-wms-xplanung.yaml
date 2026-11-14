@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bd5bc0f6-4865-4d53-b8fa-a35c537d89f4
 name: WMS XPlanung BPL ‘In the East Valley’
-description: 'WMS service of the development plan ‘Im Tal Ost’ of the city of Blumberg from XPlanung 5.0.
-  Description: GE, WA, Agriculture.'
+description: 'WMS service of the development plan ‘Im Tal Ost’ of the city of Blumberg
+  from XPlanung 5.0. Description: GE, WA, Agriculture.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bd5bc0f6-4865-4d53-b8fa-a35c537d89f4 (data.europa.eu
-      dataset bd5bc0f6-4865-4d53-b8fa-a35c537d89f4; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bd5bc0f6-4865-4d53-b8fa-a35c537d89f4
+      (data.europa.eu dataset bd5bc0f6-4865-4d53-b8fa-a35c537d89f4; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: bd5bc0f6-4865-4d53-b8fa-a35c53-wms-xplanung
+assigned_id: dea:data-product-bd5bc0f6-4865-4d53-b8fa-a35c53-wms-xplanung-ee8rkh
+admitted: '2026-11-14'

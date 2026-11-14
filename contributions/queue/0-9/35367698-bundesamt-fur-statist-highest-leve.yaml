@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 35367698-bundesamt-fur-statistik-bfs
 name: Highest level of completed training
-description: This dataset presents the annual figures of the statistics of Swiss cities 2025 - Highest
-  completed training, 2018-2022 cumulative.
+description: This dataset presents the annual figures of the statistics of Swiss cities
+  2025 - Highest completed training, 2018-2022 cumulative.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/35367698-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 35367698-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/35367698-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 35367698-bundesamt-fur-statistik-bfs; publisher: Bundesamt
+      für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesamt-fr-tatistik
 slug: 35367698-bundesamt-fur-statist-highest-leve
+assigned_id: dea:data-product-35367698-bundesamt-fur-statist-highest-leve-vm9tw6
+admitted: '2026-11-14'

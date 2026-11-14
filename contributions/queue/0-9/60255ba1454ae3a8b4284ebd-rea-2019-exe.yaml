@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60255ba1454ae3a8b4284ebd
 name: REA 2019 - Executive Summary - State of Environment Report Portugal 2019
-description: Portugal’s State of the Environment Report (REA) assess, as the name desirable, the state
-  of the environment in Portugal – an annual exercise in identifying the progress made, but also the main
-  challenges vis-à-vis the commitments and goals pursued in this area.
+description: Portugal’s State of the Environment Report (REA) assess, as the name
+  desirable, the state of the environment in Portugal – an annual exercise in identifying
+  the progress made, but also the main challenges vis-à-vis the commitments and goals
+  pursued in this area.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60255ba1454ae3a8b4284ebd (data.europa.eu dataset
-      60255ba1454ae3a8b4284ebd; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60255ba1454ae3a8b4284ebd (data.europa.eu
+      dataset 60255ba1454ae3a8b4284ebd; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60255ba1454ae3a8b4284ebd-rea-2019-exe
+assigned_id: dea:data-product-60255ba1454ae3a8b4284ebd-rea-2019-exe-r7nf5v
+admitted: '2026-11-14'

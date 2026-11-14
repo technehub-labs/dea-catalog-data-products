@@ -1,0 +1,36 @@
+id: dea:data-product-718bae55-6391-4478-bfb5-ab979b-forest-road-9tmh6t
+type: DataProduct
+name: Forest Road (polygons) Licence Application Spatial Extract from DAFM Forestry
+  Licence Viewer
+description: Shapefile Data extract in Irish Transverse Mercator of spatial data consistent
+  with the DAFM Forestry Licence Viewer for Forest Road Licence Applications (polygons).
+  See also https://flv.apps.services.agriculture.gov.ie/.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/718bae55-6391-4478-bfb5-ab979bb7f7f0
+      (data.europa.eu dataset 718bae55-6391-4478-bfb5-ab979bb7f7f0; publisher: Department
+      of Agriculture, Food and the Marine)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- epartment-of-gricult

@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu combined-heat-and-power-database
 name: Combined Heat and Power database
-description: Internal database of Combined Heat and Power (CHP) plants in the UK. The department is unable
-  to publish site level data as this information is commercially sensitive. We publish statistics on CHP
-  in the UK as part of our annual publication The Digest of UK Energy Statistics (DUKES) in Chapter 7.
+description: Internal database of Combined Heat and Power (CHP) plants in the UK.
+  The department is unable to publish site level data as this information is commercially
+  sensitive. We publish statistics on CHP in the UK as part of our annual publication
+  The Digest of UK Energy Statistics (DUKES) in Chapter 7.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/combined-heat-and-power-database (data.europa.eu
-      dataset combined-heat-and-power-database; publisher: Department for Business, Energy and Industrial
-      Strategy)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/combined-heat-and-power-database
+      (data.europa.eu dataset combined-heat-and-power-database; publisher: Department
+      for Business, Energy and Industrial Strategy)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-for-usines
 slug: combined-heat-and-power-databa-combined-hea
+assigned_id: dea:data-product-combined-heat-and-power-databa-combined-hea-jtpmp2
+admitted: '2026-11-14'

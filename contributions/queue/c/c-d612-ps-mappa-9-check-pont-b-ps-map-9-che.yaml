@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_d612-ps_mappa_9_check_pont_bus_turistici-1
 name: PS - MAP 9 - CHECK PONT TOURIST BUS
-description: 'Structural Plan: tourist bus check point - level represented in the map 9| Mobility; current
-  status, chronological completeness, enabled to consult chronologically'
+description: 'Structural Plan: tourist bus check point - level represented in the
+  map 9| Mobility; current status, chronological completeness, enabled to consult
+  chronologically'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_d612-ps_mappa_9_check_pont_bus_turistici-1 (data.europa.eu
-      dataset c_d612-ps_mappa_9_check_pont_bus_turistici-1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_d612-ps_mappa_9_check_pont_bus_turistici-1
+      (data.europa.eu dataset c_d612-ps_mappa_9_check_pont_bus_turistici-1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: c-d612-ps-mappa-9-check-pont-b-ps-map-9-che
+assigned_id: dea:data-product-c-d612-ps-mappa-9-check-pont-b-ps-map-9-che-6uzbny
+admitted: '2026-11-14'

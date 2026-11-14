@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a7e567f4-cb79-476e-947c-30219209865d
 name: Energy networks
-description: Area-related information on urban areas located at a maximum distance of 250 m from a district
-  heating or gas network. A line-accurate presentation is not possible due to data protection regulations.
+description: Area-related information on urban areas located at a maximum distance
+  of 250 m from a district heating or gas network. A line-accurate presentation is
+  not possible due to data protection regulations.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a7e567f4-cb79-476e-947c-30219209865d (data.europa.eu
-      dataset a7e567f4-cb79-476e-947c-30219209865d; publisher: Senatsverwaltung für Wirtschaft, Energie
-      und Betriebe Berlin)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a7e567f4-cb79-476e-947c-30219209865d
+      (data.europa.eu dataset a7e567f4-cb79-476e-947c-30219209865d; publisher: Senatsverwaltung
+      für Wirtschaft, Energie und Betriebe Berlin)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enatsverwaltung-fr-i
 slug: a7e567f4-cb79-476e-947c-302192-energy-netwo
+assigned_id: dea:data-product-a7e567f4-cb79-476e-947c-302192-energy-netwo-9j7tx9
+admitted: '2026-11-14'

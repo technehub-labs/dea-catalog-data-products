@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 9bcb5e68-fbad-9398-e282-ba3ffe95690a
 name: Land Planning - SB _cultural _Heritage _BK - OGC WFS Interface
-description: The map service (WFS group) provides the map bases of the Saarland's Land Development Plan
-  Environment (2004) and Settlement (2006).:Generalized presentation of site areas for cultural heritage
-  (BK) within the framework of the LEP Environment 2004.
+description: The map service (WFS group) provides the map bases of the Saarland's
+  Land Development Plan Environment (2004) and Settlement (2006).:Generalized presentation
+  of site areas for cultural heritage (BK) within the framework of the LEP Environment
+  2004.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/9bcb5e68-fbad-9398-e282-ba3ffe95690a (data.europa.eu
-      dataset 9bcb5e68-fbad-9398-e282-ba3ffe95690a; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/9bcb5e68-fbad-9398-e282-ba3ffe95690a
+      (data.europa.eu dataset 9bcb5e68-fbad-9398-e282-ba3ffe95690a; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 9bcb5e68-fbad-9398-e282-ba3ffe-land-plannin
+assigned_id: dea:data-product-9bcb5e68-fbad-9398-e282-ba3ffe-land-plannin-x32mmg
+admitted: '2026-11-14'

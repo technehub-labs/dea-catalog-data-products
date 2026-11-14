@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu b12329e2-1497-44db-ba98-e1e3d8cc32be
-name: MODEL WRF-ARW at 3km - Potential Convective Energy Available (CAPE) (J/Kg) - (2026-01-11 hours 12
-  UTC).
-description: Available Convective Potential Energy (CAPE) (J/Kg). Running 2026-01-11 12 noon UTC - Valid
-  from 12 noon UTC 2026-01-11 to 00 noon UTC 2026-01-15. Weather model WRF (Weather Research and Forecasting
-  model), ARW core (version 3.2) with spatial resolution at 3km, temporal resolution 60 hours, interval
-  1 hour.
+name: MODEL WRF-ARW at 3km - Potential Convective Energy Available (CAPE) (J/Kg) -
+  (2026-01-11 hours 12 UTC).
+description: Available Convective Potential Energy (CAPE) (J/Kg). Running 2026-01-11
+  12 noon UTC - Valid from 12 noon UTC 2026-01-11 to 00 noon UTC 2026-01-15. Weather
+  model WRF (Weather Research and Forecasting model), ARW core (version 3.2) with
+  spatial resolution at 3km, temporal resolution 60 hours, interval 1 hour.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b12329e2-1497-44db-ba98-e1e3d8cc32be (data.europa.eu
-      dataset b12329e2-1497-44db-ba98-e1e3d8cc32be; publisher: Lamma Toscana)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b12329e2-1497-44db-ba98-e1e3d8cc32be
+      (data.europa.eu dataset b12329e2-1497-44db-ba98-e1e3d8cc32be; publisher: Lamma
+      Toscana)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - amma-oscana
 slug: b12329e2-1497-44db-ba98-e1e3d8-model-wrf-ar
+assigned_id: dea:data-product-b12329e2-1497-44db-ba98-e1e3d8-model-wrf-ar-xtch38
+admitted: '2026-11-14'

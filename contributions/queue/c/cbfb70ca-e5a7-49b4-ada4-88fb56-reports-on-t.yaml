@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu cbfb70ca-e5a7-49b4-ada4-88fb5695120d
-name: Reports on the implementation of passports of budget programs of the local budget by the Department
-  of Public Health of the Dnipro City Council
-description: The set contains the result of the analysis of the effectiveness of budget programs, reporting
-  data on the implementation of passports of budget programs of the local budget of the Department of
-  Public Health of the Dnipro City Council.
+name: Reports on the implementation of passports of budget programs of the local budget
+  by the Department of Public Health of the Dnipro City Council
+description: The set contains the result of the analysis of the effectiveness of budget
+  programs, reporting data on the implementation of passports of budget programs of
+  the local budget of the Department of Public Health of the Dnipro City Council.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/cbfb70ca-e5a7-49b4-ada4-88fb5695120d (data.europa.eu
-      dataset cbfb70ca-e5a7-49b4-ada4-88fb5695120d; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/cbfb70ca-e5a7-49b4-ada4-88fb5695120d
+      (data.europa.eu dataset cbfb70ca-e5a7-49b4-ada4-88fb5695120d; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: cbfb70ca-e5a7-49b4-ada4-88fb56-reports-on-t
+assigned_id: dea:data-product-cbfb70ca-e5a7-49b4-ada4-88fb56-reports-on-t-s6mc45
+admitted: '2026-11-14'

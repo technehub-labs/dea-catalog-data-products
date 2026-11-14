@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2959-prijsindexcijfers-landbouw-1990-100-1990-1995-1998
 name: Agricultural price indices 1990=100, 1990, 1995-1998
-description: 'Price index sales and consumption of agriculture and horticulture. By main group of goods
-  and by group of goods. 1990, 1995 - 1998; Jan1990 - Dec1990, Jan1995 - Dec1998. Amended on 12 September
-  2001. Appearance frequency: Stopped.'
+description: 'Price index sales and consumption of agriculture and horticulture. By
+  main group of goods and by group of goods. 1990, 1995 - 1998; Jan1990 - Dec1990,
+  Jan1995 - Dec1998. Amended on 12 September 2001. Appearance frequency: Stopped.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/2959-prijsindexcijfers-landbouw-1990-100-1990-1995-1998
-      (data.europa.eu dataset 2959-prijsindexcijfers-landbouw-1990-100-1990-1995-1998; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 2959-prijsindexcijfers-landbouw-1990-100-1990-1995-1998;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 2959-prijsindexcijfers-landbou-agricultural
+assigned_id: dea:data-product-2959-prijsindexcijfers-landbou-agricultural-skxgzm
+admitted: '2026-11-14'

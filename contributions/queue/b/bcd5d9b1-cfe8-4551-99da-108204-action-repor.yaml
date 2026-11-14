@@ -1,26 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bcd5d9b1-cfe8-4551-99da-1082044c6021
 name: Action report for a socially and climate-friendly mobility transition.
-description: In the report on measures for a socially and climate-friendly mobility transition on behalf
-  of the Federal Ministry for Climate Protection, the Environment, Energy, Mobility, Innovation and Technology
-  (BMK), the Federal Environment Agency examined 13 possible individual measures to reduce greenhouse
-  gas emissions from the transport sector. In addition to the savings potential, the measures were subjected
-  to a comprehensive acceptance analysis, in the context of which survey participants were to put together
-  their preferred package of measures, among other things. Selected measures were also examined with regard
-  to their macroeconomic effects, e.g. on value added and employment in Austria. The action report serves
-  as a technical basis for national decision-making processes for the greening of the transport sector
+description: In the report on measures for a socially and climate-friendly mobility
+  transition on behalf of the Federal Ministry for Climate Protection, the Environment,
+  Energy, Mobility, Innovation and Technology (BMK), the Federal Environment Agency
+  examined 13 possible individual measures to reduce greenhouse gas emissions from
+  the transport sector. In addition to the savings potential, the measures were subjected
+  to a comprehensive acceptance analysis, in the context of which survey participants
+  were to put together their preferred package of measures, among other things. Selected
+  measures were also examined with regard to their macroeconomic effects, e.g. on
+  value added and employment in Austria. The action report serves as a technical basis
+  for national decision-making processes for the greening of the transport sector
   from an economic and social science point of view.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bcd5d9b1-cfe8-4551-99da-1082044c6021 (data.europa.eu
-      dataset bcd5d9b1-cfe8-4551-99da-1082044c6021; publisher: Umweltbundesamt GmbH)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bcd5d9b1-cfe8-4551-99da-1082044c6021
+      (data.europa.eu dataset bcd5d9b1-cfe8-4551-99da-1082044c6021; publisher: Umweltbundesamt
+      GmbH)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - mweltbundesamt-mb
 slug: bcd5d9b1-cfe8-4551-99da-108204-action-repor
+assigned_id: dea:data-product-bcd5d9b1-cfe8-4551-99da-108204-action-repor-7zptjg
+admitted: '2026-11-14'

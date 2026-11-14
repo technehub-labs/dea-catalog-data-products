@@ -1,0 +1,40 @@
+id: dea:data-product-cb4e02b7-b8f8-4cad-a54e-4dee81-service-area-e5yeys
+type: DataProduct
+name: Service area of the municipal institution "Educational Association - "General
+  Education School of I-III Degrees No. 31, Center for Children and Youth Creativity
+  "Constellation" of Kirovograd City Coun
+description: The resource contains data on the service area of the communal institution
+  "Educational Association - "General Education School of I-III Degrees No. 31, Center
+  for Children and Youth Creativity "Constellation" of the Kirovograd City Council
+  of the Kirovograd region. Including the name of the institution, service addresses.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/cb4e02b7-b8f8-4cad-a54e-4dee813c577d
+      (data.europa.eu dataset cb4e02b7-b8f8-4cad-a54e-4dee813c577d; publisher: Комунальний
+      заклад "Навчально-виховне об''єднання - "Загальноосвітня школа I-III ступенів
+      №31 з гімназійними класами, центр дитячої та юнацької творчості "Сузір''я" Кіровоградської
+      міської ради Кіровоградської області""")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- '31'

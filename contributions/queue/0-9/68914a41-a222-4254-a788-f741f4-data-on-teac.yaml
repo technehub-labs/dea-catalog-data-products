@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 68914a41-a222-4254-a788-f741f48838e0
 name: Data on teaching staff
-description: Data on pedagogical workers "General education school of I - III degrees No.13 of Vinnytsia
-  City Council"
+description: Data on pedagogical workers "General education school of I - III degrees
+  No.13 of Vinnytsia City Council"
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/68914a41-a222-4254-a788-f741f48838e0 (data.europa.eu
-      dataset 68914a41-a222-4254-a788-f741f48838e0; publisher: Вінницька міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/68914a41-a222-4254-a788-f741f48838e0
+      (data.europa.eu dataset 68914a41-a222-4254-a788-f741f48838e0; publisher: Вінницька
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 68914a41-a222-4254-a788-f741f4-data-on-teac
+assigned_id: dea:data-product-68914a41-a222-4254-a788-f741f4-data-on-teac-q2cbsz
+admitted: '2026-11-14'

@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5a1735b9-4ffc-450e-b034-ecfcafb2489c-bundesamt-fur-raumentwicklung-are
-name: Proportion of areas worth examining from the federal government's perspective for ground-mounted
-  photovoltaic installations of national importance
-description: '"This dataset represents the proportion of areas worth examinig according to the Confederation.
-  It provides an initial indication of where areas worth examinig are located in Switzerland – areas identified
-  on the basis of the method used in the document ""Freistehende Photovoltaikanlagen: Methodische Grundlage
-  des Bundes"" (Ground-mounted photovoltaic installations: methodological basis of the Confederation;
-  published in german and french). This dataset is designed for a scale of 1:100,000 or smaller. For more
-  detailed information and the representation of specific areas, please consult the dataset ""Areas worth
-  examining"". The two datasets go hand in hand and provide different information from a national and
-  regional perspective."'
+name: Proportion of areas worth examining from the federal government's perspective
+  for ground-mounted photovoltaic installations of national importance
+description: '"This dataset represents the proportion of areas worth examinig according
+  to the Confederation. It provides an initial indication of where areas worth examinig
+  are located in Switzerland – areas identified on the basis of the method used in
+  the document ""Freistehende Photovoltaikanlagen: Methodische Grundlage des Bundes""
+  (Ground-mounted photovoltaic installations: methodological basis of the Confederation;
+  published in german and french). This dataset is designed for a scale of 1:100,000
+  or smaller. For more detailed information and the representation of specific areas,
+  please consult the dataset ""Areas worth examining"". The two datasets go hand in
+  hand and provide different information from a national and regional perspective."'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/5a1735b9-4ffc-450e-b034-ecfcafb2489c-bundesamt-fur-raumentwicklung-are
       (data.europa.eu dataset 5a1735b9-4ffc-450e-b034-ecfcafb2489c-bundesamt-fur-raumentwicklung-are;
       publisher: Ufficio federale dello sviluppo territoriale)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - fficio-federale-dell
 slug: 5a1735b9-4ffc-450e-b034-ecfcaf-proportion-o
+assigned_id: dea:data-product-5a1735b9-4ffc-450e-b034-ecfcaf-proportion-o-rz67nz
+admitted: '2026-11-14'

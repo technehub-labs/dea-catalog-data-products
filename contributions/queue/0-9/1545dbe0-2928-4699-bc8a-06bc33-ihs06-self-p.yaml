@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 1545dbe0-2928-4699-bc8a-06bc33fb6fb8
 name: IHS06 - Self-perceived general oral health
-description: IHS06 - Self-perceived general oral health — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Central Statistics Office.
+description: IHS06 - Self-perceived general oral health — a published dataset in the
+  EU Open Data Portal (data.europa.eu), maintained by Central Statistics Office.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/1545dbe0-2928-4699-bc8a-06bc33fb6fb8 (data.europa.eu
-      dataset 1545dbe0-2928-4699-bc8a-06bc33fb6fb8; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/1545dbe0-2928-4699-bc8a-06bc33fb6fb8
+      (data.europa.eu dataset 1545dbe0-2928-4699-bc8a-06bc33fb6fb8; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 1545dbe0-2928-4699-bc8a-06bc33-ihs06-self-p
+assigned_id: dea:data-product-1545dbe0-2928-4699-bc8a-06bc33-ihs06-self-p-z85dre
+admitted: '2026-11-14'

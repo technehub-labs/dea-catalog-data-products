@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2f2dfe59-318c-4ec7-9a02-2d6fde36df86
 name: Dublin (Rathfarnham Castle) Climate Data
-description: Daily and monthly climatalogical records for our station at Dublin (Rathfarnham Castle) in
-  Co. Dublin. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Dublin (Rathfarnham
+  Castle) in Co. Dublin. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2f2dfe59-318c-4ec7-9a02-2d6fde36df86 (data.europa.eu
-      dataset 2f2dfe59-318c-4ec7-9a02-2d6fde36df86; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2f2dfe59-318c-4ec7-9a02-2d6fde36df86
+      (data.europa.eu dataset 2f2dfe59-318c-4ec7-9a02-2d6fde36df86; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 2f2dfe59-318c-4ec7-9a02-2d6fde-dublin-rathf
+assigned_id: dea:data-product-2f2dfe59-318c-4ec7-9a02-2d6fde-dublin-rathf-ygt7qa
+admitted: '2026-11-14'

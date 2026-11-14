@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3356602e-23d5-4e42-9d75-55fe9cc2daba-bundesamt-fur-landestopografie-swisstopo
 name: 'Experience Geology: Geo-trails'
-description: Geotourism valorizes special geological and landscape features. Geological hiking trails
-  (Geo-trails), maps and guides are produced to make geology accessible to a broad audience. The Swiss
-  Academy of Sciences (SCNAT) and “Erlebnis Geologie” have compiled a list of these trails.
+description: Geotourism valorizes special geological and landscape features. Geological
+  hiking trails (Geo-trails), maps and guides are produced to make geology accessible
+  to a broad audience. The Swiss Academy of Sciences (SCNAT) and “Erlebnis Geologie”
+  have compiled a list of these trails.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/3356602e-23d5-4e42-9d75-55fe9cc2daba-bundesamt-fur-landestopografie-swisstopo
       (data.europa.eu dataset 3356602e-23d5-4e42-9d75-55fe9cc2daba-bundesamt-fur-landestopografie-swisstopo;
       publisher: Géologie Vivante)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ologie-ivante
 slug: 3356602e-23d5-4e42-9d75-55fe9c-experience-g
+assigned_id: dea:data-product-3356602e-23d5-4e42-9d75-55fe9c-experience-g-vb3k9h
+admitted: '2026-11-14'

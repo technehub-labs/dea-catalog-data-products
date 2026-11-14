@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a527cac7-7ec3-43e7-94c0-aa6234820011
 name: Substations Power stations Grid Upper Austria Gmbh
-description: Substations of Netz Oberösterreich Gmbh Power plants of Energie AG Kraftwerke GmbH
+description: Substations of Netz Oberösterreich Gmbh Power plants of Energie AG Kraftwerke
+  GmbH
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a527cac7-7ec3-43e7-94c0-aa6234820011 (data.europa.eu
-      dataset a527cac7-7ec3-43e7-94c0-aa6234820011; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a527cac7-7ec3-43e7-94c0-aa6234820011
+      (data.europa.eu dataset a527cac7-7ec3-43e7-94c0-aa6234820011; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: a527cac7-7ec3-43e7-94c0-aa6234-substations
+assigned_id: dea:data-product-a527cac7-7ec3-43e7-94c0-aa6234-substations-4qk948
+admitted: '2026-11-14'

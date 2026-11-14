@@ -1,0 +1,38 @@
+id: dea:data-product-6244610d-a33c-4a4c-8071-2c6561-wfd-monitori-n39kyq
+type: DataProduct
+name: WFD Monitoring sites (INSPIRE harmonised)
+description: Inspire harmonised dataset of the national monitoring sites file in WFD
+  surface water bodies and WFD groundwater bodies. This file contains all monitoring
+  sites reported to the EU under the Water Framework Directive for both groundwater
+  and surface water. These are monitoring sites that at some point in time are the
+  monitoring sites that have been used for the status determination for the current
+  WFD planning period. A selection of these monitoring sites have been used for the
+  WFD monitoring programme.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6244610d-a33c-4a4c-8071-2c656196a449
+      (data.europa.eu dataset 6244610d-a33c-4a4c-8071-2c656196a449; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

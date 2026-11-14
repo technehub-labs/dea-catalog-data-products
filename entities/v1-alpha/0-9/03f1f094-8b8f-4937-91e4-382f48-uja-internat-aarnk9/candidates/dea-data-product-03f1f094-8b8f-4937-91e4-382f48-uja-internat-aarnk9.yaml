@@ -1,0 +1,35 @@
+id: dea:data-product-03f1f094-8b8f-4937-91e4-382f48-uja-internat-aarnk9
+type: DataProduct
+name: UJA International Mobility INCOMING ay 2023-2024
+description: This dataset provides an overview of the incoming students to the University
+  of Jaén (UJA) within the Erasmus+ KA131 and KA171 funding programmes during the
+  academic year 2023/2024.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/03f1f094-8b8f-4937-91e4-382f487aed1d
+      (data.europa.eu dataset 03f1f094-8b8f-4937-91e4-382f487aed1d; publisher: University
+      of Jaén)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- niversity-of-an

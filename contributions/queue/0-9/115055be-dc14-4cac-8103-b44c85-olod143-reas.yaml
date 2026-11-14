@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 115055be-dc14-4cac-8103-b44c85c0c2e4
-name: OLOD143 - Reasons to do more to protect the environment by principal economic status
+name: OLOD143 - Reasons to do more to protect the environment by principal economic
+  status
 description: Reasons to do more to protect the environment by principal economic status
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/115055be-dc14-4cac-8103-b44c85c0c2e4 (data.europa.eu
-      dataset 115055be-dc14-4cac-8103-b44c85c0c2e4; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/115055be-dc14-4cac-8103-b44c85c0c2e4
+      (data.europa.eu dataset 115055be-dc14-4cac-8103-b44c85c0c2e4; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 115055be-dc14-4cac-8103-b44c85-olod143-reas
+assigned_id: dea:data-product-115055be-dc14-4cac-8103-b44c85-olod143-reas-2f44b9
+admitted: '2026-11-14'

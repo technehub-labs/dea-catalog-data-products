@@ -1,24 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 35007770-bundesamt-fur-statistik-bfs
 name: Regional indicators of the Tourism Satellite Accounts by canton and product
-description: This dataset presents the yearly data on tourism expenditure, tourism-related employment
-  and tourism-connected gross value added (Tourism Satellite Accounts) by canton and product, since 2016.
-  The data for 2020 and 2021 are characterised by the COVID-19 pandemic. The activity of companies operating
-  in sectors related to tourism was often subject to major fluctuations. Especially in cantons with only
-  a small number of companies, the fluctuations of a few companies can have a major impact on the growth
-  rate. Users should therefore consider this aspect when analysing the results in these years. 2016 Corrected
-  figures for tourism expenditure and tourism gross value added.
+description: This dataset presents the yearly data on tourism expenditure, tourism-related
+  employment and tourism-connected gross value added (Tourism Satellite Accounts)
+  by canton and product, since 2016. The data for 2020 and 2021 are characterised
+  by the COVID-19 pandemic. The activity of companies operating in sectors related
+  to tourism was often subject to major fluctuations. Especially in cantons with only
+  a small number of companies, the fluctuations of a few companies can have a major
+  impact on the growth rate. Users should therefore consider this aspect when analysing
+  the results in these years. 2016 Corrected figures for tourism expenditure and tourism
+  gross value added.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/35007770-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 35007770-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/35007770-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 35007770-bundesamt-fur-statistik-bfs; publisher: Office
+      fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ffice-fdral-de-la-st
 slug: 35007770-bundesamt-fur-statist-regional-ind
+assigned_id: dea:data-product-35007770-bundesamt-fur-statist-regional-ind-w7grqm
+admitted: '2026-11-14'

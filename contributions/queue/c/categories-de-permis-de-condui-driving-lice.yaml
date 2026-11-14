@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu categories-de-permis-de-conduire-par-age-et-sexe-2018-2025
 name: Driving licence categories by age and sex 2018-2025
-description: This dataset extracted from the driving licence database shows the age and sex distribution
-  when the main categories (A, B, C and D) of the Luxembourg driving licence were first issued.
+description: This dataset extracted from the driving licence database shows the age
+  and sex distribution when the main categories (A, B, C and D) of the Luxembourg
+  driving licence were first issued.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/categories-de-permis-de-conduire-par-age-et-sexe-2018-2025
-      (data.europa.eu dataset categories-de-permis-de-conduire-par-age-et-sexe-2018-2025; publisher: Société
-      Nationale de Circulation Automobile)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset categories-de-permis-de-conduire-par-age-et-sexe-2018-2025;
+      publisher: Société Nationale de Circulation Automobile)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ocit-ationale-de-irc
 slug: categories-de-permis-de-condui-driving-lice
+assigned_id: dea:data-product-categories-de-permis-de-condui-driving-lice-4gv6je
+admitted: '2026-11-14'

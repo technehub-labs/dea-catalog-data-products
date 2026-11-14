@@ -1,0 +1,56 @@
+id: dea:data-product-77ddd4e8-e557-4d42-9903-b288ca-city-of-hels-vx2ugx
+type: DataProduct
+name: City of Helsinki budget information
+description: 'City of Helsinki''s budget data from 2012. The data is information at
+  the operating plan level. The data includes the city''s operating income and expenses
+  as well as depreciation. The organisational structure of the City of Helsinki changed
+  significantly as of 1 June 2017, and the organisational structure of the central
+  government changed as of 1 June 2018. Due to the change in the financial planning
+  system, the budget data from 2016 onwards are in separate files. Data for 2016 are
+  at agency level only. **The data model for 2012-2015 is as follows:** - Agency +
+  name: Name and number of the Agency - Title + name: Name and number of the department
+  of the Agency - Output unit + name: Name and number of the profit and loss unit
+  - Account group + name: Name and number of the account group - General ledger account
+  + name: Name and number of the ledger account - Performance budget: Performance
+  budget approved by the Board (€) **From 2016 onwards, the data model is as follows:**
+  By profit unit: - Profit and loss unit - Name of the profit and loss unit - General
+  ledger account - Name of the ledger account - EUR - Year By budget line (as of 2024):
+  - Profit and loss unit - Name of the profit and loss unit - General ledger account
+  - Name of the ledger account - EUR By section: - Section - Name of the section -
+  General ledger account - Name of the ledger account - EUR - Year **Information on
+  profit and loss units and profit and loss accounts** Starting from 2023, the finances
+  of the City of Helsinki will be examined in three parts: Helsinki total, Municipality-Helsinki
+  and Social Services, Health Care and Rescue Services (sotepe). - until 2022: [income
+  units](https://www.hel.fi/hel2/datacentre/data/economy/income units_all_new_old_20180507.xlsx)
+  and [income accounts](https://www.hel.fi/hel2/datacentre/data/economy/outcome accounts.xlsx)
+  - in 2023: [income units](https://www.hel.fi/hel2/datacentre/data/economy/outcome
+  units_all_new_old_20230308.xlsx) and [income accounts](https://'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/77ddd4e8-e557-4d42-9903-b288ca753488~~1
+      (data.europa.eu dataset 77ddd4e8-e557-4d42-9903-b288ca753488~~1; publisher:
+      Helsingin kaupunginkanslia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- elsingin-kaupunginka

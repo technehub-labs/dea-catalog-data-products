@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a21f8cd7-8949-4e74-a29b-da4236db84ee
 name: State Agency on Energy Efficiency and Energy Saving of Ukraine
-description: Telephone directory_2025 of the State Agency on Energy Efficiency and Energy Saving of Ukraine
+description: Telephone directory_2025 of the State Agency on Energy Efficiency and
+  Energy Saving of Ukraine
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a21f8cd7-8949-4e74-a29b-da4236db84ee (data.europa.eu
-      dataset a21f8cd7-8949-4e74-a29b-da4236db84ee; publisher: Державне агентство з енергоефективності
-      та енергозбереження України)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a21f8cd7-8949-4e74-a29b-da4236db84ee
+      (data.europa.eu dataset a21f8cd7-8949-4e74-a29b-da4236db84ee; publisher: Державне
+      агентство з енергоефективності та енергозбереження України)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: a21f8cd7-8949-4e74-a29b-da4236-state-agency
+assigned_id: dea:data-product-a21f8cd7-8949-4e74-a29b-da4236-state-agency-3b567x
+admitted: '2026-11-14'

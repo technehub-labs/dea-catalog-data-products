@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c44886fb-f4bf-40a2-aab9-0117c7f41989
 name: Newport (Srahmore) Climate Data
-description: Daily and monthly climatalogical records for our station at Newport (Srahmore) in Co. Mayo.
-  This station is now closed.
+description: Daily and monthly climatalogical records for our station at Newport (Srahmore)
+  in Co. Mayo. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c44886fb-f4bf-40a2-aab9-0117c7f41989 (data.europa.eu
-      dataset c44886fb-f4bf-40a2-aab9-0117c7f41989; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c44886fb-f4bf-40a2-aab9-0117c7f41989
+      (data.europa.eu dataset c44886fb-f4bf-40a2-aab9-0117c7f41989; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: c44886fb-f4bf-40a2-aab9-0117c7-newport-srah
+assigned_id: dea:data-product-c44886fb-f4bf-40a2-aab9-0117c7-newport-srah-s3fz4m
+admitted: '2026-11-14'

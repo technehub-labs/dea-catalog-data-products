@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: This dataset gathers all the data concerning the parking of Versail
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/59ae106db595087a23916973 (data.europa.eu dataset
-      59ae106db595087a23916973; publisher: Communauté d''Agglomeration Versailles Grand Parc)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/59ae106db595087a23916973 (data.europa.eu
+      dataset 59ae106db595087a23916973; publisher: Communauté d''Agglomeration Versailles
+      Grand Parc)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ommunaut-dgglomerati
 slug: 59ae106db595087a23916973-parking-15-m
+assigned_id: dea:data-product-59ae106db595087a23916973-parking-15-m-8cgvrn
+admitted: '2026-11-14'

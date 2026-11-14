@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4828118e-69d0-47e9-8108-16a4ec9b66c3
-name: Estimate of the City Scientific Information and Analytical Center for Medical Statistics
-description: Estimate of the City Scientific Information and Analytical Center for Medical Statistics
-  for 2020
+name: Estimate of the City Scientific Information and Analytical Center for Medical
+  Statistics
+description: Estimate of the City Scientific Information and Analytical Center for
+  Medical Statistics for 2020
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4828118e-69d0-47e9-8108-16a4ec9b66c3 (data.europa.eu
-      dataset 4828118e-69d0-47e9-8108-16a4ec9b66c3; publisher: Міський науковий інформаційно-аналітичний
-      центр медичної статистики)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4828118e-69d0-47e9-8108-16a4ec9b66c3
+      (data.europa.eu dataset 4828118e-69d0-47e9-8108-16a4ec9b66c3; publisher: Міський
+      науковий інформаційно-аналітичний центр медичної статистики)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 4828118e-69d0-47e9-8108-16a4ec-estimate-of
+assigned_id: dea:data-product-4828118e-69d0-47e9-8108-16a4ec-estimate-of-2kqhy5
+admitted: '2026-11-14'

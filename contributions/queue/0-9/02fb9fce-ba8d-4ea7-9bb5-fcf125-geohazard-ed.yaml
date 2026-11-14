@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Locations of the information boards of the Geohazard Education Path
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/02fb9fce-ba8d-4ea7-9bb5-fcf125c69404 (data.europa.eu
-      dataset 02fb9fce-ba8d-4ea7-9bb5-fcf125c69404; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/02fb9fce-ba8d-4ea7-9bb5-fcf125c69404
+      (data.europa.eu dataset 02fb9fce-ba8d-4ea7-9bb5-fcf125c69404; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 02fb9fce-ba8d-4ea7-9bb5-fcf125-geohazard-ed
+assigned_id: dea:data-product-02fb9fce-ba8d-4ea7-9bb5-fcf125-geohazard-ed-pkt93d
+admitted: '2026-11-14'

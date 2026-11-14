@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5597ee25-bbfb-4db3-ba1e-6d85b9aa155f
 name: UDP - Average tourism expenditure
-description: 'This indicator measures the average economic value generated per night spent at the tourist
-  destination, revealing tourism contribution to the economy of the destination country. The average tourism
-  expenditure was adjusted taking into account the living costs of each country (Parity Purchasing Standards,
-  PPS). Higher values indicate higher average tourism expenditure per each night spent. This indicator
-  is part of the socio-economic pillar This indicator is part of the socio-economic pillar of the EU Tourism
-  Dashboard. UNIT OF MEASURE: PPS / nights spent. RESOLUTION: NUTS0. COMPLETENESS: 100% for EU27 (missing
-  CH, IS, NO). METHODOLOGY: The average tourism expenditure was adjusted taking into account the living
-  costs of each country (Parity Purchasing Standards, PPS). DATA SOURCES: ESTAT (tour_dem_extotw).'
+description: 'This indicator measures the average economic value generated per night
+  spent at the tourist destination, revealing tourism contribution to the economy
+  of the destination country. The average tourism expenditure was adjusted taking
+  into account the living costs of each country (Parity Purchasing Standards, PPS).
+  Higher values indicate higher average tourism expenditure per each night spent.
+  This indicator is part of the socio-economic pillar This indicator is part of the
+  socio-economic pillar of the EU Tourism Dashboard. UNIT OF MEASURE: PPS / nights
+  spent. RESOLUTION: NUTS0. COMPLETENESS: 100% for EU27 (missing CH, IS, NO). METHODOLOGY:
+  The average tourism expenditure was adjusted taking into account the living costs
+  of each country (Parity Purchasing Standards, PPS). DATA SOURCES: ESTAT (tour_dem_extotw).'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5597ee25-bbfb-4db3-ba1e-6d85b9aa155f (data.europa.eu
-      dataset 5597ee25-bbfb-4db3-ba1e-6d85b9aa155f; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5597ee25-bbfb-4db3-ba1e-6d85b9aa155f
+      (data.europa.eu dataset 5597ee25-bbfb-4db3-ba1e-6d85b9aa155f; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 5597ee25-bbfb-4db3-ba1e-6d85b9-udp-average
+assigned_id: dea:data-product-5597ee25-bbfb-4db3-ba1e-6d85b9-udp-average-mvmdvq
+admitted: '2026-11-14'

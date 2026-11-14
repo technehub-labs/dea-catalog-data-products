@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_g771-poggio_san_marcello_prg
 name: poggio_san_marcello_prg
-description: poggio_san_marcello_prg — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by COMUNE DI Poggio San Marcello.
+description: poggio_san_marcello_prg — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by COMUNE DI Poggio San Marcello.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_g771-poggio_san_marcello_prg (data.europa.eu dataset
-      c_g771-poggio_san_marcello_prg; publisher: COMUNE DI Poggio San Marcello)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_g771-poggio_san_marcello_prg
+      (data.europa.eu dataset c_g771-poggio_san_marcello_prg; publisher: COMUNE DI
+      Poggio San Marcello)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oggio-an-arcello
 slug: c-g771-poggio-san-marcello-prg-poggio-san-m
+assigned_id: dea:data-product-c-g771-poggio-san-marcello-prg-poggio-san-m-qxpsx9
+admitted: '2026-11-14'

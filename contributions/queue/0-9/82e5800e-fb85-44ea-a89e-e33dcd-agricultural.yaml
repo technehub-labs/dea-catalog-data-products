@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Addresses and relevant data of all agricultural schools in Tyrol
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/82e5800e-fb85-44ea-a89e-e33dcd325681 (data.europa.eu
-      dataset 82e5800e-fb85-44ea-a89e-e33dcd325681; publisher: Land Tirol)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/82e5800e-fb85-44ea-a89e-e33dcd325681
+      (data.europa.eu dataset 82e5800e-fb85-44ea-a89e-e33dcd325681; publisher: Land
+      Tirol)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - and-irol
 slug: 82e5800e-fb85-44ea-a89e-e33dcd-agricultural
+assigned_id: dea:data-product-82e5800e-fb85-44ea-a89e-e33dcd-agricultural-42bub9
+admitted: '2026-11-14'

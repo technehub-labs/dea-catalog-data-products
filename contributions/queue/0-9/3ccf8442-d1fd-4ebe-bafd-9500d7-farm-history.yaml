@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 3ccf8442-d1fd-4ebe-bafd-9500d7c71357~~1
 name: Farm history series
-description: 'Historical census series number of farms in the municipalities of the province of Lucca.
-  Source: ISTAT, Censuses of Agriculture, years 1982, 1990, 2000, 2010.'
+description: 'Historical census series number of farms in the municipalities of the
+  province of Lucca. Source: ISTAT, Censuses of Agriculture, years 1982, 1990, 2000,
+  2010.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/3ccf8442-d1fd-4ebe-bafd-9500d7c71357~~1 (data.europa.eu
-      dataset 3ccf8442-d1fd-4ebe-bafd-9500d7c71357~~1; publisher: Provincia di Lucca)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/3ccf8442-d1fd-4ebe-bafd-9500d7c71357~~1
+      (data.europa.eu dataset 3ccf8442-d1fd-4ebe-bafd-9500d7c71357~~1; publisher:
+      Provincia di Lucca)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - rovincia-di-ucca
 slug: 3ccf8442-d1fd-4ebe-bafd-9500d7-farm-history
+assigned_id: dea:data-product-3ccf8442-d1fd-4ebe-bafd-9500d7-farm-history-e2hxs8
+admitted: '2026-11-14'

@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 553ba0f7-2604-44af-9053-7eca4ff58f32
-name: Financial Plan of the Municipal Non-Profit Enterprise " Dnipro Primary Health Care Center No3" DMR
-description: The set contains the financial plan of the Municipal Non-Profit Enterprise "Dnipro Primary
-  Health Care Center No3" DMR for 2020
+name: Financial Plan of the Municipal Non-Profit Enterprise " Dnipro Primary Health
+  Care Center No3" DMR
+description: The set contains the financial plan of the Municipal Non-Profit Enterprise
+  "Dnipro Primary Health Care Center No3" DMR for 2020
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/553ba0f7-2604-44af-9053-7eca4ff58f32 (data.europa.eu
-      dataset 553ba0f7-2604-44af-9053-7eca4ff58f32; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/553ba0f7-2604-44af-9053-7eca4ff58f32
+      (data.europa.eu dataset 553ba0f7-2604-44af-9053-7eca4ff58f32; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 553ba0f7-2604-44af-9053-7eca4f-financial-pl
+assigned_id: dea:data-product-553ba0f7-2604-44af-9053-7eca4f-financial-pl-v2bt2z
+admitted: '2026-11-14'

@@ -1,0 +1,34 @@
+id: dea:data-product-c59ae72b-a92d-4b15-963d-c83d30-sus18-tertia-uxxv2g
+type: DataProduct
+name: SUS18 - Tertiary of Education Programme
+description: SUS18 - Tertiary of Education Programme — a published dataset in the
+  EU Open Data Portal (data.europa.eu), maintained by Student Universal Support Ireland.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c59ae72b-a92d-4b15-963d-c83d30f34262~~1
+      (data.europa.eu dataset c59ae72b-a92d-4b15-963d-c83d30f34262~~1; publisher:
+      Student Universal Support Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- tudent-niversal-uppo

@@ -1,0 +1,46 @@
+id: dea:data-product-2koz8-curio-canopy-3jfj9g
+type: DataProduct
+name: Curio Canopy - London Tree Canopy Cover
+description: '<dp-prose> <p>A high resolution <a href="https://maps.london.gov.uk/canopy-cover/">map</a>
+  of tree canopy cover for Greater London was produced from aerial imagery using machine
+  learning techniques. The map was produced by <a href="http://www.breadboardlabs.io/">Breadboard
+  Labs</a> in collaboration with the Greater London Authority as part of a Breadboard
+  Lab&rsquo;s European Space Agency funded project, <a href="https://www.curio.xyz/canopy"><strong>Curio
+  Canopy</strong> </a>.</p> <p><br /></p> <p>The algorithms and machine learning based
+  techniques used to produce the canopy map were developed using <a href="https://earthengine.google.com/">Google
+  Earth Engine</a> which was also leveraged to perform the processing needed to create
+  a pan-London high resolution (25 cm per pixel) tree canopy data. Full details of
+  the methodology are documented <a href="https://data.london.gov.uk/download/curio-canopy/3ceac73c-f79f-4f26-ac42-590b78eb2a35/curio-%20tree-canopy-cover-methodology-report-nov-2018.pdf">here</a>.</p>
+  <p><br /></p> <p>Final canopy layers have been made available to download below
+  in a geospatial format (<a href="https://en.wikipedia.org/wiki/Keyhole_Markup_Language">KML</a>).</p>
+  <p><br /></p> <p>The pan-London high resolution canopy layer has also been aggregated
+  to: hexagon grid, Lower Super Output Area (LSOA), Ward (2014) and London Borough
+  geographies.</p> </dp-prose>'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2koz8 (data.europa.eu dataset
+      2koz8; publisher: Curio (Breadboard Labs Limited))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- urio-readboard-abs-i

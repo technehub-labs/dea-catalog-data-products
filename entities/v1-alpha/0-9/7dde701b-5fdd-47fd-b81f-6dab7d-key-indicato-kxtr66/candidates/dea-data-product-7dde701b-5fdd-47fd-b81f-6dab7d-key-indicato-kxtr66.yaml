@@ -1,0 +1,41 @@
+id: dea:data-product-7dde701b-5fdd-47fd-b81f-6dab7d-key-indicato-kxtr66
+type: DataProduct
+name: Key Indicator Moving-Friendly Environment
+description: On the map you can see how much the living environment contributes to
+  sports and exercise. The higher the score on a scale from 0 to 100, the more the
+  environment is equipped to exercise and move. The scores are calculated per municipality
+  and per neighborhood. The average score for the Netherlands is 64. People move in
+  their free time, for example when they exercise or walk around. They also move when
+  they have to go somewhere, for example when they cycle to work or walk to the supermarket.
+  The Core Indicator Moving-Friendly Environment takes both forms of movement into
+  account. The score is calculated with a model. The model uses public data, such
+  as the presence of sports facilities, sports and play areas, distance from facilities
+  and the amount of recreational green and blue.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/7dde701b-5fdd-47fd-b81f-6dab7d156fce
+      (data.europa.eu dataset 7dde701b-5fdd-47fd-b81f-6dab7d156fce; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

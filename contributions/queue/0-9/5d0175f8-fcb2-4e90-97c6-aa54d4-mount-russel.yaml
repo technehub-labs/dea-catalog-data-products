@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5d0175f8-fcb2-4e90-97c6-aa54d4ab901b-1
 name: Mount Russell Climate Data
-description: Daily and monthly climatalogical records for our station at Mount Russell in Co. Limerick.
+description: Daily and monthly climatalogical records for our station at Mount Russell
+  in Co. Limerick.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5d0175f8-fcb2-4e90-97c6-aa54d4ab901b-1 (data.europa.eu
-      dataset 5d0175f8-fcb2-4e90-97c6-aa54d4ab901b-1; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5d0175f8-fcb2-4e90-97c6-aa54d4ab901b-1
+      (data.europa.eu dataset 5d0175f8-fcb2-4e90-97c6-aa54d4ab901b-1; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 5d0175f8-fcb2-4e90-97c6-aa54d4-mount-russel
+assigned_id: dea:data-product-5d0175f8-fcb2-4e90-97c6-aa54d4-mount-russel-rwvgf3
+admitted: '2026-11-14'

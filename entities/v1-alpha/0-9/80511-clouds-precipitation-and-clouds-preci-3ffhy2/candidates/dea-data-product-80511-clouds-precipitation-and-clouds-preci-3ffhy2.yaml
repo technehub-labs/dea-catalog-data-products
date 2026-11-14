@@ -1,0 +1,39 @@
+id: dea:data-product-80511-clouds-precipitation-and-clouds-preci-3ffhy2
+type: DataProduct
+name: Clouds, precipitation and radiation - MSG-CPP products
+description: The Cloud Physical Properties (CPP) algorithm is being developed at KNMI
+  to derive cloud, precipitation and radiation products from satellite instruments
+  such as SEVIRI onboard the Meteosat Second Generation (MSG) satellite. The CPP algorithm
+  development is largely done inside EUMETSAT's Satellite Application Facility on
+  Climate Monitoring (CM SAF), but also in other research projects. The CPP cloud
+  top height is derived from the Nowcasting SAF (NWC SAF) cloud top temperature and
+  height (CTTH) product.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/80511-clouds-precipitation-and-radiation-msg-cpp-products
+      (data.europa.eu dataset 80511-clouds-precipitation-and-radiation-msg-cpp-products;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

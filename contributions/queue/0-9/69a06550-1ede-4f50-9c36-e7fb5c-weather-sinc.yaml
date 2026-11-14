@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 69a06550-1ede-4f50-9c36-e7fb5cf6e7e8
 name: Weather since 1872 Hohe Warte Vienna
-description: 'Monthly weather data of the measuring station Hohe Warte on air temperature, air pressure,
-  cloudiness, wind speed and precipitation since April 1872 - Vienna Information on the methodological
-  basis: <ahref="https://www.wien.gv.at/statistics/weather/#erlaeuterungen">https://www.wien.gv.at/statistics/weather/#erlaeuterungen</a>
+description: 'Monthly weather data of the measuring station Hohe Warte on air temperature,
+  air pressure, cloudiness, wind speed and precipitation since April 1872 - Vienna
+  Information on the methodological basis: <ahref="https://www.wien.gv.at/statistics/weather/#erlaeuterungen">https://www.wien.gv.at/statistics/weather/#erlaeuterungen</a>
   <ahref="https://www.wien.gv.at/statistics/weather/#definitions">https://www.wien.gv.at/statistics/weather/#definitions</a>'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/69a06550-1ede-4f50-9c36-e7fb5cf6e7e8 (data.europa.eu
-      dataset 69a06550-1ede-4f50-9c36-e7fb5cf6e7e8; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/69a06550-1ede-4f50-9c36-e7fb5cf6e7e8
+      (data.europa.eu dataset 69a06550-1ede-4f50-9c36-e7fb5cf6e7e8; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 69a06550-1ede-4f50-9c36-e7fb5c-weather-sinc
+assigned_id: dea:data-product-69a06550-1ede-4f50-9c36-e7fb5c-weather-sinc-smhc9j
+admitted: '2026-11-14'

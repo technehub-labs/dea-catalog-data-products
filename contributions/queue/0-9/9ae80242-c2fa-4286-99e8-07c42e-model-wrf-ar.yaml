@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 9ae80242-c2fa-4286-99e8-07c42e0cdc83
-name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) - (2025-09-27 hours 00
-  UTC).
-description: Available Convective Potential Energy (CAPE) (J/Kg). Run 2025-09-27 00 UTC - Valid from 00
-  UTC 2025-09-27 to 00 UTC 2025-09-30. Weather Research and Forecasting model (WRF), ARW core (version
-  3.2) with 3km spatial resolution, 60-hour time resolution, 1-hour interval.
+name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) -
+  (2025-09-27 hours 00 UTC).
+description: Available Convective Potential Energy (CAPE) (J/Kg). Run 2025-09-27 00
+  UTC - Valid from 00 UTC 2025-09-27 to 00 UTC 2025-09-30. Weather Research and Forecasting
+  model (WRF), ARW core (version 3.2) with 3km spatial resolution, 60-hour time resolution,
+  1-hour interval.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/9ae80242-c2fa-4286-99e8-07c42e0cdc83 (data.europa.eu
-      dataset 9ae80242-c2fa-4286-99e8-07c42e0cdc83; publisher: Lamma Toscana)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/9ae80242-c2fa-4286-99e8-07c42e0cdc83
+      (data.europa.eu dataset 9ae80242-c2fa-4286-99e8-07c42e0cdc83; publisher: Lamma
+      Toscana)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - amma-oscana
 slug: 9ae80242-c2fa-4286-99e8-07c42e-model-wrf-ar
+assigned_id: dea:data-product-9ae80242-c2fa-4286-99e8-07c42e-model-wrf-ar-fvn988
+admitted: '2026-11-14'

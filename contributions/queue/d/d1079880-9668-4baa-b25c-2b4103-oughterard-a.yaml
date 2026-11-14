@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d1079880-9668-4baa-b25c-2b4103f99c95
 name: Oughterard (Ardnasillagh) Climate Data
-description: Daily and monthly climatalogical records for our station at Oughterard (Ardnasillagh) in
-  Co. Galway. This station is now closed.
+description: Daily and monthly climatalogical records for our station at Oughterard
+  (Ardnasillagh) in Co. Galway. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/d1079880-9668-4baa-b25c-2b4103f99c95 (data.europa.eu
-      dataset d1079880-9668-4baa-b25c-2b4103f99c95; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/d1079880-9668-4baa-b25c-2b4103f99c95
+      (data.europa.eu dataset d1079880-9668-4baa-b25c-2b4103f99c95; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: d1079880-9668-4baa-b25c-2b4103-oughterard-a
+assigned_id: dea:data-product-d1079880-9668-4baa-b25c-2b4103-oughterard-a-384qam
+admitted: '2026-11-14'

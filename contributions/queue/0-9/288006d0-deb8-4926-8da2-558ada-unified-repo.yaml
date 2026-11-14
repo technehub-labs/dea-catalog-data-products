@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 288006d0-deb8-4926-8da2-558ada2d3a84
 name: Unified Report on Criminal Offences (ARCHIVE)
-description: The dataset contains the form № 1 (monthly) approved (ARCHIVE) the Order of the Prosecutor
-  General from June 30, 2020 №299 In agreement with the State Statistics Service
+description: The dataset contains the form № 1 (monthly) approved (ARCHIVE) the Order
+  of the Prosecutor General from June 30, 2020 №299 In agreement with the State Statistics
+  Service
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/288006d0-deb8-4926-8da2-558ada2d3a84 (data.europa.eu
-      dataset 288006d0-deb8-4926-8da2-558ada2d3a84; publisher: Офіс Генерального прокурора)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/288006d0-deb8-4926-8da2-558ada2d3a84
+      (data.europa.eu dataset 288006d0-deb8-4926-8da2-558ada2d3a84; publisher: Офіс
+      Генерального прокурора)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 288006d0-deb8-4926-8da2-558ada-unified-repo
+assigned_id: dea:data-product-288006d0-deb8-4926-8da2-558ada-unified-repo-9w22fv
+admitted: '2026-11-14'

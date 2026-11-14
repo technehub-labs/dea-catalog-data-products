@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 59aea7b8b595087a249169cb~~1
-name: List of tourist, cultural and sports visits offered by the Nice Côte d’Azur Metropolitan Tourist
-  Office
-description: Here you will find geolocated tours recommended by the Nice Côte d’Azur Metropolitan Tourism
-  Office (OTM).
+name: List of tourist, cultural and sports visits offered by the Nice Côte d’Azur
+  Metropolitan Tourist Office
+description: Here you will find geolocated tours recommended by the Nice Côte d’Azur
+  Metropolitan Tourism Office (OTM).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/59aea7b8b595087a249169cb~~1 (data.europa.eu dataset
-      59aea7b8b595087a249169cb~~1; publisher: Métropole Nice Côte d''Azur)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/59aea7b8b595087a249169cb~~1 (data.europa.eu
+      dataset 59aea7b8b595087a249169cb~~1; publisher: Métropole Nice Côte d''Azur)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tropole-ice-te-dzur
 slug: 59aea7b8b595087a249169cb-1-list-of-tour
+assigned_id: dea:data-product-59aea7b8b595087a249169cb-1-list-of-tour-cscspc
+admitted: '2026-11-14'

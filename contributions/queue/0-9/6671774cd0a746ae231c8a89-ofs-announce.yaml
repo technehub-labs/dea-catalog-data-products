@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6671774cd0a746ae231c8a89
 name: OFS - Announcements of mutation
-description: 'Changes in Swiss municipalities that have been historicised, starting from: https://www.agvchapp.bfs.admin.ch/en/mutations/query'
+description: 'Changes in Swiss municipalities that have been historicised, starting
+  from: https://www.agvchapp.bfs.admin.ch/en/mutations/query'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6671774cd0a746ae231c8a89 (data.europa.eu dataset
-      6671774cd0a746ae231c8a89; publisher: Mobility)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6671774cd0a746ae231c8a89 (data.europa.eu
+      dataset 6671774cd0a746ae231c8a89; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - obility
 slug: 6671774cd0a746ae231c8a89-ofs-announce
+assigned_id: dea:data-product-6671774cd0a746ae231c8a89-ofs-announce-9zx7tp
+admitted: '2026-11-14'

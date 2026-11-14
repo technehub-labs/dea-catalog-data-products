@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 85c630a5-83d6-4bac-85da-676703ec5bf6~~1
 name: Guidekarta över Grankulla stad
-description: 'The guide map of Kauniainen is a dataset with a generalised position accuracy, which is
-  made to give a wide overview of the entire city and to guide the user to a specific address. The optimum
-  operating scale is 1:20,000. The guide map has been stripped of details, emphasising the importance
-  of the street network, names and addresses. The width of a street depicted on the map does not match
-  the real width of the street. The map covers the area of Kauniainen. A colour guide map is available
-  through the interface. **API addresses:** - WMS API: [https://kartat.kauniainen.fi/teklaogcweb/wms.ashx](https://kartat.kauniainen.fi/teklaogcweb/wms.ashx?request=getCapabilities)
+description: 'The guide map of Kauniainen is a dataset with a generalised position
+  accuracy, which is made to give a wide overview of the entire city and to guide
+  the user to a specific address. The optimum operating scale is 1:20,000. The guide
+  map has been stripped of details, emphasising the importance of the street network,
+  names and addresses. The width of a street depicted on the map does not match the
+  real width of the street. The map covers the area of Kauniainen. A colour guide
+  map is available through the interface. **API addresses:** - WMS API: [https://kartat.kauniainen.fi/teklaogcweb/wms.ashx](https://kartat.kauniainen.fi/teklaogcweb/wms.ashx?request=getCapabilities)
   **Layers:** - Guide map of Kauniainen'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/85c630a5-83d6-4bac-85da-676703ec5bf6~~1 (data.europa.eu
-      dataset 85c630a5-83d6-4bac-85da-676703ec5bf6~~1; publisher: Kauniaisten kaupungin yhdyskuntatoimi)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/85c630a5-83d6-4bac-85da-676703ec5bf6~~1
+      (data.europa.eu dataset 85c630a5-83d6-4bac-85da-676703ec5bf6~~1; publisher:
+      Kauniaisten kaupungin yhdyskuntatoimi)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - auniaisten-kaupungin
 slug: 85c630a5-83d6-4bac-85da-676703-guidekarta-v
+assigned_id: dea:data-product-85c630a5-83d6-4bac-85da-676703-guidekarta-v-aqsuym
+admitted: '2026-11-14'

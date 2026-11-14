@@ -1,0 +1,31 @@
+# Services producer price index (SPPI); index 2015=100, 2002-2023
+
+> This table shows the price indices, quarterly and yearly changes in prices of services that companies provide. The figures are broken down by type of services according to the Classification of Products by Activity (CPA 2008). For some services, a further breakdown has been made on the basis of market data that differs from the CPA. This breakdown is simply with a letter after the CPA code. The base year for all Services producer price indices is 2015. The year average, quarterly and yearly changes are calculated with unrounded figures. Data available from: 4th quarter 2002 up to and including 2023. Status of the figures: The figures in this table are final. Changes as of May 17 2024: None, this table is stopped. When will new figures be published? Not applicable anymore. This table was discontinued on May 17, 2024 and continued as Services producer price index (SPPI); index 2021=100. See paragraph 3. The Services producer price indices publication schedule can be downloaded as an Excel file under section: 3 Relevant articles. More information about the pricing method can be found in the video under section: 3 Relevant articles.
+
+## Identity
+
+- **Record id**: `dea:data-product-4209-services-producer-price-i-services-pro-w9yy4j`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/4209-services-producer-price-index-sppi-index-2015-100 (data.europa.eu dataset 4209-services-producer-price-index-sppi-index-2015-100; publisher: n/a)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

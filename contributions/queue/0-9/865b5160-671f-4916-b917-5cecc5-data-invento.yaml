@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 865b5160-671f-4916-b917-5cecc5cc9a01
 name: Data inventory of the Ministry of Agriculture and Rural Development
-description: The dataset contains the data inventory of the Ministry of Agriculture and Rural Development
-  of the Slovak Republic and legal entities under its responsibility. The data inventory was created and
-  published on the basis of the fulfilment of task B.18 of Slovak Government Resolution No 346 of 24 July
-  2017.
+description: The dataset contains the data inventory of the Ministry of Agriculture
+  and Rural Development of the Slovak Republic and legal entities under its responsibility.
+  The data inventory was created and published on the basis of the fulfilment of task
+  B.18 of Slovak Government Resolution No 346 of 24 July 2017.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/865b5160-671f-4916-b917-5cecc5cc9a01 (data.europa.eu
-      dataset 865b5160-671f-4916-b917-5cecc5cc9a01; publisher: Ministerstvo pôdohospodárstva a rozvoja
-      vidieka SR)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/865b5160-671f-4916-b917-5cecc5cc9a01
+      (data.europa.eu dataset 865b5160-671f-4916-b917-5cecc5cc9a01; publisher: Ministerstvo
+      pôdohospodárstva a rozvoja vidieka SR)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterstvo-pdohospo
 slug: 865b5160-671f-4916-b917-5cecc5-data-invento
+assigned_id: dea:data-product-865b5160-671f-4916-b917-5cecc5-data-invento-vxhgcd
+admitted: '2026-11-14'

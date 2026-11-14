@@ -1,0 +1,34 @@
+id: dea:data-product-67bc39abbbf682847751fd88-accounting-f-f2cjrq
+type: DataProduct
+name: Accounting, financial and employment characteristics of enterprises in 2022
+description: The publication "Main characteristics at group level according to the
+  category of company in 2022" summarises the key indicators (number of groups, turnover,
+  workforce) of French companies, broken down by category.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/67bc39abbbf682847751fd88 (data.europa.eu
+      dataset 67bc39abbbf682847751fd88; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- obility

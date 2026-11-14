@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu aae44e3f-0c72-4cec-8fc1-8ac53380b14a
-name: Annual consolidated key financial indicators for the implementation of the financial plans of the
-  Municipal Enterprise "Health and Rest" of the Dnipro City Council
-description: Annual consolidated key financial indicators for the implementation of financial plans of
-  enterprises of the state and municipal sectors of the economy KP "Health and Rest"
+name: Annual consolidated key financial indicators for the implementation of the financial
+  plans of the Municipal Enterprise "Health and Rest" of the Dnipro City Council
+description: Annual consolidated key financial indicators for the implementation of
+  financial plans of enterprises of the state and municipal sectors of the economy
+  KP "Health and Rest"
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/aae44e3f-0c72-4cec-8fc1-8ac53380b14a (data.europa.eu
-      dataset aae44e3f-0c72-4cec-8fc1-8ac53380b14a; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/aae44e3f-0c72-4cec-8fc1-8ac53380b14a
+      (data.europa.eu dataset aae44e3f-0c72-4cec-8fc1-8ac53380b14a; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: aae44e3f-0c72-4cec-8fc1-8ac533-annual-conso
+assigned_id: dea:data-product-aae44e3f-0c72-4cec-8fc1-8ac533-annual-conso-rcqzzz
+admitted: '2026-11-14'

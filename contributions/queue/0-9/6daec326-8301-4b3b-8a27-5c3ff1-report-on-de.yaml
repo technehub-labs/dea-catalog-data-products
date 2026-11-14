@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6daec326-8301-4b3b-8a27-5c3ff14ff1f5
-name: Report on debt on budget funds of the Department of Economy and Property of the Dubno City Council
-  - 7610
-description: Report on the debt on budget funds of the Department of Economy and Property of the Dubno
-  City Council (07610 - Promoting the development of small and medium-sized enterprises)
+name: Report on debt on budget funds of the Department of Economy and Property of
+  the Dubno City Council - 7610
+description: Report on the debt on budget funds of the Department of Economy and Property
+  of the Dubno City Council (07610 - Promoting the development of small and medium-sized
+  enterprises)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6daec326-8301-4b3b-8a27-5c3ff14ff1f5 (data.europa.eu
-      dataset 6daec326-8301-4b3b-8a27-5c3ff14ff1f5; publisher: Дубенська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6daec326-8301-4b3b-8a27-5c3ff14ff1f5
+      (data.europa.eu dataset 6daec326-8301-4b3b-8a27-5c3ff14ff1f5; publisher: Дубенська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 6daec326-8301-4b3b-8a27-5c3ff1-report-on-de
+assigned_id: dea:data-product-6daec326-8301-4b3b-8a27-5c3ff1-report-on-de-4h6657
+admitted: '2026-11-14'

@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 36210416-bundesamt-fur-statistik-bfs
 name: Production value of organic and conventional agriculture
-description: Production value of organic and conventional agriculture — a published dataset in the EU
-  Open Data Portal (data.europa.eu), maintained by Bundesamt für Statistik.
+description: Production value of organic and conventional agriculture — a published
+  dataset in the EU Open Data Portal (data.europa.eu), maintained by Bundesamt für
+  Statistik.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/36210416-bundesamt-fur-statistik-bfs (data.europa.eu
-      dataset 36210416-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/36210416-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 36210416-bundesamt-fur-statistik-bfs; publisher: Bundesamt
+      für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - undesamt-fr-tatistik
 slug: 36210416-bundesamt-fur-statist-production-v
+assigned_id: dea:data-product-36210416-bundesamt-fur-statist-production-v-yfwpnc
+admitted: '2026-11-14'

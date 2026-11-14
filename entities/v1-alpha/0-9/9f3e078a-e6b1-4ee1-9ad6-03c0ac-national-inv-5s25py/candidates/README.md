@@ -1,0 +1,31 @@
+# National Inventory of Architectural Heritage (NIAH) National Thatch Census
+
+> The National Thatch Census was undertaken by the National Inventory of Architectural Heritage (NIAH) between November 2022 and May 2023 to identify surviving thatched structures in the Republic of Ireland. This rapid field survey aimed to establish a baseline record to support heritage management, conservation policy and future research. For each structure identified, the survey recorded its geographic location using coordinate data and county. Buildings were photographed externally to provide a visual record of their condition and appearance at the time of survey. The building type was also recorded. Data Contents Reg no : Unique structure identifier/reference number; Type: Building typology; County: The county in the Republic of Ireland the record is located in; ITM_E: Easting (X) Irish Transverse Mercator (ITM)coordinates; ITM_N: Northing (Y) Irish Transverse Mercator (ITM)coordinates; Image_Link: Photographic record where available /Associated image URL Data Collection Method Field survey undertaken by NIAH staff and contractors, involving site visits, location verification, photograph and classification of building type. Reference Number Convention In some cases, a structure’s registration number is followed by a letter suffix (b, c, d). These suffixes indicate a secondary structure associated with the principal thatched building, such as an outbuilding, store, shed or other ancillary structure recorded during the survey. For example, in County Donegal, DG01002 identifies a thatched house, while DG01002b identifies an associated thatched outbuilding recorded at the same location. Similarly, CL02009 is recorded as a house, while CL02009b and CL02009c are associated outbuildings.
+
+## Identity
+
+- **Record id**: `dea:data-product-9f3e078a-e6b1-4ee1-9ad6-03c0ac-national-inv-5s25py`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/9f3e078a-e6b1-4ee1-9ad6-03c0acb8e59e (data.europa.eu dataset 9f3e078a-e6b1-4ee1-9ad6-03c0acb8e59e; publisher: Department of Housing, Local Government and Heritage)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

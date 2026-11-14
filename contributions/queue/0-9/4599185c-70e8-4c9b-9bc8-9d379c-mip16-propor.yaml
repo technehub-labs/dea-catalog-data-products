@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Proportion of Life Expectancy in poor health
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/4599185c-70e8-4c9b-9bc8-9d379c2a6eaa~~1 (data.europa.eu
-      dataset 4599185c-70e8-4c9b-9bc8-9d379c2a6eaa~~1; publisher: Eurostat)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/4599185c-70e8-4c9b-9bc8-9d379c2a6eaa~~1
+      (data.europa.eu dataset 4599185c-70e8-4c9b-9bc8-9d379c2a6eaa~~1; publisher:
+      Eurostat)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - urostat
 slug: 4599185c-70e8-4c9b-9bc8-9d379c-mip16-propor
+assigned_id: dea:data-product-4599185c-70e8-4c9b-9bc8-9d379c-mip16-propor-ryzgz9
+admitted: '2026-11-14'

@@ -1,0 +1,40 @@
+id: dea:data-product-d00c42c7-7deb-4221-9401-b5413b-sustainable-td6bdk
+type: DataProduct
+name: Sustainable Development Indicators for DCC
+description: Sustainable Indicators The Sustainability Indicators Report brings together
+  international, national and local indicators to measure the Dublin Regions progress
+  towards environmental, economic and social sustainability. Key metrics include 30
+  headline indicators spread over 10 themes to build up an evidence base for Dublin
+  and benchmark internationally. Indicators are generally covering the calender year
+  2011, but may have slightly different timeframes as noted in the Appendix report.
+  Full report available here http://www.dublincity.ie/WaterWasteEnvironment/Sustainability/Documents/SIR2012.pdf
+  Further information at http://www.creativedublinalliance.ie/projects/'sustainability-report/
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/d00c42c7-7deb-4221-9401-b5413b92df78
+      (data.europa.eu dataset d00c42c7-7deb-4221-9401-b5413b92df78; publisher: Dublin
+      City Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- ublin-ity-ouncil

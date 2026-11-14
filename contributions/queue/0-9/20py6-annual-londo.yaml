@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 20py6
 name: Annual London Education Report 2017 Data
-description: <dp-prose> <p>This document is a collection of raw data used in the Mayor&rsquo;s Annual
-  London Education Report 2017.</p> </dp-prose>
+description: <dp-prose> <p>This document is a collection of raw data used in the Mayor&rsquo;s
+  Annual London Education Report 2017.</p> </dp-prose>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/20py6 (data.europa.eu dataset 20py6; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/20py6 (data.europa.eu dataset
+      20py6; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 20py6-annual-londo
+assigned_id: dea:data-product-20py6-annual-londo-x8zwbn
+admitted: '2026-11-14'

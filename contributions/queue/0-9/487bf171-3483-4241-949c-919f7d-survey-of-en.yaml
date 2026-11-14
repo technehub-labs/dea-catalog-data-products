@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 487bf171-3483-4241-949c-919f7d989891
-name: Survey of enterprises on labor statistics (official state statistical information distributed in
-  accordance with the plan of state statistical observations)
-description: The set contains official state statistical information on the average monthly nominal wages
-  of full-time employees by type of economic activity in the Odessa region (on average per one full-time
-  employee).
+name: Survey of enterprises on labor statistics (official state statistical information
+  distributed in accordance with the plan of state statistical observations)
+description: The set contains official state statistical information on the average
+  monthly nominal wages of full-time employees by type of economic activity in the
+  Odessa region (on average per one full-time employee).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/487bf171-3483-4241-949c-919f7d989891 (data.europa.eu
-      dataset 487bf171-3483-4241-949c-919f7d989891; publisher: Головне управління статистики в Одеській
-      області)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/487bf171-3483-4241-949c-919f7d989891
+      (data.europa.eu dataset 487bf171-3483-4241-949c-919f7d989891; publisher: Головне
+      управління статистики в Одеській області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 487bf171-3483-4241-949c-919f7d-survey-of-en
+assigned_id: dea:data-product-487bf171-3483-4241-949c-919f7d-survey-of-en-pwn4pb
+admitted: '2026-11-14'

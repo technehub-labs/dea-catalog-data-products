@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 80814-bezorgdheid-over-woonomgeving
 name: Concerns about the residential environment
-description: 'This table provides figures on safety of situations in the residential environment and conditions
-  in the residential environment that can have harmful effects on health. This is the proportion of people
-  aged 16 or over who are seriously concerned about different situations in the previous 12 months. The
-  figures are based on the Research Experience Living Environment (OBW). CBS conducts this research in
-  collaboration with the National Institute for Public Health and the Environment (RIVM). Data available
-  from: 2019 Status of figures: The figures in this table are final. Changes as of 14 August 2026: None,
-  this is a new table. When will there be new figures? New data are published annually around November
-  1st.'
+description: 'This table provides figures on safety of situations in the residential
+  environment and conditions in the residential environment that can have harmful
+  effects on health. This is the proportion of people aged 16 or over who are seriously
+  concerned about different situations in the previous 12 months. The figures are
+  based on the Research Experience Living Environment (OBW). CBS conducts this research
+  in collaboration with the National Institute for Public Health and the Environment
+  (RIVM). Data available from: 2019 Status of figures: The figures in this table are
+  final. Changes as of 14 August 2026: None, this is a new table. When will there
+  be new figures? New data are published annually around November 1st.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/80814-bezorgdheid-over-woonomgeving (data.europa.eu
-      dataset 80814-bezorgdheid-over-woonomgeving; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/80814-bezorgdheid-over-woonomgeving
+      (data.europa.eu dataset 80814-bezorgdheid-over-woonomgeving; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 80814-bezorgdheid-over-woonomg-concerns-abo
+assigned_id: dea:data-product-80814-bezorgdheid-over-woonomg-concerns-abo-8aztpz
+admitted: '2026-11-14'

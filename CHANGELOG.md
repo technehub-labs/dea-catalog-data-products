@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### DPO-CAT-04: DataProduct Candidate Admission Batch 01
+
+Admitted 1400 new `DataProduct` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1400, canonical unchanged; queue entries flipped to `admitted`.
+
 ### DPO-CAT-03: DataProduct Candidate Corpus
 
 2557 DataProduct candidate submissions landed in the contribution queue (sharded, gate-CONFORMANT) from 1 evidence bank(s); published prose + evidence citations + source_refs; provenance in ingestion/manifest.yaml. No catalog entities change; admission follows in DPO-CAT-04+.

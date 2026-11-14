@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 1671-tijdreeksen-investeringen-nijverheid
 name: Industrial investment time series
-description: 'Investments in fixed assets, environment - investments. 1949 - 1997 Amended on 19 December
-  2001. Appearance frequency: Stopped.'
+description: 'Investments in fixed assets, environment - investments. 1949 - 1997
+  Amended on 19 December 2001. Appearance frequency: Stopped.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/1671-tijdreeksen-investeringen-nijverheid (data.europa.eu
-      dataset 1671-tijdreeksen-investeringen-nijverheid; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/1671-tijdreeksen-investeringen-nijverheid
+      (data.europa.eu dataset 1671-tijdreeksen-investeringen-nijverheid; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 1671-tijdreeksen-investeringen-industrial-i
+assigned_id: dea:data-product-1671-tijdreeksen-investeringen-industrial-i-z2rsq6
+admitted: '2026-11-14'

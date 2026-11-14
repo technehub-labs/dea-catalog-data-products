@@ -1,28 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5e3959c3-ff52-42e3-8a08-949a20ccf1bb
 name: UDP - Dependence on top3 countries of origin
-description: 'This indicator measures the dependence on specific international markets, revealing exposure
-  to risks related to specific international travel restrictions and other demand shocks. Lower values
-  indicate lower dependence from the three top countries of origin and, therefore, signalling a potentially
-  lower susceptibility to shocks. This indicator is part of the socio-economic composite index of the
-  EU Tourism Dashboard. UNIT OF MEASURE: %. RESOLUTION: NUTS0. COMPLETENESS: 100%. METHODOLOGY: This indicator
-  measures the dependence on specific international markets, revealing exposure to risks related to specific
-  international travel restrictions and other demand shocks. It is calculated as the share of the nights
-  spent from the top three countries of origin for each destination country in relation to the total nights
-  spent in the destination country. The top 3 origins are specific to each destination country. Lower
-  values indicate lower dependence on the three top countries of origin and, therefore, signalling high
-  market diversification and thus a potentially lower susceptibility to shocks. DATA SOURCES: ESTAT (tour_occ_ninraw).'
+description: 'This indicator measures the dependence on specific international markets,
+  revealing exposure to risks related to specific international travel restrictions
+  and other demand shocks. Lower values indicate lower dependence from the three top
+  countries of origin and, therefore, signalling a potentially lower susceptibility
+  to shocks. This indicator is part of the socio-economic composite index of the EU
+  Tourism Dashboard. UNIT OF MEASURE: %. RESOLUTION: NUTS0. COMPLETENESS: 100%. METHODOLOGY:
+  This indicator measures the dependence on specific international markets, revealing
+  exposure to risks related to specific international travel restrictions and other
+  demand shocks. It is calculated as the share of the nights spent from the top three
+  countries of origin for each destination country in relation to the total nights
+  spent in the destination country. The top 3 origins are specific to each destination
+  country. Lower values indicate lower dependence on the three top countries of origin
+  and, therefore, signalling high market diversification and thus a potentially lower
+  susceptibility to shocks. DATA SOURCES: ESTAT (tour_occ_ninraw).'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5e3959c3-ff52-42e3-8a08-949a20ccf1bb (data.europa.eu
-      dataset 5e3959c3-ff52-42e3-8a08-949a20ccf1bb; publisher: Joint Research Centre)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5e3959c3-ff52-42e3-8a08-949a20ccf1bb
+      (data.europa.eu dataset 5e3959c3-ff52-42e3-8a08-949a20ccf1bb; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oint-esearch-entre
 slug: 5e3959c3-ff52-42e3-8a08-949a20-udp-dependen
+assigned_id: dea:data-product-5e3959c3-ff52-42e3-8a08-949a20-udp-dependen-jmjgut
+admitted: '2026-11-14'

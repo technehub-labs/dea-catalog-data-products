@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 6da71cad-ad9d-47e0-b77c-930bc913b1e2
 name: Aasleagh Lodge Climate Data
-description: Daily and monthly climatalogical records for our station at Aasleagh Lodge in Co. Mayo. This
-  station is now closed.
+description: Daily and monthly climatalogical records for our station at Aasleagh
+  Lodge in Co. Mayo. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6da71cad-ad9d-47e0-b77c-930bc913b1e2 (data.europa.eu
-      dataset 6da71cad-ad9d-47e0-b77c-930bc913b1e2; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6da71cad-ad9d-47e0-b77c-930bc913b1e2
+      (data.europa.eu dataset 6da71cad-ad9d-47e0-b77c-930bc913b1e2; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 6da71cad-ad9d-47e0-b77c-930bc9-aasleagh-lod
+assigned_id: dea:data-product-6da71cad-ad9d-47e0-b77c-930bc9-aasleagh-lod-xkga6e
+admitted: '2026-11-14'

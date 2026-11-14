@@ -1,17 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 16ca2c0f-ed6c-4912-819b-63fef3cc2f23
-name: Information on the organizational structure of ME "Dnipro Electric Transport" DMR
-description: Information on the organizational structure of ME "Dnipro Electric Transport" DMR
+name: Information on the organizational structure of ME "Dnipro Electric Transport"
+  DMR
+description: Information on the organizational structure of ME "Dnipro Electric Transport"
+  DMR
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/16ca2c0f-ed6c-4912-819b-63fef3cc2f23 (data.europa.eu
-      dataset 16ca2c0f-ed6c-4912-819b-63fef3cc2f23; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/16ca2c0f-ed6c-4912-819b-63fef3cc2f23
+      (data.europa.eu dataset 16ca2c0f-ed6c-4912-819b-63fef3cc2f23; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 16ca2c0f-ed6c-4912-819b-63fef3-information
+assigned_id: dea:data-product-16ca2c0f-ed6c-4912-819b-63fef3-information-uupf5h
+admitted: '2026-11-14'

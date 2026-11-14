@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu battery-approved-exporters-industrial-and-automotive1
 name: Battery Approved Exporters - Industrial and Automotive
-description: 'This record is for Approval for Access product AfA337. These data contain details of Treatment
-  Operators / Exporters Approved for Industrial and Automotive/ Portable batteries, under the Producer
-  Responsibility Regulations for Batteries 2009. Attribution statement: © Environment Agency copyright
-  and/or database right 2019. All rights reserved.'
+description: 'This record is for Approval for Access product AfA337. These data contain
+  details of Treatment Operators / Exporters Approved for Industrial and Automotive/
+  Portable batteries, under the Producer Responsibility Regulations for Batteries
+  2009. Attribution statement: © Environment Agency copyright and/or database right
+  2019. All rights reserved.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/battery-approved-exporters-industrial-and-automotive1
-      (data.europa.eu dataset battery-approved-exporters-industrial-and-automotive1; publisher: Environment
-      Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset battery-approved-exporters-industrial-and-automotive1;
+      publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: battery-approved-exporters-ind-battery-appr
+assigned_id: dea:data-product-battery-approved-exporters-ind-battery-appr-mxqvhv
+admitted: '2026-11-14'

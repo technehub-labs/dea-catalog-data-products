@@ -1,0 +1,31 @@
+# BD-L-TC (2008 version)
+
+> It is a topo-cartographic database covering the entire territory of the Grand Duchy of Luxembourg. Data from the BD-L-TC (2008 version) are structured into 7 themes: - road communication lanes - railways and energy transport - hydrography - Miscellaneous buildings and equipment - vegetation - orography - altimetry Each theme is subdivided into several classes of objects of punctual, linear and surface type corresponding to a layer. Some classes of objects are characterised by one or more attributes, for example: nature, classification, toponym etc. The data of the BD-L-TC are carried out by photogrammetric restitution, followed by a completely carried out in the field. The topographic database is available in Shapefile format. Date of completion: 2008 (based on 2006 overview) Datum-Projection: LUREF / EPSG2169
+
+## Identity
+
+- **Record id**: `dea:data-product-bd-l-tc-version-2008-1-bd-l-tc-2008-dfxr3y`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/bd-l-tc-version-2008-1 (data.europa.eu dataset bd-l-tc-version-2008-1; publisher: Administration du cadastre et de la topographie)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

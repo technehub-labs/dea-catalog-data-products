@@ -1,0 +1,31 @@
+# Drivers of the microbial metabolic quotient across global grasslands
+
+> This dataset contains all data on which the following publication below is based. Paper Citation: Risch Anita C., Zimmermann, Stefan, Schütz, Martin, Borer, Elizabeth T., Broadbent, Arthur A.D., Caldeira, Maria C., Davies, Kendi F., Eisenhauer, Nico, Eskelinen, Anu, Fay, Philip A., Hagedorn, Frank, Knops, Johannes M.H., Lembrechts, Jonas, J., MacDougall, Andrew S., McCulley, Rebecca L., Melbourne, Brett A., Moore, Joslin L., Power, Sally A., Seabloom, Eric W., Silveira, Maria L., Virtanen, Risto, Yahdjian, Laura, Ochoa-Hueso, Raul (accepted). Drivers of the microbial metabolic quotient across global grasslands. Global Ecology and Biogeography Please cite this paper together with the citation for the datafile. The microbial metabolic quotient (MMQ; mg CO2-C mg MBC-1 h-1), defined as the amount of microbial CO2 respired (MR; mg CO2-C kg soil-1 h-1) per unit of microbial biomass C (MBC; mg C kg soil-1), is a key parameter for understanding the microbial regulation of the carbon (C) cycle, including soil C sequestration. Here, we experimentally tested hypotheses about the individual and interactive effects of multiple nutrient addition (NPK+micronutrients) and herbivore exclusion on MR, MBC, and MMQ across 23 sites (5 continents). Our sites encompassed a wide range of edaphoclimatic conditions, thus we assessed which edaphoclimatic variables affected MMQ the most and how they interacted with our treatments. Soils were collected in plots with established experimental treatments. MR was assessed in a five-week laboratory incubation without glucose addition, MBC via substrate-induced respiration. MMQ was calculated as MR/MBC and corrected for soil temperatures (MMQsoil). Using LMMs and SEMs, we analysed how edaphoclimatic characteristics and treatments interactively affected MMQsoil. MMQsoil was higher in locations with higher mean annual temperature, lower water holding capacity, and soil organic C concentration, but did not respond to our treatments across sites as neith
+
+## Identity
+
+- **Record id**: `dea:data-product-10-16904-envidat-379-envidat-drivers-of-t-v424tj`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/10-16904_envidat-379-envidat (data.europa.eu dataset 10-16904_envidat-379-envidat; publisher: EnviDat)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

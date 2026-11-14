@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,10 +8,14 @@ description: Environmental Monitoring Facilities - Department of Environment (IN
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/9ca37f12-d129-43ce-b9b8-420ec7e3c8c8 (data.europa.eu
-      dataset 9ca37f12-d129-43ce-b9b8-420ec7e3c8c8; publisher: Τμήμα Περιβάλλοντος)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/9ca37f12-d129-43ce-b9b8-420ec7e3c8c8
+      (data.europa.eu dataset 9ca37f12-d129-43ce-b9b8-420ec7e3c8c8; publisher: Τμήμα
+      Περιβάλλοντος)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 9ca37f12-d129-43ce-b9b8-420ec7-environmenta
+assigned_id: dea:data-product-9ca37f12-d129-43ce-b9b8-420ec7-environmenta-r4d9be
+admitted: '2026-11-14'

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Dataset with PMC statistics - Auctioneers
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/6609eaf52e507c21a193a0b9 (data.europa.eu dataset
-      6609eaf52e507c21a193a0b9; publisher: Agência para a Reforma Tecnológica do Estado)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/6609eaf52e507c21a193a0b9 (data.europa.eu
+      dataset 6609eaf52e507c21a193a0b9; publisher: Agência para a Reforma Tecnológica
+      do Estado)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-para-a-eforma
 slug: 6609eaf52e507c21a193a0b9-auctioneers
+assigned_id: dea:data-product-6609eaf52e507c21a193a0b9-auctioneers-sgkccs
+admitted: '2026-11-14'

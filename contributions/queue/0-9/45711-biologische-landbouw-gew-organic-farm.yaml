@@ -1,38 +1,46 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 45711-biologische-landbouw-gewassen-dieren-grondgebruik-en-arbeid
 name: Organic farming; crops, animals, land use and labour
-description: 'This table provides data from organically certified farms at national level on land use,
-  arable farming, horticulture, grassland, grazing livestock, loft animals and labour force. For land
-  use, crops and animals, the area is presented, respectively, the number of animals and the corresponding
-  number of holdings. For labour, the number of persons, the annual work units (aje) and the number of
-  holdings are presented for the different types of labour. The data in this table refer to fully certified
-  organic holdings and to the organically certified part of holdings that are not fully certified organic
-  but are partly still in conversion and/or in use. For the figures in this table, this means the following:
-  • the areas listed are certified organic. Areas in conversion or customary are not included in this
-  table. The exception to this is the non-cultural land (see last point); • the animal numbers indicated
-  are certified organic. Animals in conversion or customary are not included in this table. • the areas
-  and animal numbers indicated deviate from the figures of Skal Biocontrole. See 4. SOURCES AND METHODS
-  for further explanation. • the persons working on the holdings and the total hours worked by them, expressed
-  in annual work units (aje), cannot be broken down by use in the biological part of the holding and the
-  part customary and/or in conversion. These figures therefore show the total annual work units produced
-  by all persons working on these holdings; • since 2023, it is no longer possible to declare non-agricultural
-  land as organic. The areas listed as non-cultivated land belong to an organically certified holding.
-  Permanent forest and other land cannot be divided into organic, in conversion or customary. Only fast-growing
-  wood, which includes food forests, can be declared organic. Together with the organically certified
-  cultivated land, this part forms the land use total. Non-agricultural land comprises all non-agricultural
-  land belonging to an organically certifi'
+description: 'This table provides data from organically certified farms at national
+  level on land use, arable farming, horticulture, grassland, grazing livestock, loft
+  animals and labour force. For land use, crops and animals, the area is presented,
+  respectively, the number of animals and the corresponding number of holdings. For
+  labour, the number of persons, the annual work units (aje) and the number of holdings
+  are presented for the different types of labour. The data in this table refer to
+  fully certified organic holdings and to the organically certified part of holdings
+  that are not fully certified organic but are partly still in conversion and/or in
+  use. For the figures in this table, this means the following: • the areas listed
+  are certified organic. Areas in conversion or customary are not included in this
+  table. The exception to this is the non-cultural land (see last point); • the animal
+  numbers indicated are certified organic. Animals in conversion or customary are
+  not included in this table. • the areas and animal numbers indicated deviate from
+  the figures of Skal Biocontrole. See 4. SOURCES AND METHODS for further explanation.
+  • the persons working on the holdings and the total hours worked by them, expressed
+  in annual work units (aje), cannot be broken down by use in the biological part
+  of the holding and the part customary and/or in conversion. These figures therefore
+  show the total annual work units produced by all persons working on these holdings;
+  • since 2023, it is no longer possible to declare non-agricultural land as organic.
+  The areas listed as non-cultivated land belong to an organically certified holding.
+  Permanent forest and other land cannot be divided into organic, in conversion or
+  customary. Only fast-growing wood, which includes food forests, can be declared
+  organic. Together with the organically certified cultivated land, this part forms
+  the land use total. Non-agricultural land comprises all non-agricultural land belonging
+  to an organically certifi'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/45711-biologische-landbouw-gewassen-dieren-grondgebruik-en-arbeid
-      (data.europa.eu dataset 45711-biologische-landbouw-gewassen-dieren-grondgebruik-en-arbeid; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 45711-biologische-landbouw-gewassen-dieren-grondgebruik-en-arbeid;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 45711-biologische-landbouw-gew-organic-farm
+assigned_id: dea:data-product-45711-biologische-landbouw-gew-organic-farm-ne9989
+admitted: '2026-11-14'

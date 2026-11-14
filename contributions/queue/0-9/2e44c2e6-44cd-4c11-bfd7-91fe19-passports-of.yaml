@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 2e44c2e6-44cd-4c11-bfd7-91fe19d067d5
 name: Passports of budget programs for 2020
-description: Passports of budget programs of the Department of Municipal Economy and Improvement of Beregovo
-  City Council
+description: Passports of budget programs of the Department of Municipal Economy and
+  Improvement of Beregovo City Council
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/2e44c2e6-44cd-4c11-bfd7-91fe19d067d5 (data.europa.eu
-      dataset 2e44c2e6-44cd-4c11-bfd7-91fe19d067d5; publisher: Управління міського господарства та благоустрою
-      Берегівської міської ради )'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/2e44c2e6-44cd-4c11-bfd7-91fe19d067d5
+      (data.europa.eu dataset 2e44c2e6-44cd-4c11-bfd7-91fe19d067d5; publisher: Управління
+      міського господарства та благоустрою Берегівської міської ради )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 2e44c2e6-44cd-4c11-bfd7-91fe19-passports-of
+assigned_id: dea:data-product-2e44c2e6-44cd-4c11-bfd7-91fe19-passports-of-mqw28a
+admitted: '2026-11-14'

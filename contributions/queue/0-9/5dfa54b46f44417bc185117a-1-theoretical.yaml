@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5dfa54b46f44417bc185117a~~1
-name: Theoretical and real-time schedules of the Max Mende Mobilités network - BUS (GTFS / GTFS-RT)
+name: Theoretical and real-time schedules of the Max Mende Mobilités network - BUS
+  (GTFS / GTFS-RT)
 description: '![](https://storage.googleapis.com/zoomzoomzenlive.appspot.com/logo-mende.png)**Theoretical
-  schedules in GTFS** format and **real-time schedules in GTFS-RT** format of the Max Mende Mobility Network
-  - BUS circulating in the territory of **[City of Mende](http://www.mende.fr/)**: * Line 1 * Line 2 *
-  Line 3 Official timetables are available on the [Max Mende Mobilités website] (https://max-mende-mobilites.fr/).
-  With Zenbus you can also follow in real time the position of the shuttles: [https://zenbus.net/MAX](https://zenbus.net/tum)
+  schedules in GTFS** format and **real-time schedules in GTFS-RT** format of the
+  Max Mende Mobility Network - BUS circulating in the territory of **[City of Mende](http://www.mende.fr/)**:
+  * Line 1 * Line 2 * Line 3 Official timetables are available on the [Max Mende Mobilités
+  website] (https://max-mende-mobilites.fr/). With Zenbus you can also follow in real
+  time the position of the shuttles: [https://zenbus.net/MAX](https://zenbus.net/tum)
   Find more information about Zenbus on our official website: <https://zenbus.fr/>'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5dfa54b46f44417bc185117a~~1 (data.europa.eu dataset
-      5dfa54b46f44417bc185117a~~1; publisher: Zenbus)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5dfa54b46f44417bc185117a~~1 (data.europa.eu
+      dataset 5dfa54b46f44417bc185117a~~1; publisher: Zenbus)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enbus
 slug: 5dfa54b46f44417bc185117a-1-theoretical
+assigned_id: dea:data-product-5dfa54b46f44417bc185117a-1-theoretical-z2vp8n
+admitted: '2026-11-14'

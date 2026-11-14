@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu a8364f1a-cbb5-4c71-a903-d4be0b872957
 name: Blackrock Climate Data
-description: Daily and monthly climatalogical records for our station at Blackrock in Co. Dublin. This
-  station is now closed.
+description: Daily and monthly climatalogical records for our station at Blackrock
+  in Co. Dublin. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/a8364f1a-cbb5-4c71-a903-d4be0b872957 (data.europa.eu
-      dataset a8364f1a-cbb5-4c71-a903-d4be0b872957; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/a8364f1a-cbb5-4c71-a903-d4be0b872957
+      (data.europa.eu dataset a8364f1a-cbb5-4c71-a903-d4be0b872957; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: a8364f1a-cbb5-4c71-a903-d4be0b-blackrock-cl
+assigned_id: dea:data-product-a8364f1a-cbb5-4c71-a903-d4be0b-blackrock-cl-4v6z4b
+admitted: '2026-11-14'

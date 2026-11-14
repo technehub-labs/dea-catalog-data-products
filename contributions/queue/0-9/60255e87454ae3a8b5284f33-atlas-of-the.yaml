@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60255e87454ae3a8b5284f33
 name: Atlas of the Environment - Predominant Phytogeographic Areas
-description: Letter from the Atlas of the Environment on Predominant Phytogeographical Areas in image
-  format (.sid) and its Explanatory Notice in .pdf format
+description: Letter from the Atlas of the Environment on Predominant Phytogeographical
+  Areas in image format (.sid) and its Explanatory Notice in .pdf format
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60255e87454ae3a8b5284f33 (data.europa.eu dataset
-      60255e87454ae3a8b5284f33; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60255e87454ae3a8b5284f33 (data.europa.eu
+      dataset 60255e87454ae3a8b5284f33; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60255e87454ae3a8b5284f33-atlas-of-the
+assigned_id: dea:data-product-60255e87454ae3a8b5284f33-atlas-of-the-3pamdj
+admitted: '2026-11-14'

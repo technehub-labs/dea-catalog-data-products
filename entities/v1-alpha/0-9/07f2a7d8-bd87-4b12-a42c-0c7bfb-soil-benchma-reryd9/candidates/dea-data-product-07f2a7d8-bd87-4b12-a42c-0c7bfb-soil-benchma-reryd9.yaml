@@ -1,0 +1,33 @@
+id: dea:data-product-07f2a7d8-bd87-4b12-a42c-0c7bfb-soil-benchma-reryd9
+type: DataProduct
+name: Soil benchmarks Agriculture Landkreis Diepholz 2000
+description: 'Land reference values for agricultural land in the Diepholz LK (year
+  2000); Legend and further explanations: http://www.gag.niedersachsen.de'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/07f2a7d8-bd87-4b12-a42c-0c7bfbe616f8
+      (data.europa.eu dataset 07f2a7d8-bd87-4b12-a42c-0c7bfbe616f8; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

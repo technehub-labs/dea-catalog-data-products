@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu compendium-of-maternity-statistics
 name: Compendium of Maternity Statistics
-description: The Maternity Services Data Set has been developed as a key driver to achieving better outcomes
-  of care for mothers and babies. The data set will provide comparative, mother and child-centric data
-  that will include information on the amount of care provided and the specific care received. This then
-  can be used to improve clinical quality and service efficiency; and to commission services in a way
-  that improves health and reduces inequalities. This report has been produced to identify the current
-  sources of maternity data, and consider the difficulties currently faced in the reporting of these statistics.
-  The Maternity Services Data Set should address some of these difficulties by collecting and linking
-  much of this information together. The information presented within this report represents and brings
-  together the available maternity data currently published from various data sources, thereby creating
-  a "Compendium of maternity data".
+description: The Maternity Services Data Set has been developed as a key driver to
+  achieving better outcomes of care for mothers and babies. The data set will provide
+  comparative, mother and child-centric data that will include information on the
+  amount of care provided and the specific care received. This then can be used to
+  improve clinical quality and service efficiency; and to commission services in a
+  way that improves health and reduces inequalities. This report has been produced
+  to identify the current sources of maternity data, and consider the difficulties
+  currently faced in the reporting of these statistics. The Maternity Services Data
+  Set should address some of these difficulties by collecting and linking much of
+  this information together. The information presented within this report represents
+  and brings together the available maternity data currently published from various
+  data sources, thereby creating a "Compendium of maternity data".
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/compendium-of-maternity-statistics (data.europa.eu
-      dataset compendium-of-maternity-statistics; publisher: NHS Digital)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/compendium-of-maternity-statistics
+      (data.europa.eu dataset compendium-of-maternity-statistics; publisher: NHS Digital)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - igital
 slug: compendium-of-maternity-statis-compendium-o
+assigned_id: dea:data-product-compendium-of-maternity-statis-compendium-o-w7y5p9
+admitted: '2026-11-14'

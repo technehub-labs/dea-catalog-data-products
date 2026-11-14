@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 41cf9140-9e66-4646-aad5-9955c4f2a8ef
-name: Information on the regulatory framework of the Department of Health and Medical Services
-description: The set contains information about the functions, powers, main tasks, areas of activity and
-  financial resources of the Department of Health and Medical Services
+name: Information on the regulatory framework of the Department of Health and Medical
+  Services
+description: The set contains information about the functions, powers, main tasks,
+  areas of activity and financial resources of the Department of Health and Medical
+  Services
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/41cf9140-9e66-4646-aad5-9955c4f2a8ef (data.europa.eu
-      dataset 41cf9140-9e66-4646-aad5-9955c4f2a8ef; publisher: Департамент охорони здоров''я та медичних
-      послуг Черкаської міської ради)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/41cf9140-9e66-4646-aad5-9955c4f2a8ef
+      (data.europa.eu dataset 41cf9140-9e66-4646-aad5-9955c4f2a8ef; publisher: Департамент
+      охорони здоров''я та медичних послуг Черкаської міської ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 41cf9140-9e66-4646-aad5-9955c4-information
+assigned_id: dea:data-product-41cf9140-9e66-4646-aad5-9955c4-information-e7emgx
+admitted: '2026-11-14'

@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu apprenticeship-success-rates-in-england-2010-11
 name: Apprenticeship Success Rates in England 2010/11
-description: Apprenticeship Success Rates for institutions in England for the academic year 2010/11. The
-  data shows success rates, retention rate and achievement rates by type of provision and characteristics
-  of the learners. It also shows success rates for each individual organisation. These datasets are also
-  known as Apprenticeship National Success Rate Tables or Apprenticeship NSRTs.
+description: Apprenticeship Success Rates for institutions in England for the academic
+  year 2010/11. The data shows success rates, retention rate and achievement rates
+  by type of provision and characteristics of the learners. It also shows success
+  rates for each individual organisation. These datasets are also known as Apprenticeship
+  National Success Rate Tables or Apprenticeship NSRTs.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/apprenticeship-success-rates-in-england-2010-11 (data.europa.eu
-      dataset apprenticeship-success-rates-in-england-2010-11; publisher: Skills Funding Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/apprenticeship-success-rates-in-england-2010-11
+      (data.europa.eu dataset apprenticeship-success-rates-in-england-2010-11; publisher:
+      Skills Funding Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - kills-unding-gency
 slug: apprenticeship-success-rates-i-apprenticesh
+assigned_id: dea:data-product-apprenticeship-success-rates-i-apprenticesh-a44ku3
+admitted: '2026-11-14'

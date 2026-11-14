@@ -1,0 +1,42 @@
+id: dea:data-product-5597ee25-bbfb-4db3-ba1e-6d85b9-udp-average-mvmdvq
+type: DataProduct
+name: UDP - Average tourism expenditure
+description: 'This indicator measures the average economic value generated per night
+  spent at the tourist destination, revealing tourism contribution to the economy
+  of the destination country. The average tourism expenditure was adjusted taking
+  into account the living costs of each country (Parity Purchasing Standards, PPS).
+  Higher values indicate higher average tourism expenditure per each night spent.
+  This indicator is part of the socio-economic pillar This indicator is part of the
+  socio-economic pillar of the EU Tourism Dashboard. UNIT OF MEASURE: PPS / nights
+  spent. RESOLUTION: NUTS0. COMPLETENESS: 100% for EU27 (missing CH, IS, NO). METHODOLOGY:
+  The average tourism expenditure was adjusted taking into account the living costs
+  of each country (Parity Purchasing Standards, PPS). DATA SOURCES: ESTAT (tour_dem_extotw).'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5597ee25-bbfb-4db3-ba1e-6d85b9aa155f
+      (data.europa.eu dataset 5597ee25-bbfb-4db3-ba1e-6d85b9aa155f; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- oint-esearch-entre

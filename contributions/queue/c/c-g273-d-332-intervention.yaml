@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu c_g273-d-332
 name: INTERVENTIONS FOR URBAN MOBILITY YEAR 2010
-description: the table contains data on interventions for mobility & agrave; urban data that were carried
-  out during the year 2011, proposing a comparison with the data for the year 2009.
+description: the table contains data on interventions for mobility & agrave; urban
+  data that were carried out during the year 2011, proposing a comparison with the
+  data for the year 2009.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/c_g273-d-332 (data.europa.eu dataset c_g273-d-332;
-      publisher: Comune di Palermo)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/c_g273-d-332 (data.europa.eu
+      dataset c_g273-d-332; publisher: Comune di Palermo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - omune-di-alermo
 slug: c-g273-d-332-intervention
+assigned_id: dea:data-product-c-g273-d-332-intervention-zzynxu
+admitted: '2026-11-14'

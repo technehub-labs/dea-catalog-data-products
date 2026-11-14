@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu b9a58bc0-c188-4d00-9e80-a4a6d769ebd1
 name: Applications for Special Education Transport
-description: Applications made on behalf of students who require school transport to a special education
-  setting, such as a special class or a special school. The scheme also covers cases where students attend
-  mainstream, but are unable to access existing transport arrangements.
+description: Applications made on behalf of students who require school transport
+  to a special education setting, such as a special class or a special school. The
+  scheme also covers cases where students attend mainstream, but are unable to access
+  existing transport arrangements.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/b9a58bc0-c188-4d00-9e80-a4a6d769ebd1 (data.europa.eu
-      dataset b9a58bc0-c188-4d00-9e80-a4a6d769ebd1; publisher: National Council for Special Education)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/b9a58bc0-c188-4d00-9e80-a4a6d769ebd1
+      (data.europa.eu dataset b9a58bc0-c188-4d00-9e80-a4a6d769ebd1; publisher: National
+      Council for Special Education)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ational-ouncil-for-p
 slug: b9a58bc0-c188-4d00-9e80-a4a6d7-applications
+assigned_id: dea:data-product-b9a58bc0-c188-4d00-9e80-a4a6d7-applications-aa3bpz
+admitted: '2026-11-14'

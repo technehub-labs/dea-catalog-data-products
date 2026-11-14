@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 21f12b01-0236-43e3-8eff-62d3e1606c5a
 name: Directory of the Municipal Enterprise "Health and Rest" of the Dnipro City Council
-description: The directory contains brief information about the Municipal Enterprise "Health and Rest"
-  of the Dnipro City Council (identifier, website, phone, address, e-mail, work schedule)
+description: The directory contains brief information about the Municipal Enterprise
+  "Health and Rest" of the Dnipro City Council (identifier, website, phone, address,
+  e-mail, work schedule)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/21f12b01-0236-43e3-8eff-62d3e1606c5a (data.europa.eu
-      dataset 21f12b01-0236-43e3-8eff-62d3e1606c5a; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/21f12b01-0236-43e3-8eff-62d3e1606c5a
+      (data.europa.eu dataset 21f12b01-0236-43e3-8eff-62d3e1606c5a; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 21f12b01-0236-43e3-8eff-62d3e1-directory-of
+assigned_id: dea:data-product-21f12b01-0236-43e3-8eff-62d3e1-directory-of-sadaca
+admitted: '2026-11-14'

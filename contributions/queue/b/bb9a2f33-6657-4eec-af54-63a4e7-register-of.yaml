@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu bb9a2f33-6657-4eec-af54-63a4e79d124c
 name: Register of data sets owned by the information manager
-description: Register of data sets owned by the Municipal Enterprise "Center for Primary Health Care"
-  of Zhytomyr City Council
+description: Register of data sets owned by the Municipal Enterprise "Center for Primary
+  Health Care" of Zhytomyr City Council
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/bb9a2f33-6657-4eec-af54-63a4e79d124c (data.europa.eu
-      dataset bb9a2f33-6657-4eec-af54-63a4e79d124c; publisher: Комунальне підприємство "Центр первинної
-      медико-санітарної допомоги" Житомирської міської ради)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/bb9a2f33-6657-4eec-af54-63a4e79d124c
+      (data.europa.eu dataset bb9a2f33-6657-4eec-af54-63a4e79d124c; publisher: Комунальне
+      підприємство "Центр первинної медико-санітарної допомоги" Житомирської міської
+      ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: bb9a2f33-6657-4eec-af54-63a4e7-register-of
+assigned_id: dea:data-product-bb9a2f33-6657-4eec-af54-63a4e7-register-of-n2c4mv
+admitted: '2026-11-14'

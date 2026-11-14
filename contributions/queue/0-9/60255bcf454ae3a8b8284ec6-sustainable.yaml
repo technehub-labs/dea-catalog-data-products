@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60255bcf454ae3a8b8284ec6
 name: Sustainable Mobility Project
-description: The Sustainable Mobility Project aimed at the elaboration/consolidation of Sustainable Mobility
-  Plans for the Municipalities selected under the Project, aiming at the continuous improvement of travel
-  conditions, the reduction of impacts on the environment, and the increase of the quality of life of
-  citizens, meeting the broad Community and national strategic guidelines in this area, in a logic of
-  sustainability. The project advocated technical and scientific support to the selected municipalities
-  in the development/consolidation of these Sustainable Mobility Plans, through the creation of a Network
-  of University Centres/Departments (RCU). This Network ensured the sharing and exchange of experience
-  and knowledge between Municipalities and between University Centres/Departments and Municipalities,
-  providing them with technical capacity for the future, ensuring a harmonisation in the approach and
-  sustained response to common problems in terms of mobility. More information about the project at
+description: The Sustainable Mobility Project aimed at the elaboration/consolidation
+  of Sustainable Mobility Plans for the Municipalities selected under the Project,
+  aiming at the continuous improvement of travel conditions, the reduction of impacts
+  on the environment, and the increase of the quality of life of citizens, meeting
+  the broad Community and national strategic guidelines in this area, in a logic of
+  sustainability. The project advocated technical and scientific support to the selected
+  municipalities in the development/consolidation of these Sustainable Mobility Plans,
+  through the creation of a Network of University Centres/Departments (RCU). This
+  Network ensured the sharing and exchange of experience and knowledge between Municipalities
+  and between University Centres/Departments and Municipalities, providing them with
+  technical capacity for the future, ensuring a harmonisation in the approach and
+  sustained response to common problems in terms of mobility. More information about
+  the project at
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60255bcf454ae3a8b8284ec6 (data.europa.eu dataset
-      60255bcf454ae3a8b8284ec6; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60255bcf454ae3a8b8284ec6 (data.europa.eu
+      dataset 60255bcf454ae3a8b8284ec6; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60255bcf454ae3a8b8284ec6-sustainable
+assigned_id: dea:data-product-60255bcf454ae3a8b8284ec6-sustainable-cq9npn
+admitted: '2026-11-14'

@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu average-temperature-and-rainfall-england-and-wales
 name: Average temperature and total rainfall in England and Wales
-description: 'Average temperature and total rainfall in England and Wales : 1845 to 2012. Annual and seasonal
-  outflow and rainfall estimates for the United Kingdom and its component countries since 1961. Rainfall
-  figures are available from the National River Flow Archive - monthly hydrological updates. The Environment
-  Agency also publish monthly water situation reports for England. Discontinued - superceded by http://www.ceh.ac.uk/data/nrfa/
-  & https://www.gov.uk/government/collections/water-situation-reports-for-england'
+description: 'Average temperature and total rainfall in England and Wales : 1845 to
+  2012. Annual and seasonal outflow and rainfall estimates for the United Kingdom
+  and its component countries since 1961. Rainfall figures are available from the
+  National River Flow Archive - monthly hydrological updates. The Environment Agency
+  also publish monthly water situation reports for England. Discontinued - superceded
+  by http://www.ceh.ac.uk/data/nrfa/ & https://www.gov.uk/government/collections/water-situation-reports-for-england'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/average-temperature-and-rainfall-england-and-wales
-      (data.europa.eu dataset average-temperature-and-rainfall-england-and-wales; publisher: Department
-      for Environment, Food and Rural Affairs)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset average-temperature-and-rainfall-england-and-wales;
+      publisher: Department for Environment, Food and Rural Affairs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - epartment-for-nviron
 slug: average-temperature-and-rainfa-average-temp
+assigned_id: dea:data-product-average-temperature-and-rainfa-average-temp-y2ntmc
+admitted: '2026-11-14'

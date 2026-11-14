@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 60256835454ae3a8b728503a
 name: Atlas of the Environment - Real Evapotranspiration
-description: Real Evapotranspiration - amount of water returned to the atmosphere, annual mean values
-  (mm)
+description: Real Evapotranspiration - amount of water returned to the atmosphere,
+  annual mean values (mm)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/60256835454ae3a8b728503a (data.europa.eu dataset
-      60256835454ae3a8b728503a; publisher: Agência Portuguesa do Ambiente)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/60256835454ae3a8b728503a (data.europa.eu
+      dataset 60256835454ae3a8b728503a; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gncia-ortuguesa-do-m
 slug: 60256835454ae3a8b728503a-atlas-of-the
+assigned_id: dea:data-product-60256835454ae3a8b728503a-atlas-of-the-xnzgu7
+admitted: '2026-11-14'

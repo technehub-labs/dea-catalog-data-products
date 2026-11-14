@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 74561f6a-4783-4d70-b86a-008deec09441
 name: population
-description: The topic block ‘Population’ shows the population figures and basic key figures of the population
-  structure in Karlsruhe.
+description: The topic block ‘Population’ shows the population figures and basic key
+  figures of the population structure in Karlsruhe.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/74561f6a-4783-4d70-b86a-008deec09441 (data.europa.eu
-      dataset 74561f6a-4783-4d70-b86a-008deec09441; publisher: Stadt Karlsruhe)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/74561f6a-4783-4d70-b86a-008deec09441
+      (data.europa.eu dataset 74561f6a-4783-4d70-b86a-008deec09441; publisher: Stadt
+      Karlsruhe)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadt-arlsruhe
 slug: 74561f6a-4783-4d70-b86a-008dee-population
+assigned_id: dea:data-product-74561f6a-4783-4d70-b86a-008dee-population-7dfj8c
+admitted: '2026-11-14'

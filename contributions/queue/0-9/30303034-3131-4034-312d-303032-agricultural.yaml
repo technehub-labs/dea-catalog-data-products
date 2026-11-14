@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 30303034-3131-4034-312d-303032300000
-name: Agricultural holdings with organic farming, LF:Germany, years, extent of organic farming, farm management
-  orientation
-description: Agricultural holdings with organic farming, LF:Germany, years, extent of organic farming,
-  farm management orientation
+name: Agricultural holdings with organic farming, LF:Germany, years, extent of organic
+  farming, farm management orientation
+description: Agricultural holdings with organic farming, LF:Germany, years, extent
+  of organic farming, farm management orientation
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/30303034-3131-4034-312d-303032300000 (data.europa.eu
-      dataset 30303034-3131-4034-312d-303032300000; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/30303034-3131-4034-312d-303032300000
+      (data.europa.eu dataset 30303034-3131-4034-312d-303032300000; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 30303034-3131-4034-312d-303032-agricultural
+assigned_id: dea:data-product-30303034-3131-4034-312d-303032-agricultural-fjd8qc
+admitted: '2026-11-14'

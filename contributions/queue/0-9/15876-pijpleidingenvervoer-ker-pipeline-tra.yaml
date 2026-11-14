@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 15876-pijpleidingenvervoer-kerncijfers
 name: Pipeline transport; key figures
-description: 'This table shows the key figures of pipeline transport on Dutch territory per year in tonnes
-  and tonne-kilometres by transport flow. Data available from: 2012 Status of figures: The figures up
-  to 2024 are provisional. Changes as of 3 October 2025: The figures for 2024 have been added and the
-  figures for 2012 to 2023 have been updated. When will there be new figures? The new provisional figures
-  generally become available 10 months after the end of the reporting year.'
+description: 'This table shows the key figures of pipeline transport on Dutch territory
+  per year in tonnes and tonne-kilometres by transport flow. Data available from:
+  2012 Status of figures: The figures up to 2024 are provisional. Changes as of 3
+  October 2025: The figures for 2024 have been added and the figures for 2012 to 2023
+  have been updated. When will there be new figures? The new provisional figures generally
+  become available 10 months after the end of the reporting year.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/15876-pijpleidingenvervoer-kerncijfers (data.europa.eu
-      dataset 15876-pijpleidingenvervoer-kerncijfers; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/15876-pijpleidingenvervoer-kerncijfers
+      (data.europa.eu dataset 15876-pijpleidingenvervoer-kerncijfers; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 15876-pijpleidingenvervoer-ker-pipeline-tra
+assigned_id: dea:data-product-15876-pijpleidingenvervoer-ker-pipeline-tra-2snr32
+admitted: '2026-11-14'

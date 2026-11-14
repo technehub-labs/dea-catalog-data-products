@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 17516
 name: Register of properties for a changed purpose
-description: Register of properties with changed purpose of the Commission referred to in Article 17(1)(1)
-  of the ZZZZ of Montana OD Agriculture for the period from 01.2022 to December 2022 with accumulation
+description: Register of properties with changed purpose of the Commission referred
+  to in Article 17(1)(1) of the ZZZZ of Montana OD Agriculture for the period from
+  01.2022 to December 2022 with accumulation
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/17516 (data.europa.eu dataset 17516; publisher: Областна
-      дирекция "Земеделие" - Монтана)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/17516 (data.europa.eu dataset
+      17516; publisher: Областна дирекция "Земеделие" - Монтана)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 17516-register-of
+assigned_id: dea:data-product-17516-register-of-tvdhcw
+admitted: '2026-11-14'

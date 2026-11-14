@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: Energy efficiency installations in place in the home
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/04941052-b72f-408e-9e88-aecce2c90db4 (data.europa.eu
-      dataset 04941052-b72f-408e-9e88-aecce2c90db4; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/04941052-b72f-408e-9e88-aecce2c90db4
+      (data.europa.eu dataset 04941052-b72f-408e-9e88-aecce2c90db4; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 04941052-b72f-408e-9e88-aecce2-hebeu38-ener
+assigned_id: dea:data-product-04941052-b72f-408e-9e88-aecce2-hebeu38-ener-4mgr8d
+admitted: '2026-11-14'

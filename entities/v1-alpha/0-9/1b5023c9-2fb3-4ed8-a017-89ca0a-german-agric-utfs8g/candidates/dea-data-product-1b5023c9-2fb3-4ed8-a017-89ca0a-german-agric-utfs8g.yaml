@@ -1,0 +1,48 @@
+id: dea:data-product-1b5023c9-2fb3-4ed8-a017-89ca0a-german-agric-utfs8g
+type: DataProduct
+name: German Agricultural Open Data Platform for Food Security
+description: From the field of plant genetic resources, Germany provides data on national
+  gene bank stocks. This includes the collections • the national ex situ gene bank
+  of the Leibniz Institute for Plant Genetics and Crop Plant Research (IPK) with almost
+  150,000 accessions from over 3,000 different crop species, • the Deutsche Genbank
+  fruit with over 1,000 additions to the fruit types apple, cherry and strawberry,
+  • the Deutsche Genbank Vines with more than 4,400 accessions, • the Deutsche Genbank
+  Ornamental Plants with over 12,000 accessions, including data on rhododendron and
+  rose, • the Genetic Bank for Wild Plants for Food and Agriculture (WEL) with over
+  3,000 accessions of native wild plants, • the gene bank Tobacco with almost 800
+  accessions, • and information on current varieties for diversity provided by German
+  breeders for the Multilateral System of the International Seed Treaty. In order
+  to ensure efficient data exchange, the data fields comply with the internationally
+  coordinated requirements of the EURISCO exchange format, which is essentially based
+  on the "Multi-Crop Passport Descriptor List" of FAO and Bioversity International.
+  The above collections and further information are provided in the National Inventory
+  of Plant Genetic Resources in Germany (PGRDEU) at http://pgrdeu.genres.de/index.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1b5023c9-2fb3-4ed8-a017-89ca0a12cc97
+      (data.europa.eu dataset 1b5023c9-2fb3-4ed8-a017-89ca0a12cc97; publisher: Julius
+      Kühn-Institut; Institut für Züchtungsforschung an Obst)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- ulius-hnnstitut-nsti

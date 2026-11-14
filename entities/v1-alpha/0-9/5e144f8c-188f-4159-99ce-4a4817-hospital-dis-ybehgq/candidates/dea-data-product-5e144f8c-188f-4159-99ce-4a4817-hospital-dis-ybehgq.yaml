@@ -1,0 +1,39 @@
+id: dea:data-product-5e144f8c-188f-4159-99ce-4a4817-hospital-dis-ybehgq
+type: DataProduct
+name: Hospital District of Helsinki and Uusimaa (HUS) procurements
+description: The dataset contains information on the purchase invoices of the Hospital
+  District of Helsinki and Uusimaa (HUS). The file is a list of all purchases made
+  by HUS. Each line in the file contains information on the supplier's name and business
+  ID, invoice amount, VAT and date. The information can also be found in the name
+  and number of the responsible unit that made the purchase, as well as in the expense
+  account to which the purchase invoice has been allocated. Sensitive data, i.e. data
+  containing personal data, has been removed from the data.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1
+      (data.europa.eu dataset 5e144f8c-188f-4159-99ce-4a4817fc9fa9~~1; publisher:
+      Helsingin ja Uudenmaan sairaanhoitopiiri (HUS))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- elsingin-ja-udenmaan

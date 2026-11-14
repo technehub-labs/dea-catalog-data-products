@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu childhood_obesity
 name: Childhood obesity
-description: 'Update of annual statistics on high and low body mass index (BMI) for Primary 1 school children
-  in ten participating NHS Boards in Scotland. From December 2010 onwards this publication will be released
-  under the title "Primary 1 Body Mass Index (BMI) Statistics". Source agency: ISD Scotland (part of NHS
-  National Services Scotland) Designation: National Statistics Language: English Alternative title: Childhood
-  obesity'
+description: 'Update of annual statistics on high and low body mass index (BMI) for
+  Primary 1 school children in ten participating NHS Boards in Scotland. From December
+  2010 onwards this publication will be released under the title "Primary 1 Body Mass
+  Index (BMI) Statistics". Source agency: ISD Scotland (part of NHS National Services
+  Scotland) Designation: National Statistics Language: English Alternative title:
+  Childhood obesity'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/childhood_obesity (data.europa.eu dataset childhood_obesity;
-      publisher: ISD Scotland)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/childhood_obesity (data.europa.eu
+      dataset childhood_obesity; publisher: ISD Scotland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - cotland
 slug: childhood-obesity-childhood-ob
+assigned_id: dea:data-product-childhood-obesity-childhood-ob-sfyss5
+admitted: '2026-11-14'

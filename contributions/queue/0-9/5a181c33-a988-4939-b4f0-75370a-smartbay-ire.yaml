@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 5a181c33-a988-4939-b4f0-75370add0893
 name: SmartBay Ireland Galway Bay Buoy Compass Data
-description: The CMPS10 Tilt Compensated Compass sensor is a tilt compensated compass which calculates
-  a bearing. Employing a 3-axis magnetometer , a 3-axis accelerometer and a 16-bit processor, the output
-  of the three sensors measuring x, y and z components of the magnetic field, together with the pitch
-  and roll are used to calculate the bearing.
+description: The CMPS10 Tilt Compensated Compass sensor is a tilt compensated compass
+  which calculates a bearing. Employing a 3-axis magnetometer , a 3-axis accelerometer
+  and a 16-bit processor, the output of the three sensors measuring x, y and z components
+  of the magnetic field, together with the pitch and roll are used to calculate the
+  bearing.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/5a181c33-a988-4939-b4f0-75370add0893 (data.europa.eu
-      dataset 5a181c33-a988-4939-b4f0-75370add0893; publisher: SmartBay Ireland)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/5a181c33-a988-4939-b4f0-75370add0893
+      (data.europa.eu dataset 5a181c33-a988-4939-b4f0-75370add0893; publisher: SmartBay
+      Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - martay-reland
 slug: 5a181c33-a988-4939-b4f0-75370a-smartbay-ire
+assigned_id: dea:data-product-5a181c33-a988-4939-b4f0-75370a-smartbay-ire-nxn8q9
+admitted: '2026-11-14'

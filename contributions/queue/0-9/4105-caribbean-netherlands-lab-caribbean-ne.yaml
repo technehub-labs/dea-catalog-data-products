@@ -1,34 +1,41 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 4105-caribbean-netherlands-labour-participation-key-figures
 name: Caribbean Netherlands; labour participation, key figures
-description: 'This table contains yearly figures on labour participation for the special municipalities
-  Bonaire, St Eustatius and Saba (the Caribbean Netherlands). The population of 15 to 74 years of age
-  (excluding the institutionalized population) is divided into the employed labour force, the unemployed
-  labour force and those not in the labour force. The employed labour force is subdivided on the basis
-  of the professional status, and the average working hours. A division by sex, age and level of education
-  is available. Data available from: 2012 Status of the figures: The figures in this table are final.
-  Changes as of 7 July 2025: The figures of 2024 are added. Changes as of 30 October 2024: The number
-  of self-employed for the reporting years 2020 and 2022 has been corrected. The correction concerns a
-  slightly upward revision of the number of self-employed persons. The cause was an error in the software
-  that deduces whether someone is self-employed based on the answers in the questionnaire. As a result,
-  for some records the position in the job unknown, always it should have been self-employed (with employees).
-  This has now been corrected. Changes as of 26 April 2019: The figures of 2018 are added. The figures
-  about the highest level of education have been revised. The revision concerns people who common common
-  common years of education (avo). Where they previously had an intermediate level of education, they
-  now receive a low level of education, following the format used for the European Netherlands. When will
-  new figures be published? New figures will be published every two years.'
+description: 'This table contains yearly figures on labour participation for the special
+  municipalities Bonaire, St Eustatius and Saba (the Caribbean Netherlands). The population
+  of 15 to 74 years of age (excluding the institutionalized population) is divided
+  into the employed labour force, the unemployed labour force and those not in the
+  labour force. The employed labour force is subdivided on the basis of the professional
+  status, and the average working hours. A division by sex, age and level of education
+  is available. Data available from: 2012 Status of the figures: The figures in this
+  table are final. Changes as of 7 July 2025: The figures of 2024 are added. Changes
+  as of 30 October 2024: The number of self-employed for the reporting years 2020
+  and 2022 has been corrected. The correction concerns a slightly upward revision
+  of the number of self-employed persons. The cause was an error in the software that
+  deduces whether someone is self-employed based on the answers in the questionnaire.
+  As a result, for some records the position in the job unknown, always it should
+  have been self-employed (with employees). This has now been corrected. Changes as
+  of 26 April 2019: The figures of 2018 are added. The figures about the highest level
+  of education have been revised. The revision concerns people who common common common
+  years of education (avo). Where they previously had an intermediate level of education,
+  they now receive a low level of education, following the format used for the European
+  Netherlands. When will new figures be published? New figures will be published every
+  two years.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/4105-caribbean-netherlands-labour-participation-key-figures
-      (data.europa.eu dataset 4105-caribbean-netherlands-labour-participation-key-figures; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset 4105-caribbean-netherlands-labour-participation-key-figures;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 4105-caribbean-netherlands-lab-caribbean-ne
+assigned_id: dea:data-product-4105-caribbean-netherlands-lab-caribbean-ne-gd797x
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 7e8d5ec5-c74c-4218-be0d-a2a6f961f005
 name: John F. Kennedy Park Climate Data
-description: Daily and monthly climatalogical records for our station at John F. Kennedy Park in Co. Wexford.
-  This station is now closed.
+description: Daily and monthly climatalogical records for our station at John F. Kennedy
+  Park in Co. Wexford. This station is now closed.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/7e8d5ec5-c74c-4218-be0d-a2a6f961f005 (data.europa.eu
-      dataset 7e8d5ec5-c74c-4218-be0d-a2a6f961f005; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/7e8d5ec5-c74c-4218-be0d-a2a6f961f005
+      (data.europa.eu dataset 7e8d5ec5-c74c-4218-be0d-a2a6f961f005; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: 7e8d5ec5-c74c-4218-be0d-a2a6f9-john-f-kenne
+assigned_id: dea:data-product-7e8d5ec5-c74c-4218-be0d-a2a6f9-john-f-kenne-uwtc9j
+admitted: '2026-11-14'

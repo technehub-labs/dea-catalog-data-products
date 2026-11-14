@@ -1,23 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 100096-kanton-basel-stadt
 name: Removal dates
-description: 'Removal dates of the city cleaning (deep construction office) of the city of Basel. See
-  also [https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste collection # removal
-  platforms](https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste collection #
-  removal platforms). Withdrawal declaration at [https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste
+description: 'Removal dates of the city cleaning (deep construction office) of the
+  city of Basel. See also [https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste
+  collection # removal platforms](https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste
+  collection # removal platforms). Withdrawal declaration at [https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste
   collection #abfaelle-abholen-lassen](https://www.bs.ch/topics/environment-and-building/waste-and-cleanness/waste
   collection #abfaelle-abholen-lassen)'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/100096-kanton-basel-stadt (data.europa.eu dataset
-      100096-kanton-basel-stadt; publisher: Tiefbauamt)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/100096-kanton-basel-stadt (data.europa.eu
+      dataset 100096-kanton-basel-stadt; publisher: Tiefbauamt)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - iefbauamt
 slug: 100096-kanton-basel-stadt-removal-date
+assigned_id: dea:data-product-100096-kanton-basel-stadt-removal-date-2krhj9
+admitted: '2026-11-14'

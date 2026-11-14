@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 1f3e7953-1c83-4f77-a0ac-a5b59259369c
 name: Zwettl-NÖ Climate Neutrality Action Plan
-description: At the meeting of the municipal council of 24 September 2024, the municipal council of the
-  municipality of Zwettl-NÖ was informed about the participation in the Zwettl Climate Neutrality Roadmap
-  project in accordance with § 38(4) of the Lower Austrian Municipal Code 1973. The aim of the mission
-  is to develop strategies and measures or a "climate-neutrality roadmap" to be climate-neutral in the
-  community-owned areas of electricity, heat and mobility by 2040. This action plan was adopted at the
-  meeting of the municipal council of the municipality of Zwettl-NÖ on 4 November.
+description: At the meeting of the municipal council of 24 September 2024, the municipal
+  council of the municipality of Zwettl-NÖ was informed about the participation in
+  the Zwettl Climate Neutrality Roadmap project in accordance with § 38(4) of the
+  Lower Austrian Municipal Code 1973. The aim of the mission is to develop strategies
+  and measures or a "climate-neutrality roadmap" to be climate-neutral in the community-owned
+  areas of electricity, heat and mobility by 2040. This action plan was adopted at
+  the meeting of the municipal council of the municipality of Zwettl-NÖ on 4 November.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/1f3e7953-1c83-4f77-a0ac-a5b59259369c (data.europa.eu
-      dataset 1f3e7953-1c83-4f77-a0ac-a5b59259369c; publisher: Stadtgemeinde Zwettl-NÖ)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/1f3e7953-1c83-4f77-a0ac-a5b59259369c
+      (data.europa.eu dataset 1f3e7953-1c83-4f77-a0ac-a5b59259369c; publisher: Stadtgemeinde
+      Zwettl-NÖ)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadtgemeinde-wettl
 slug: 1f3e7953-1c83-4f77-a0ac-a5b592-zwettl-n-cli
+assigned_id: dea:data-product-1f3e7953-1c83-4f77-a0ac-a5b592-zwettl-n-cli-r7zz7x
+admitted: '2026-11-14'

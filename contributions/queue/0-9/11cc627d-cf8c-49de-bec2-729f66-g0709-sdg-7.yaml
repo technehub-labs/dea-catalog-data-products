@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: SDG 7.2.1 Renewable energy share in transport (RES-T)
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/11cc627d-cf8c-49de-bec2-729f66a0639a (data.europa.eu
-      dataset 11cc627d-cf8c-49de-bec2-729f66a0639a; publisher: Sustainable Energy Authority of Ireland)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/11cc627d-cf8c-49de-bec2-729f66a0639a
+      (data.europa.eu dataset 11cc627d-cf8c-49de-bec2-729f66a0639a; publisher: Sustainable
+      Energy Authority of Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ustainable-nergy-uth
 slug: 11cc627d-cf8c-49de-bec2-729f66-g0709-sdg-7
+assigned_id: dea:data-product-11cc627d-cf8c-49de-bec2-729f66-g0709-sdg-7-pc5npr
+admitted: '2026-11-14'

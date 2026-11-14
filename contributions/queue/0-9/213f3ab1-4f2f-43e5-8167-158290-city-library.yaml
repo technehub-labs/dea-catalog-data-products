@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 213f3ab1-4f2f-43e5-8167-158290b520f5
 name: City library statistics (Bretten)
-description: Statistics of the city library Bretten on opening hours, visitors, borrowing, new reader
-  registrations - figures
+description: Statistics of the city library Bretten on opening hours, visitors, borrowing,
+  new reader registrations - figures
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/213f3ab1-4f2f-43e5-8167-158290b520f5 (data.europa.eu
-      dataset 213f3ab1-4f2f-43e5-8167-158290b520f5; publisher: Stadt Bretten)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/213f3ab1-4f2f-43e5-8167-158290b520f5
+      (data.europa.eu dataset 213f3ab1-4f2f-43e5-8167-158290b520f5; publisher: Stadt
+      Bretten)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadt-retten
 slug: 213f3ab1-4f2f-43e5-8167-158290-city-library
+assigned_id: dea:data-product-213f3ab1-4f2f-43e5-8167-158290-city-library-9au4mm
+admitted: '2026-11-14'

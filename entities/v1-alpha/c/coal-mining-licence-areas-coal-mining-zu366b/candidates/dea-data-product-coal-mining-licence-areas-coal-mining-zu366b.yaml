@@ -1,0 +1,43 @@
+id: dea:data-product-coal-mining-licence-areas-coal-mining-zu366b
+type: DataProduct
+name: Coal Mining Licence Areas
+description: 'Upon privatisation of the coal industry in 1994 the Coal Authority was
+  set up to take over a number of British Coal’s responsibilities; however these did
+  not include the physical extraction of coal. It is the statutory responsibility
+  of the Coal Authority to licence and monitor the extraction of coal by private operators.
+  These Licence areas relate to any granted licence for the working of coal since
+  the creation of The Coal Authority in October 1994. Any activity which intersects,
+  disturbs or enters any of the Coal Authority’s coal interests requires our prior
+  written authorisation. The following activities require a Licence or Agreement from
+  the Coal Authority: - the mining of coal - exploration for coal or deep drilling
+  through coal for other purposes (e.g. water abstraction) - underground coal gasification
+  - digging and carrying away of coal during non-coal mining related activities (incidental
+  coal) - exploration and exploitation of coal methane'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/coal-mining-licence-areas (data.europa.eu
+      dataset coal-mining-licence-areas; publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- cottish-overnment-pa

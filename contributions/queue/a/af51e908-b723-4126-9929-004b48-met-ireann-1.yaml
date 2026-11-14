@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu af51e908-b723-4126-9929-004b48d79b80
 name: Met Éireann 1981-2010 Climate averages
-description: This data resource contains 30 year climate averages for temperature in degrees Celsius,
-  relative humidity as a percentage, sunshine (hours), rainfall in mm, wind in knots, and weather (mean
-  number of days of...).
+description: This data resource contains 30 year climate averages for temperature
+  in degrees Celsius, relative humidity as a percentage, sunshine (hours), rainfall
+  in mm, wind in knots, and weather (mean number of days of...).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/af51e908-b723-4126-9929-004b48d79b80 (data.europa.eu
-      dataset af51e908-b723-4126-9929-004b48d79b80; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/af51e908-b723-4126-9929-004b48d79b80
+      (data.europa.eu dataset af51e908-b723-4126-9929-004b48d79b80; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: af51e908-b723-4126-9929-004b48-met-ireann-1
+assigned_id: dea:data-product-af51e908-b723-4126-9929-004b48-met-ireann-1-s6ne5c
+admitted: '2026-11-14'

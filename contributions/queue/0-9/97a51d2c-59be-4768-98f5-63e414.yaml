@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 97a51d2c-59be-4768-98f5-63e4147c65c4
 name: Θέσεις Στάσης/Στάθμευσης Ταξί
-description: Το σύνολο δεδομένων περιέχει πληροφορίες για τις πιάτσες ταξί που βρίσκονται στην περιοχή
-  αρμοδιότητας του ΟΑΣΑ. Περιλαμβάνονται οι πληροφορίες της ονομασίας του σημείου και της περιοχής στην
-  οποία βρίσκεται.
+description: Το σύνολο δεδομένων περιέχει πληροφορίες για τις πιάτσες ταξί που βρίσκονται
+  στην περιοχή αρμοδιότητας του ΟΑΣΑ. Περιλαμβάνονται οι πληροφορίες της ονομασίας
+  του σημείου και της περιοχής στην οποία βρίσκεται.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/97a51d2c-59be-4768-98f5-63e4147c65c4 (data.europa.eu
-      dataset 97a51d2c-59be-4768-98f5-63e4147c65c4; publisher: OASA S.A.)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/97a51d2c-59be-4768-98f5-63e4147c65c4
+      (data.europa.eu dataset 97a51d2c-59be-4768-98f5-63e4147c65c4; publisher: OASA
+      S.A.)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: 97a51d2c-59be-4768-98f5-63e414
+assigned_id: dea:data-product-97a51d2c-59be-4768-98f5-63e414-jv4r8w
+admitted: '2026-11-14'

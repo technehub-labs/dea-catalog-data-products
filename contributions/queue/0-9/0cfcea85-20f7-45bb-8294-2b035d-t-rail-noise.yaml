@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Rail Noise - Tag transferred to INSPIRE Human Health
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/0cfcea85-20f7-45bb-8294-2b035d965476 (data.europa.eu
-      dataset 0cfcea85-20f7-45bb-8294-2b035d965476; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/0cfcea85-20f7-45bb-8294-2b035d965476
+      (data.europa.eu dataset 0cfcea85-20f7-45bb-8294-2b035d965476; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: 0cfcea85-20f7-45bb-8294-2b035d-t-rail-noise
+assigned_id: dea:data-product-0cfcea85-20f7-45bb-8294-2b035d-t-rail-noise-rmvsga
+admitted: '2026-11-14'

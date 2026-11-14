@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 53699ee0a3a729239d205fbf
 name: OMTA Service Regulation
-description: The regulation of the Oise Mobility Adapted Transport (OMTA) service, sets out the procedures
-  for taking care of transport by the Department of Persons with Disabilities
+description: The regulation of the Oise Mobility Adapted Transport (OMTA) service,
+  sets out the procedures for taking care of transport by the Department of Persons
+  with Disabilities
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/53699ee0a3a729239d205fbf (data.europa.eu dataset
-      53699ee0a3a729239d205fbf; publisher: Conseil général de l''Oise)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/53699ee0a3a729239d205fbf (data.europa.eu
+      dataset 53699ee0a3a729239d205fbf; publisher: Conseil général de l''Oise)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - onseil-gnral-de-lise
 slug: 53699ee0a3a729239d205fbf-omta-service
+assigned_id: dea:data-product-53699ee0a3a729239d205fbf-omta-service-khrtm4
+admitted: '2026-11-14'

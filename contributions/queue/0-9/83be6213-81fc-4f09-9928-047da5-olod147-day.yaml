@@ -1,18 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 83be6213-81fc-4f09-9928-047da504eb3a
-name: OLOD147 - Day-to-day actions done to protect the environment by principal economic status
-description: Day-to-day actions done to protect the environment by principal economic status
+name: OLOD147 - Day-to-day actions done to protect the environment by principal economic
+  status
+description: Day-to-day actions done to protect the environment by principal economic
+  status
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/83be6213-81fc-4f09-9928-047da504eb3a (data.europa.eu
-      dataset 83be6213-81fc-4f09-9928-047da504eb3a; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/83be6213-81fc-4f09-9928-047da504eb3a
+      (data.europa.eu dataset 83be6213-81fc-4f09-9928-047da504eb3a; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: 83be6213-81fc-4f09-9928-047da5-olod147-day
+assigned_id: dea:data-product-83be6213-81fc-4f09-9928-047da5-olod147-day-gzrjhn
+admitted: '2026-11-14'

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: 'The MDB Covid-19 Guarantee Scheme: An ex-post assessment'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/62b6c9f1-eba0-46c8-91b1-857bd1d261c1 (data.europa.eu
-      dataset 62b6c9f1-eba0-46c8-91b1-857bd1d261c1; publisher: Malta Development Bank)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/62b6c9f1-eba0-46c8-91b1-857bd1d261c1
+      (data.europa.eu dataset 62b6c9f1-eba0-46c8-91b1-857bd1d261c1; publisher: Malta
+      Development Bank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - alta-evelopment-ank
 slug: 62b6c9f1-eba0-46c8-91b1-857bd1-the-mdb-covi
+assigned_id: dea:data-product-62b6c9f1-eba0-46c8-91b1-857bd1-the-mdb-covi-3qzk3q
+admitted: '2026-11-14'

@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu 67b5ab44d010de45b8ffae71
 name: DSP Transport Essential Data
-description: In the context of Order ECOM2235716A of 22/12/2022 – These data are to be published every
-  year, within 2 months of the anniversary date of the contract / these data are only provided from the
-  first year of performance of the concession contract. The data cover the period 2024.
+description: In the context of Order ECOM2235716A of 22/12/2022 – These data are to
+  be published every year, within 2 months of the anniversary date of the contract
+  / these data are only provided from the first year of performance of the concession
+  contract. The data cover the period 2024.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/67b5ab44d010de45b8ffae71 (data.europa.eu dataset
-      67b5ab44d010de45b8ffae71; publisher: Communauté d''Agglomération du Niortais)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/67b5ab44d010de45b8ffae71 (data.europa.eu
+      dataset 67b5ab44d010de45b8ffae71; publisher: Communauté d''Agglomération du
+      Niortais)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ommunaut-dgglomratio
 slug: 67b5ab44d010de45b8ffae71-dsp-transpor
+assigned_id: dea:data-product-67b5ab44d010de45b8ffae71-dsp-transpor-t65ke6
+admitted: '2026-11-14'
