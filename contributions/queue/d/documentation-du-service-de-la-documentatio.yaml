@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu documentation-du-service-de-la-navigation-fluviale
 name: Documentation of the River Navigation Service
-description: Documentation of the River Navigation Service — a published dataset in the EU Open Data Portal
-  (data.europa.eu), maintained by Service de la navigation fluviale.
+description: Documentation of the River Navigation Service — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by Service de la navigation
+  fluviale.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/documentation-du-service-de-la-navigation-fluviale
-      (data.europa.eu dataset documentation-du-service-de-la-navigation-fluviale; publisher: Service de
-      la navigation fluviale)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset documentation-du-service-de-la-navigation-fluviale;
+      publisher: Service de la navigation fluviale)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ervice-de-la-navigat
 slug: documentation-du-service-de-la-documentatio
+assigned_id: dea:data-product-documentation-du-service-de-la-documentatio-8prmdn
+admitted: '2026-11-14'

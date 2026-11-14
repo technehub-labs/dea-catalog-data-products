@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e5e57ed0-e06b-45c9-963b-29bdad3ef0d8
 name: Overview Municipal mobility concepts
-description: As part of the consultation on the promotion of local authorities for local mobility by NRW.URBAN,
-  the participating municipalities and cities in NRW were asked whether they already have a (near) mobility
-  concept. The data set provided by the Ministry of the Environment, Nature Conservation and Transport
-  of the State of North Rhine-Westphalia provides an overview of municipalities with (near) mobility concepts
-  and municipalities in which a mobility concept is being developed or where it is planned (as of December
-  2023).
+description: As part of the consultation on the promotion of local authorities for
+  local mobility by NRW.URBAN, the participating municipalities and cities in NRW
+  were asked whether they already have a (near) mobility concept. The data set provided
+  by the Ministry of the Environment, Nature Conservation and Transport of the State
+  of North Rhine-Westphalia provides an overview of municipalities with (near) mobility
+  concepts and municipalities in which a mobility concept is being developed or where
+  it is planned (as of December 2023).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e5e57ed0-e06b-45c9-963b-29bdad3ef0d8 (data.europa.eu
-      dataset e5e57ed0-e06b-45c9-963b-29bdad3ef0d8; publisher: Ministerium für Umwelt, Naturschutz und
-      Verkehr des Landes NRW)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e5e57ed0-e06b-45c9-963b-29bdad3ef0d8
+      (data.europa.eu dataset e5e57ed0-e06b-45c9-963b-29bdad3ef0d8; publisher: Ministerium
+      für Umwelt, Naturschutz und Verkehr des Landes NRW)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterium-fr-mwelt
 slug: e5e57ed0-e06b-45c9-963b-29bdad-overview-mun
+assigned_id: dea:data-product-e5e57ed0-e06b-45c9-963b-29bdad-overview-mun-r8p2jf
+admitted: '2026-11-14'

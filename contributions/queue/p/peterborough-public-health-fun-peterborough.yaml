@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu peterborough-public-health-funerals
 name: Peterborough Public Health Funerals
-description: <p>A quarterly list of public health funerals including those individuals that were known
-  to Adult Social Care.</p>
+description: <p>A quarterly list of public health funerals including those individuals
+  that were known to Adult Social Care.</p>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/peterborough-public-health-funerals (data.europa.eu
-      dataset peterborough-public-health-funerals; publisher: Cambridgeshire Insight)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/peterborough-public-health-funerals
+      (data.europa.eu dataset peterborough-public-health-funerals; publisher: Cambridgeshire
+      Insight)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ambridgeshire-nsight
 slug: peterborough-public-health-fun-peterborough
+assigned_id: dea:data-product-peterborough-public-health-fun-peterborough-fah2ya
+admitted: '2026-11-14'

@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu mobilite-avl-autobus
 name: Mobility - AVL Bus
-description: 'City of Luxembourg AVL Service Emergency messages - by bus line - by judgment - planning
-  Update Frequency: real time Bus lines 1-31, CN1-4, CSB Traces of bus lines Update Frequency: real time'
+description: 'City of Luxembourg AVL Service Emergency messages - by bus line - by
+  judgment - planning Update Frequency: real time Bus lines 1-31, CN1-4, CSB Traces
+  of bus lines Update Frequency: real time'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/mobilite-avl-autobus (data.europa.eu dataset mobilite-avl-autobus;
-      publisher: Ville de Luxembourg)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/mobilite-avl-autobus (data.europa.eu
+      dataset mobilite-avl-autobus; publisher: Ville de Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-de-uxembourg
 slug: mobilite-avl-autobus-mobility-avl
+assigned_id: dea:data-product-mobilite-avl-autobus-mobility-avl-t33a7g
+admitted: '2026-11-14'

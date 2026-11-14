@@ -1,0 +1,31 @@
+# WFD Transitional and Coastal Water Bodies Cycle 4 Classification 2025 (Full Resolution)
+
+> This is a polygon dataset showing Water Framework Directive (WFD) Transitional (Estuary) and Coastal Water Bodies. This dataset provides attribution on the 2025 classification results, as well as other relevant information and data about each transitional and coastal water body. It comprises both the transitional and the coastal water bodies used for the WFD. Article 2, clause 6 of the WFD defines transitional water bodies as ‘…bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but are substantially influenced by freshwater flows’. They are also referred to as estuaries. Transitional water bodies were defined from Mean High Water boundaries, taken directly from OS OpenMap - Local data, and Environment Agency estuarine boundaries defined for the Urban Waste Water Treatment Directive (UWWTD). Article 2, clause 7 of the WFD defines coastal water bodies as ‘…a surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured, extending where appropriate up to the outer limit of transitional waters’. Coastal waters were defined by territorial waters 1 nautical mile from the Mean High Water coastline taken directly from OS OpenMap - Local data. The boundary between coastal and estuarine waters was delineated using the Environment Agency defined transitional water bodies. Water bodies are also split and assigned to River Basin Districts. There is a layer file associated with this dataset. The layer file is called WFD_Transitional_and_Coastal_Water_Bodies_Cycle_4_Classification_2025_Ecological_Class.lyrx. The layer file displays the ecological status or potential for each transitional and coastal water body. Please note that there are limitations with the shapefile format of the data. The data applies to Cycle 4 of the WFD. See the
+
+## Identity
+
+- **Record id**: `dea:data-product-wfd-transitional-and-coastal-w-wfd-transiti-ce4ar5`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/wfd-transitional-and-coastal-water-bodies-cycle-4-classification-2025-full-resolution (data.europa.eu dataset wfd-transitional-and-coastal-water-bodies-cycle-4-classification-2025-full-resolution; publisher: Environment Agency)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu gradanski-odgoj-u-skolama-2016-2017
 name: Civic education in schools
-description: Since the school year 2016/2017, the City of Rijeka has been providing pupils of higher grades
-  of primary school with the opportunity to attend the courses of Civic Education. For this program, the
-  City of Rijeka has also developed a handbook for students. Civic education is carried out according
-  to the model of the extremely successful programme "My Rijeka", as an extracurricular activity.More
-  on the programme Civic education https://www.rijeka.hr/themes-for-citizens/education-and-education/basic-schools/programs-and-projects-in-basic-schools/citizen-education/
+description: Since the school year 2016/2017, the City of Rijeka has been providing
+  pupils of higher grades of primary school with the opportunity to attend the courses
+  of Civic Education. For this program, the City of Rijeka has also developed a handbook
+  for students. Civic education is carried out according to the model of the extremely
+  successful programme "My Rijeka", as an extracurricular activity.More on the programme
+  Civic education https://www.rijeka.hr/themes-for-citizens/education-and-education/basic-schools/programs-and-projects-in-basic-schools/citizen-education/
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/gradanski-odgoj-u-skolama-2016-2017 (data.europa.eu
-      dataset gradanski-odgoj-u-skolama-2016-2017; publisher: Grad Rijeka)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/gradanski-odgoj-u-skolama-2016-2017
+      (data.europa.eu dataset gradanski-odgoj-u-skolama-2016-2017; publisher: Grad
+      Rijeka)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - rad-ijeka
 slug: gradanski-odgoj-u-skolama-2016-civic-educat
+assigned_id: dea:data-product-gradanski-odgoj-u-skolama-2016-civic-educat-mf7m2n
+admitted: '2026-11-14'

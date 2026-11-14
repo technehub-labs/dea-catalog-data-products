@@ -1,0 +1,38 @@
+id: dea:data-product-michelin-restaurants-in-2015-michelin-res-bnk7tt
+type: DataProduct
+name: Michelin restaurants in 2015
+description: 'Starred restaurants of the Michelin guide 2015 - Source: ViaMichelin
+  2015 Link to interactive map: https://map.gis-gr.eu/theme/main?version=3&zoom=8&X=708580&Y=6429642&lang=fr&rotation=0&layers=1644&opacities=1&bgLayer=basemap_2015_global
+  Link to Geocatalog: https://geocatalogue.gis-gr.eu/geonetwork/srv/eng/catalog.search#/metadata/6a8860ae-4eb3-47ae-a961-5e47b0d1d5f0
+  This dataset is published in the view service (WMS) available at: https://ws.geoportail.lu/wss/service/GR_Culture_tourism_WMS/guest
+  with layer name(s): -Michelin_restaurants_2015'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/michelin-restaurants-in-2015
+      (data.europa.eu dataset michelin-restaurants-in-2015; publisher: SIG-GR @ Ministère
+      du Logement et de l''Aménagement du territoire - Département de l’aménagement
+      du territoire)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- inistre-du-ogement

@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-c2c65e5f11b844b39fd761af40736f93-sublayer-2
 name: Park and square
-description: Park and square — a published dataset in the EU Open Data Portal (data.europa.eu), maintained
-  by Ville de Roubaix.
+description: Park and square — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Ville de Roubaix.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-c2c65e5f11b844b39fd761af40736f93-sublayer-2
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-c2c65e5f11b844b39fd761af40736f93-sublayer-2;
       publisher: Ville de Roubaix)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-de-oubaix
 slug: https-www-arcgis-com-home-item-park-and-squ
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-park-and-squ-xyy94b
+admitted: '2026-11-14'

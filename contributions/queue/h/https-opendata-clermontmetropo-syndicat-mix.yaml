@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-opendata-clermontmetropole-eu-explore-dataset-gtfs-smtc-
-name: Syndicat Mixte des Transports en Commun de l'agglomération Clermontoise (SMTC-AC) - T2C Network
-  - GTFS & GTFS-RT
-description: 'Descriptive data of the transport offer (lines, stops, timetables) of the public transport
-  network implemented by T2C. The data made available shall consist of all elements from the network time
-  guide, including school lines. Geographical description: perimeter of urban transport in the agglomeration
-  of Clermont and the municipalities of Mur-sur-Allier and Pérignat-ès-Allier. Technical description:
-  theoretical data are published in [GTFS] (https://developers.google.com/transit/gtfs) and trip updates
-  in [GTFS-RT] (https://developers.google.com/transit/gtfs-realtime/guides/trip-updates?hl=en). Exclusions:
-  the data provided relate to regular and specific services (school lines) and off-line Zonal On-Demand
-  Transport.'
+name: Syndicat Mixte des Transports en Commun de l'agglomération Clermontoise (SMTC-AC)
+  - T2C Network - GTFS & GTFS-RT
+description: 'Descriptive data of the transport offer (lines, stops, timetables) of
+  the public transport network implemented by T2C. The data made available shall consist
+  of all elements from the network time guide, including school lines. Geographical
+  description: perimeter of urban transport in the agglomeration of Clermont and the
+  municipalities of Mur-sur-Allier and Pérignat-ès-Allier. Technical description:
+  theoretical data are published in [GTFS] (https://developers.google.com/transit/gtfs)
+  and trip updates in [GTFS-RT] (https://developers.google.com/transit/gtfs-realtime/guides/trip-updates?hl=en).
+  Exclusions: the data provided relate to regular and specific services (school lines)
+  and off-line Zonal On-Demand Transport.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-opendata-clermontmetropole-eu-explore-dataset-gtfs-smtc-
-      (data.europa.eu dataset https-opendata-clermontmetropole-eu-explore-dataset-gtfs-smtc-; publisher:
-      Clermont Auvergne Métropole)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-opendata-clermontmetropole-eu-explore-dataset-gtfs-smtc-;
+      publisher: Clermont Auvergne Métropole)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - lermont-uvergne-trop
 slug: https-opendata-clermontmetropo-syndicat-mix
+assigned_id: dea:data-product-https-opendata-clermontmetropo-syndicat-mix-mg4jd5
+admitted: '2026-11-14'

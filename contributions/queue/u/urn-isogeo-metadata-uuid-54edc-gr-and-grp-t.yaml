@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu urn-isogeo-metadata-uuid-54edc32d-6a4a-4f35-958a-8425555da035
 name: GR and GRP trails in the Northern Department (cd59_pdipr_gr_grp / cd59_pdipr_gr_grp_2016)
-description: 'GR (Grande Randonnée) and GRP (Grande Randonnée de Pays) trails registered with the PDIPR
-  in the Nord department. (Location: A:\catalogue\donnees_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_GR_GRP
+description: 'GR (Grande Randonnée) and GRP (Grande Randonnée de Pays) trails registered
+  with the PDIPR in the Nord department. (Location: A:\catalogue\donnees_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_GR_GRP
   // N:\documentations and product sources\project_portal\data_and_file sde\sde\prod\reference\environment@reference_prod.sde\reference.environment.cd59_pdipr_gr_grp)'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/urn-isogeo-metadata-uuid-54edc32d-6a4a-4f35-958a-8425555da035
-      (data.europa.eu dataset urn-isogeo-metadata-uuid-54edc32d-6a4a-4f35-958a-8425555da035; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset urn-isogeo-metadata-uuid-54edc32d-6a4a-4f35-958a-8425555da035;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: urn-isogeo-metadata-uuid-54edc-gr-and-grp-t
+assigned_id: dea:data-product-urn-isogeo-metadata-uuid-54edc-gr-and-grp-t-pkk2ef
+admitted: '2026-11-14'

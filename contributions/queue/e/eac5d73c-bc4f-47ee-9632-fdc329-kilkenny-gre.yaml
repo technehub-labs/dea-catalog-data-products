@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu eac5d73c-bc4f-47ee-9632-fdc32903011f
 name: Kilkenny_Greenshill Climate Data
-description: Daily and monthly climatalogical records for our station at Kilkenny_Greenshill in Co. Kilkenny.
+description: Daily and monthly climatalogical records for our station at Kilkenny_Greenshill
+  in Co. Kilkenny.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/eac5d73c-bc4f-47ee-9632-fdc32903011f (data.europa.eu
-      dataset eac5d73c-bc4f-47ee-9632-fdc32903011f; publisher: Met Éireann)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/eac5d73c-bc4f-47ee-9632-fdc32903011f
+      (data.europa.eu dataset eac5d73c-bc4f-47ee-9632-fdc32903011f; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - et-ireann
 slug: eac5d73c-bc4f-47ee-9632-fdc329-kilkenny-gre
+assigned_id: dea:data-product-eac5d73c-bc4f-47ee-9632-fdc329-kilkenny-gre-xp6aae
+admitted: '2026-11-14'

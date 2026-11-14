@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu lchs-spend-over-25k-ytd-jul-23
 name: LCHS SPEND OVER 25k YTD JUL 23
-description: LCHS SPEND OVER 25k YTD JUL 23 — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Lincolnshire Community Health Services NHS Trust.
+description: LCHS SPEND OVER 25k YTD JUL 23 — a published dataset in the EU Open Data
+  Portal (data.europa.eu), maintained by Lincolnshire Community Health Services NHS
+  Trust.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/lchs-spend-over-25k-ytd-jul-23 (data.europa.eu dataset
-      lchs-spend-over-25k-ytd-jul-23; publisher: Lincolnshire Community Health Services NHS Trust)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/lchs-spend-over-25k-ytd-jul-23
+      (data.europa.eu dataset lchs-spend-over-25k-ytd-jul-23; publisher: Lincolnshire
+      Community Health Services NHS Trust)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - incolnshire-ommunity
 slug: lchs-spend-over-25k-ytd-jul-23-lchs-spend-o
+assigned_id: dea:data-product-lchs-spend-over-25k-ytd-jul-23-lchs-spend-o-m53wrs
+admitted: '2026-11-14'

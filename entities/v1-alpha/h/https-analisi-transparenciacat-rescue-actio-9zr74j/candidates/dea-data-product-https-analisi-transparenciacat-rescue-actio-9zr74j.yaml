@@ -1,0 +1,37 @@
+id: dea:data-product-https-analisi-transparenciacat-rescue-actio-9zr74j
+type: DataProduct
+name: Rescue actions in the natural environment by Catalan Firefighters
+description: Detall de les actuacions ateses pel cos de Bombers de la Generalitat
+  de Catalunya en salvaments al medi natural (recerca i rescat en medi fluvial -rius,
+  barrancs, llacs-, recerca i rescat en medi marítim, recerca de persones perdudes,
+  rescat de muntanya, rescat en coves i pous), per regió d’emergències, comarca i
+  municipi. Dades disponibles a partir de l’any 2010.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-fsum-2k6e
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-fsum-2k6e;
+      publisher: Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eneralitat-de-atalun

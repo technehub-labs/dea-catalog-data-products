@@ -1,0 +1,33 @@
+id: dea:data-product-http-datos-apc-es-poc-ut-p-wcm-traffic-stat-6bsmyh
+type: DataProduct
+name: TRAFFIC STATISTICS 2021
+description: Summary of movement of goods Port Authority of Cartagena Year 2021
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/http-datos-apc-es-poc-ut-p-wcm-oid3aeb916db3-7906-42a5-b9d1-0077df80e758
+      (data.europa.eu dataset http-datos-apc-es-poc-ut-p-wcm-oid3aeb916db3-7906-42a5-b9d1-0077df80e758;
+      publisher: Autoridad Portuaria de Cartagena)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- utoridad-ortuaria-de

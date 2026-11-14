@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu direction-des-affaires-consulaires-et-des-relations-culturelles-internationales
 name: Consular Affairs and International Cultural Relations Directorate
-description: Consular Affairs and International Cultural Relations Directorate — a published dataset in
-  the EU Open Data Portal (data.europa.eu), maintained by Ministère des Affaires étrangères et européennes,
-  de la Défense, de la Coopération et du Commerce extérieur .
+description: Consular Affairs and International Cultural Relations Directorate — a
+  published dataset in the EU Open Data Portal (data.europa.eu), maintained by Ministère
+  des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce
+  extérieur .
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/direction-des-affaires-consulaires-et-des-relations-culturelles-internationales
       (data.europa.eu dataset direction-des-affaires-consulaires-et-des-relations-culturelles-internationales;
-      publisher: Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et
-      du Commerce extérieur )'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      publisher: Ministère des Affaires étrangères et européennes, de la Défense,
+      de la Coopération et du Commerce extérieur )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-des-ffaires
 slug: direction-des-affaires-consula-consular-aff
+assigned_id: dea:data-product-direction-des-affaires-consula-consular-aff-8uvex3
+admitted: '2026-11-14'

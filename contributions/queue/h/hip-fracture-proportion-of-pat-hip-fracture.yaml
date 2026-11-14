@@ -1,23 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu hip-fracture-proportion-of-patients-recovering-to-their-previous-levels-of-mobility-walking-abi2
-name: 'Hip fracture: Proportion of patients recovering to their previous levels of mobility / walking
-  ability at 30 days (NHSOF 3.5.i)'
-description: 'The proportion of patients, expressed as a percentage, with a hip fracture recovering to
-  their previous levels of mobility at 30 days. Purpose This indicator aims to measure how effectively
-  people recover their mobility following a hip fracture. Current version updated: Nov-16 Next version
-  due: No further updates'
+name: 'Hip fracture: Proportion of patients recovering to their previous levels of
+  mobility / walking ability at 30 days (NHSOF 3.5.i)'
+description: 'The proportion of patients, expressed as a percentage, with a hip fracture
+  recovering to their previous levels of mobility at 30 days. Purpose This indicator
+  aims to measure how effectively people recover their mobility following a hip fracture.
+  Current version updated: Nov-16 Next version due: No further updates'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/hip-fracture-proportion-of-patients-recovering-to-their-previous-levels-of-mobility-walking-abi2
       (data.europa.eu dataset hip-fracture-proportion-of-patients-recovering-to-their-previous-levels-of-mobility-walking-abi2;
       publisher: NHS Digital)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - igital
 slug: hip-fracture-proportion-of-pat-hip-fracture
+assigned_id: dea:data-product-hip-fracture-proportion-of-pat-hip-fracture-nysgwr
+admitted: '2026-11-14'

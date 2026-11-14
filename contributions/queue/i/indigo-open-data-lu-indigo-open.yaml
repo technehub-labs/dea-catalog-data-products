@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu indigo-open-data-lu
 name: indigo-open-data-lu
-description: 'Description: - This dataset provides detailed information on several urban parking lots,
-  including their basic characteristics and location. Field details: - ID: Unique identifier for each
-  parking lot. - Name: `Car park name` - Location: Geographical coordinates (''latitude'', ''longitude'')
-  indicating the position of the parking lot. - Capacity: Total number of spaces (spacesTotal). Data update:
+description: 'Description: - This dataset provides detailed information on several
+  urban parking lots, including their basic characteristics and location. Field details:
+  - ID: Unique identifier for each parking lot. - Name: `Car park name` - Location:
+  Geographical coordinates (''latitude'', ''longitude'') indicating the position of
+  the parking lot. - Capacity: Total number of spaces (spacesTotal). Data update:
   Data is updated daily. Data usage: - Open Data Commons Open Database License (ODbL)'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/indigo-open-data-lu (data.europa.eu dataset indigo-open-data-lu;
-      publisher: Group INDIGO)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/indigo-open-data-lu (data.europa.eu
+      dataset indigo-open-data-lu; publisher: Group INDIGO)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - roup
 slug: indigo-open-data-lu-indigo-open
+assigned_id: dea:data-product-indigo-open-data-lu-indigo-open-fpbyhs
+admitted: '2026-11-14'

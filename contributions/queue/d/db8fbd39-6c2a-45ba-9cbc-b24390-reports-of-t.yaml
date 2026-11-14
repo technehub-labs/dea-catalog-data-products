@@ -1,23 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu db8fbd39-6c2a-45ba-9cbc-b24390405970
-name: Reports of the Department of Transport Infrastructure of the Kyiv City State Administration
-description: 'Reports on implementation: - decision of the Kyiv City Council dated 05.03.2019 No. 183/6839
-  "On approval of the City target program of outdoor lighting of the city of Kyiv for the period 2019-2022"
-  for 9 months of 2019 - decision of the Kyiv City Council dated 15.05.2019 No. 542/7198 "On approval
-  of the City Target Program for improving the organization and safety of road traffic in Kyiv until 2022"
-  - decision of the Kyiv City Council dated November 14, 2019 No. 222/7795 "On approval of the City Target
-  Program for the Development of the Transport Infrastructure of the City of Kyiv for 2019 - 2023"'
+name: Reports of the Department of Transport Infrastructure of the Kyiv City State
+  Administration
+description: 'Reports on implementation: - decision of the Kyiv City Council dated
+  05.03.2019 No. 183/6839 "On approval of the City target program of outdoor lighting
+  of the city of Kyiv for the period 2019-2022" for 9 months of 2019 - decision of
+  the Kyiv City Council dated 15.05.2019 No. 542/7198 "On approval of the City Target
+  Program for improving the organization and safety of road traffic in Kyiv until
+  2022" - decision of the Kyiv City Council dated November 14, 2019 No. 222/7795 "On
+  approval of the City Target Program for the Development of the Transport Infrastructure
+  of the City of Kyiv for 2019 - 2023"'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/db8fbd39-6c2a-45ba-9cbc-b24390405970 (data.europa.eu
-      dataset db8fbd39-6c2a-45ba-9cbc-b24390405970; publisher: Департамент транспортної інфраструктури
-      виконавчого органу Київської міської ради (Київської міської державної адміністрації))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/db8fbd39-6c2a-45ba-9cbc-b24390405970
+      (data.europa.eu dataset db8fbd39-6c2a-45ba-9cbc-b24390405970; publisher: Департамент
+      транспортної інфраструктури виконавчого органу Київської міської ради (Київської
+      міської державної адміністрації))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: db8fbd39-6c2a-45ba-9cbc-b24390-reports-of-t
+assigned_id: dea:data-product-db8fbd39-6c2a-45ba-9cbc-b24390-reports-of-t-vyqp3v
+admitted: '2026-11-14'

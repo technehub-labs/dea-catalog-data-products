@@ -1,0 +1,41 @@
+id: dea:data-product-freedom-of-information-foi-sta-freedom-of-i-k9hhth
+type: DataProduct
+name: Freedom of Information (FOI) Statistics - Environment Agency
+description: 'Annual statistics of the Environment Agency''s Freedom of Information
+  (FOI) requests. This dataset will be updated annually with data from 2021/2022;
+  2022/2023; 2023/2024. Yearly (1st April - 31st March) Data shows: Total requests
+  received Total requests closed Total requests closed within statutory timescale
+  Total requests closed outside statutory timescale Total closed requests where information
+  was granted in full Total closed requests where information was withheld in full
+  Total closed requests where information was partially provided Total internal reviews
+  received Attribution statement: © Environment Agency copyright and/or database right
+  2024. All rights reserved.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/freedom-of-information-foi-statistics-environment-agency
+      (data.europa.eu dataset freedom-of-information-foi-statistics-environment-agency;
+      publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- nvironment-gency

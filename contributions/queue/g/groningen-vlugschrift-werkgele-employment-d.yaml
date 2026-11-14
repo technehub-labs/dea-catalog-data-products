@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu groningen-vlugschrift-werkgelegenheid
 name: Employment development
-description: The leaflets describe the development of employment and the number of branches in the municipality
-  of Groningen. The data come from the annual employment survey of the Groningen Register of Establishments
-  for Research and Statistics. Data is collected from all locations. The data are updated retroactively
-  and are therefore not comparable to those described in previous versions.
+description: The leaflets describe the development of employment and the number of
+  branches in the municipality of Groningen. The data come from the annual employment
+  survey of the Groningen Register of Establishments for Research and Statistics.
+  Data is collected from all locations. The data are updated retroactively and are
+  therefore not comparable to those described in previous versions.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/groningen-vlugschrift-werkgelegenheid (data.europa.eu
-      dataset groningen-vlugschrift-werkgelegenheid; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/groningen-vlugschrift-werkgelegenheid
+      (data.europa.eu dataset groningen-vlugschrift-werkgelegenheid; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: groningen-vlugschrift-werkgele-employment-d
+assigned_id: dea:data-product-groningen-vlugschrift-werkgele-employment-d-zvu468
+admitted: '2026-11-14'

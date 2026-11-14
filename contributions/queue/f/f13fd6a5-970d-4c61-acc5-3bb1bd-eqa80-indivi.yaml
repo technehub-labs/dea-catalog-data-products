@@ -1,18 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu f13fd6a5-970d-4c61-acc5-3bb1bdeb6915
-name: EQA80 - Individuals who experienced discrimination in accessing/using transport services
-description: Individuals who experienced discrimination in accessing/using transport services
+name: EQA80 - Individuals who experienced discrimination in accessing/using transport
+  services
+description: Individuals who experienced discrimination in accessing/using transport
+  services
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/f13fd6a5-970d-4c61-acc5-3bb1bdeb6915 (data.europa.eu
-      dataset f13fd6a5-970d-4c61-acc5-3bb1bdeb6915; publisher: Central Statistics Office)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/f13fd6a5-970d-4c61-acc5-3bb1bdeb6915
+      (data.europa.eu dataset f13fd6a5-970d-4c61-acc5-3bb1bdeb6915; publisher: Central
+      Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entral-tatistics-ffi
 slug: f13fd6a5-970d-4c61-acc5-3bb1bd-eqa80-indivi
+assigned_id: dea:data-product-f13fd6a5-970d-4c61-acc5-3bb1bd-eqa80-indivi-rd5ude
+admitted: '2026-11-14'

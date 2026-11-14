@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-fsum-2k6e
 name: Rescue actions in the natural environment by Catalan Firefighters
-description: Detall de les actuacions ateses pel cos de Bombers de la Generalitat de Catalunya en salvaments
-  al medi natural (recerca i rescat en medi fluvial -rius, barrancs, llacs-, recerca i rescat en medi
-  marítim, recerca de persones perdudes, rescat de muntanya, rescat en coves i pous), per regió d’emergències,
-  comarca i municipi. Dades disponibles a partir de l’any 2010.
+description: Detall de les actuacions ateses pel cos de Bombers de la Generalitat
+  de Catalunya en salvaments al medi natural (recerca i rescat en medi fluvial -rius,
+  barrancs, llacs-, recerca i rescat en medi marítim, recerca de persones perdudes,
+  rescat de muntanya, rescat en coves i pous), per regió d’emergències, comarca i
+  municipi. Dades disponibles a partir de l’any 2010.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-fsum-2k6e
-      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-fsum-2k6e; publisher:
-      Generalitat de Catalunya)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-fsum-2k6e;
+      publisher: Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eneralitat-de-atalun
 slug: https-analisi-transparenciacat-rescue-actio
+assigned_id: dea:data-product-https-analisi-transparenciacat-rescue-actio-9zr74j
+admitted: '2026-11-14'

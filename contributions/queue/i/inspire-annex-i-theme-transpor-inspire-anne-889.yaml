@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu inspire-annex-i-theme-transport-networks-tramway-stations
 name: INSPIRE - Annex I Theme Transport Networks - Tram stations
-description: The dataset represents the tramway transport stations as coordinated by the Verkéiersverbond.
-  The updated data can be viewed on the geoportal (http://g-o.lu/3/jOPk). Description copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/7d5e46e9-6da8-4ca4-b5d6-eca3a445dfc6).
+description: The dataset represents the tramway transport stations as coordinated
+  by the Verkéiersverbond. The updated data can be viewed on the geoportal (http://g-o.lu/3/jOPk).
+  Description copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/7d5e46e9-6da8-4ca4-b5d6-eca3a445dfc6).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/inspire-annex-i-theme-transport-networks-tramway-stations
-      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-tramway-stations; publisher: Géoportail)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-tramway-stations;
+      publisher: Géoportail)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oportail
 slug: inspire-annex-i-theme-transpor-inspire-anne-889
+assigned_id: dea:data-product-inspire-annex-i-theme-transpor-inspire-anne-889-k88ev9
+admitted: '2026-11-14'

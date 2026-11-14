@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu tous-les-sentiers-de-randonnee
 name: All hiking trails
-description: All hiking trails — a published dataset in the EU Open Data Portal (data.europa.eu), maintained
-  by Ministère de l'Economie - Direction générale du tourisme.
+description: All hiking trails — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Ministère de l'Economie - Direction générale du tourisme.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/tous-les-sentiers-de-randonnee (data.europa.eu dataset
-      tous-les-sentiers-de-randonnee; publisher: Ministère de l''Economie - Direction générale du tourisme)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/tous-les-sentiers-de-randonnee
+      (data.europa.eu dataset tous-les-sentiers-de-randonnee; publisher: Ministère
+      de l''Economie - Direction générale du tourisme)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-de-lconomie
 slug: tous-les-sentiers-de-randonnee-all-hiking-t
+assigned_id: dea:data-product-tous-les-sentiers-de-randonnee-all-hiking-t-qd8kg2
+admitted: '2026-11-14'

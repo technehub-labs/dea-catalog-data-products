@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-3880-statystyka-mieszkancow-gminy-nowa-wies-leborska-wg
 name: Statystyka mieszkańców gminy Nowa Wieś Lęborska wg wieku i płci 2021
-description: '<p>Wiek / Rocznik </p> <p>Mężczyźni Stali </p> <p>Mężczyźni Czasowi </p> <p>Mężczyźni Razem
-  </p> <p>Kobiety Stałe </p> <p>Kobiety Czasowe </p> <p>Kobiety Razem </p> <p>Wszyscy Stali </p> <p>Wszyscy
-  Czasowi </p> <p>Wszyscy Razem</p> <p>Dane i wykres: https://www.nwl.pl/otwarte-dane/mieszkancy/statystyka-mieszkancow-wg-wieku-i-plci/2021/</p>'
+description: '<p>Wiek / Rocznik </p> <p>Mężczyźni Stali </p> <p>Mężczyźni Czasowi
+  </p> <p>Mężczyźni Razem </p> <p>Kobiety Stałe </p> <p>Kobiety Czasowe </p> <p>Kobiety
+  Razem </p> <p>Wszyscy Stali </p> <p>Wszyscy Czasowi </p> <p>Wszyscy Razem</p> <p>Dane
+  i wykres: https://www.nwl.pl/otwarte-dane/mieszkancy/statystyka-mieszkancow-wg-wieku-i-plci/2021/</p>'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-3880-statystyka-mieszkancow-gminy-nowa-wies-leborska-wg
       (data.europa.eu dataset https-dane-gov-pl-pl-dataset-3880-statystyka-mieszkancow-gminy-nowa-wies-leborska-wg;
       publisher: Urząd Gminy w Nowej Wsi Lęborskiej)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - rzd-miny-w-owej-si-b
 slug: https-dane-gov-pl-pl-dataset-3-statystyka-m
+assigned_id: dea:data-product-https-dane-gov-pl-pl-dataset-3-statystyka-m-kp4dar
+admitted: '2026-11-14'

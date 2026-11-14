@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https-dadesobertes-santboi-cat-maps-santboi-pressupost-ingressos-any-2022
       (data.europa.eu dataset https-dadesobertes-santboi-cat-maps-santboi-pressupost-ingressos-any-2022;
       publisher: Ayuntamiento de Sant Boi de Llobregat)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-ant-o
 slug: https-dadesobertes-santboi-cat-budget-incom-992
+assigned_id: dea:data-product-https-dadesobertes-santboi-cat-budget-incom-992-6a5umq
+admitted: '2026-11-14'

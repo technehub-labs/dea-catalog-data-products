@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-opendata-vlci-valencia-es-dataset-c4bbe337-5766-4233-9c14-efd108acbe2b
 name: Areas of reduced mobility
-description: 'Location of the zones de mobilitat reduïda a la ciutat de València. Font: Geoportal https://geoportal.valencia.es/apps/GeoportalHome/en/start/geodata-open'
+description: 'Location of the zones de mobilitat reduïda a la ciutat de València.
+  Font: Geoportal https://geoportal.valencia.es/apps/GeoportalHome/en/start/geodata-open'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-opendata-vlci-valencia-es-dataset-c4bbe337-5766-4233-9c14-efd108acbe2b
       (data.europa.eu dataset https-opendata-vlci-valencia-es-dataset-c4bbe337-5766-4233-9c14-efd108acbe2b;
       publisher: Ayuntamiento de Valencia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-alenc
 slug: https-opendata-vlci-valencia-e-areas-of-red
+assigned_id: dea:data-product-https-opendata-vlci-valencia-e-areas-of-red-y7je3n
+admitted: '2026-11-14'

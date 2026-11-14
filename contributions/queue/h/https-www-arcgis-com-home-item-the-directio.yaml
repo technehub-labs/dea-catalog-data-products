@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-8a087b4a3e244655820404dda4000d5b-sublayer-1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-8a087b4a3e244655820404dda4000d5b-sublayer-1;
       publisher: Ville d''Argenteuil)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-drgenteuil
 slug: https-www-arcgis-com-home-item-the-directio
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-the-directio-zbj52p
+admitted: '2026-11-14'

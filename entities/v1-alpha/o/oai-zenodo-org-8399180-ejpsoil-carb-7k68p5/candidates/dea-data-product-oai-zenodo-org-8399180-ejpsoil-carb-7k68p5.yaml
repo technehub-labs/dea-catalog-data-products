@@ -1,0 +1,40 @@
+id: dea:data-product-oai-zenodo-org-8399180-ejpsoil-carb-7k68p5
+type: DataProduct
+name: EJPSOIL CarboSeq agrometeorological datasets
+description: 'Abstract The gridded dataset includes the monthly time series of the
+  precipitation, temperature and reference evapotranspiration variables derived from
+  AgERA5 daily and AgERA5_ET0 monthly data, with a spatial resolution of 10 kilometers,
+  covering the area interested by the project, for the period 1979-2022. Data is provided
+  as .tif files with their corresponding .rts files (SpatRasterTS object in R). Attached
+  content The following ZIP archives containing the spatial raster time series are
+  provided: ag5_2m_temperature_rts_monthly_19792022_EPSG3035.zip ag5_precipitation_flux_rts_monthly_19792022_EPSG3035.zip
+  ag5_et0_rts_monthly_19792022_EPSG3035.zip In addition a document with a short description
+  of data processing is provided.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-8399180 (data.europa.eu
+      dataset oai-zenodo-org-8399180; publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- enodo

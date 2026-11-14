@@ -1,0 +1,37 @@
+id: dea:data-product-https-datosabiertos-jcyl-es-we-statistics-a-84zgdj
+type: DataProduct
+name: Statistics - Agriculture
+description: Basic data on agricultural holdings, agricultural areas, family members
+  working in agricultural holdings, gross margin of agricultural holdings, agricultural
+  machinery and livestock units in Castilla y León broken down by year and municipality.
+  These data are offered by the where other queries can also be made about births,
+  databases and other thematic modules. In addition, the EIS provides a .
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-rural-pesca-agricultura-1284801509249
+      (data.europa.eu dataset https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-rural-pesca-agricultura-1284801509249;
+      publisher: Junta de Castilla y León)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- unta-de-astilla-y-en

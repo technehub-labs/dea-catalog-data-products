@@ -1,0 +1,47 @@
+id: dea:data-product-s2166-88-4-471-eng-special-euro-vtehex
+type: DataProduct
+name: 'Special Eurobarometer 471: Fairness, inequality and inter-generational mobility'
+description: 'Rising perceptions of unfairness, coupled with political, social and
+  economic challenges, can undermine the solidarity, cohesion and mutual understanding
+  that are necessary for the EU to function effectively in the interest of its citizens.
+  In this context, the European Commission has conducted a Special Eurobarometer to
+  better understand citizens'' views on fairness and inequality and factors influencing
+  their perceptions. It also provides information on Europeans'' inter-generational
+  social mobility. This Special Eurobarometer shows that European Union citizens believe
+  that what happens in their life and the decisions concerning them are fair. At an
+  individual level, Europeans generally perceive life as just. Yet, such feelings
+  change substantially when fairness is assessed at country level and when specific
+  aspects of life are concerned. #####The results by volumes are distributed as follows:
+  * Volume A: Countries * Volume AA: Groups of countries * Volume A'' (AP): Trends
+  * Volume AA'' (AAP): Trends of groups of countries * Volume B: EU/socio-demographics
+  * Volume B'' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics
+  ---- Researchers may also contact GESIS - Leibniz Institute for the Social Sciences:
+  [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/s2166_88_4_471_eng (data.europa.eu
+      dataset s2166_88_4_471_eng; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- irectorateeneral-for

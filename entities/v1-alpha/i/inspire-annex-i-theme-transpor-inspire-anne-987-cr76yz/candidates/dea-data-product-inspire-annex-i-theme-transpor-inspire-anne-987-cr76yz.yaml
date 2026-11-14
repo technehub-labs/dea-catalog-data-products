@@ -1,0 +1,39 @@
+id: dea:data-product-inspire-annex-i-theme-transpor-inspire-anne-987-cr76yz
+type: DataProduct
+name: INSPIRE - Annex I Theme Transport Networks - Roads - RoadLink
+description: This dataset contains the roads of the Grand Duchy of Luxembourg. The
+  dataset is structured according to the INSPIRE Annex I Theme - Transport networks.
+  The data has been derived from the BD-LTC Database and contains road links with
+  the European roads code, the national roads code, the national roads name, the number
+  of lanes, the roads width, the form of ways, the vertical position, the conditions
+  of facility and the functional road classes information. Description copied from
+  [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/57e7e401-8513-4562-bffe-78c26f5a2df7).
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/inspire-annex-i-theme-transport-networks-roads-roadlink-4
+      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-roads-roadlink-4;
+      publisher: Géoportail)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- oportail

@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu donnees-statistiques-du-secteur-de-gaz-naturel-ilr
 name: Statistical data of the natural gas sector (ILR)
-description: This dataset documents developments in the natural gas market (distribution and supply) in
-  Luxembourg. It is mainly aimed at national and international statistical and economic bodies, as well
-  as professionals in the sector and consumers. The data represent a comprehensive resource for the analysis
-  of different aspects of the Luxembourg natural gas market. The Institute collects data from network
-  operators and gas suppliers and compiles statistics as part of its monitoring mission. The dataset covers
-  various topics such as infrastructure, consumption, production, prices, customer data, imports and the
-  wholesale market. The information is also accessible via an interactive table proposed by the Institute.
+description: This dataset documents developments in the natural gas market (distribution
+  and supply) in Luxembourg. It is mainly aimed at national and international statistical
+  and economic bodies, as well as professionals in the sector and consumers. The data
+  represent a comprehensive resource for the analysis of different aspects of the
+  Luxembourg natural gas market. The Institute collects data from network operators
+  and gas suppliers and compiles statistics as part of its monitoring mission. The
+  dataset covers various topics such as infrastructure, consumption, production, prices,
+  customer data, imports and the wholesale market. The information is also accessible
+  via an interactive table proposed by the Institute.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/donnees-statistiques-du-secteur-de-gaz-naturel-ilr
-      (data.europa.eu dataset donnees-statistiques-du-secteur-de-gaz-naturel-ilr; publisher: Institut
-      Luxembourgeois de Régulation (ILR))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset donnees-statistiques-du-secteur-de-gaz-naturel-ilr;
+      publisher: Institut Luxembourgeois de Régulation (ILR))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nstitut-uxembourgeoi
 slug: donnees-statistiques-du-secteu-statistical
+assigned_id: dea:data-product-donnees-statistiques-du-secteu-statistical-wj2mtd
+admitted: '2026-11-14'

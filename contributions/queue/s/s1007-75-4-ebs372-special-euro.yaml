@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu s1007_75_4_ebs372
 name: 'Special Eurobarometer 372: Social Climate'
-description: 'The Special Eurobarometer surveys on the social climate cover 15 areas and asks respondents
-  to assess, for each of these areas, the current situation, how the situation has evolved over the past
-  five years and how they expect it to change over the coming year. Three waves have been conducted: the
-  first wave was conducted in 2009 (Special EB 315), the second wave in 2010 (Special EB 349) and the
-  third wave in 2011 (Special EB 370) . Even though the impact of the crisis is still being felt, overall
-  some improvement has been observed in 2011. #####The results by volumes are distributed as follows:
-  * Volume A: Countries * Volume AA: Groups of countries * Volume A'' (AP): Trends * Volume AA'' (AAP):
-  Trends of groups of countries * Volume B: EU/socio-demographics * Volume B'' (BP) : Trends of EU/ socio-demographics
-  * Volume C: Country/socio-demographics ---- Researchers may also contact GESIS - Leibniz Institute for
-  the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+description: 'The Special Eurobarometer surveys on the social climate cover 15 areas
+  and asks respondents to assess, for each of these areas, the current situation,
+  how the situation has evolved over the past five years and how they expect it to
+  change over the coming year. Three waves have been conducted: the first wave was
+  conducted in 2009 (Special EB 315), the second wave in 2010 (Special EB 349) and
+  the third wave in 2011 (Special EB 370) . Even though the impact of the crisis is
+  still being felt, overall some improvement has been observed in 2011. #####The results
+  by volumes are distributed as follows: * Volume A: Countries * Volume AA: Groups
+  of countries * Volume A'' (AP): Trends * Volume AA'' (AAP): Trends of groups of
+  countries * Volume B: EU/socio-demographics * Volume B'' (BP) : Trends of EU/ socio-demographics
+  * Volume C: Country/socio-demographics ---- Researchers may also contact GESIS -
+  Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/s1007_75_4_ebs372 (data.europa.eu dataset s1007_75_4_ebs372;
-      publisher: Directorate-General for Communication)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/s1007_75_4_ebs372 (data.europa.eu
+      dataset s1007_75_4_ebs372; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - irectorateeneral-for
 slug: s1007-75-4-ebs372-special-euro
+assigned_id: dea:data-product-s1007-75-4-ebs372-special-euro-6bbu74
+admitted: '2026-11-14'

@@ -1,0 +1,38 @@
+id: dea:data-product-eea72795-4307-4096-9dc3-1dc919-daily-rainfa-5q5ab3
+type: DataProduct
+name: Daily rainfall totals from 1941 to 2022
+description: Daily rainfall totals are expressed in millimetres (mm) and are collated
+  by year from 1941 to 2022. The daily rainfall total is presented without a decimal
+  point. For example, a value of 123 is equivalent to a daily rainfall total of 12.3
+  mm. The number of stations available for rainfall gridding analysis varies each
+  year, from 436 stations in 2020 to 519 stations in 2014. The average number of stations
+  available each year was around 488. While in 2021 there were up to 455 stations.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/eea72795-4307-4096-9dc3-1dc919783e2e
+      (data.europa.eu dataset eea72795-4307-4096-9dc3-1dc919783e2e; publisher: Met
+      Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- et-ireann

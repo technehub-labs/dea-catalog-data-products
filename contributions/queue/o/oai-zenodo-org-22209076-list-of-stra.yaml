@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-zenodo-org-22209076
 name: List of strains of interest_HealthFerm project
-description: This is the list of strains of interest screened within the Healthferm project, WP1, task
-  1.2 activities. This is part of the deliverable D1.2 "Deeply phenotyped strains and consortia optimised
-  for healthy food fermentations".
+description: This is the list of strains of interest screened within the Healthferm
+  project, WP1, task 1.2 activities. This is part of the deliverable D1.2 "Deeply
+  phenotyped strains and consortia optimised for healthy food fermentations".
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-22209076 (data.europa.eu dataset oai-zenodo-org-22209076;
-      publisher: Zenodo)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-22209076 (data.europa.eu
+      dataset oai-zenodo-org-22209076; publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - enodo
 slug: oai-zenodo-org-22209076-list-of-stra
+assigned_id: dea:data-product-oai-zenodo-org-22209076-list-of-stra-fr7f7g
+admitted: '2026-11-14'

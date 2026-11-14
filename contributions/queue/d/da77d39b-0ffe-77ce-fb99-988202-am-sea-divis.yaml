@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu da77d39b-0ffe-77ce-fb99-988202f1e37d
 name: AM.Sea division according to the Marine Environment Ordinance Management areas.WMS
-description: Information service (WMS) for the data set Marine Environment Classification according to
-  the Marine Environment Ordinance Management Areas
+description: Information service (WMS) for the data set Marine Environment Classification
+  according to the Marine Environment Ordinance Management Areas
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/da77d39b-0ffe-77ce-fb99-988202f1e37d (data.europa.eu
-      dataset da77d39b-0ffe-77ce-fb99-988202f1e37d; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/da77d39b-0ffe-77ce-fb99-988202f1e37d
+      (data.europa.eu dataset da77d39b-0ffe-77ce-fb99-988202f1e37d; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: da77d39b-0ffe-77ce-fb99-988202-am-sea-divis
+assigned_id: dea:data-product-da77d39b-0ffe-77ce-fb99-988202-am-sea-divis-nuucu9
+admitted: '2026-11-14'

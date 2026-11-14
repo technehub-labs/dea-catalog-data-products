@@ -1,0 +1,46 @@
+id: dea:data-product-ogd10-bundesamt-fur-energie-bf-energy-resea-dawzy8
+type: DataProduct
+name: Energy research statistics (EFstat)
+description: 'The SFOE annually draws up the federal government''s EFstat, which provides
+  information on the expenditures of energy research financed by public funds as well
+  as a detailed compilation of the cash flows. Both the IEA classification and the
+  CH classification are compiled for the information. The information is based on
+  the databases of the Federal Government and in addition to the declaration of the
+  funding agencies. ### Resources description (see below for download links) This
+  dataset affects of different kinds of resources: __DATA - Energy research statistics
+  (EFstat) __ Raw data file(s). They contain the complete dataset. Some attributes
+  are coded (e.g. the attribute "class" may contain the value "ri1" instead of the
+  full name "Other uses"). Exact meaning and translations for those codes are in a
+  separate CATALOG resource. __SPARQL - Energy research statistics (EFstat) __ Example
+  request on the LINDAS SPARQL endpoint for Linked Data access. __CATALOG - Energy
+  research statistics (EFstat) __ Catalog(s) file(s) contain the human-readable translations
+  of the coded attributes in the DATA ressources.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ogd10-bundesamt-fur-energie-bfe
+      (data.europa.eu dataset ogd10-bundesamt-fur-energie-bfe; publisher: Bundesamt
+      für Energie & Betreibende von Ladeinfrastruktur)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- undesamt-fr-nergie

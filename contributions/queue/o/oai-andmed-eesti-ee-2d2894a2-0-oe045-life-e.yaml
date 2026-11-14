@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-2d2894a2-06ff-47d8-9bde-22f69da98aba
 name: 'OE045: Life expectancy by sex and age'
-description: 'The dataset shows life expectancy at birth and the number of years left to live by sex and
-  age (0-100) in a given year. The purpose of collecting life expectancy data is to provide a standard
-  population health indicator for monitoring trends over time, assessing differences between population
-  groups and regions, and informing health policy and prevention planning. Data source: Statistics Estonia'
+description: 'The dataset shows life expectancy at birth and the number of years left
+  to live by sex and age (0-100) in a given year. The purpose of collecting life expectancy
+  data is to provide a standard population health indicator for monitoring trends
+  over time, assessing differences between population groups and regions, and informing
+  health policy and prevention planning. Data source: Statistics Estonia'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-2d2894a2-06ff-47d8-9bde-22f69da98aba
-      (data.europa.eu dataset oai-andmed-eesti-ee-2d2894a2-06ff-47d8-9bde-22f69da98aba; publisher: Tervise
-      Arengu Instituut)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-2d2894a2-06ff-47d8-9bde-22f69da98aba;
+      publisher: Tervise Arengu Instituut)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ervise-rengu-nstituu
 slug: oai-andmed-eesti-ee-2d2894a2-0-oe045-life-e
+assigned_id: dea:data-product-oai-andmed-eesti-ee-2d2894a2-0-oe045-life-e-crgavh
+admitted: '2026-11-14'

@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu eripcfvg-m10686-cc-i10892
 name: HISTORICAL PREMISES (LOS)
-description: Objects listed in the SIRPAC (Regional Information System of the Cultural Heritage of Friuli
-  Venezia Giulia) belonging to the type of LOCALI HTORICI (LOS).
+description: Objects listed in the SIRPAC (Regional Information System of the Cultural
+  Heritage of Friuli Venezia Giulia) belonging to the type of LOCALI HTORICI (LOS).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/eripcfvg-m10686-cc-i10892 (data.europa.eu dataset
-      eripcfvg-m10686-cc-i10892; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/eripcfvg-m10686-cc-i10892 (data.europa.eu
+      dataset eripcfvg-m10686-cc-i10892; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: eripcfvg-m10686-cc-i10892-historical-p
+assigned_id: dea:data-product-eripcfvg-m10686-cc-i10892-historical-p-xgpm6n
+admitted: '2026-11-14'

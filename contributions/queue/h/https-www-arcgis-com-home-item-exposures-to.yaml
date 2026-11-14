@@ -1,16 +1,18 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-4fb5abe127aa4e4eaad455bf26b181c1~~1
 name: Exposures to NO2 and PM10 Limit Values on Occitania SARs in 2017
-description: '**Genealogy within the meaning of Inspire**: Indicators of exceedance of limit values (40
-  µg/m³ as an annual average for NO2 and PM10 and 35 days above 50 µg/m³ for PM10)). These indicators
-  are the number of inhabitants affected and the cumulative area. Data created with a model of atmospheric
-  dispersion at the local scale for the AAGs and RAZs of the Occitania region and at the regional scale
-  for the RAZ. Use of the emission inventory of the Occitanie region. Modeling carried out in accordance
-  with the recommendations of the business reference of the Central Air Quality Monitoring Laboratory
-  (LCSQA). Demographic data comes from the Magic pop repository. WFS flows: [https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/exp_occitanie
+description: '**Genealogy within the meaning of Inspire**: Indicators of exceedance
+  of limit values (40 µg/m³ as an annual average for NO2 and PM10 and 35 days above
+  50 µg/m³ for PM10)). These indicators are the number of inhabitants affected and
+  the cumulative area. Data created with a model of atmospheric dispersion at the
+  local scale for the AAGs and RAZs of the Occitania region and at the regional scale
+  for the RAZ. Use of the emission inventory of the Occitanie region. Modeling carried
+  out in accordance with the recommendations of the business reference of the Central
+  Air Quality Monitoring Laboratory (LCSQA). Demographic data comes from the Magic
+  pop repository. WFS flows: [https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/exp_occitanie
   _zas _2017/WFSServer?service=wfs&request=getcapabilities](https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/exp_occitanie
   _zas _2017/WFSServer?service=wfs&request=getcapabilities) Metadata sheet: <https://www.picto-occitanie.fr/geonetwork/srv/fre/catalog.search#/metadata/01d8803d-5c65-47ec-93e6-d9af1d731c4d>'
 evidence:
@@ -19,9 +21,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-4fb5abe127aa4e4eaad455bf26b181c1~~1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-4fb5abe127aa4e4eaad455bf26b181c1~~1;
       publisher: {{source}})'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - source
 slug: https-www-arcgis-com-home-item-exposures-to
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-exposures-to-xvt54k
+admitted: '2026-11-14'

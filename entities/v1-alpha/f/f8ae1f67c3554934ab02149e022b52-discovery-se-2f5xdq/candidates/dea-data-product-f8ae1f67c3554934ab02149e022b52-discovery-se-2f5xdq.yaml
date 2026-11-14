@@ -1,0 +1,38 @@
+id: dea:data-product-f8ae1f67c3554934ab02149e022b52-discovery-se-2f5xdq
+type: DataProduct
+name: Discovery service (CSW) of the catalogue of the Community of communes Mayenne
+  Community on "geomayenne.fr"
+description: This discovery service makes it possible to query the catalog of geographical
+  data and web services of the Community of Mayenne Community municipalities referenced
+  in the platform "geomayenne.fr", via the CSW 2.0.2. This harvesting point makes
+  it possible to discover the description sheets (metadata) of the geographical data
+  disseminated by the Community of Mayenne Communes Community which are concerned
+  by the European INSPIRE Directive or which are of public interest.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f8ae1f67c3554934ab02149e022b529a
+      (data.europa.eu dataset f8ae1f67c3554934ab02149e022b529a; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

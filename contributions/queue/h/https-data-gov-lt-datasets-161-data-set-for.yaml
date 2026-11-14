@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-gov-lt-datasets-1617-
 name: Data set for inaccuracies in abandoned agricultural land data
-description: 'Data for marking changes in abandoned agricultural land boundaries: description of changes
-  in abandoned agricultural land boundaries; the date and time of marking the boundaries of the abandoned
-  agricultural land; coordinates of the point of abandoned agricultural land.'
+description: 'Data for marking changes in abandoned agricultural land boundaries:
+  description of changes in abandoned agricultural land boundaries; the date and time
+  of marking the boundaries of the abandoned agricultural land; coordinates of the
+  point of abandoned agricultural land.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-1617- (data.europa.eu
-      dataset https-data-gov-lt-datasets-1617-; publisher: VĮ Žemės ūkio duomenų centras)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-1617-
+      (data.europa.eu dataset https-data-gov-lt-datasets-1617-; publisher: VĮ Žemės
+      ūkio duomenų centras)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ems-kio-duomen-cent
 slug: https-data-gov-lt-datasets-161-data-set-for
+assigned_id: dea:data-product-https-data-gov-lt-datasets-161-data-set-for-s9vfcu
+admitted: '2026-11-14'

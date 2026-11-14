@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu seed-certification-in-luxembourg
 name: Seed certification in Luxembourg
-description: The EU legislation is based on certification of seed and plant propagating material before
-  marketing. It applies to genera and species important for the internal market of food and feed. Certification
-  and inspections guarantee the identity, health and quality of seeds and propagating material. Seed production
-  and certification in Luxembourg is specifically targeted on cereals, fodder plants, seed potatoes and
-  oil and fibre plants. Certification includes field inspection, seed sampling and testing and results
-  in an official label. In Luxembourg, the competent authority for certification is ASTA (Ministry of
-  Agriculture).
+description: The EU legislation is based on certification of seed and plant propagating
+  material before marketing. It applies to genera and species important for the internal
+  market of food and feed. Certification and inspections guarantee the identity, health
+  and quality of seeds and propagating material. Seed production and certification
+  in Luxembourg is specifically targeted on cereals, fodder plants, seed potatoes
+  and oil and fibre plants. Certification includes field inspection, seed sampling
+  and testing and results in an official label. In Luxembourg, the competent authority
+  for certification is ASTA (Ministry of Agriculture).
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/seed-certification-in-luxembourg (data.europa.eu
-      dataset seed-certification-in-luxembourg; publisher: Administration des services techniques de l''agriculture)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/seed-certification-in-luxembourg
+      (data.europa.eu dataset seed-certification-in-luxembourg; publisher: Administration
+      des services techniques de l''agriculture)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - dministration-des-se
 slug: seed-certification-in-luxembou-seed-certifi
+assigned_id: dea:data-product-seed-certification-in-luxembou-seed-certifi-xqha4p
+admitted: '2026-11-14'

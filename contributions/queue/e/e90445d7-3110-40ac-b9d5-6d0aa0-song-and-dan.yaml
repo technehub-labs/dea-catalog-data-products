@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1
 name: Song and Dance celebration
-description: The Song and Dance Celebration is one of the grandest festivals in the Baltic region in terms
-  of scope, authenticity and style. Every five years in the beginning of July, the whole city of Riga,
-  the capital of Latvia, becoming a buzzing stage for choir singers and folk dancers, folklore musicians,
-  masters of folk crafts and amateur theatre troupes, young and old, dressed in folk costumes, living
-  the tradition.
+description: The Song and Dance Celebration is one of the grandest festivals in the
+  Baltic region in terms of scope, authenticity and style. Every five years in the
+  beginning of July, the whole city of Riga, the capital of Latvia, becoming a buzzing
+  stage for choir singers and folk dancers, folklore musicians, masters of folk crafts
+  and amateur theatre troupes, young and old, dressed in folk costumes, living the
+  tradition.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1 (data.europa.eu
-      dataset e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1; publisher: Latvijas Institūts)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1
+      (data.europa.eu dataset e90445d7-3110-40ac-b9d5-6d0aa0034ffa~~1; publisher:
+      Latvijas Institūts)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - atvijas-nstitts
 slug: e90445d7-3110-40ac-b9d5-6d0aa0-song-and-dan
+assigned_id: dea:data-product-e90445d7-3110-40ac-b9d5-6d0aa0-song-and-dan-437vuq
+admitted: '2026-11-14'

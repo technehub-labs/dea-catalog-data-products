@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-ac16d24ae6504bca8c2d3dd301afe635-sublayer-1
 name: Lisieux Cartons SPsD WFL1
-description: Lisieux Cartons SPsD WFL1 — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Communauté d'Agglomération Lisieux Normandie.
+description: Lisieux Cartons SPsD WFL1 — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Communauté d'Agglomération Lisieux Normandie.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-ac16d24ae6504bca8c2d3dd301afe635-sublayer-1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-ac16d24ae6504bca8c2d3dd301afe635-sublayer-1;
       publisher: Communauté d''Agglomération Lisieux Normandie)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ommunaut-dgglomratio
 slug: https-www-arcgis-com-home-item-lisieux-cart
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-lisieux-cart-8akhqp
+admitted: '2026-11-14'

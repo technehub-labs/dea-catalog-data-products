@@ -1,0 +1,31 @@
+# Flash Eurobarometer 291: Survey on the attitudes of Europeans towards tourism - Wave 2
+
+> Some 80% of Europeans continue to travel for their holidays according to a new Eurobarometer survey on ‘The attitudes of Europeans towards tourism 2010’. Only 20% of over 30,000 randomly selected citizens were almost certain that they will not travel in 2010, which is significantly below the proportion of non-travellers in 2009 (33%). EU citizens increasingly prefer to spend their holidays in traditional tourist destinations (57%), while 28% would rather go “off the beaten track” to emerging destinations. Tourism is one of Europe's most important service industries, accounting for 5% of Europe's GDP and 6% of employment #####The results by volumes are distributed as follows: * Volume A: Countries * Volume AA: Groups of countries * Volume A' (AP): Trends * Volume AA' (AAP): Trends of groups of countries * Volume B: EU/socio-demographics * Volume B' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics ---- Researchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)
+
+## Identity
+
+- **Record id**: `dea:data-product-s847-291-flash-euroba-t7km8z`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/s847_291 (data.europa.eu dataset s847_291; publisher: Directorate-General for Communication)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

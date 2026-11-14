@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu echo-api
 name: ECHO API
-description: The Echo API is a public API that has been defined and developed to give external partners
-  the possibility to create and manage their experiences progamatically.
+description: The Echo API is a public API that has been defined and developed to give
+  external partners the possibility to create and manage their experiences progamatically.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/echo-api (data.europa.eu dataset echo-api; publisher:
-      Agence luxembourgeoise d’action Culturelle a.s.b.l.)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/echo-api (data.europa.eu dataset
+      echo-api; publisher: Agence luxembourgeoise d’action Culturelle a.s.b.l.)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - gence-luxembourgeois
 slug: echo-api-echo-api
+assigned_id: dea:data-product-echo-api-echo-api-b79j85
+admitted: '2026-11-14'

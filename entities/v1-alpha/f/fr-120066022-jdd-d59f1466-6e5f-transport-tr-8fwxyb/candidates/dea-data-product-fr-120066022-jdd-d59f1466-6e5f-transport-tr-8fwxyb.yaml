@@ -1,0 +1,37 @@
+id: dea:data-product-fr-120066022-jdd-d59f1466-6e5f-transport-tr-8fwxyb
+type: DataProduct
+name: 'Transport travel: The road sections of the exceptional transport of Indre'
+description: Road sections involved in the definition of an exceptional interdepartmental
+  transport traffic network for which the demand for transport no longer requires
+  a prior request for the opinion of road operators. General requirements for the
+  movement of exceptional transport convoys throughout the network of the same operator
+  shall also accompany the identification of sections
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fr-120066022-jdd-d59f1466-6e5f-41d4-82e4-e7f8c2800027
+      (data.europa.eu dataset fr-120066022-jdd-d59f1466-6e5f-41d4-82e4-e7f8c2800027;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

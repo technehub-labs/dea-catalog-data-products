@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-catalog-goteborg-se-store-6-resource-14
 name: Statistics and analysis for the City of Gothenburg
-description: 'Statistics describing Gothenburg regarding the composition and development of the population,
-  for the city as a whole and within district councils and other parts of the city. Other information
-  is available at the following location: http://statistik.goteborg.se/'
+description: 'Statistics describing Gothenburg regarding the composition and development
+  of the population, for the city as a whole and within district councils and other
+  parts of the city. Other information is available at the following location: http://statistik.goteborg.se/'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-catalog-goteborg-se-store-6-resource-14 (data.europa.eu
-      dataset https-catalog-goteborg-se-store-6-resource-14; publisher: Göteborgs stad)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-catalog-goteborg-se-store-6-resource-14
+      (data.europa.eu dataset https-catalog-goteborg-se-store-6-resource-14; publisher:
+      Göteborgs stad)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - teborgs-stad
 slug: https-catalog-goteborg-se-stor-statistics-a
+assigned_id: dea:data-product-https-catalog-goteborg-se-stor-statistics-a-2465pd
+admitted: '2026-11-14'

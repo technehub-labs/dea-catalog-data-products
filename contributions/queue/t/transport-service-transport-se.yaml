@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: This table provides a list of transport services.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/transport-service (data.europa.eu dataset transport-service;
-      publisher: Publications Office of the European Union)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/transport-service (data.europa.eu
+      dataset transport-service; publisher: Publications Office of the European Union)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ublications-ffice-of
 slug: transport-service-transport-se
+assigned_id: dea:data-product-transport-service-transport-se-rj3axp
+admitted: '2026-11-14'

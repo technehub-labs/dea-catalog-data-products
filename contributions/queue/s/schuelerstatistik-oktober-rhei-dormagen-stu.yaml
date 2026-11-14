@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu schuelerstatistik-oktober-rhein-kreis-neuss
 name: 'Dormagen: Student statistics October'
-description: Student statistics as of October 2025 in the urban area of Dormagen. Only urban schools.
+description: Student statistics as of October 2025 in the urban area of Dormagen.
+  Only urban schools.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/schuelerstatistik-oktober-rhein-kreis-neuss (data.europa.eu
-      dataset schuelerstatistik-oktober-rhein-kreis-neuss; publisher: Stadt Dormagen)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/schuelerstatistik-oktober-rhein-kreis-neuss
+      (data.europa.eu dataset schuelerstatistik-oktober-rhein-kreis-neuss; publisher:
+      Stadt Dormagen)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tadt-ormagen
 slug: schuelerstatistik-oktober-rhei-dormagen-stu
+assigned_id: dea:data-product-schuelerstatistik-oktober-rhei-dormagen-stu-kcecqt
+admitted: '2026-11-14'

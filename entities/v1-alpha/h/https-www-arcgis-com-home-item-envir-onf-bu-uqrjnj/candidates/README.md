@@ -1,0 +1,31 @@
+# Envir ONF Bugey — Large wood terrier surface
+
+> Gravel surface of large woods in m² per hectare (m²/ha) [link to description pdf](https://carto.ain.fr/webapps/externe/doc/ONF_notice_modeles_LiDAR_v2.pdf) 1 — Modeling principles The present models are constructed from the detection of the apex identified on the digital height model from the LiDAR covers. Only heights greater than 13 meters associated with bowls of more than 5 square meters are preserved. Treatment shall be carried out excluding the ‘unwooded’ type of the IFN stand mapping v.2. Each apex is classified as hardwood or soft based on the slopes of its hoop and its reflectance measured in SPOT 6 images. The diameters at 1.30 m and the increments are estimated by the characteristics of the bowl associated with the apex. At the pixel scale of 26.5 m on the side, the earth surfaces predicted for each tree are summed by species and categories of diameters. The results obtained are corrected according to linear models. Models applied to apex and pixels are calibrated using the forest observatory plots. They are validated on a new set of 240 plots of 15 meters radius measured in 2015 and independent of the calibration set. 2 — Validity of modeled parameters Generally, the validity of modeled parameters is not known for rare and atypical stands at the Ain Mountain scale. These stands are, for example, the plantations of larchs, the pine groves, the young leafy young leafy thinned... The validity in stands of black pine forests or sylvestres has not been verified. All data are for a pre-counting diameter of 17.5 cm to 1.30 m (unless otherwise stated). 3 — Precautions for the realisation of calculations based on the data of the rasters For basal area, production, stem density, stand types, zero values shall be used in the absence of data. These cases correspond either to stands less than 13 metres high (a priori composed of trees with a diameter of less than 17.5 centimeters), or to a type of non-wooded IFN stand. For stand types, the zero value is a non-pre-acc
+
+## Identity
+
+- **Record id**: `dea:data-product-https-www-arcgis-com-home-item-envir-onf-bu-uqrjnj`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-676ce4abada24deab574eb71d7bc7418 (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-676ce4abada24deab574eb71d7bc7418; publisher: Département de l'Ain)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

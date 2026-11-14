@@ -1,26 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu victimes-tuees-selon-la-categorie-dusagers-de-la-route-1991-2015
 name: Victims killed by category of road users 1991 – 2015
-description: 'This table gives for the years 1991-2015 the number of pedestrians, cyclists, mopeds, motorcyclists,
-  4-wheel drivers and 4-wheel or 2-wheel passengers killed as a result of a road traffic accident and
-  is calculated annually by STATEC. The following definitions have been used: A road traffic accident
-  is any unexpected and sudden event that occurred to one or more users on a lane normally open to traffic
-  and that caused bodily injury provided that a moving vehicle was involved in the event. For statistics
-  on bodily injuries only road traffic injuries reported to the Grand Ducal Police are taken into account.
-  The data are drawn from the minutes of law enforcement officers. The victims killed include those killed
-  instantly or who died as a result of the accident within 30 days. For more details: http://www.statistiques.public.lu/fr/méthodologie/méthodes/conditions-sociales/Accidents/accidents/index.html'
+description: 'This table gives for the years 1991-2015 the number of pedestrians,
+  cyclists, mopeds, motorcyclists, 4-wheel drivers and 4-wheel or 2-wheel passengers
+  killed as a result of a road traffic accident and is calculated annually by STATEC.
+  The following definitions have been used: A road traffic accident is any unexpected
+  and sudden event that occurred to one or more users on a lane normally open to traffic
+  and that caused bodily injury provided that a moving vehicle was involved in the
+  event. For statistics on bodily injuries only road traffic injuries reported to
+  the Grand Ducal Police are taken into account. The data are drawn from the minutes
+  of law enforcement officers. The victims killed include those killed instantly or
+  who died as a result of the accident within 30 days. For more details: http://www.statistiques.public.lu/fr/méthodologie/méthodes/conditions-sociales/Accidents/accidents/index.html'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/victimes-tuees-selon-la-categorie-dusagers-de-la-route-1991-2015
-      (data.europa.eu dataset victimes-tuees-selon-la-categorie-dusagers-de-la-route-1991-2015; publisher:
-      STATEC Institut national de la statistique et des études économiques du Grand-Duché de Luxembourg)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset victimes-tuees-selon-la-categorie-dusagers-de-la-route-1991-2015;
+      publisher: STATEC Institut national de la statistique et des études économiques
+      du Grand-Duché de Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nstitut-national-de
 slug: victimes-tuees-selon-la-catego-victims-kill
+assigned_id: dea:data-product-victimes-tuees-selon-la-catego-victims-kill-ctmu53
+admitted: '2026-11-14'

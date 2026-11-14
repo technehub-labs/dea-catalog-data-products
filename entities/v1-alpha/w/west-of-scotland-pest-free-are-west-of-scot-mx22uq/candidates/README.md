@@ -1,0 +1,31 @@
+# West of Scotland Pest Free Area Buffer Zone
+
+> The West of Scotland conifer bark beetle Pest Free Area (PFA) exists to allow trade of conifer logs to Northern Ireland and the Republic of Ireland, which are currently free from and have Pest Free Zone (PZ) status for the bark beetles Dendroctonus micans, Ips cembrae and Ips sexdentatus. These three non-native bark beetles are all established in Great Britain (GB). As the bark beetles continue to spread, Scottish Forestry is imposing a 35km radius buffer zone around any finding of an outbreak of D. micans, within which no further phytosanitary certificates will be issued for the movement of spruce roundwood to the island of Ireland. There will also be restrictions on any port in the buffer zone. This dataset shows that part of the PFA which is within this buffer zone. The buffer zone boundary follows recognisable geographic features on the ground, such as roads and rivers. This results in an uneven boundary with parts being further than 35km from the finding, but will never be less than 35km away. If there are further findings of D. micans within 35km of the PFA, the buffer zone will be extended accordingly. Once the buffer zone has been established for 12 months there will be a presumption to expand the buffer by a further 10 km. The final decision to make this change will be agreed between Scottish Forestry and the relevant authorities on the island of Ireland. Find more information at https://www.forestry.gov.scot/publications/1546-pfa-action-plan
+
+## Identity
+
+- **Record id**: `dea:data-product-west-of-scotland-pest-free-are-west-of-scot-mx22uq`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/west-of-scotland-pest-free-area-buffer-zone (data.europa.eu dataset west-of-scotland-pest-free-area-buffer-zone; publisher: Scottish Government SpatialData.gov.scot)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

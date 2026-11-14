@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -11,9 +11,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-cdd4dc864ff54bac91214afd04f89e42-sublayer-1~~1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-cdd4dc864ff54bac91214afd04f89e42-sublayer-1~~1;
       publisher: Mairie de Saint-Denis (La Réunion))'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - airie-de-aintenis-a
 slug: https-www-arcgis-com-home-item-delimitation
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-delimitation-akrbpz
+admitted: '2026-11-14'

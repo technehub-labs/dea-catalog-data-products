@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu edaec72a-05aa-9d1d-a166-1523c9776ec1
 name: Land planning - Connection points - OGC WFS Interface
-description: The map service (WFS group) provides the map bases of the Saarland's Land Development Plan
-  Environment (2004) and Settlement (2006).:Generalized presentation of the connection points within the
-  framework of the LEP Environment 2004.
+description: The map service (WFS group) provides the map bases of the Saarland's
+  Land Development Plan Environment (2004) and Settlement (2006).:Generalized presentation
+  of the connection points within the framework of the LEP Environment 2004.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/edaec72a-05aa-9d1d-a166-1523c9776ec1 (data.europa.eu
-      dataset edaec72a-05aa-9d1d-a166-1523c9776ec1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/edaec72a-05aa-9d1d-a166-1523c9776ec1
+      (data.europa.eu dataset edaec72a-05aa-9d1d-a166-1523c9776ec1; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: edaec72a-05aa-9d1d-a166-1523c9-land-plannin
+assigned_id: dea:data-product-edaec72a-05aa-9d1d-a166-1523c9-land-plannin-rqbhgr
+admitted: '2026-11-14'

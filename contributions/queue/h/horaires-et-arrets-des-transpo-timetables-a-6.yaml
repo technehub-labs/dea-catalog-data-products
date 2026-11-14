@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu horaires-et-arrets-des-transport-publics-gtfs
 name: Timetables and stops for public transport (GTFS)
-description: The General Transit Feed Specification (GTFS) defines a common format for public transportation
-  schedules and associated geographic information. GTFS feeds allow public transit agencies to publish
-  their transit data and developers to use that data to write applications. The feeds are represented
-  in a series of text files that are compressed into a ZIP file, and include information such as fixed-route
-  schedules, routes, and bus stop data.
+description: The General Transit Feed Specification (GTFS) defines a common format
+  for public transportation schedules and associated geographic information. GTFS
+  feeds allow public transit agencies to publish their transit data and developers
+  to use that data to write applications. The feeds are represented in a series of
+  text files that are compressed into a ZIP file, and include information such as
+  fixed-route schedules, routes, and bus stop data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/horaires-et-arrets-des-transport-publics-gtfs (data.europa.eu
-      dataset horaires-et-arrets-des-transport-publics-gtfs; publisher: Administration des transports
-      publics )'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/horaires-et-arrets-des-transport-publics-gtfs
+      (data.europa.eu dataset horaires-et-arrets-des-transport-publics-gtfs; publisher:
+      Administration des transports publics )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - dministration-des-tr
 slug: horaires-et-arrets-des-transpo-timetables-a-6
+assigned_id: dea:data-product-horaires-et-arrets-des-transpo-timetables-a-6-er9ckr
+admitted: '2026-11-14'

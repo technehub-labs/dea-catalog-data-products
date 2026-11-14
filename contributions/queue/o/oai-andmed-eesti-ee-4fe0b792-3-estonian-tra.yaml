@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-4fe0b792-3b2f-4209-966f-04e6b8c3d099
-name: Estonian travel agencies and tour operators by location of travel agency and visitors served by
-  them (2000–2005)
-description: Estonian travel agencies and tour operators by location of travel agency and visitors served
-  by them (2000–2005).
+name: Estonian travel agencies and tour operators by location of travel agency and
+  visitors served by them (2000–2005)
+description: Estonian travel agencies and tour operators by location of travel agency
+  and visitors served by them (2000–2005).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-4fe0b792-3b2f-4209-966f-04e6b8c3d099
-      (data.europa.eu dataset oai-andmed-eesti-ee-4fe0b792-3b2f-4209-966f-04e6b8c3d099; publisher: Statistikaamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-4fe0b792-3b2f-4209-966f-04e6b8c3d099;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistikaamet
 slug: oai-andmed-eesti-ee-4fe0b792-3-estonian-tra
+assigned_id: dea:data-product-oai-andmed-eesti-ee-4fe0b792-3-estonian-tra-px2ece
+admitted: '2026-11-14'

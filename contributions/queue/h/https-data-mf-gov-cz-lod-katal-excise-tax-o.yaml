@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-mf-gov-cz-lod-katalog-doprava-pivo-2023-mesice-im
 name: Excise tax on beer - Transport, import by month and country
-description: Quantity of beer transported to the tax territory of the Czech Republic under a duty suspension
-  arrangement in 2023, broken down by EU Member State and calendar month
+description: Quantity of beer transported to the tax territory of the Czech Republic
+  under a duty suspension arrangement in 2023, broken down by EU Member State and
+  calendar month
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-data-mf-gov-cz-lod-katalog-doprava-pivo-2023-mesice-im
-      (data.europa.eu dataset https-data-mf-gov-cz-lod-katalog-doprava-pivo-2023-mesice-im; publisher:
-      Ministerstvo financí)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-data-mf-gov-cz-lod-katalog-doprava-pivo-2023-mesice-im;
+      publisher: Ministerstvo financí)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inisterstvo-financ
 slug: https-data-mf-gov-cz-lod-katal-excise-tax-o
+assigned_id: dea:data-product-https-data-mf-gov-cz-lod-katal-excise-tax-o-5bk839
+admitted: '2026-11-14'

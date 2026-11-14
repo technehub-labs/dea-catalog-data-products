@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Reports on the activities of the Navigation Service
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/rapports-dactivites (data.europa.eu dataset rapports-dactivites;
-      publisher: Service de la navigation fluviale)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/rapports-dactivites (data.europa.eu
+      dataset rapports-dactivites; publisher: Service de la navigation fluviale)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ervice-de-la-navigat
 slug: rapports-dactivites-activity-rep
+assigned_id: dea:data-product-rapports-dactivites-activity-rep-uynh9u
+admitted: '2026-11-14'

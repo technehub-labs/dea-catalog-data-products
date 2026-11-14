@@ -1,0 +1,31 @@
+# Special Eurobarometer 118: Europeans and their views on child sex tourism
+
+> This paper presents some key results from the public opinion survey conducted on behalf of the European Commission (DGXXIII, Directorate- General “Enterprise policy, Distributive trades, Tourism and Co-operatives”) in the framework of the Eurobarometer 49. The survey was carried out throughout the European Union between 7th April and 27th May 1998, under the general co-ordination of INRA (EUROPE) - European Coordination Office, in Brussels. where do Europeans get their information about child sex tourism? how common do Europeans think it is? what is its geographic coverage? is child sex tourism tending to increase? what is the profile of the perpetrator? what are the reasons driving certain people to child sex tourism? what is the moral and legal position as seen by Europeans? what are the other problems of society linked to child sex tourism? how do Europeans think their national legislation stands towards child sex tourism? what weapons can be used to fight against child sex tourism? what is the degree of satisfaction with measures taken to fight child sex tourism? is the involvement of the European union in the fight against child sex tourism desirable and necessary? are awareness and information campaigns effective? how would Europeans react towards someone close practicing child sex tourism? what would Europeans do if they learnt that one of their holiday destinations is known to be a place where child sex tourism occurs? have they come across child sex tourism in a place where they have been on holiday? #####The results by volumes are distributed as follows: * Volume A: Countries * Volume AA: Groups of countries * Volume A' (AP): Trends * Volume AA' (AAP): Trends of groups of countries * Volume B: EU/socio-demographics * Volume B' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics ---- Researchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarom
+
+## Identity
+
+- **Record id**: `dea:data-product-s173-49-0-ebs118-special-euro-5sbytq`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/s173_49_0_ebs118 (data.europa.eu dataset s173_49_0_ebs118; publisher: Directorate-General for Communication)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

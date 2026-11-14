@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu transportleidingen-
 name: Transport pipelines
-description: '<p>Tube or system of pipes through which sewage is discharged.</p><p>Origin definition:
-  Aquo<br /></p>'
+description: '<p>Tube or system of pipes through which sewage is discharged.</p><p>Origin
+  definition: Aquo<br /></p>'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/transportleidingen- (data.europa.eu dataset transportleidingen-;
-      publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/transportleidingen- (data.europa.eu
+      dataset transportleidingen-; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: transportleidingen-transport-pi
+assigned_id: dea:data-product-transportleidingen-transport-pi-d5mxju
+admitted: '2026-11-14'

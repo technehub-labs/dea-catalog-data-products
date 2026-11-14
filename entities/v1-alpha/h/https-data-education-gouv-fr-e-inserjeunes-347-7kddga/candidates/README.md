@@ -1,0 +1,31 @@
+# Inserjeunes Agricultural vocational school route by establishment under the Ministry of Agriculture and by level of training CAPa in BTSA
+
+> These data come from the information system DEPP/DARES InserJeunes and report on the future of high school students and students enrolled in the final year of a vocational training course level 3 to 5 (CAPa, agricultural vocational baccalaureate, BTSA), provided in a Local Public Education Establishment (EPLE) or in a private high school under contract, under the supervision of the Ministry of Agriculture. The indicators derived from InserJeunes at the establishment level by fine-tuning courses are calculated for two cumulative vintages: \ - young people enrolled in N and N-1 for the rate of further education and the future of young people after training \- school leavers in N and N-1 for employment rates at 6, 12, 18 and 24 months after graduation Inserjeunes covers all salaried employment in France, with the exception of salaried employment by private employers. Self-employment or employment abroad is not covered. For 2022-2023 outgoings, only the situation at 6 and 12 months is available so far. The situation at 18 and 24 months will be completed later. For 2023-2024 outgoings, only the situation at 6 and 12 months is available so far. The situation at 18 and 24 months will be completed later. For more information: [Antoine R. and Gauvin C., 2025, ‘Agricultural education: insertion of vocational high school students and CAPa-level students at BTSA, six months after leaving school in 2023 – 50% are in paid employment in January 2024”](https://www.education.gouv.fr/depp/enseignement-agricole-insertion-des-lyceens-professionnels-et-etudiants-de-level-capa-btsa-six-mois-452703), _Information Note _ No 25-11, DEPP-DGER. <https://doi.org/10.48464/ni-25-11>
+
+## Identity
+
+- **Record id**: `dea:data-product-https-data-education-gouv-fr-e-inserjeunes-347-7kddga`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-data-education-gouv-fr-explore-dataset-fr-en-inserjeunes-lycee_pro-agri-examen- (data.europa.eu dataset https-data-education-gouv-fr-explore-dataset-fr-en-inserjeunes-lycee_pro-agri-examen-; publisher: DEPP – Ministère chargé de l’éducation nationale)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,0 +1,57 @@
+id: dea:data-product-oai-zenodo-org-6393790-increased-ce-q8qd4h
+type: DataProduct
+name: Increased Central European forest mortality explained by higher harvest rates
+  driven by enhanced productivity
+description: '# Increased Central European forest mortality explained by higher harvest
+  rates driven by enhanced productivity ## Author Marieke Scheel, Lund University,
+  Sweden, marieke.scheel@gmail.com ## Description Data underlying analysis in: Marieke
+  Scheel, Mats Lindeskog, Benjamin Smith, Susanne Suvanto, Thomas A. M. Pugh Increased
+  Central European forest mortality explained by higher harvest rates driven by enhanced
+  productivity Scripts underlying analysis: https://github.com/mariekesche/harvest_driven_canopy_mortality
+  Folder: harvest_checks - NFI_Germany.txt, National Forest Index data from Germany
+  as difference between inventories in 200-2003 and 2011-2013, values are given as
+  fraction, n: number of NFI plots in a grid cell, HARVEST_ALL: clear-cut harvest,
+  HARVEST_PARTIAL: thinning harvest, NATDEAD: natural dead (not harvested) Folder:
+  manag_climfix (S_man,clim) - cflux_forest_rel.txt, Net Primary Production (NPP)
+  values of forests in kg [C]/ m^2 year (column 4) - crownloss.txt, m^2 of crown/m^2
+  of ground lost per year - diam_crownarea.txt, total m^2 of crown/m^2 of ground per
+  year split into DBH classes Folder: manag_co2fix (S_man,CO2) - cflux_forest_rel.txt,
+  Net Primary Production (NPP) values of forests in kg [C]/ m^2 year (column 4) -
+  crownloss.txt, m^2 of crown/m^2 of ground lost per year - diam_crownarea.txt, total
+  m^2 of crown/m^2 of ground per year split into DBH classes Folder: manag_ndepfix
+  (S_man,N) - cflux_forest_rel.txt, Net Primary Production (NPP) values of forests
+  in kg [C]/ m^2 year (column 4) - crownloss.txt, m^2 of crown/m^2 of ground lost
+  per year - diam_crownarea.txt, total m^2 of crown/m^2 of ground per year split into
+  DBH classes Folder: manag_nofix (S_man) - cflux_forest_rel.txt, Net Primary Production
+  (NPP) values of forests in kg [C]/ m^2 year (column 4) - closs.txt, biomass loss
+  in kg [C]/m^2 year split into DBH classes - closs_harv.txt, biomass loss due to
+  harvest in kg [C]/m^2 year split into DBH classes - cpool_forest_rel.txt, biomass
+  of fore'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-6393790 (data.europa.eu
+      dataset oai-zenodo-org-6393790; publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- enodo

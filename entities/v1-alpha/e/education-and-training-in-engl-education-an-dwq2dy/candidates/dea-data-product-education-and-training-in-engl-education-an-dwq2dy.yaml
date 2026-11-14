@@ -1,0 +1,39 @@
+id: dea:data-product-education-and-training-in-engl-education-an-dwq2dy
+type: DataProduct
+name: 'Education and Training in England: Offenders'' Learning and Skills Service'
+description: Offenders' Learning and Skills Service education and training data. The
+  data show participation and achievement by equality and diversity, and level as
+  well as enrolments and achievements at aim level by sector subject area. The Offenders'
+  Learning and Skills Service provide access, according to need, to learning and skills
+  for offenders in prisons and supervised in the community to enable them to gain
+  the skills and qualifications they need to hold down a job and have a positive role
+  in society.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/education-and-training-in-england-offender-s-learning-and-skills-service
+      (data.europa.eu dataset education-and-training-in-england-offender-s-learning-and-skills-service;
+      publisher: Skills Funding Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- kills-unding-gency

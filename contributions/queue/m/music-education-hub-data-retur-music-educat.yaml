@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu music-education-hub-data-return
 name: Music Education Hub Data Return
-description: The return consists of information to be collected by all hub lead organisations for the
-  previous academic year, as a condition of their grant agreement with Arts Council England.
+description: The return consists of information to be collected by all hub lead organisations
+  for the previous academic year, as a condition of their grant agreement with Arts
+  Council England.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/music-education-hub-data-return (data.europa.eu dataset
-      music-education-hub-data-return; publisher: Arts Council England)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/music-education-hub-data-return
+      (data.europa.eu dataset music-education-hub-data-return; publisher: Arts Council
+      England)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - rts-ouncil-ngland
 slug: music-education-hub-data-retur-music-educat
+assigned_id: dea:data-product-music-education-hub-data-retur-music-educat-b7s72q
+admitted: '2026-11-14'

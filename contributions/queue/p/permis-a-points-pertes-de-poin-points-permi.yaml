@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu permis-a-points-pertes-de-points-par-type-dinfraction-2016
 name: Points Permit - loss of points by type of infringement 2016
-description: This dataset extracted from the driving licence database shows the number of points lost
-  per type of offence.
+description: This dataset extracted from the driving licence database shows the number
+  of points lost per type of offence.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/permis-a-points-pertes-de-points-par-type-dinfraction-2016
-      (data.europa.eu dataset permis-a-points-pertes-de-points-par-type-dinfraction-2016; publisher: Société
-      Nationale de Circulation Automobile)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset permis-a-points-pertes-de-points-par-type-dinfraction-2016;
+      publisher: Société Nationale de Circulation Automobile)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ocit-ationale-de-irc
 slug: permis-a-points-pertes-de-poin-points-permi
+assigned_id: dea:data-product-permis-a-points-pertes-de-poin-points-permi-6g9g9j
+admitted: '2026-11-14'

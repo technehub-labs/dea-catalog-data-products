@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ddf1286e-3088-4998-97cb-8efb322c6fe6
 name: E-mobility - charging stations
-description: The dataset contains information on publicly accessible charging stations for electric vehicles
-  in the state of Brandenburg. The systems are differentiated according to the type of charging device
-  (normal charging device, fast charging device). The data source is the charging station register of
-  the Federal Network Agency.
+description: The dataset contains information on publicly accessible charging stations
+  for electric vehicles in the state of Brandenburg. The systems are differentiated
+  according to the type of charging device (normal charging device, fast charging
+  device). The data source is the charging station register of the Federal Network
+  Agency.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ddf1286e-3088-4998-97cb-8efb322c6fe6 (data.europa.eu
-      dataset ddf1286e-3088-4998-97cb-8efb322c6fe6; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ddf1286e-3088-4998-97cb-8efb322c6fe6
+      (data.europa.eu dataset ddf1286e-3088-4998-97cb-8efb322c6fe6; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: ddf1286e-3088-4998-97cb-8efb32-e-mobility-c
+assigned_id: dea:data-product-ddf1286e-3088-4998-97cb-8efb32-e-mobility-c-rwpyew
+admitted: '2026-11-14'

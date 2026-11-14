@@ -1,0 +1,50 @@
+id: dea:data-product-oai-zenodo-org-14635635-6g-mobkpi-re-pvctxy
+type: DataProduct
+name: '6G-MOBKPI results: Network-layer and radio-related measurements from mobility
+  experiments on the 6G-SANDBOX Málaga platform'
+description: 'This dataset contains the results from the experiments executed on the
+  "6G-MOBKPI: KPI measurement in 6G networks under mobility scenarios" project, which
+  has been selected as an innovative experiment in the second Open Call of the 6G-SANDBOX
+  project funded by the HORIZON-SNS-JU-2022 (Grant Agreement No 101096328). The dataset
+  have been captured through different experiments executed on the Málaga platform,
+  provided by the 6G-SANDBOX project. The data has been autonomously captured by our
+  proposed KPI measurement tool under programmable mobility scenarios. The results
+  are organized in three main folders according to our three network configurations
+  considered: FR1 Micro - FR1 Micro Indoor (Random Shape) FR1 Micro - FR1 Micro Indoor
+  (Rectangular Shape) FR1 Micro - FR1 Micro Outdoor (Rectangular Shape) Inside each
+  folder, there are three subfolders containing the results for the IPERF TCP, IPERF
+  UDP and PING experiments. Inside some of these folders, there are additional subfolders
+  for the different configurations of the experiment (e.g., target UDP bitrate, ICMP
+  packet size). Finally, the measurements inside each particular experiment subfolder
+  are stored in two comma-separated value (CSV) files: one for the network-layer KPIs
+  (e.g., throughput, latency, packet loss) and another for the radio-related metrics
+  (e.g., cell ID, RSSI, RSRP, RSRQ). The first file of each CSV file contains the
+  name of the fields stored in that file.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-14635635 (data.europa.eu
+      dataset oai-zenodo-org-14635635; publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- enodo

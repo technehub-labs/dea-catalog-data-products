@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu immigration-health-surcharge-ihs-health-and-care-reimbursement-scheme-performance-data
-name: Immigration Health Surcharge - 'Health and Care' (digital application) key performance indicators
-description: This dataset provides the performance data for the Immigration Health Surcharge - 'Health
-  and Care’ Service.
+name: Immigration Health Surcharge - 'Health and Care' (digital application) key performance
+  indicators
+description: This dataset provides the performance data for the Immigration Health
+  Surcharge - 'Health and Care’ Service.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/immigration-health-surcharge-ihs-health-and-care-reimbursement-scheme-performance-data
       (data.europa.eu dataset immigration-health-surcharge-ihs-health-and-care-reimbursement-scheme-performance-data;
       publisher: NHS Business Services Authority)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - usiness-ervices-uth
 slug: immigration-health-surcharge-i-immigration
+assigned_id: dea:data-product-immigration-health-surcharge-i-immigration-yeskub
+admitted: '2026-11-14'

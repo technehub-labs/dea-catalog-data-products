@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-1dfc7135-dadb-4ff4-a99c-3f8c7a09890a
 name: 'TE75: Disability free life expectancy by sex and age group'
-description: 'The dataset shows the number of years of healthy life expectancy by age group (including
-  0, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39 to 85 and older), sex and year. The purpose of
-  collecting these data is to provide a standard population health indicator for monitoring trends over
-  time and comparing population groups and regions. Data source: Statistics Estonia'
+description: 'The dataset shows the number of years of healthy life expectancy by
+  age group (including 0, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39 to 85
+  and older), sex and year. The purpose of collecting these data is to provide a standard
+  population health indicator for monitoring trends over time and comparing population
+  groups and regions. Data source: Statistics Estonia'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-1dfc7135-dadb-4ff4-a99c-3f8c7a09890a
-      (data.europa.eu dataset oai-andmed-eesti-ee-1dfc7135-dadb-4ff4-a99c-3f8c7a09890a; publisher: Tervise
-      Arengu Instituut)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-1dfc7135-dadb-4ff4-a99c-3f8c7a09890a;
+      publisher: Tervise Arengu Instituut)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ervise-rengu-nstituu
 slug: oai-andmed-eesti-ee-1dfc7135-d-te75-disabil
+assigned_id: dea:data-product-oai-andmed-eesti-ee-1dfc7135-d-te75-disabil-qr7nkx
+admitted: '2026-11-14'

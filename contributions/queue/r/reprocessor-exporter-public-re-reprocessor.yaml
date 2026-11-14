@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu reprocessor-exporter-public-register
 name: Reprocessor/Exporter Public Register
-description: 'Provides the 4 agencies reprocessors/ exporters registered through a compliance year. Attribution
-  statement: © Environment Agency copyright and/or database right 2019. All rights reserved.'
+description: 'Provides the 4 agencies reprocessors/ exporters registered through a
+  compliance year. Attribution statement: © Environment Agency copyright and/or database
+  right 2019. All rights reserved.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/reprocessor-exporter-public-register (data.europa.eu
-      dataset reprocessor-exporter-public-register; publisher: Environment Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/reprocessor-exporter-public-register
+      (data.europa.eu dataset reprocessor-exporter-public-register; publisher: Environment
+      Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: reprocessor-exporter-public-re-reprocessor
+assigned_id: dea:data-product-reprocessor-exporter-public-re-reprocessor-nqpxew
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-lkod-msk-cz-nkod-dataset-015b16d7ef4c4bcbbe6e334ada9271f0_0
 name: Industrial parks in the Moravian-Silesian Region
-description: 'The data set contains the localization of industrial parks in the Moravian-Silesian Region.
-  The dataset is updated when the data changes (as needed). Attributes: NAME = Name of park NAZ_OBEC =
-  Name of municipalitySTAV = Current statusSource: MSIC'
+description: 'The data set contains the localization of industrial parks in the Moravian-Silesian
+  Region. The dataset is updated when the data changes (as needed). Attributes: NAME
+  = Name of park NAZ_OBEC = Name of municipalitySTAV = Current statusSource: MSIC'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-lkod-msk-cz-nkod-dataset-015b16d7ef4c4bcbbe6e334ada9271f0_0
-      (data.europa.eu dataset https-lkod-msk-cz-nkod-dataset-015b16d7ef4c4bcbbe6e334ada9271f0_0; publisher:
-      Moravskoslezský kraj)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-lkod-msk-cz-nkod-dataset-015b16d7ef4c4bcbbe6e334ada9271f0_0;
+      publisher: Moravskoslezský kraj)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oravskoslezsk-kraj
 slug: https-lkod-msk-cz-nkod-dataset-industrial-p
+assigned_id: dea:data-product-https-lkod-msk-cz-nkod-dataset-industrial-p-wus2vb
+admitted: '2026-11-14'

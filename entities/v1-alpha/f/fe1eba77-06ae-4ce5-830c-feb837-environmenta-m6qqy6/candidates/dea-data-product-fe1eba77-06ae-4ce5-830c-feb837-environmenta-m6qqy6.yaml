@@ -1,0 +1,39 @@
+id: dea:data-product-fe1eba77-06ae-4ce5-830c-feb837-environmenta-m6qqy6
+type: DataProduct
+name: Environmental Impact Assessment for the Construction of a second Nuclear Power
+  Station at Borssele (NL) - Energy Resources Holding ́s (ERH)
+description: The Minister for Housing, Spatial Planning and the Environment (VROM)
+  also on behalf of the Minister of Economic Affairs (EZ) and the Minister of Social
+  Affairs and Employment (SZW), announced in September 2010 that Energy Resources
+  Holding (ERH) had presented a Notification for an Environmental Impact Assessment
+  (EIA)1 concerning its plan to construct and operate a new Nuclear Power Plant (NPP)
+  at Borssele.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fe1eba77-06ae-4ce5-830c-feb837d4a34e
+      (data.europa.eu dataset fe1eba77-06ae-4ce5-830c-feb837d4a34e; publisher: Umweltbundesamt
+      GmbH)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- mweltbundesamt-mb

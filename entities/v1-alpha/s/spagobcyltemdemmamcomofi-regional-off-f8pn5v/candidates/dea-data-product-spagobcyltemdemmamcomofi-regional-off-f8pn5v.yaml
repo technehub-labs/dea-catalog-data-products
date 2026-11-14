@@ -1,0 +1,37 @@
+id: dea:data-product-spagobcyltemdemmamcomofi-regional-off-f8pn5v
+type: DataProduct
+name: Regional offices Environment CyL
+description: Cartographic of the regional offices (OCAS) of the Autonomous Community
+  of Castile and Leon. The regional environmental offices are the administrative units
+  located in the territory of each of the forest districts of Castilla y León. They
+  perform functions of public information and management of procedures within the
+  scope of their competences. The mapping of the district offices is developed as
+  a support tool to facilitate the location of them.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/spagobcyltemdemmamcomofi (data.europa.eu
+      dataset spagobcyltemdemmamcomofi; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

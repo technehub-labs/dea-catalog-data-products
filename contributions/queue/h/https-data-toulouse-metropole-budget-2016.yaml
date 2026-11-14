@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-toulouse-metropole-fr-explore-dataset-budget-primitif-2016-transports-blagnac-
 name: Budget 2016 – Transport Blagnac
-description: Budget 2016 – Transport Blagnac — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Toulouse métropole.
+description: Budget 2016 – Transport Blagnac — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by Toulouse métropole.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-data-toulouse-metropole-fr-explore-dataset-budget-primitif-2016-transports-blagnac-
       (data.europa.eu dataset https-data-toulouse-metropole-fr-explore-dataset-budget-primitif-2016-transports-blagnac-;
       publisher: Toulouse métropole)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oulouse-mtropole
 slug: https-data-toulouse-metropole-budget-2016
+assigned_id: dea:data-product-https-data-toulouse-metropole-budget-2016-t655wj
+admitted: '2026-11-14'

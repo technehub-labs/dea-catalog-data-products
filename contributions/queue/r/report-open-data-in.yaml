@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu report
 name: Open Data Innovation and Outreach Fund Final Report
-description: OurRagingPlanet (ORP) was desiged as a natural disaster education tool. It aims to help secondary
-  school students contextualize experiences of communities around the world when thrust into extreme scenarios,
-  by presenting worked examples within a local setting. It is primarily driven by and built upon OpenDataNI
-  data.
+description: OurRagingPlanet (ORP) was desiged as a natural disaster education tool.
+  It aims to help secondary school students contextualize experiences of communities
+  around the world when thrust into extreme scenarios, by presenting worked examples
+  within a local setting. It is primarily driven by and built upon OpenDataNI data.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/report (data.europa.eu dataset report; publisher:
-      OpenDataNI)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/report (data.europa.eu dataset
+      report; publisher: OpenDataNI)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - penata
 slug: report-open-data-in
+assigned_id: dea:data-product-report-open-data-in-fqyxsy
+admitted: '2026-11-14'

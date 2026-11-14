@@ -1,0 +1,57 @@
+id: dea:data-product-https-doi-org-10-5878-m5h3-be4-spatial-morp-7ry3mh
+type: DataProduct
+name: Spatial Morphology Lab 01. International laboratory for comparative research
+  in urban form. Street networks, Sweden - Motorised network of Eskilstuna
+description: 'GIS-datasets for the Street networks of Stockholm, Gothenburg and Eskilstuna
+  produced as part of the Spatial Morphology Lab (SMoL). The goal of the SMoL project
+  is to develop a strong theory and methodology for urban planning & design research
+  with an analytical approach. Three frequently recurring variables of spatial urban
+  form are studied that together quite well capture and describe the central characteristics
+  and qualities of the built environment: density, diversity and proximity. The first
+  measure describes how intensive a place can be used depending on how much built
+  up area is found there. The second measure captures how differentiated the use of
+  a place can be depending on the division in smaller units such as plots. The third
+  measure describes how accessible a place is depending on how it relates with other
+  places. Empirical studies have shown strong links between these metrics and people''s
+  use of cities such as pedestrian movement patterns. To support this goal, a central
+  objective of the project is the establishment of an international platform of GIS
+  data models for comparative studies in spatial urban form comprising three European
+  capitals: London in the UK, Amsterdam in the Netherlands and Stockholm in Sweden,
+  as well as two additional Swedish cities of smaller size than Stockholm: Gothenburg
+  and Eskilstuna. The result of the project is a GIS database for the five cities
+  covering the three basic layers of urban form: street network (motorised and non-motorised),
+  buildings and plots systems. The data is shared via SND to create a research infrastructure
+  that is open to new study initiatives. The datasets for Amsterdam will also be uploaded
+  to SND. The datasets of London cannot be uploaded because of licensing restrictions.
+  The street network GIS-maps include motorised and non-motorised networks. The motorised
+  networks exclude all streets that are pedestrian-only and were cars are excluded.
+  The network layers are based on the Swedish national road dat'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-doi-org-10-5878-m5h3-be44
+      (data.europa.eu dataset https-doi-org-10-5878-m5h3-be44; publisher: Chalmers
+      tekniska högskola)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- halmers-tekniska-hgs

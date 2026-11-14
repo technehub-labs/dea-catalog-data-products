@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu weee-received-aatfs-uk-summary
 name: WEEE Received AATFs UK Summary
-description: 'This record is for Approval for Access product AfA313. WEEE Received AATFs UK Summary contains
-  data reported by Approved Authorised Treatment Facilities (AATFs) about the amount of Obligated WEEE
-  received. The report contains figures for: - WEEE received for treatment - WEEE received for reuse -
-  WEEE received and then sent to another Authorised Treatment Facility or Approved Authorised Treatment
-  Facility And is broken down by; - Category (1 - 13) - Household/non-household The report is a UK dataset
-  and contains no information about any specific company. Data is reported quarterly. Reports available
-  date back to Q3 2007. Attribution statement: © Environment Agency copyright and/or database right 2019.
-  All rights reserved.'
+description: 'This record is for Approval for Access product AfA313. WEEE Received
+  AATFs UK Summary contains data reported by Approved Authorised Treatment Facilities
+  (AATFs) about the amount of Obligated WEEE received. The report contains figures
+  for: - WEEE received for treatment - WEEE received for reuse - WEEE received and
+  then sent to another Authorised Treatment Facility or Approved Authorised Treatment
+  Facility And is broken down by; - Category (1 - 13) - Household/non-household The
+  report is a UK dataset and contains no information about any specific company. Data
+  is reported quarterly. Reports available date back to Q3 2007. Attribution statement:
+  © Environment Agency copyright and/or database right 2019. All rights reserved.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/weee-received-aatfs-uk-summary (data.europa.eu dataset
-      weee-received-aatfs-uk-summary; publisher: Environment Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/weee-received-aatfs-uk-summary
+      (data.europa.eu dataset weee-received-aatfs-uk-summary; publisher: Environment
+      Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: weee-received-aatfs-uk-summary-weee-receive
+assigned_id: dea:data-product-weee-received-aatfs-uk-summary-weee-receive-9qs86m
+admitted: '2026-11-14'

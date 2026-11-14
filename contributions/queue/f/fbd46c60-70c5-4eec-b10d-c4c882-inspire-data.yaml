@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fbd46c60-70c5-4eec-b10d-c4c882ad39b7
 name: INSPIRE dataset BPL "SO Tourism+Agriculture Europe Farm"
-description: According to INSPIRE transformed development plan "SO Tourismus+Agriculture Europa-Farm"
-  of the municipality of Meißenheim based on an XPlanung dataset in version 5.0.
+description: According to INSPIRE transformed development plan "SO Tourismus+Agriculture
+  Europa-Farm" of the municipality of Meißenheim based on an XPlanung dataset in version
+  5.0.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/fbd46c60-70c5-4eec-b10d-c4c882ad39b7 (data.europa.eu
-      dataset fbd46c60-70c5-4eec-b10d-c4c882ad39b7; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/fbd46c60-70c5-4eec-b10d-c4c882ad39b7
+      (data.europa.eu dataset fbd46c60-70c5-4eec-b10d-c4c882ad39b7; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: fbd46c60-70c5-4eec-b10d-c4c882-inspire-data
+assigned_id: dea:data-product-fbd46c60-70c5-4eec-b10d-c4c882-inspire-data-64w859
+admitted: '2026-11-14'

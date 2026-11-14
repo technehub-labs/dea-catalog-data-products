@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-fe99af41-4afe-4186-a77f-dd309c9c7b41
 name: Expenditure on an overnight outbound trip of residents by main purpose of trip
-description: Expenditure on an overnight outbound trip of residents by main purpose of trip.
+description: Expenditure on an overnight outbound trip of residents by main purpose
+  of trip.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-fe99af41-4afe-4186-a77f-dd309c9c7b41
-      (data.europa.eu dataset oai-andmed-eesti-ee-fe99af41-4afe-4186-a77f-dd309c9c7b41; publisher: Statistikaamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-fe99af41-4afe-4186-a77f-dd309c9c7b41;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistikaamet
 slug: oai-andmed-eesti-ee-fe99af41-4-expenditure
+assigned_id: dea:data-product-oai-andmed-eesti-ee-fe99af41-4-expenditure-kp8ahx
+admitted: '2026-11-14'

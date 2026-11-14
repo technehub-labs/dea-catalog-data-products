@@ -1,0 +1,55 @@
+id: dea:data-product-https-www-opendata56-fr-explor-list-of-comp-vrxudv
+type: DataProduct
+name: List of companies (Base SIRENE v3) - Municipality of Lorient
+description: 'Find all the companies and their establishments. The Sirene® database
+  is updated every day, it includes about 30 million establishments in operation or
+  not. Data based on 2026-10 stock. **Note:** Opendatasoft has stopped daily updates
+  to the SIRENE v3 dataset since the last INSEE API update at the end of February.
+  Indeed, we encounter many difficulties with the API both on its stability and on
+  issues of updates. ### **IMPORTANT** As the Sirene database contains personal data,
+  INSEE draws your attention to the legal obligations arising from it: * The processing
+  of these data falls under the reporting obligations of Law 78-17 of 6 January 1978
+  as amended, known as the CNIL Law: <https://www.cnil.fr/fr/loi-78-17-du-6-janvier-1978-modifiee>
+  * Depending on your use of the dataset, it is your responsibility to take into account
+  the most recent broadcast status of each individual. Article A123-96 of the Commercial
+  Code provides that: > "Any natural person may request either directly at the time
+  of his creation or modification formalities, or by letter addressed to the Director
+  General of the National Institute of Statistics and Economic Studies, that the information
+  in the directory concerning him may not be used by third parties other than the
+  bodies authorised under Article R. 123-224 or the administrations, for prospecting
+  purposes, in particular commercial." ### **SIRENE BY ODS** ODS presents a consolidated
+  institutional database with data from its associated legal unit. #### **Enrichments**
+  * addition of the wording of the NAF codes and legal categories; * addition of legal
+  band wordings and track types; * addition of administrative hierarchies (reg/arr/dep/epci);
+  * addition of the geolocation of establishments via a BAN geocoding; * change of
+  certain abbreviations (F/M, O/N, A/C) by the corresponding wording (sexeunitelegale,
+  etatadministratifunitelegale, caractereemployeurunitelegale, etatadministratifetablissement,
+  etablissementsiege, caractereemployeuretablissemen'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-opendata56-fr-explore-dataset-base-sirene-pour-le-departement-du-morbihan-~~1
+      (data.europa.eu dataset https-www-opendata56-fr-explore-dataset-base-sirene-pour-le-departement-du-morbihan-~~1;
+      publisher: INSEE)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data

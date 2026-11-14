@@ -1,27 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu nachtzedel_extracted-zb_zuerich
 name: 'Zurich Overnight Visitor Logs ("Nachtzedel") 1780-1792: Extracted Data'
-description: 'This dataset contains structured, machine-readable extractions from the "Zürcher Nachtzedel"
-  (Zurich Overnight Visitor Logs) covering the years 1780 to 1792. While the primary dataset ["Zurich
-  Overnight Visitor Logs (Nachtzedel) 1780 - 1792: Digitized Copies"](https://opendata.swiss/en/dataset/zurcher-nachtzedel)
-  contains scanned raster images of 18th-century hotel guest lists, this secondary dataset reorganizes
-  the records from approximately 3,200 documents into a structured format, including key guest attributes
-  (e.g., names, origins, professions), high quality transcriptions, and georeferenced coordinates for
-  the locations mentioned in the sources. A large language model (LLM) workflow was used to transform
-  semi-structured historical prints into a validated JSON/CSV corpus suitable for quantitative historical
-  analysis and Digital Humanities research. The primary dataset containing the scanned documents is available
-  on Zenodo: [Zurich Overnight Visitor Logs (Nachtzedel) 1780 - 1792: Digitized Copies](https://doi.org/10.5281/zenodo.14132981).'
+description: 'This dataset contains structured, machine-readable extractions from
+  the "Zürcher Nachtzedel" (Zurich Overnight Visitor Logs) covering the years 1780
+  to 1792. While the primary dataset ["Zurich Overnight Visitor Logs (Nachtzedel)
+  1780 - 1792: Digitized Copies"](https://opendata.swiss/en/dataset/zurcher-nachtzedel)
+  contains scanned raster images of 18th-century hotel guest lists, this secondary
+  dataset reorganizes the records from approximately 3,200 documents into a structured
+  format, including key guest attributes (e.g., names, origins, professions), high
+  quality transcriptions, and georeferenced coordinates for the locations mentioned
+  in the sources. A large language model (LLM) workflow was used to transform semi-structured
+  historical prints into a validated JSON/CSV corpus suitable for quantitative historical
+  analysis and Digital Humanities research. The primary dataset containing the scanned
+  documents is available on Zenodo: [Zurich Overnight Visitor Logs (Nachtzedel) 1780
+  - 1792: Digitized Copies](https://doi.org/10.5281/zenodo.14132981).'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/nachtzedel_extracted-zb_zuerich (data.europa.eu dataset
-      nachtzedel_extracted-zb_zuerich; publisher: Zentralbibliothek Zürich)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/nachtzedel_extracted-zb_zuerich
+      (data.europa.eu dataset nachtzedel_extracted-zb_zuerich; publisher: Zentralbibliothek
+      Zürich)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - entralbibliothek-ric
 slug: nachtzedel-extracted-zb-zueric-zurich-overn
+assigned_id: dea:data-product-nachtzedel-extracted-zb-zueric-zurich-overn-z5tpju
+admitted: '2026-11-14'

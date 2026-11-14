@@ -1,30 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu s803_72_5_ebs337
 name: 'Special Eurobarometer 337: Geographical and labour market mobility'
-description: 'This survey follows the themes of the 2005 and 2007 Eurobarometer mobility surveys, but
-  has been modified and expanded to cover a range of areas relating to cross-border mobility, particularly
-  in relation to working abroad. Topics covered include: ♦ Respondent''s opinions about the impact of
-  people moving across regions or countries within the EU on individuals, families, the economy, the labour
-  market and European integration. ♦ Respondents'' experiences of living, working and/or studying abroad
-  ♦ Respondents'' plans to work abroad in future ♦ Positive and negative experiences of those who have
-  already worked abroad ♦ Motivations and disincentives for working abroad ♦ Perceived issues to be faced
-  when working abroad ♦ Ways respondents think they would find work abroad ♦ Respondents'' knowledge of
-  EURES (European Employment Services), and the services they would look for in an employment service
-  #####The results by volumes are distributed as follows: * Volume A: Countries * Volume AA: Groups of
-  countries * Volume A'' (AP): Trends * Volume AA'' (AAP): Trends of groups of countries * Volume B: EU/socio-demographics
-  * Volume B'' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics ---- Researchers
-  may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+description: 'This survey follows the themes of the 2005 and 2007 Eurobarometer mobility
+  surveys, but has been modified and expanded to cover a range of areas relating to
+  cross-border mobility, particularly in relation to working abroad. Topics covered
+  include: ♦ Respondent''s opinions about the impact of people moving across regions
+  or countries within the EU on individuals, families, the economy, the labour market
+  and European integration. ♦ Respondents'' experiences of living, working and/or
+  studying abroad ♦ Respondents'' plans to work abroad in future ♦ Positive and negative
+  experiences of those who have already worked abroad ♦ Motivations and disincentives
+  for working abroad ♦ Perceived issues to be faced when working abroad ♦ Ways respondents
+  think they would find work abroad ♦ Respondents'' knowledge of EURES (European Employment
+  Services), and the services they would look for in an employment service #####The
+  results by volumes are distributed as follows: * Volume A: Countries * Volume AA:
+  Groups of countries * Volume A'' (AP): Trends * Volume AA'' (AAP): Trends of groups
+  of countries * Volume B: EU/socio-demographics * Volume B'' (BP) : Trends of EU/
+  socio-demographics * Volume C: Country/socio-demographics ---- Researchers may also
+  contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/s803_72_5_ebs337 (data.europa.eu dataset s803_72_5_ebs337;
-      publisher: Directorate-General for Communication)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/s803_72_5_ebs337 (data.europa.eu
+      dataset s803_72_5_ebs337; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - irectorateeneral-for
 slug: s803-72-5-ebs337-special-euro
+assigned_id: dea:data-product-s803-72-5-ebs337-special-euro-dw69z7
+admitted: '2026-11-14'

@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu urn-isogeo-metadata-uuid-2cc54504-5791-4ac6-9b19-32ba2c947948
-name: Discovery service (CSW) of the catalogue of the Community of communes of the Pays de Craon on "geomayenne.fr"
-description: This discovery service allows to query the catalog of geographical data and web services
-  of the Community of communes of the Pays de Craon referenced in the platform "geomayenne.fr", via the
-  protocol CSW 2.0.2. This harvesting point makes it possible to discover the description sheets (metadata)
-  of the geographical data disseminated by the Community of communes of the Pays de Craon which are concerned
+name: Discovery service (CSW) of the catalogue of the Community of communes of the
+  Pays de Craon on "geomayenne.fr"
+description: This discovery service allows to query the catalog of geographical data
+  and web services of the Community of communes of the Pays de Craon referenced in
+  the platform "geomayenne.fr", via the protocol CSW 2.0.2. This harvesting point
+  makes it possible to discover the description sheets (metadata) of the geographical
+  data disseminated by the Community of communes of the Pays de Craon which are concerned
   by the European INSPIRE directive or which are of public interest.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/urn-isogeo-metadata-uuid-2cc54504-5791-4ac6-9b19-32ba2c947948
-      (data.europa.eu dataset urn-isogeo-metadata-uuid-2cc54504-5791-4ac6-9b19-32ba2c947948; publisher:
-      n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset urn-isogeo-metadata-uuid-2cc54504-5791-4ac6-9b19-32ba2c947948;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: urn-isogeo-metadata-uuid-2cc54-discovery-se
+assigned_id: dea:data-product-urn-isogeo-metadata-uuid-2cc54-discovery-se-9jtzva
+admitted: '2026-11-14'

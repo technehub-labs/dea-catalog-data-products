@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu m0277
 name: Contribution rates Agriculture IX
-description: Contribution rates Agriculture IX — a published dataset in the EU Open Data Portal (data.europa.eu),
-  maintained by Istituto Nazionale Previdenza Sociale.
+description: Contribution rates Agriculture IX — a published dataset in the EU Open
+  Data Portal (data.europa.eu), maintained by Istituto Nazionale Previdenza Sociale.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/m0277 (data.europa.eu dataset m0277; publisher: Istituto
-      Nazionale Previdenza Sociale)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/m0277 (data.europa.eu dataset
+      m0277; publisher: Istituto Nazionale Previdenza Sociale)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - stituto-azionale-rev
 slug: m0277-contribution
+assigned_id: dea:data-product-m0277-contribution-squwns
+admitted: '2026-11-14'

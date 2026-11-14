@@ -1,0 +1,31 @@
+# Greater Manchester Road Casualty Statistics
+
+> Statistics about reported road traffic casualties in the Greater Manchester area updated annually. For most tabulations data is provided for each year from either 1989 or from 1994. If data is required for other years, please contact HFAS. By providing the data in this single year format, the user is able to undertake their own analysis on trends more easily The tables are based on data collected by the Greater Manchester Police about road traffic accidents that involved personal injury and took place on the public highway. Deaths or injuries occurring on the public highway without a vehicle being involved are not classed as road traffic accidents. Accidents that do not become known to the police, or only become known 30 days or longer after their occurrence are also excluded. Accidents are recorded by the police using the STATS19 form, a copy of which can be found in HFAS Report 1800, available at www.gmtu.gov.uk. The number of injury accidents not known to the Greater Manchester Police is not easily identified. It would seem reasonable to assume that all `fatal’ accidents are reported, but these represent only a small proportion of the total. However, the limited evidence available indicates that `serious’ and `slight’ accidents are under reported. Without a detailed study in Greater Manchester, it has been assumed historically that 20% and 35% respectively have not been reported. It has also been assumed that the level of under-reporting has been consistent from year to year when analysing the statistics presented in this report. For further information on the levels of reporting in road accidents, the DfT have produced a number of papers which are available via their website www.dft.gov.uk. © Crown copyright and database rights 2014 Ordnance Survey 0100022610. Use of this data is subject to terms and conditions: You are granted a non-exclusive, royalty free, revocable licence solely to view the Licensed Data for non-commercial purposes for the period during whic
+
+## Identity
+
+- **Record id**: `dea:data-product-greater-manchester-road-casual-greater-manc-3rg868`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/greater-manchester-road-casualty-statistics (data.europa.eu dataset greater-manchester-road-casualty-statistics; publisher: Transport for Greater Manchester)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

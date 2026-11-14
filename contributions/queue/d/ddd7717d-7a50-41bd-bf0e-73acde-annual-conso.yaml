@@ -1,19 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ddd7717d-7a50-41bd-bf0e-73acde108af5
-name: Annual consolidated main financial indicators of the implementation of financial plans of enterprises
-  of the public sector of the economy. Information Manager-Ministry of Finance of Ukraine.
-description: Information on the financial results of the activities of ’ entities of the public sector
-  of the economy, which are under the control of the Ministry of Finance.
+name: Annual consolidated main financial indicators of the implementation of financial
+  plans of enterprises of the public sector of the economy. Information Manager-Ministry
+  of Finance of Ukraine.
+description: Information on the financial results of the activities of ’ entities
+  of the public sector of the economy, which are under the control of the Ministry
+  of Finance.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ddd7717d-7a50-41bd-bf0e-73acde108af5 (data.europa.eu
-      dataset ddd7717d-7a50-41bd-bf0e-73acde108af5; publisher: Міністерство фінансів України)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ddd7717d-7a50-41bd-bf0e-73acde108af5
+      (data.europa.eu dataset ddd7717d-7a50-41bd-bf0e-73acde108af5; publisher: Міністерство
+      фінансів України)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: ddd7717d-7a50-41bd-bf0e-73acde-annual-conso
+assigned_id: dea:data-product-ddd7717d-7a50-41bd-bf0e-73acde-annual-conso-jnnvvg
+admitted: '2026-11-14'

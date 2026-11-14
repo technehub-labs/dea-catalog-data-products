@@ -1,0 +1,31 @@
+# Zurich Overnight Visitor Logs ("Nachtzedel") 1780-1792: Extracted Data
+
+> This dataset contains structured, machine-readable extractions from the "Zürcher Nachtzedel" (Zurich Overnight Visitor Logs) covering the years 1780 to 1792. While the primary dataset ["Zurich Overnight Visitor Logs (Nachtzedel) 1780 - 1792: Digitized Copies"](https://opendata.swiss/en/dataset/zurcher-nachtzedel) contains scanned raster images of 18th-century hotel guest lists, this secondary dataset reorganizes the records from approximately 3,200 documents into a structured format, including key guest attributes (e.g., names, origins, professions), high quality transcriptions, and georeferenced coordinates for the locations mentioned in the sources. A large language model (LLM) workflow was used to transform semi-structured historical prints into a validated JSON/CSV corpus suitable for quantitative historical analysis and Digital Humanities research. The primary dataset containing the scanned documents is available on Zenodo: [Zurich Overnight Visitor Logs (Nachtzedel) 1780 - 1792: Digitized Copies](https://doi.org/10.5281/zenodo.14132981).
+
+## Identity
+
+- **Record id**: `dea:data-product-nachtzedel-extracted-zb-zueric-zurich-overn-z5tpju`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/nachtzedel_extracted-zb_zuerich (data.europa.eu dataset nachtzedel_extracted-zb_zuerich; publisher: Zentralbibliothek Zürich)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

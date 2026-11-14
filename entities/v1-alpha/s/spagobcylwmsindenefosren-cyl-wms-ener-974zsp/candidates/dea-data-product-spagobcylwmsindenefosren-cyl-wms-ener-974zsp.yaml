@@ -1,0 +1,35 @@
+id: dea:data-product-spagobcylwmsindenefosren-cyl-wms-ener-974zsp
+type: DataProduct
+name: CyL WMS Energy
+description: Energy map visualization service. Web map service compliant with the
+  Web Map Service:OGC-WMS standard. Provides access to visualization and consultation
+  of geographical information related to the location, production and distribution
+  of energy in the Community of Castilla y León
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/spagobcylwmsindenefosren (data.europa.eu
+      dataset spagobcylwmsindenefosren; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

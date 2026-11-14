@@ -1,0 +1,40 @@
+id: dea:data-product-environment-agency-potential-e-environment-nxak9x
+type: DataProduct
+name: Environment Agency Potential Evapotranspiration Dataset
+description: 'Potential Evapotranspiration (PET) is the amount of evaporation which
+  would occur if there was an unlimited supply of water. This dataset represents Potential
+  Evapotranspiration for well watered grass and is available either with an Interception
+  element (PETI) or without one (PET). The dataset has been calculated from homogenised
+  climate station data, gridded to a 1km grid. The dataset starts in 1961, is available
+  on a water day (09:00 to 09:00 on the following day) timestep and is updated frequently.
+  Attribution statement: © Environment Agency copyright and/or database right 2024.
+  All rights reserved.'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/environment-agency-potential-evapotranspiration-dataset
+      (data.europa.eu dataset environment-agency-potential-evapotranspiration-dataset;
+      publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- nvironment-gency

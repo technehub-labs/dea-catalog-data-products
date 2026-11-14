@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu edp-dataset-statistics-1
 name: EDP Dataset Statistics
-description: A statistical overview of the development of datasets in the European Data Portal
+description: A statistical overview of the development of datasets in the European
+  Data Portal
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/edp-dataset-statistics-1 (data.europa.eu dataset
-      edp-dataset-statistics-1; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/edp-dataset-statistics-1 (data.europa.eu
+      dataset edp-dataset-statistics-1; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: edp-dataset-statistics-1-edp-dataset
+assigned_id: dea:data-product-edp-dataset-statistics-1-edp-dataset-dgthek
+admitted: '2026-11-14'

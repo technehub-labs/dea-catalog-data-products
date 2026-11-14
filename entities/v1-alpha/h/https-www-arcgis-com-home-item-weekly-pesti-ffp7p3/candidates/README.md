@@ -1,0 +1,31 @@
+# Weekly Pesticide Concentrations in the Occitanie Region
+
+> Pesticides are all chemicals used to control undesirable plant species and pests. Used for different uses, the best known pesticides are herbicides (to control weeds), fungicides (to fight fungal infections of plants), insecticides and various biocides (to fight against animal species considered harmful). In agricultural use pesticides are often applied by spraying on plants and soil, some molecules can also come to coat seeds. Pesticides are also used outside agriculture, for example in veterinary applications (fighting against certain pests), in construction work (protection of building materials) etc. Pesticide contamination of the atmosphere takes place in three different ways: * by drift at the time of application; * by volatilisation after application: chemical reaction with the sun; * by wind erosion: under the action of the wind, substances associated with dust are resuspended in the air. Air masses can then transport these molecules over very long distances depending on the stability of the product and expose so-called ‘non-target’ surfaces to the presence of pesticides. Pesticides can be present in the atmosphere in gaseous form, associated with particles, or incorporated into fog or rain. Atmo Occitanie captures molecules in their gaseous and particulate forms. The coordinates do not correspond to the exact location of the site, but to the centroid of the geographic area (EPCI/Commune) where the site is located. Values at -999 are invalidated data. WFS flows: [https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/mes_occitanie _pesticides _hebdo/WFSServer?service=wfs&request=getcapabilities](https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/mes_occitanie _pesticides _hebdo/WFSServer?service=wfs&request=getcapabilities)
+
+## Identity
+
+- **Record id**: `dea:data-product-https-www-arcgis-com-home-item-weekly-pesti-ffp7p3`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-ba44171c08d148568ee0e5a45c81573b-sublayer-0 (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-ba44171c08d148568ee0e5a45c81573b-sublayer-0; publisher: {{source}})
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

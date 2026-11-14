@@ -1,0 +1,31 @@
+# Business Demographics and Survival Rates, Borough
+
+> <dp-prose> <p>Data on enterprise births, deaths, active enterprises and survival rates across boroughs.</p> <p>Data includes:</p> <ol> <li> <p>the most recent annual figures for enterprise births and deaths</p> </li> <li> <p>a time series of the number of births and deaths of entrprises together with a percentage of births and deaths to active enterprises in a given year</p> </li> <li> <p>a time series of the number of active enterprises.</p> </li> <li> <p>survival rates of enterprises for up to 5 years after birth</p> </li> </ol> <p>Notes and definitions:</p> <ul> <li> <p>The starting point for business demography is the concept of a population of active businesses in a reference year (t). These are defined as businesses that had either turnover or employment at any time during the reference period.</p> </li> <li> <p>A birth is identified as a business that was present in year t, but did not exist in year t-1 or t-2. Births are identified by making comparison of annual active population files and identifying those present in the latest file, but not the two previous ones.</p> </li> <li> <p>A death is defined as a business that was on the active file in year t, but was no longer present in the active file in t+1 and t+2. In order to provide an early estimate of deaths, an adjustment has been made to the 2007 and 2008 deaths to allow for reactivations. These figures are provisional and subject to revision.</p> </li> </ul> <p>Data on size of firms (micro-business, SME, large) for business and employees in London by industry can be found on the <a href="http://www.ons.gov.uk/ons/rel/regional-trends/london-analysis/index.html">ONS website</a>.</p> <p>More Business Demographics data on the <a href="http://www.ons.gov.uk/ons/publications/all-releases.html?definition=tcm%3A77-21553">ONS website</a></p> </dp-prose>
+
+## Identity
+
+- **Record id**: `dea:data-product-ep8ny-business-dem-5k94vb`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/ep8ny (data.europa.eu dataset ep8ny; publisher: Office for National Statistics)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

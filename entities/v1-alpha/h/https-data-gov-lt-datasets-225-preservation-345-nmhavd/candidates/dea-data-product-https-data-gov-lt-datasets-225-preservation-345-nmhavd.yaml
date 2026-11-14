@@ -1,0 +1,36 @@
+id: dea:data-product-https-data-gov-lt-datasets-225-preservation-345-nmhavd
+type: DataProduct
+name: Preservation of endangered Lithuanian old breeds of livestock and poultry. General
+  information.
+description: Information is provided about applications and amounts paid out for the
+  activity &quot;Preservation of Endangered Lithuanian Old-Breed Livestock and Poultry&quot;
+  of the &quot;Agrarian Environment and Climate&quot; measure.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-2251-
+      (data.europa.eu dataset https-data-gov-lt-datasets-2251-; publisher: Nacionalinė
+      mokėjimo agentūra prie Žemės ūkio ministerijos)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- acionalin-mokjimo-ag

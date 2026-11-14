@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu faa33d19-4085-4c21-9046-2cf4986e9093
 name: Data on medical equipment of communal health care institutions’я
-description: Data on the medical equipment of the CNP "Chop City Hospital", the CNP "Chop Center for Primary
-  Health Care"
+description: Data on the medical equipment of the CNP "Chop City Hospital", the CNP
+  "Chop Center for Primary Health Care"
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/faa33d19-4085-4c21-9046-2cf4986e9093 (data.europa.eu
-      dataset faa33d19-4085-4c21-9046-2cf4986e9093; publisher: Чопська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/faa33d19-4085-4c21-9046-2cf4986e9093
+      (data.europa.eu dataset faa33d19-4085-4c21-9046-2cf4986e9093; publisher: Чопська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: faa33d19-4085-4c21-9046-2cf498-data-on-medi
+assigned_id: dea:data-product-faa33d19-4085-4c21-9046-2cf498-data-on-medi-wzn444
+admitted: '2026-11-14'

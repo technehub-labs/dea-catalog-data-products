@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-358641ef0eae49f8b8cc6b36982dd39a-sublayer-12
 name: Composting site
-description: Location of composting sites; biobox; public and private collective composting Zero waste
-  Ecological Transition Directorate
+description: Location of composting sites; biobox; public and private collective composting
+  Zero waste Ecological Transition Directorate
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-358641ef0eae49f8b8cc6b36982dd39a-sublayer-12
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-358641ef0eae49f8b8cc6b36982dd39a-sublayer-12;
       publisher: Ville de Roubaix)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-de-oubaix
 slug: https-www-arcgis-com-home-item-composting-s
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-composting-s-vff7md
+admitted: '2026-11-14'

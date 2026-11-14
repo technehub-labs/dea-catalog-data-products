@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-doi-org-10-48360-9yqh-8g97
-name: Source data for "Detailed multi-lake survey reveal high climate sensitivity of Northern lake CO₂
-  fluxes"
-description: This catalogue post is anonymous during the peer-review process. After publication of the
-  associated manuscript, the name of the PI, potential contributors, and descriptions of the data (metadata)
-  will be provided. The dataset was originally published in DiVA and moved to SND in 2024.
+name: Source data for "Detailed multi-lake survey reveal high climate sensitivity
+  of Northern lake CO₂ fluxes"
+description: This catalogue post is anonymous during the peer-review process. After
+  publication of the associated manuscript, the name of the PI, potential contributors,
+  and descriptions of the data (metadata) will be provided. The dataset was originally
+  published in DiVA and moved to SND in 2024.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-doi-org-10-48360-9yqh-8g97 (data.europa.eu
-      dataset https-doi-org-10-48360-9yqh-8g97; publisher: Information not available, contact SND for
-      more information)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-doi-org-10-48360-9yqh-8g97
+      (data.europa.eu dataset https-doi-org-10-48360-9yqh-8g97; publisher: Information
+      not available, contact SND for more information)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nformation-not-avail
 slug: https-doi-org-10-48360-9yqh-8g-source-data
+assigned_id: dea:data-product-https-doi-org-10-48360-9yqh-8g-source-data-u3sjnn
+admitted: '2026-11-14'

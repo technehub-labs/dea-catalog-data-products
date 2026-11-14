@@ -1,17 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu zdravstvene-ustanove-v-obcini-ravne-na-koroskem
 name: Health institutions in the municipality of Ravne na Koroškem
-description: The collection collects data on health institutions in the municipality of Ravne na Koroškem.
+description: The collection collects data on health institutions in the municipality
+  of Ravne na Koroškem.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/zdravstvene-ustanove-v-obcini-ravne-na-koroskem (data.europa.eu
-      dataset zdravstvene-ustanove-v-obcini-ravne-na-koroskem; publisher: OBČINA RAVNE NA KOROŠKEM)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/zdravstvene-ustanove-v-obcini-ravne-na-koroskem
+      (data.europa.eu dataset zdravstvene-ustanove-v-obcini-ravne-na-koroskem; publisher:
+      OBČINA RAVNE NA KOROŠKEM)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: zdravstvene-ustanove-v-obcini-health-insti-208
+assigned_id: dea:data-product-zdravstvene-ustanove-v-obcini-health-insti-208-fjbmyk
+admitted: '2026-11-14'

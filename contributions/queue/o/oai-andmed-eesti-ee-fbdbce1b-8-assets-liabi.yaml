@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-fbdbce1b-80e2-4d23-a59e-db4c37da2973
-name: Assets, liabilities and equity of accommodation, catering and tourist enterprises by economic activity
-  (emtak 2008) and number of persons employed (2005–2015)
-description: Assets, liabilities and equity of accommodation, catering and tourist enterprises by economic
-  activity (emtak 2008) and number of persons employed (2005–2015).
+name: Assets, liabilities and equity of accommodation, catering and tourist enterprises
+  by economic activity (emtak 2008) and number of persons employed (2005–2015)
+description: Assets, liabilities and equity of accommodation, catering and tourist
+  enterprises by economic activity (emtak 2008) and number of persons employed (2005–2015).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-fbdbce1b-80e2-4d23-a59e-db4c37da2973
-      (data.europa.eu dataset oai-andmed-eesti-ee-fbdbce1b-80e2-4d23-a59e-db4c37da2973; publisher: Statistikaamet)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-fbdbce1b-80e2-4d23-a59e-db4c37da2973;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - tatistikaamet
 slug: oai-andmed-eesti-ee-fbdbce1b-8-assets-liabi
+assigned_id: dea:data-product-oai-andmed-eesti-ee-fbdbce1b-8-assets-liabi-d5whwt
+admitted: '2026-11-14'

@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu r_friuve-m10762-cc-i11161
 name: Energy recovery of synthesis gas R1 (GDS)
-description: The document “Regional Localisation Criteria for Waste Recovery and Disposal” is the instrument
-  that defines the criteria for identifying suitable and unsuitable areas for the location of waste disposal
-  and recovery facilities, as well as the definition of criteria for the identification of suitable sites
-  or installations for disposal.
+description: The document “Regional Localisation Criteria for Waste Recovery and Disposal”
+  is the instrument that defines the criteria for identifying suitable and unsuitable
+  areas for the location of waste disposal and recovery facilities, as well as the
+  definition of criteria for the identification of suitable sites or installations
+  for disposal.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/r_friuve-m10762-cc-i11161 (data.europa.eu dataset
-      r_friuve-m10762-cc-i11161; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/r_friuve-m10762-cc-i11161 (data.europa.eu
+      dataset r_friuve-m10762-cc-i11161; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: r-friuve-m10762-cc-i11161-energy-recov
+assigned_id: dea:data-product-r-friuve-m10762-cc-i11161-energy-recov-rjv5k2
+admitted: '2026-11-14'

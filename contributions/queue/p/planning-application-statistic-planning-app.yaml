@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu planning-application-statistics-live-tables
 name: Planning Application statistics – live tables
-description: <p>Quarterly and annual statistics for planning applications published on the DCLG website.
-  </p>
+description: <p>Quarterly and annual statistics for planning applications published
+  on the DCLG website. </p>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/planning-application-statistics-live-tables (data.europa.eu
-      dataset planning-application-statistics-live-tables; publisher: Colchester Borough Council)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/planning-application-statistics-live-tables
+      (data.europa.eu dataset planning-application-statistics-live-tables; publisher:
+      Colchester Borough Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - olchester-orough-oun
 slug: planning-application-statistic-planning-app
+assigned_id: dea:data-product-planning-application-statistic-planning-app-mkscxf
+admitted: '2026-11-14'

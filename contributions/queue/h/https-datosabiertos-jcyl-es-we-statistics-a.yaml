@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-rural-pesca-agricultura-1284801509249
 name: Statistics - Agriculture
-description: Basic data on agricultural holdings, agricultural areas, family members working in agricultural
-  holdings, gross margin of agricultural holdings, agricultural machinery and livestock units in Castilla
-  y León broken down by year and municipality. These data are offered by the where other queries can also
-  be made about births, databases and other thematic modules. In addition, the EIS provides a .
+description: Basic data on agricultural holdings, agricultural areas, family members
+  working in agricultural holdings, gross margin of agricultural holdings, agricultural
+  machinery and livestock units in Castilla y León broken down by year and municipality.
+  These data are offered by the where other queries can also be made about births,
+  databases and other thematic modules. In addition, the EIS provides a .
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-rural-pesca-agricultura-1284801509249
       (data.europa.eu dataset https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-rural-pesca-agricultura-1284801509249;
       publisher: Junta de Castilla y León)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - unta-de-astilla-y-en
 slug: https-datosabiertos-jcyl-es-we-statistics-a
+assigned_id: dea:data-product-https-datosabiertos-jcyl-es-we-statistics-a-84zgdj
+admitted: '2026-11-14'

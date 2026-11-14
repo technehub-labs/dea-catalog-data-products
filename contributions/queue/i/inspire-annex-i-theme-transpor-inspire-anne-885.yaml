@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu inspire-annex-i-theme-transport-networks-roads-roadnode-electrical-charging-stations
-name: INSPIRE - Annex I Theme Transport Networks - Roads - RoadNode - Electrical Charging Stations
-description: This dataset contains the public electrical charging stations of the Grand Duchy of Luxembourg.
-  The dataset is structured according to the INSPIRE Annex I Theme - Transport networks. Description copied
-  from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/aa999556-2105-4d35-8b75-6d949733cefa).
+name: INSPIRE - Annex I Theme Transport Networks - Roads - RoadNode - Electrical Charging
+  Stations
+description: This dataset contains the public electrical charging stations of the
+  Grand Duchy of Luxembourg. The dataset is structured according to the INSPIRE Annex
+  I Theme - Transport networks. Description copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/aa999556-2105-4d35-8b75-6d949733cefa).
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/inspire-annex-i-theme-transport-networks-roads-roadnode-electrical-charging-stations
       (data.europa.eu dataset inspire-annex-i-theme-transport-networks-roads-roadnode-electrical-charging-stations;
       publisher: Géoportail)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - oportail
 slug: inspire-annex-i-theme-transpor-inspire-anne-885
+assigned_id: dea:data-product-inspire-annex-i-theme-transpor-inspire-anne-885-ptkadw
+admitted: '2026-11-14'

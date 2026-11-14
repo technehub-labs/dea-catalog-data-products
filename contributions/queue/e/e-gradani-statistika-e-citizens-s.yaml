@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e-gradani-statistika
 name: e-Citizens - statistics
-description: The dataset contains the most interesting statistics of the e-Citizens system. In addition
-  to the number of users of the e-Citizens system, you can find data on the number of e-Citizens by county
-  (by place of residence), which are the most used services and data on the credentials used to access
-  the e-Citizens system.
+description: The dataset contains the most interesting statistics of the e-Citizens
+  system. In addition to the number of users of the e-Citizens system, you can find
+  data on the number of e-Citizens by county (by place of residence), which are the
+  most used services and data on the credentials used to access the e-Citizens system.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e-gradani-statistika (data.europa.eu dataset e-gradani-statistika;
-      publisher: Ministarstvo pravosuđa, uprave i digitalne transformacije)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e-gradani-statistika (data.europa.eu
+      dataset e-gradani-statistika; publisher: Ministarstvo pravosuđa, uprave i digitalne
+      transformacije)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistarstvo-pravosua
 slug: e-gradani-statistika-e-citizens-s
+assigned_id: dea:data-product-e-gradani-statistika-e-citizens-s-nbr5tx
+admitted: '2026-11-14'

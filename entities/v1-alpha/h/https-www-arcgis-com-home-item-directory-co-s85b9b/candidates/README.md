@@ -1,0 +1,31 @@
+# Directory colleges 76 Min educ nat 20231005
+
+> Directory of colleges of the Ministry of National Education: data on open public and private establishments located in Seine-Maritime on 5 October 2023. In particular, the Directory shall provide the following information:name, address, contact, public or private status (and type of contract), number of pupils, catering or not, accommodation or not, specific sections (ULIS, SEGPA, international, sport), link to the ONISEP sheet (which provides information on foreign languages and options proposed), priority education network or not, etc. The national file can be downloaded here: [https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education/information/?disjunctive.nom_etablissement&disjunctive.type_etablissement&disjunctive.type_contrat_prive&disjunctive.code_type_contrat_prive&disjunctive.pial](s) Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/d56d085559854e2f8ef8eb3d5fc803c9/data) Additional resources * Site data.education.gouv.fr: [https://data.education.gouv.fr/pages/accueil/](s) This Open Data platform of the National Education offers downloadable data and online mapping. It is also available for the Normandy region at the following address: [https://data.normandie.education.gouv.fr/pages/accueil/](s) * Site of the academy of the Normandy Region: [https://www.ac-normandie.fr/](s) This site offers information in particular: \- on [registration procedure](https://www.ac-normandie.fr/vie-de-l-eleve-dans-la-seine-maritime-121815) and [financial assistance for schooling](−) at school, college or high school, \- on [exemption criteria](https://www.ac-normandie.fr/inscription-au-college-123358) for college assignments \- on the care of [children and young people with disabilities](https://www.ac-normandie.fr/l-ecole-inclusive-121784) and the [service dedicated to this mission in Seine-Maritime] * Website of the Ministry of National Education: [https://www.education.gouv.fr/](s) This site offers data and analysi
+
+## Identity
+
+- **Record id**: `dea:data-product-https-www-arcgis-com-home-item-directory-co-s85b9b`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-4e156de21a1344019fbe96cf0d880e1e-sublayer-0 (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-4e156de21a1344019fbe96cf0d880e1e-sublayer-0; publisher: Département de la Seine-Maritime)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

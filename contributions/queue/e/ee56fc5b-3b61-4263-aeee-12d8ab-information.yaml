@@ -1,19 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ee56fc5b-3b61-4263-aeee-12d8abb4cfc9
-name: Information on the regulatory framework of the activities of the Municipal Non-Profit Enterprise
-  "Dnipro Primary Health Care Center 10" of the Dnipro City Council
-description: The set contains information on the regulatory framework of the activities of the Municipal
-  Non-Profit Enterprise "Dnipro Primary Health Care Center 10" of the Dnipro City Council
+name: Information on the regulatory framework of the activities of the Municipal Non-Profit
+  Enterprise "Dnipro Primary Health Care Center 10" of the Dnipro City Council
+description: The set contains information on the regulatory framework of the activities
+  of the Municipal Non-Profit Enterprise "Dnipro Primary Health Care Center 10" of
+  the Dnipro City Council
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ee56fc5b-3b61-4263-aeee-12d8abb4cfc9 (data.europa.eu
-      dataset ee56fc5b-3b61-4263-aeee-12d8abb4cfc9; publisher: Дніпровська міська рада)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ee56fc5b-3b61-4263-aeee-12d8abb4cfc9
+      (data.europa.eu dataset ee56fc5b-3b61-4263-aeee-12d8abb4cfc9; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: ee56fc5b-3b61-4263-aeee-12d8ab-information
+assigned_id: dea:data-product-ee56fc5b-3b61-4263-aeee-12d8ab-information-nzj4qg
+admitted: '2026-11-14'

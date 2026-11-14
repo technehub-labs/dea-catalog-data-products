@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: Beneficiaries of agricultural unemployment benefits - Years 2007-20
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/m0037 (data.europa.eu dataset m0037; publisher: Istituto
-      Nazionale Previdenza Sociale)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/m0037 (data.europa.eu dataset
+      m0037; publisher: Istituto Nazionale Previdenza Sociale)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - stituto-azionale-rev
 slug: m0037-agricultural
+assigned_id: dea:data-product-m0037-agricultural-4dkgwj
+admitted: '2026-11-14'

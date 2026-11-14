@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-gov-lt-datasets-290-
-name: Areas of declared crops according to Lithuanian Rural Development 2007-2013. and 2014-2020. Program
-  measures &quot;Organic Farming&quot;
-description: Areas of declared crops according to Lithuanian Rural Development 2007-2013. and 2014-2020.
-  program measures &quot;Organic farming&quot; according to the crop code from 2010.
+name: Areas of declared crops according to Lithuanian Rural Development 2007-2013.
+  and 2014-2020. Program measures &quot;Organic Farming&quot;
+description: Areas of declared crops according to Lithuanian Rural Development 2007-2013.
+  and 2014-2020. program measures &quot;Organic farming&quot; according to the crop
+  code from 2010.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-290- (data.europa.eu dataset
-      https-data-gov-lt-datasets-290-; publisher: VĮ Žemės ūkio duomenų centras)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-290-
+      (data.europa.eu dataset https-data-gov-lt-datasets-290-; publisher: VĮ Žemės
+      ūkio duomenų centras)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ems-kio-duomen-cent
 slug: https-data-gov-lt-datasets-290-areas-of-dec
+assigned_id: dea:data-product-https-data-gov-lt-datasets-290-areas-of-dec-butzd6
+admitted: '2026-11-14'

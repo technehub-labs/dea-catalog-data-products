@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu eb6c892f-5ae7-414e-8f90-2e9fdf7286d4
-name: No. of Meetings Convened by Educational Welfare Officers Under Section 24 Education (Welfare) Act
-  2000 2024
-description: Performance metrics for by year No. of Meetings Convened by Educational Welfare Officers
-  Under Section 24 Education (Welfare) Act 2000
+name: No. of Meetings Convened by Educational Welfare Officers Under Section 24 Education
+  (Welfare) Act 2000 2024
+description: Performance metrics for by year No. of Meetings Convened by Educational
+  Welfare Officers Under Section 24 Education (Welfare) Act 2000
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/eb6c892f-5ae7-414e-8f90-2e9fdf7286d4 (data.europa.eu
-      dataset eb6c892f-5ae7-414e-8f90-2e9fdf7286d4; publisher: Tusla)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/eb6c892f-5ae7-414e-8f90-2e9fdf7286d4
+      (data.europa.eu dataset eb6c892f-5ae7-414e-8f90-2e9fdf7286d4; publisher: Tusla)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - usla
 slug: eb6c892f-5ae7-414e-8f90-2e9fdf-no-of-meetin
+assigned_id: dea:data-product-eb6c892f-5ae7-414e-8f90-2e9fdf-no-of-meetin-fx445t
+admitted: '2026-11-14'

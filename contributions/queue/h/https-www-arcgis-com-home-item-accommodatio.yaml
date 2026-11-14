@@ -1,36 +1,43 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-9c20fa0903144c6e9821cec4a814fc3e-sublayer-0
 name: Accommodation aid in persons aged HEPA by EPCI CD76 2022
-description: 'This dataset covers the beneficiaries of housing support for the elderly and the corresponding
-  departmental expenditure in 2022, presented by Intercommunalité. The data cover the period during which
-  the services were performed (service provided). Elderly people who cannot be usefully assisted at home
-  may, if they consent, be accommodated in structures, subject to their entitlement to social assistance.
-  The elderly can then be welcomed into: • EHPADs (including PASA, UHR and some PUVs): the accommodation
-  establishment for elderly dependents provides residents, in a collective way, with the necessary accommodation,
-  catering, maintenance and care; • EHPAs (including PUVs, and autonomous residences): the autonomous
-  residence is an EHPA intended for collective housing as the principal residence of non-dependent elderly
-  people, in a building comprising both private and common premises intended for collective life. The
-  payment of social assistance to the beneficiary in self-employed residence stops on the day of the beneficiary’s
-  death; • out-of-department structures located on French territory. Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/899e1bd089c44099af27292b4f142a35/data)
+description: 'This dataset covers the beneficiaries of housing support for the elderly
+  and the corresponding departmental expenditure in 2022, presented by Intercommunalité.
+  The data cover the period during which the services were performed (service provided).
+  Elderly people who cannot be usefully assisted at home may, if they consent, be
+  accommodated in structures, subject to their entitlement to social assistance. The
+  elderly can then be welcomed into: • EHPADs (including PASA, UHR and some PUVs):
+  the accommodation establishment for elderly dependents provides residents, in a
+  collective way, with the necessary accommodation, catering, maintenance and care;
+  • EHPAs (including PUVs, and autonomous residences): the autonomous residence is
+  an EHPA intended for collective housing as the principal residence of non-dependent
+  elderly people, in a building comprising both private and common premises intended
+  for collective life. The payment of social assistance to the beneficiary in self-employed
+  residence stops on the day of the beneficiary’s death; • out-of-department structures
+  located on French territory. Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/899e1bd089c44099af27292b4f142a35/data)
   Additional information * **website of the Seine-Maritime Department**: ‘https://www.seinemaritime.fr/mon-quotidien/personnes-agees/beneficier-daides/les-aides-hebergement-hors-du-domicile.html’
-  and ‘shortly’ The official website of the Department offers a page dedicated to help with out-of-home
-  accommodation for the elderly, which provides in particular the contact details of the persons to contact
-  to benefit from it. You can also download the Departmental Social Assistance Regulation, which explains
-  in detail the criteria and procedures for admission to the aid concerned, the consequences of the award
-  of the aid (effective date, payment arrangements, etc.), sheets 1-11 and 1-13 concern permanent or temporary
-  accommodation for elderly people. * **data'
+  and ‘shortly’ The official website of the Department offers a page dedicated to
+  help with out-of-home accommodation for the elderly, which provides in particular
+  the contact details of the persons to contact to benefit from it. You can also download
+  the Departmental Social Assistance Regulation, which explains in detail the criteria
+  and procedures for admission to the aid concerned, the consequences of the award
+  of the aid (effective date, payment arrangements, etc.), sheets 1-11 and 1-13 concern
+  permanent or temporary accommodation for elderly people. * **data'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-9c20fa0903144c6e9821cec4a814fc3e-sublayer-0
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-9c20fa0903144c6e9821cec4a814fc3e-sublayer-0;
       publisher: Département de la Seine-Maritime)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - partement-de-la-eine
 slug: https-www-arcgis-com-home-item-accommodatio
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-accommodatio-wkyhbe
+admitted: '2026-11-14'

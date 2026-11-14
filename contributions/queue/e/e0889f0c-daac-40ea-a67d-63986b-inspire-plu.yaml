@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,14 @@ description: INSPIRE PLU Rural Education Centre, 1st Amendment
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e0889f0c-daac-40ea-a67d-63986b53e4a4 (data.europa.eu
-      dataset e0889f0c-daac-40ea-a67d-63986b53e4a4; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e0889f0c-daac-40ea-a67d-63986b53e4a4
+      (data.europa.eu dataset e0889f0c-daac-40ea-a67d-63986b53e4a4; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: e0889f0c-daac-40ea-a67d-63986b-inspire-plu
+assigned_id: dea:data-product-e0889f0c-daac-40ea-a67d-63986b-inspire-plu-48w76v
+admitted: '2026-11-14'

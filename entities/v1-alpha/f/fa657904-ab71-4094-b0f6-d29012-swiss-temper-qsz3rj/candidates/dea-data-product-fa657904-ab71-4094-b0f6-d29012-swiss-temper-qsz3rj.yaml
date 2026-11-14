@@ -1,0 +1,35 @@
+id: dea:data-product-fa657904-ab71-4094-b0f6-d29012-swiss-temper-qsz3rj
+type: DataProduct
+name: Swiss temperature mean
+description: The Swiss temperature mean describes the temperature measured on average
+  across the entire area of the country and at the various altitudes of Switzerland.
+  The mean has been available with a monthly resolution since 1864,
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fa657904-ab71-4094-b0f6-d29012ff9b8d-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
+      (data.europa.eu dataset fa657904-ab71-4094-b0f6-d29012ff9b8d-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz;
+      publisher: Ufficio federale di meteorologia e climatologia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- fficio-federale-di-m

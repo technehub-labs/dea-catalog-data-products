@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu groningen-sportmonitor-groningen-2015
 name: Sports monitor Groningen
-description: In the sports monitor we present the results of the measurements on sports in Groningen.
-  The first measurement was in 2011. Among other things, about sports, B-smart, sports accommodations
-  and healthy exercise
+description: In the sports monitor we present the results of the measurements on sports
+  in Groningen. The first measurement was in 2011. Among other things, about sports,
+  B-smart, sports accommodations and healthy exercise
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/groningen-sportmonitor-groningen-2015 (data.europa.eu
-      dataset groningen-sportmonitor-groningen-2015; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/groningen-sportmonitor-groningen-2015
+      (data.europa.eu dataset groningen-sportmonitor-groningen-2015; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: groningen-sportmonitor-groning-sports-monit
+assigned_id: dea:data-product-groningen-sportmonitor-groning-sports-monit-77zkqq
+admitted: '2026-11-14'

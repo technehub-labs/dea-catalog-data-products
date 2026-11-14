@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fbbc7781-d436-4048-bc1a-17982ab40176-kanton-thurgau
 name: Climate Analysis Map Tag PET
-description: 'The Tag PET climate analysis map shows the physiologically equivalent temperature (PET).
-  As a heat index, PET combines the effects of air temperature, humidity, wind speed and solar radiation
-  on the energy balance of the human body. It can be understood as a perceived temperature (unit: °C).'
+description: 'The Tag PET climate analysis map shows the physiologically equivalent
+  temperature (PET). As a heat index, PET combines the effects of air temperature,
+  humidity, wind speed and solar radiation on the energy balance of the human body.
+  It can be understood as a perceived temperature (unit: °C).'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/fbbc7781-d436-4048-bc1a-17982ab40176-kanton-thurgau
-      (data.europa.eu dataset fbbc7781-d436-4048-bc1a-17982ab40176-kanton-thurgau; publisher: Kanton Thurgau,
-      Amt für Geoinformation)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset fbbc7781-d436-4048-bc1a-17982ab40176-kanton-thurgau;
+      publisher: Kanton Thurgau, Amt für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - anton-hurgau-mt-fr-e
 slug: fbbc7781-d436-4048-bc1a-17982a-climate-anal
+assigned_id: dea:data-product-fbbc7781-d436-4048-bc1a-17982a-climate-anal-u3aq2b
+admitted: '2026-11-14'

@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: List of petrol stations in the city of Terrassa
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-opendata-terrassa-cat-dataset-gasolineres (data.europa.eu
-      dataset https-opendata-terrassa-cat-dataset-gasolineres; publisher: Ayuntamiento de Terrassa)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-opendata-terrassa-cat-dataset-gasolineres
+      (data.europa.eu dataset https-opendata-terrassa-cat-dataset-gasolineres; publisher:
+      Ayuntamiento de Terrassa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-erras
 slug: https-opendata-terrassa-cat-da-petrol-stati
+assigned_id: dea:data-product-https-opendata-terrassa-cat-da-petrol-stati-rb6tju
+admitted: '2026-11-14'

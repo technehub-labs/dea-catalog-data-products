@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-gov-lt-datasets-2252-
-name: Preservation of endangered Lithuanian old breeds of livestock and poultry. Animal species.
-description: Information is provided about the animal species supported by the &quot;Agrarian environmental
-  protection and climate&quot; activity &quot;Preservation of endangered Lithuanian old breeds of livestock
-  and poultry&quot;.
+name: Preservation of endangered Lithuanian old breeds of livestock and poultry. Animal
+  species.
+description: Information is provided about the animal species supported by the &quot;Agrarian
+  environmental protection and climate&quot; activity &quot;Preservation of endangered
+  Lithuanian old breeds of livestock and poultry&quot;.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-2252- (data.europa.eu
-      dataset https-data-gov-lt-datasets-2252-; publisher: Nacionalinė mokėjimo agentūra prie Žemės ūkio
-      ministerijos)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-2252-
+      (data.europa.eu dataset https-data-gov-lt-datasets-2252-; publisher: Nacionalinė
+      mokėjimo agentūra prie Žemės ūkio ministerijos)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - acionalin-mokjimo-ag
 slug: https-data-gov-lt-datasets-225-preservation
+assigned_id: dea:data-product-https-data-gov-lt-datasets-225-preservation-x9ff59
+admitted: '2026-11-14'

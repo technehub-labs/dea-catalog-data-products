@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu oai-andmed-eesti-ee-a61b05aa-7b6a-4097-984e-e98facfa1d2a
 name: 'OE0451: Life expectancy by sex, age group and type of settlement'
-description: 'The dataset shows life expectancy at birth and years left to live by sex and age group (including
-  0, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34 to 85 and older) and type of settlement unit or area
-  (city and town settlement region, rural settlement region, urban settlements, rural settlements). The
-  purpose of collecting life expectancy data is to provide a standard population health indicator for
-  monitoring trends over time, assessing differences between population groups and regions, and informing
-  health policy and prevention planning. Data source: Statistics Estonia'
+description: 'The dataset shows life expectancy at birth and years left to live by
+  sex and age group (including 0, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34 to 85
+  and older) and type of settlement unit or area (city and town settlement region,
+  rural settlement region, urban settlements, rural settlements). The purpose of collecting
+  life expectancy data is to provide a standard population health indicator for monitoring
+  trends over time, assessing differences between population groups and regions, and
+  informing health policy and prevention planning. Data source: Statistics Estonia'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-a61b05aa-7b6a-4097-984e-e98facfa1d2a
-      (data.europa.eu dataset oai-andmed-eesti-ee-a61b05aa-7b6a-4097-984e-e98facfa1d2a; publisher: Tervise
-      Arengu Instituut)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset oai-andmed-eesti-ee-a61b05aa-7b6a-4097-984e-e98facfa1d2a;
+      publisher: Tervise Arengu Instituut)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ervise-rengu-nstituu
 slug: oai-andmed-eesti-ee-a61b05aa-7-oe0451-life
+assigned_id: dea:data-product-oai-andmed-eesti-ee-a61b05aa-7-oe0451-life-975ymm
+admitted: '2026-11-14'

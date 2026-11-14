@@ -1,0 +1,40 @@
+id: dea:data-product-e67a567c-37cc-46d2-bd9a-84ff42-lep-environm-kng5hc
+type: DataProduct
+name: LEP Environment 2004 Priority Areas for Nature Conservation Saarland
+description: Extensive presentation of the priority areas for nature conservation
+  within the framework of the State Development Plan for the Environment. Priority
+  areas for nature conservation (UN) serve to safeguard the supra-local interests
+  of nature conservation and landscape conservation. They are based on the nature
+  reserves designated and planned by regulation and the identification of areas of
+  federal and national importance in accordance with the species and biotope protection
+  programme in Saarland as well as the areas notified and subsequently notified to
+  the European Natura 2000 network of protected areas.
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e67a567c-37cc-46d2-bd9a-84ff421bbd03~~1
+      (data.europa.eu dataset e67a567c-37cc-46d2-bd9a-84ff421bbd03~~1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- eu

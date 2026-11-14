@@ -1,0 +1,45 @@
+id: dea:data-product-s2184-467-eng-flash-euroba-pybayy
+type: DataProduct
+name: 'Flash Eurobarometer 467: The use of the collaborative economy'
+description: 'Further to our commitment in the June 2016 Communication on the collaborative
+  economy, we have carried out a second Flash Eurobarometer to identify citizens''
+  perceptions, attitudes and practices in relation to the collaborative economy. The
+  survey provides an overview of the citizens'' awareness and frequency of use of
+  collaborative platforms (both as users and services providers), as well their assessment
+  of the advantages and disadvantages of using such platforms. Moreover, the survey
+  also explores the reasons for which some citizens do not use collaborative platforms,
+  and includes an analysis of the impact of collaborative platforms on the users''
+  behaviour with respect to purchasing services via traditional channels. #####The
+  results by volumes are distributed as follows: * Volume A: Countries * Volume AA:
+  Groups of countries * Volume A'' (AP): Trends * Volume AA'' (AAP): Trends of groups
+  of countries * Volume B: EU/socio-demographics * Volume B'' (BP) : Trends of EU/
+  socio-demographics * Volume C: Country/socio-demographics ---- Researchers may also
+  contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+version: 0.1.0
+lifecycle_status: proposed
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/s2184_467_eng (data.europa.eu
+      dataset s2184_467_eng; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-14'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- open-data
+- irectorateeneral-for

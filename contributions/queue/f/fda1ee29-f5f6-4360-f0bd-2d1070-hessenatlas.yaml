@@ -1,18 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu fda1ee29-f5f6-4360-f0bd-2d1070f61a02
 name: Hessenatlas _Agriculture - Agriculture
-description: WMS on different agricultural statistics:WMS on different agricultural statistics
+description: WMS on different agricultural statistics:WMS on different agricultural
+  statistics
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/fda1ee29-f5f6-4360-f0bd-2d1070f61a02 (data.europa.eu
-      dataset fda1ee29-f5f6-4360-f0bd-2d1070f61a02; publisher: Hessisches Statistisches Landesamt)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/fda1ee29-f5f6-4360-f0bd-2d1070f61a02
+      (data.europa.eu dataset fda1ee29-f5f6-4360-f0bd-2d1070f61a02; publisher: Hessisches
+      Statistisches Landesamt)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - essisches-tatistisch
 slug: fda1ee29-f5f6-4360-f0bd-2d1070-hessenatlas
+assigned_id: dea:data-product-fda1ee29-f5f6-4360-f0bd-2d1070-hessenatlas-p5kdkh
+admitted: '2026-11-14'

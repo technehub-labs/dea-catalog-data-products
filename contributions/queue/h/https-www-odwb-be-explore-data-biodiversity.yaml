@@ -1,18 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-odwb-be-explore-dataset-biodiversite-sur-les-sites-dexploitation-de-laive-
 name: Biodiversity at IDELUX Eau and IDELUX Environnement operating sites
-description: List of operating sites where initiatives are taken to make room for nature.
+description: List of operating sites where initiatives are taken to make room for
+  nature.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-odwb-be-explore-dataset-biodiversite-sur-les-sites-dexploitation-de-laive-
       (data.europa.eu dataset https-www-odwb-be-explore-dataset-biodiversite-sur-les-sites-dexploitation-de-laive-;
       publisher: IDELUX)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 slug: https-www-odwb-be-explore-data-biodiversity
+assigned_id: dea:data-product-https-www-odwb-be-explore-data-biodiversity-xnx8wh
+admitted: '2026-11-14'

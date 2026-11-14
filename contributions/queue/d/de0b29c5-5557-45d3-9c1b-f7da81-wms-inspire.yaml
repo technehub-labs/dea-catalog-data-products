@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu de0b29c5-5557-45d3-9c1b-f7da81e2a734
 name: WMS INSPIRE BPL SO Tourism+Agriculture Europe Farm
-description: WMS service of the urban development plan ‘SO Tourismus + Landwirtschaft Europa-Farm’ of
-  the municipality of Meißenheim, transformed according to INSPIRE, based on an XPlanung dataset in version
-  5.0.
+description: WMS service of the urban development plan ‘SO Tourismus + Landwirtschaft
+  Europa-Farm’ of the municipality of Meißenheim, transformed according to INSPIRE,
+  based on an XPlanung dataset in version 5.0.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/de0b29c5-5557-45d3-9c1b-f7da81e2a734 (data.europa.eu
-      dataset de0b29c5-5557-45d3-9c1b-f7da81e2a734; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/de0b29c5-5557-45d3-9c1b-f7da81e2a734
+      (data.europa.eu dataset de0b29c5-5557-45d3-9c1b-f7da81e2a734; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: de0b29c5-5557-45d3-9c1b-f7da81-wms-inspire
+assigned_id: dea:data-product-de0b29c5-5557-45d3-9c1b-f7da81-wms-inspire-xzfgxf
+admitted: '2026-11-14'

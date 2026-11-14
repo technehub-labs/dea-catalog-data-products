@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu weee-collected-uk-summary
 name: WEEE Collected UK Summary
-description: 'This record is for Approval for Access product AfA312. Contains data reported by Producer
-  Compliance Schemes (PCSs) about the amount of WEEE collected in the UK. The report contains figures
-  for: - WEEE collected from a Designated collection Facility (DCF) - WEEE returned under regulation 32
-  - WEEE returned under regulation 39 And is broken down by; - Category (1 – 13) - Household/non-household
-  The report is a UK dataset and contains no information about any specific company. Data is reported
-  quarterly. Reports available date back to Q3 2007 Attribution statement: © Environment Agency copyright
-  and/or database right 2019. All rights reserved.'
+description: 'This record is for Approval for Access product AfA312. Contains data
+  reported by Producer Compliance Schemes (PCSs) about the amount of WEEE collected
+  in the UK. The report contains figures for: - WEEE collected from a Designated collection
+  Facility (DCF) - WEEE returned under regulation 32 - WEEE returned under regulation
+  39 And is broken down by; - Category (1 – 13) - Household/non-household The report
+  is a UK dataset and contains no information about any specific company. Data is
+  reported quarterly. Reports available date back to Q3 2007 Attribution statement:
+  © Environment Agency copyright and/or database right 2019. All rights reserved.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/weee-collected-uk-summary (data.europa.eu dataset
-      weee-collected-uk-summary; publisher: Environment Agency)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/weee-collected-uk-summary (data.europa.eu
+      dataset weee-collected-uk-summary; publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nvironment-gency
 slug: weee-collected-uk-summary-weee-collect
+assigned_id: dea:data-product-weee-collected-uk-summary-weee-collect-7sbb32
+admitted: '2026-11-14'

@@ -1,13 +1,14 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu d9ea83de-b8d7-44e1-a7e3-3065699eb571-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
 name: Weather stations of the automatic monitoring network
-description: SwissMetNet, the automatic monitoring network of MeteoSwiss, comprises about 160 automatic
-  monitoring stations. These stations deliver a multitude of current data on the weather and climate in
-  Switzerland every ten minutes. The monitoring network is supplemented by 140 automatic precipitation
-  stations. Together, these 300 stations form the basis for the creation of reliable local weather forecasts
+description: SwissMetNet, the automatic monitoring network of MeteoSwiss, comprises
+  about 160 automatic monitoring stations. These stations deliver a multitude of current
+  data on the weather and climate in Switzerland every ten minutes. The monitoring
+  network is supplemented by 140 automatic precipitation stations. Together, these
+  300 stations form the basis for the creation of reliable local weather forecasts
   as well as severe weather and flood warnings.
 evidence:
   sources:
@@ -15,9 +16,12 @@ evidence:
     reference: 'https://data.europa.eu/data/datasets/d9ea83de-b8d7-44e1-a7e3-3065699eb571-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
       (data.europa.eu dataset d9ea83de-b8d7-44e1-a7e3-3065699eb571-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz;
       publisher: Ufficio federale di meteorologia e climatologia)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - fficio-federale-di-m
 slug: d9ea83de-b8d7-44e1-a7e3-306569-weather-stat
+assigned_id: dea:data-product-d9ea83de-b8d7-44e1-a7e3-306569-weather-stat-fcnud5
+admitted: '2026-11-14'

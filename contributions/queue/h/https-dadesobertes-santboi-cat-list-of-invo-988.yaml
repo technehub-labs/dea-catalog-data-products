@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-dadesobertes-santboi-cat-maps-santboi-llistat-de-factures-per-provei-dor-any-2021
 name: List of invoices by supplier year 2021
-description: List of all suppliers with invoices in 2021, detailing the number of invoices received, the
-  sum of the total amount and the sum of the total paid up to the current date.
+description: List of all suppliers with invoices in 2021, detailing the number of
+  invoices received, the sum of the total amount and the sum of the total paid up
+  to the current date.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-dadesobertes-santboi-cat-maps-santboi-llistat-de-factures-per-provei-dor-any-2021
       (data.europa.eu dataset https-dadesobertes-santboi-cat-maps-santboi-llistat-de-factures-per-provei-dor-any-2021;
       publisher: Ayuntamiento de Sant Boi de Llobregat)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - yuntamiento-de-ant-o
 slug: https-dadesobertes-santboi-cat-list-of-invo-988
+assigned_id: dea:data-product-https-dadesobertes-santboi-cat-list-of-invo-988-5wa4uz
+admitted: '2026-11-14'

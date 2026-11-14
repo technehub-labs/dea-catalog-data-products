@@ -1,0 +1,31 @@
+# Location of the Natural Environments of Ecological Interest (MNIE) in the Pays de Rennes in 2022
+
+> The inventory of Natural Environments of Ecological Interest (MNIE) was launched at the instigation of the elected representatives of the District of Rennes in the 1990s. This voluntary approach by elected representatives to improve the consideration of biodiversity at the level of their territory has made it possible to significantly enrich the knowledge and distribution of the natural environments of the territory. The elected representatives of the SCoT decided to extend this inventory to the entire territory of the Pays de Rennes. The SCoT has established strict protection of these environments. Since its approval, they have become regulatoryly inconstructible. A single document, the ‘Atlas des MNIE du Pays de Rennes’, locates all the sites identified on the territory of the Pays de Rennes. The Syndicat mixte du SCoT is now the structure that manages the MNIE file. This atlas refers, inter alia, to: \- Large natural areas (GEN), areas without regulatory scope; \- Natural habitats of ecological interest (MNIE), areas strictly protected by the SCOT, This gives them a regulatory scope. This layer locates the Natural Environments of Ecological Interest (MNIE). MNIE stands for ‘Natural Environments of Ecological Interest’. These are sites consisting of one or more natural habitats and having a marked interest in fauna and/or flora. An MNIE is smaller in area than a GEN, in which it is very often included. It should be noted, however, that some MNIEs may be isolated in an unmarked space outside a GEN. These MNIE are areas strictly protected by the ScoT, which gives them a regulatory scope. MNIEs are environments to be preserved and highlighted as an element contributing to the maintenance of local biodiversity. The inventories, carried out regularly on the Pays de Rennes, make it possible to update the knowledge on MNIE. The perimeters of the MNIE are based in the Atlas of the MNIE of the Pays de Rennes to which the urban planning documents refer to define the regulat
+
+## Identity
+
+- **Record id**: `dea:data-product-https-data-rennesmetropole-fr-location-of-4d9yth`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/https-data-rennesmetropole-fr-explore-dataset-localisation_mnie_pays_de_rennes_2022- (data.europa.eu dataset https-data-rennesmetropole-fr-explore-dataset-localisation_mnie_pays_de_rennes_2022-; publisher: Rennes Métropole en accès libre)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

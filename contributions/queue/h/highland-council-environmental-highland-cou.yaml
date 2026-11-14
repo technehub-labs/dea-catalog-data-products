@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu highland-council-environmental-health-management-areas
 name: Highland Council Environmental Health Management Areas
-description: Map layer showing Operational Areas within the Environmental Health Section of The Highland
-  Council - North Highland, Mid Highland and West Highland.
+description: Map layer showing Operational Areas within the Environmental Health Section
+  of The Highland Council - North Highland, Mid Highland and West Highland.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/highland-council-environmental-health-management-areas
-      (data.europa.eu dataset highland-council-environmental-health-management-areas; publisher: Scottish
-      Government SpatialData.gov.scot)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset highland-council-environmental-health-management-areas;
+      publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - cottish-overnment-pa
 slug: highland-council-environmental-highland-cou
+assigned_id: dea:data-product-highland-council-environmental-highland-cou-h3ct7r
+admitted: '2026-11-14'

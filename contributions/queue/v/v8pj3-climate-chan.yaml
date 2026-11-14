@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu v8pj3
 name: Climate Change Mitigation and Energy Strategy Model Data
 description: <dp-prose> <p>This package contains the data behind <a href="https://www.london.gov.uk/what-we-do/environment/environment-publications/mayor%E2%80%99s-climate-change-mitigation-and-energy-annual">Delivering
-  London's Energy Future</a>, the Mayor's climate change mitigation and energy strategy, which was published
-  in 2011.</p> <p>Over a number of tabs, the spreadsheet shows how the Mayor's target to reduce London's
-  CO2 emissions by 60% on 1990 levels by 2025 can be met by a combination of Government actions and mayoral
-  programmes.</p> </dp-prose>
+  London's Energy Future</a>, the Mayor's climate change mitigation and energy strategy,
+  which was published in 2011.</p> <p>Over a number of tabs, the spreadsheet shows
+  how the Mayor's target to reduce London's CO2 emissions by 60% on 1990 levels by
+  2025 can be met by a combination of Government actions and mayoral programmes.</p>
+  </dp-prose>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/v8pj3 (data.europa.eu dataset v8pj3; publisher: Greater
-      London Authority)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/v8pj3 (data.europa.eu dataset
+      v8pj3; publisher: Greater London Authority)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - reater-ondon-uthorit
 slug: v8pj3-climate-chan
+assigned_id: dea:data-product-v8pj3-climate-chan-pyst65
+admitted: '2026-11-14'

@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu tourist-attractiveness-in-2018
 name: Tourist attractiveness in 2018
-description: 'Metropolises with a higher level of culture-leisure facilities Cities of the Quattropole
-  network Symbolic places of European history - UNESCO World Heritage Sites - Esch 2022: future European
-  Capital of Culture with a cross-border dimension - Waterways with tourist potential Nature parks in
-  2018 with cross-border continuity within the Greater Region and other nature parks Sources: LISER 2018,
-  SIG-GR / GIS-GR 2018'
+description: 'Metropolises with a higher level of culture-leisure facilities Cities
+  of the Quattropole network Symbolic places of European history - UNESCO World Heritage
+  Sites - Esch 2022: future European Capital of Culture with a cross-border dimension
+  - Waterways with tourist potential Nature parks in 2018 with cross-border continuity
+  within the Greater Region and other nature parks Sources: LISER 2018, SIG-GR / GIS-GR
+  2018'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/tourist-attractiveness-in-2018 (data.europa.eu dataset
-      tourist-attractiveness-in-2018; publisher: SIG-GR @ Ministère du Logement et de l''Aménagement du
-      territoire - Département de l’aménagement du territoire)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/tourist-attractiveness-in-2018
+      (data.europa.eu dataset tourist-attractiveness-in-2018; publisher: SIG-GR @
+      Ministère du Logement et de l''Aménagement du territoire - Département de l’aménagement
+      du territoire)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-du-ogement
 slug: tourist-attractiveness-in-2018-tourist-attr
+assigned_id: dea:data-product-tourist-attractiveness-in-2018-tourist-attr-5edx3h
+admitted: '2026-11-14'

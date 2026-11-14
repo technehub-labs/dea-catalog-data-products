@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu groningen-energiemonitor-noord-nederland
 name: Energy monitor Northern Netherlands
-description: 'The 4th edition of the Energy Monitor Northern Netherlands provides facts & figures from
-  2013 about the energy sector in the Energy Valley region: Drenthe, Fryslân, Groningen and Noord-Holland
-  Noord. The monitor was commissioned by the Energy Valley Foundation and the northern provinces to make
-  the regional energy developments visible. This 4th edition of the Energy Monitor Northern Netherlands
-  has been designed in such a way that it can also be used to make the progress of the implementation
-  of the Northern Energy Agenda SWITCH transparent.'
+description: 'The 4th edition of the Energy Monitor Northern Netherlands provides
+  facts & figures from 2013 about the energy sector in the Energy Valley region: Drenthe,
+  Fryslân, Groningen and Noord-Holland Noord. The monitor was commissioned by the
+  Energy Valley Foundation and the northern provinces to make the regional energy
+  developments visible. This 4th edition of the Energy Monitor Northern Netherlands
+  has been designed in such a way that it can also be used to make the progress of
+  the implementation of the Northern Energy Agenda SWITCH transparent.'
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/groningen-energiemonitor-noord-nederland (data.europa.eu
-      dataset groningen-energiemonitor-noord-nederland; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/groningen-energiemonitor-noord-nederland
+      (data.europa.eu dataset groningen-energiemonitor-noord-nederland; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: groningen-energiemonitor-noord-energy-monit
+assigned_id: dea:data-product-groningen-energiemonitor-noord-energy-monit-gebrux
+admitted: '2026-11-14'

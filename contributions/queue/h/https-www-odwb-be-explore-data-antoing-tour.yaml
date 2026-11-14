@@ -1,4 +1,4 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
@@ -8,11 +8,15 @@ description: List of sites and remarkable facts of the Antoing entity.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-www-odwb-be-explore-dataset-tourisme- (data.europa.eu
-      dataset https-www-odwb-be-explore-dataset-tourisme-; publisher: Ville d''Antoing)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-www-odwb-be-explore-dataset-tourisme-
+      (data.europa.eu dataset https-www-odwb-be-explore-dataset-tourisme-; publisher:
+      Ville d''Antoing)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-dntoing
 slug: https-www-odwb-be-explore-data-antoing-tour
+assigned_id: dea:data-product-https-www-odwb-be-explore-data-antoing-tour-sqbn28
+admitted: '2026-11-14'

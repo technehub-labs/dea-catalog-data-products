@@ -1,20 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu e56r7
 name: London Tourism Forecasts
-description: <dp-prose> <p>GLA Economics is providing on an occasional basis medium-term forecasts of
-  tourism visitor nights in London for domestic and international tourists. The forecasts are on a quarterly
-  basis to 2026 and an annual basis to 2032. The estimates tri-angulate data from a number of sources.
-  The methodology note provides more information on how this has been done.</p> </dp-prose>
+description: <dp-prose> <p>GLA Economics is providing on an occasional basis medium-term
+  forecasts of tourism visitor nights in London for domestic and international tourists.
+  The forecasts are on a quarterly basis to 2026 and an annual basis to 2032. The
+  estimates tri-angulate data from a number of sources. The methodology note provides
+  more information on how this has been done.</p> </dp-prose>
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/e56r7 (data.europa.eu dataset e56r7; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/e56r7 (data.europa.eu dataset
+      e56r7; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: e56r7-london-touri
+assigned_id: dea:data-product-e56r7-london-touri-yp7pqp
+admitted: '2026-11-14'

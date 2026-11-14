@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu places-parking-ettelbruck
 name: Parking spaces Ettelbruck
-description: Number of parking spaces available for the different car parks in the city of Ettelbruck
-  Data collected and proposed by rms.lu
+description: Number of parking spaces available for the different car parks in the
+  city of Ettelbruck Data collected and proposed by rms.lu
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/places-parking-ettelbruck (data.europa.eu dataset
-      places-parking-ettelbruck; publisher: rms.lu)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/places-parking-ettelbruck (data.europa.eu
+      dataset places-parking-ettelbruck; publisher: rms.lu)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - rmslu
 slug: places-parking-ettelbruck-parking-spac
+assigned_id: dea:data-product-places-parking-ettelbruck-parking-spac-k8ue84
+admitted: '2026-11-14'

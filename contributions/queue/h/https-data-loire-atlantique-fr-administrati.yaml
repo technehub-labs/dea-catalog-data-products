@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-loire-atlantique-fr-explore-dataset-224400028_nb-aides-educ-admin-soutien-educatif-domicile-par-epci-
-name: Administrative Educational Aids – Home Educational Support in Loire-Atlantique by EPCI
-description: 'Number of beneficiaries of home-based educational support by inter-community since 2009.
-  * * * * Home Educational Support (SED), which is an enhanced Home Educational Assistance (AED), aims
-  at the well-being and development of the child through the recognition and enhancement of parental skills.
-  This assistance is intended for any family facing difficulties in the upbringing of their children.
-  Statistical confidentiality shall be applied: not all information between 1 and 5 included is disseminated.
-  They correspond to uninformed cells.'
+name: Administrative Educational Aids – Home Educational Support in Loire-Atlantique
+  by EPCI
+description: 'Number of beneficiaries of home-based educational support by inter-community
+  since 2009. * * * * Home Educational Support (SED), which is an enhanced Home Educational
+  Assistance (AED), aims at the well-being and development of the child through the
+  recognition and enhancement of parental skills. This assistance is intended for
+  any family facing difficulties in the upbringing of their children. Statistical
+  confidentiality shall be applied: not all information between 1 and 5 included is
+  disseminated. They correspond to uninformed cells.'
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-data-loire-atlantique-fr-explore-dataset-224400028_nb-aides-educ-admin-soutien-educatif-domicile-par-epci-
       (data.europa.eu dataset https-data-loire-atlantique-fr-explore-dataset-224400028_nb-aides-educ-admin-soutien-educatif-domicile-par-epci-;
       publisher: Département de Loire-Atlantique)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - partement-de-oiretla
 slug: https-data-loire-atlantique-fr-administrati
+assigned_id: dea:data-product-https-data-loire-atlantique-fr-administrati-rr5v42
+admitted: '2026-11-14'

@@ -1,0 +1,31 @@
+# December Survey of Agriculture, UK
+
+> The December survey of Agriculture provides information and evidence on the condition of the agricultural industry in the UK. Source agency: Environment, Food and Rural Affairs Designation: National Statistics Language: English Alternative title: December Survey of Agriculture, UK If you require the data in a more accessible format, please contact farming-statistics@defra.gsi.gov.uk Commercial holdings are defined as those that exceed at least one of the thresholds detailed below. Thresholds for the EU Farm Structure Survey Characteristics Threshold Utilised agricultural area Arable land, kitchen gardens, permanent grassland, permanent crops >5 ha Permanent outdoor crops Fruit, berry, citrus and olive plantations, vineyards and nurseries >1 ha Outdoor intensive production Hops >0.5 ha Tobacco >0.5 ha Cotton >0.5 ha Fresh vegetables, melons and strawberries, which are outdoors or under low (not accessible) protective cover >0.5 ha Crops under glass or other (accessible) protective cover Fresh vegetables, melons and strawberries >0.1 ha Flowers and ornamental plants (excluding nurseries) >0.1 ha Bovine animals All >10 Head Pigs All >50 Head Breeding sows >10 Head Sheep All >20 Head Goats All >20 Head Poultry All >1,000 Head Hardy nursery stock >1 ha Mushrooms All mushroom holdings to be included >0 Note: The UK have also re-included holdings with >5ha temporary let out land or temporarily empty pig or poultry sheds. Revisions to the 2009 England June Survey data The 2009 June Survey figures were revised on 16 September 2010. The 2009 figures were revised for two reasons. Firstly, the new methodology for 2010 employed thresholds to exclude holdings with very small amounts of activity, so revised 2009 figures were required to permit like-for-like comparisons. Secondly, the census prompted a register cleaning exercise that removed inactive holdings from the register. Revisions to the 2009 England December Survey data The 2009 December Survey figures were revised on 1 Mar
+
+## Identity
+
+- **Record id**: `dea:data-product-december-survey-of-agriculture-december-sur-pez6z9`
+- **Type**: DataProduct
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable at the cited landing page. No data-product-specific fields are asserted at candidate state.
+
+- kind: `published-document` — reference: https://data.europa.eu/data/datasets/december_survey_of_agriculture_uk (data.europa.eu dataset december_survey_of_agriculture_uk; publisher: Department for Environment, Food and Rural Affairs)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-14, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

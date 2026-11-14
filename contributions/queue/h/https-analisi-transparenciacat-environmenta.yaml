@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-wc95-u57z~~1
 name: 'Environmental control networks: consultation of water and the environment'
-description: L'aplicació de xarxes de control del medi permet consultar i descarregar informació fenomenològica
-  (dades de qualitat i quantitat de l'aigua) de les diferents xarxes de control de l'Agència Catalana
-  de l'Aigua. Les dades recuperades a partir de l'aplicació es troben subjectes a revisió per part de
-  l'Agència. Les dades es poden exportar en format PDF, XLS i XML.
+description: L'aplicació de xarxes de control del medi permet consultar i descarregar
+  informació fenomenològica (dades de qualitat i quantitat de l'aigua) de les diferents
+  xarxes de control de l'Agència Catalana de l'Aigua. Les dades recuperades a partir
+  de l'aplicació es troben subjectes a revisió per part de l'Agència. Les dades es
+  poden exportar en format PDF, XLS i XML.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-wc95-u57z~~1
-      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-wc95-u57z~~1; publisher:
-      Generalitat de Catalunya)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-wc95-u57z~~1;
+      publisher: Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eneralitat-de-atalun
 slug: https-analisi-transparenciacat-environmenta
+assigned_id: dea:data-product-https-analisi-transparenciacat-environmenta-tu2fg8
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-kee2-f495
 name: Monitoring of strikes by professionals in the non-university education sector
-description: Participació en les vagues dels professionals del sector educatiu no universitari que treballen
-  als centres educatius, serveis centrals i serveis territorials. El seguiment es fa des del Departament
-  d’Educació.
+description: Participació en les vagues dels professionals del sector educatiu no
+  universitari que treballen als centres educatius, serveis centrals i serveis territorials.
+  El seguiment es fa des del Departament d’Educació.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-kee2-f495
-      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-kee2-f495; publisher:
-      Generalitat de Catalunya)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-kee2-f495;
+      publisher: Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eneralitat-de-atalun
 slug: https-analisi-transparenciacat-monitoring-o
+assigned_id: dea:data-product-https-analisi-transparenciacat-monitoring-o-5cwtct
+admitted: '2026-11-14'

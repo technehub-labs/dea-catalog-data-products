@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu ioe30280_3
-name: 'Survey on Essential Characteristics of the Population and Housing (ECEPOV): ECEPOVvivienda. Restricted
-  access rights.'
-description: Confidential dataset for scientific purposes from the Survey on Essential Characteristics
-  of the Population and Housing (ECEPOV). It contains information from the housing file on tenure status,
-  equipment, recycling, household income, and building condition and services.
+name: 'Survey on Essential Characteristics of the Population and Housing (ECEPOV):
+  ECEPOVvivienda. Restricted access rights.'
+description: Confidential dataset for scientific purposes from the Survey on Essential
+  Characteristics of the Population and Housing (ECEPOV). It contains information
+  from the housing file on tenure status, equipment, recycling, household income,
+  and building condition and services.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/ioe30280_3 (data.europa.eu dataset ioe30280_3; publisher:
-      Instituto Nacional de Estadística)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/ioe30280_3 (data.europa.eu dataset
+      ioe30280_3; publisher: Instituto Nacional de Estadística)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nstituto-acional-de
 slug: ioe30280-3-survey-on-es
+assigned_id: dea:data-product-ioe30280-3-survey-on-es-knak38
+admitted: '2026-11-14'

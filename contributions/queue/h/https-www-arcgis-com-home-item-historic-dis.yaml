@@ -1,20 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-66225b29993f48a09c241b4a01cad65a-sublayer-1
 name: Historic district
-description: Historic district — a published dataset in the EU Open Data Portal (data.europa.eu), maintained
-  by Ville de Roubaix.
+description: Historic district — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Ville de Roubaix.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-66225b29993f48a09c241b4a01cad65a-sublayer-1
       (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-66225b29993f48a09c241b4a01cad65a-sublayer-1;
       publisher: Ville de Roubaix)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - ille-de-oubaix
 slug: https-www-arcgis-com-home-item-historic-dis
+assigned_id: dea:data-product-https-www-arcgis-com-home-item-historic-dis-tp63y2
+admitted: '2026-11-14'

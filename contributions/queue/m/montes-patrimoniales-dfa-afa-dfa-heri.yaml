@@ -1,19 +1,22 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu montes_patrimoniales_dfa
 name: AFA/DFA Heritage Mountains
-description: Graphic description of the limits of the Patrimonial Mountains of the Provincial Council
-  of Álava
+description: Graphic description of the limits of the Patrimonial Mountains of the
+  Provincial Council of Álava
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/montes_patrimoniales_dfa (data.europa.eu dataset
-      montes_patrimoniales_dfa; publisher: n/a)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/montes_patrimoniales_dfa (data.europa.eu
+      dataset montes_patrimoniales_dfa; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - eu
 slug: montes-patrimoniales-dfa-afa-dfa-heri
+assigned_id: dea:data-product-montes-patrimoniales-dfa-afa-dfa-heri-665hzv
+admitted: '2026-11-14'

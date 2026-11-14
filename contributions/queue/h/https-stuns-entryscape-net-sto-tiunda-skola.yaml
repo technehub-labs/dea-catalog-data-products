@@ -1,19 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-stuns-entryscape-net-store-1-resource-107
 name: Tiunda skola Uppsala - Saltwater battery - production data 2020
-description: Production data for the Saltwater Battery at Tiunda School in Uppsala. Parameters such as
-  State of Charge, charge and discharge data, Hertz, voltage, current.
+description: Production data for the Saltwater Battery at Tiunda School in Uppsala.
+  Parameters such as State of Charge, charge and discharge data, Hertz, voltage, current.
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://data.europa.eu/data/datasets/https-stuns-entryscape-net-store-1-resource-107 (data.europa.eu
-      dataset https-stuns-entryscape-net-store-1-resource-107; publisher: STUNS Energi)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+    reference: 'https://data.europa.eu/data/datasets/https-stuns-entryscape-net-store-1-resource-107
+      (data.europa.eu dataset https-stuns-entryscape-net-store-1-resource-107; publisher:
+      STUNS Energi)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - nergi
 slug: https-stuns-entryscape-net-sto-tiunda-skola
+assigned_id: dea:data-product-https-stuns-entryscape-net-sto-tiunda-skola-en7qtj
+admitted: '2026-11-14'

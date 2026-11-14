@@ -1,20 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: eu-open-data.json
 source_ref: data.europa.eu https-data-paysdelaloire-fr-explore-dataset-etablissements-du-domaine-sanitaire-et-social-2019-
 name: Health and social establishments in Pays de la Loire
-description: Health and social establishments in Pays de la Loire — a published dataset in the EU Open
-  Data Portal (data.europa.eu), maintained by Ministère des Solidarités et de la Santé, Etalab.
+description: Health and social establishments in Pays de la Loire — a published dataset
+  in the EU Open Data Portal (data.europa.eu), maintained by Ministère des Solidarités
+  et de la Santé, Etalab.
 evidence:
   sources:
   - kind: published-document
     reference: 'https://data.europa.eu/data/datasets/https-data-paysdelaloire-fr-explore-dataset-etablissements-du-domaine-sanitaire-et-social-2019-
       (data.europa.eu dataset https-data-paysdelaloire-fr-explore-dataset-etablissements-du-domaine-sanitaire-et-social-2019-;
       publisher: Ministère des Solidarités et de la Santé, Etalab)'
-  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
-    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
 tags:
 - open-data
 - inistre-des-olidarit
 slug: https-data-paysdelaloire-fr-ex-health-and-s
+assigned_id: dea:data-product-https-data-paysdelaloire-fr-ex-health-and-s-8w88wp
+admitted: '2026-11-14'
