@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-DPO-CAT-08: Shard Subdivision (R5 Remedy)
+
+Over-cap shard directories (queue/0-9 and entities/0-9 at 1,062 each) subdivided into two-character sub-shards (R5 findings resolved); vendored toolchain upgraded to depth-3 shard walking incl. the digit-shard name fix; candidates 2,557 restored; ids untouched. All gates green.
+
 ### CR-DPO-CAT-05: DataProduct Candidate Admission Batch 02
 
 Admitted 1157 new `DataProduct` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1157, canonical unchanged; queue entries flipped to `admitted`.
