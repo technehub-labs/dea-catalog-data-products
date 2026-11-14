@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ce6c16cb-e7e3-41c8-8273-e397d3cf09f4
+name: Register of data sets owned by the Kamianets-Podilskyi City Council [no longer updated]
+description: List of the register of data sets owned by the Health Department of the City Council
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ce6c16cb-e7e3-41c8-8273-e397d3cf09f4 (data.europa.eu
+      dataset ce6c16cb-e7e3-41c8-8273-e397d3cf09f4; publisher:  Кам''янець-Подільська міська рада Хмельницької
+      області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: ce6c16cb-e7e3-41c8-8273-e397d3-register-of

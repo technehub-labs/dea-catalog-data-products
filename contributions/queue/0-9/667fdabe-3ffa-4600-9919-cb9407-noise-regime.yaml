@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 667fdabe-3ffa-4600-9919-cb9407e4ccdb
+name: Noise regime 40 dBa PMV
+description: Noise regime 40 dBa Provincial Environment Regulation (PMV)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/667fdabe-3ffa-4600-9919-cb9407e4ccdb (data.europa.eu
+      dataset 667fdabe-3ffa-4600-9919-cb9407e4ccdb; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 667fdabe-3ffa-4600-9919-cb9407-noise-regime

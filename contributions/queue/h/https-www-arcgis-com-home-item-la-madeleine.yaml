@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-77e78aaf2c33443cb3c876b53547fc6f-sublayer-11
+name: La Madeleine River Circuit
+description: Trace of the 12 hiking circuits of the Grand Belfort.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-77e78aaf2c33443cb3c876b53547fc6f-sublayer-11
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-77e78aaf2c33443cb3c876b53547fc6f-sublayer-11;
+      publisher: Grand Belfort)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rand-elfort
+slug: https-www-arcgis-com-home-item-la-madeleine

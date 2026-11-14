@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu f22cadea-7524-4d20-985f-943cc814551b~~1
+name: RadQuadrat - Route of Near Mobility Bottrop
+description: Location and course of a signposted bike route around the Bottrop city center
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f22cadea-7524-4d20-985f-943cc814551b~~1 (data.europa.eu
+      dataset f22cadea-7524-4d20-985f-943cc814551b~~1; publisher: Stadt Bottrop - Amt für Informationsverarbeitung
+      (12))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tadt-ottrop-mt-fr-n
+slug: f22cadea-7524-4d20-985f-943cc8-radquadrat-r

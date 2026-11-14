@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6600b238-38da-4421-9756-94f682c7840b
+name: UNISA Degree programs ay 2023-2024
+description: This dataset contains information on active degree programs at the University of Salerno
+  for the academic year 2023-2024. It includes details on the number of enrolled students, categorized
+  by gender and age, along with information on each program, the affiliated department, EQF (European
+  Qualifications Framework), ISCED (International Standard Classification of Education), and geographic
+  coordinates.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6600b238-38da-4421-9756-94f682c7840b (data.europa.eu
+      dataset 6600b238-38da-4421-9756-94f682c7840b; publisher: Università degli Studi di Salerno)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- niversit-degli-tudi
+slug: 6600b238-38da-4421-9756-94f682-unisa-degree

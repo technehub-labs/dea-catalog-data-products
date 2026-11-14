@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 0536d753-c4cc-4830-a1d1-164b9e389555
+name: Reports, including on the satisfaction of requests for information from the Department of Education
+  and Science of the Ivano-Frankivsk Regional State Administration [Not updated according to the order
+description: Reports, including on satisfaction of requests for information of the Department of Education,
+  Science and Youth Policy of Ivano-Frankivsk Regional State Administration
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/0536d753-c4cc-4830-a1d1-164b9e389555 (data.europa.eu
+      dataset 0536d753-c4cc-4830-a1d1-164b9e389555; publisher: Департамент освіти, науки та молодіжної
+      політики Івано-Франківської обласної державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 0536d753-c4cc-4830-a1d1-164b9e-reports-incl

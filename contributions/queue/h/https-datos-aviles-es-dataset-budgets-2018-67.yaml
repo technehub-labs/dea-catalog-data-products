@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datos-aviles-es-dataset-presupuestos-2018-ayuntamiento-de-aviles
+name: Budgets 2018. Avilés City Council
+description: Global vision of the income, expenses and functional classification of the 2018 budget of
+  the Avilés City Council.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-aviles-es-dataset-presupuestos-2018-ayuntamiento-de-aviles
+      (data.europa.eu dataset https-datos-aviles-es-dataset-presupuestos-2018-ayuntamiento-de-aviles;
+      publisher: Ayuntamiento de Avilés)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yuntamiento-de-vils
+slug: https-datos-aviles-es-dataset-budgets-2018-67

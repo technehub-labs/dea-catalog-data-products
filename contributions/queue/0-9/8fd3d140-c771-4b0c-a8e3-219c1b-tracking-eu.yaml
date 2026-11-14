@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8fd3d140-c771-4b0c-a8e3-219c1b7efcb8
+name: Tracking EU Citizens’ Concerns using Google Search Data
+description: '‘Tracking EU Citizens’ Concerns using Google Search Data’ offered weekly updates from May
+  to September 2020 on EU citizens’ interests on three main fields related to the pandemic crisis: Health,
+  Economy and Social isolation. The aim is to make Google trends data accessible and useful for policy-makers
+  to better understand EU citizens’ concerns.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8fd3d140-c771-4b0c-a8e3-219c1b7efcb8 (data.europa.eu
+      dataset 8fd3d140-c771-4b0c-a8e3-219c1b7efcb8; publisher: Joint Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- oint-esearch-entre
+slug: 8fd3d140-c771-4b0c-a8e3-219c1b-tracking-eu

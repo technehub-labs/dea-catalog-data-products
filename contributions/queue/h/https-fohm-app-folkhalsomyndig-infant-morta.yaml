@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-fohm-app-folkhalsomyndigheten-se-folkhalsodata-dataset-spadod-px
+name: Infant mortality by time, sex and year. Numbers per 1,000 births.
+description: Infant mortality by time, sex and year. Numbers per 1,000 births.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-fohm-app-folkhalsomyndigheten-se-folkhalsodata-dataset-spadod-px
+      (data.europa.eu dataset https-fohm-app-folkhalsomyndigheten-se-folkhalsodata-dataset-spadod-px;
+      publisher: The Public Health Agency of Sweden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- he-ublic-ealth-gency
+slug: https-fohm-app-folkhalsomyndig-infant-morta

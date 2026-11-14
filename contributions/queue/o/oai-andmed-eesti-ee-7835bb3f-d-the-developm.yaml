@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-7835bb3f-def8-4317-949a-635a01979e35
+name: The development plan
+description: of the rural municipality of Alutaguse is a document defining the objectives of the long-term
+  and short-term development of the rural municipality and planning activities for the implementation
+  thereof.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-7835bb3f-def8-4317-949a-635a01979e35
+      (data.europa.eu dataset oai-andmed-eesti-ee-7835bb3f-def8-4317-949a-635a01979e35; publisher: Alutaguse
+      Vallavalitsus)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- lutaguse-allavalitsu
+slug: oai-andmed-eesti-ee-7835bb3f-d-the-developm

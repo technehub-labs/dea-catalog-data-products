@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 25588378-3b86-449a-bcba-8ce6fc5bffee
+name: DAFM Private Forest Estate 2023
+description: 'The Department of Agriculture, Food and the Marine (DAFM) provide data for the private forest
+  estate only. These data include new forests planted up to the end of 2023. Within the dataset provided
+  is a file showing the attribute information such as: Species List, Land use types, Ownership, Polygon
+  area in hectares.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/25588378-3b86-449a-bcba-8ce6fc5bffee (data.europa.eu
+      dataset 25588378-3b86-449a-bcba-8ce6fc5bffee; publisher: Department of Agriculture, Food and the
+      Marine)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-of-gricult
+slug: 25588378-3b86-449a-bcba-8ce6fc-dafm-private

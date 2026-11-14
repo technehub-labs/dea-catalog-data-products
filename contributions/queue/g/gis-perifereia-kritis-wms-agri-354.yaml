@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu gis-perifereia-kritis-wms-agriculture-toeb_pol_perioxes_armodiotitas
+name: Περιοχές Αρμοδιότητας ΤΟΕΒ
+description: Πολυγωνικό επίπεδο με τις Περιοχές Αρμοδιότητας Τοπικών Οργανισμών Εγγείων Βελτιώσεων (ΤΟΕΒ).Περιέχει
+  πληροφορία για τον ΤΟΕΒ αρμοδιότητας, την Περιφερειακή Ενότητα και το εμβαδόν των περιοχών.Πηγή:Περιφέρεια
+  Κρήτης
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/gis-perifereia-kritis-wms-agriculture-toeb_pol_perioxes_armodiotitas
+      (data.europa.eu dataset gis-perifereia-kritis-wms-agriculture-toeb_pol_perioxes_armodiotitas; publisher:
+      Περιφέρεια Κρήτης)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: gis-perifereia-kritis-wms-agri-354

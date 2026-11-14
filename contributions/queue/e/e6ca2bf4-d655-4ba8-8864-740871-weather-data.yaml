@@ -1,0 +1,34 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e6ca2bf4-d655-4ba8-8864-74087123ac6a
+name: Weather data for the DWD weather station Münster/Osnabrück
+description: '<p>This data set contains links to the data of the DWD weather station Münster/Osnabrück.</p>
+  <p><strong>Station information</strong></p> <ul> <li>Station name: Münster/Osnabrück</li> <li>Station
+  code: 10315</li> <li>Station _ID: 1766</li> <li>ICAO-Kennun: EDDG</li> <li>Station height in meters:
+  48</li> <li>Geogr. Width: 52° 08''</li> <li>Geogr. Length: 07° 42''</li> <li>Automatic since: 01.08.1995</li>
+  <li>Starting climate series: 1989</li> <li>Geocoordinate Lat/Lon: 52.1344, 7.6969</li> </ul> <p><strong>License
+  information</strong></p> <p>The geodata of the DWD may be reused according to the Creative Commons BY
+  4.0 license (<a class="RichTextExtLink ExternalLink" href="https://creativecommons.org/licenses/by/4.0/"
+  rel="noopener noreferrer" target="_blank" title="External Link Creative Commons BY 4.0 (Conditions)
+  (Opens new window)">CC BY 4.0</a>) with a source note to the DWD. The specific terms of use can be found
+  on the DWD homepage in the section <a class="RichTextIntLink NavNode" href="https://www.dwd.de/DE/service/legal
+  _ notes/legal _ notes _node.html;jsessionid=4658D880DB719CAA223919BA2C9FA60E.live21064" rel="noopener
+  noreferrer" target="_blank" title="Legal notes (Opens new window)">Legal notes</a>.</p> <p><strong>Alternative
+  source of supply</strong></p> <p>Since the open data server of the DWD is partly confusing, the data
+  of the DWD is additionally provided via an openly accessible API <a href="https://brightsky.dev/">by
+  the civil society-run project "Brightsky Dev"</a>. Please note when using brightsky.dev that it is a
+  project voluntarily operated by a private person.</p> <p>Keywords: Precipitation, Precipitation data,
+  Rain, Rain data</p>'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e6ca2bf4-d655-4ba8-8864-74087123ac6a (data.europa.eu
+      dataset e6ca2bf4-d655-4ba8-8864-74087123ac6a; publisher: Deutscher Wetterdienst)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eutscher-etterdienst
+slug: e6ca2bf4-d655-4ba8-8864-740871-weather-data

@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu wfd-surface-water-operational-catchments-cycle-4
+name: WFD Surface Water Operational Catchments Cycle 4
+description: 'This is a polygon dataset showing Surface Water Operational Catchments, created to meet
+  the requirements of the Water Framework Directive (WFD). Operational Catchments are larger than catchments
+  associated with water bodies, but they are smaller than Management Catchments. They contain multiple
+  water bodies. Operational Catchments are a way of grouping WFD Water Bodies together for the purposes
+  of economic appraisal. Every water body has been assigned to an Operational Catchment. They are not
+  always hydrologically correct catchments as the river water bodies may have been grouped based on pressures
+  and measures than hydrology. The Surface Water Operational Catchments dataset also extends to cover
+  Transitional and Coastal Water Bodies. It excludes the underlying groundwater, and linear artificial
+  waters which are published separately. Created using hydrological models based on EA LiDAR data informed
+  with the Detailed River Network which has residual Ordnance Survey rights. There is a layer file associated
+  with this dataset which is called WFD_Surface_Water_Operational_Catchments_Cycle_4.lyrx. Please note
+  that there are limitations with the shapefile format of the data. The data applies to Cycle 4 of the
+  WFD. See the Environment Agency''s Water Hub for more information (link below). Attribution statement:
+  © Environment Agency copyright and/or database right 2026. All rights reserved.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/wfd-surface-water-operational-catchments-cycle-4
+      (data.europa.eu dataset wfd-surface-water-operational-catchments-cycle-4; publisher: Environment
+      Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nvironment-gency
+slug: wfd-surface-water-operational-wfd-surface

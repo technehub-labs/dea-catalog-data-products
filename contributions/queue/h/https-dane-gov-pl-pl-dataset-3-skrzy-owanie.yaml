@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-3656-skrzyzowanie-turystyczna-wyjazd-leclerc-iii-kw-2022
+name: Skrzyżowanie Turystyczna-wyjazd Leclerc III kw 2022
+description: Dane pomiarowe z wybranych skrzyżowań Lublina (Turystyczna-wyjazd Leclerc) w III kwartale
+  2022
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-3656-skrzyzowanie-turystyczna-wyjazd-leclerc-iii-kw-2022
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-3656-skrzyzowanie-turystyczna-wyjazd-leclerc-iii-kw-2022;
+      publisher: Urząd Miasta Lublin)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rzd-iasta-ublin
+slug: https-dane-gov-pl-pl-dataset-3-skrzy-owanie

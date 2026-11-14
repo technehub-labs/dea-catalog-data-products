@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-at6u-j6vp
+name: Awards and prizes from the Department of Agriculture, Livestock, Fisheries and Food
+description: Premis i guardons que el Departament d'Agricultura, Ramaderia, Pesca i Alimentació atorga
+  des de l'any 1988 fins l’actualitat.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-at6u-j6vp
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-at6u-j6vp; publisher:
+      Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eneralitat-de-atalun
+slug: https-analisi-transparenciacat-awards-and-p

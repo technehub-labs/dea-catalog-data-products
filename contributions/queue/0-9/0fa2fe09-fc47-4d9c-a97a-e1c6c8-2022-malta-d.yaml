@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 0fa2fe09-fc47-4d9c-a97a-e1c6c8324abe
+name: 2022 Malta Development Bank - Annual Report and Financial Statements
+description: 2022 Malta Development Bank - Annual Report and Financial Statements
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/0fa2fe09-fc47-4d9c-a97a-e1c6c8324abe (data.europa.eu
+      dataset 0fa2fe09-fc47-4d9c-a97a-e1c6c8324abe; publisher: Malta Development Bank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- alta-evelopment-ank
+slug: 0fa2fe09-fc47-4d9c-a97a-e1c6c8-2022-malta-d

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e2cf6b62-5b75-467a-b099-23356ca30d0a
+name: EIIEEA04 - Consumer Price Index for energy products
+description: Consumer Price Index for energy products
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e2cf6b62-5b75-467a-b099-23356ca30d0a (data.europa.eu
+      dataset e2cf6b62-5b75-467a-b099-23356ca30d0a; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: e2cf6b62-5b75-467a-b099-23356c-eiieea04-con

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu wms_ingurumena_dfa
+name: Ingurumena _WMS _Environment
+description: WMS service with geographical information of Environment of the Provincial Council of Araba.
+  It contains tours through Araba/Álava and provincial and ornithological parks.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/wms_ingurumena_dfa (data.europa.eu dataset wms_ingurumena_dfa;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: wms-ingurumena-dfa-ingurumena-w

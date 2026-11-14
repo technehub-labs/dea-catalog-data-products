@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ee8caa50-6176-4b83-8680-44e6598a4eff
+name: Ballinrobe (Creagh) Climate Data
+description: Daily and monthly climatalogical records for our station at Ballinrobe (Creagh) in Co. Mayo.
+  This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ee8caa50-6176-4b83-8680-44e6598a4eff (data.europa.eu
+      dataset ee8caa50-6176-4b83-8680-44e6598a4eff; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: ee8caa50-6176-4b83-8680-44e659-ballinrobe-c

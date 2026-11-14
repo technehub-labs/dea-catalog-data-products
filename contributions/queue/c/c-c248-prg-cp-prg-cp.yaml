@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c_c248-prg_cp
+name: prg_cp
+description: prg_cp — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by COMUNE
+  DI Castelplanio.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c_c248-prg_cp (data.europa.eu dataset c_c248-prg_cp;
+      publisher: COMUNE DI Castelplanio)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- astelplanio
+slug: c-c248-prg-cp-prg-cp

@@ -1,0 +1,37 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 772-activiteiten-van-biologische-landbouwbedrijven-regio
+name: Activities of organic farms; region, 2015-2022
+description: This table provides data at regional level on arable farming, horticulture, grassland, grazing
+  animals and pen animals on organic farms. Only companies with at least 3000 euros SO (Standard Proceeds)
+  are included in the census. For comparison, the table shows the same data for total agriculture. For
+  all agricultural activities, both the count (area, number of animals) and the corresponding number of
+  holdings are presented. The number of organic farms comes from the Agricultural census. The numbers
+  differ from the numbers used by SKAL biocontrol. This difference is mainly due to differences in definition
+  and the difference in reference date. The data for this table come from the agricultural census. The
+  agricultural census is part of the combined task, which is used, among other things, for the implementation
+  of the agricultural policy and enforcement of the Fertilisers Act. The reference date for the number
+  of animals is 1 April; the reference date for the crops is 15 May. From 2018, the number of veal calves,
+  fattening pigs, chickens and turkeys shall be adjusted in case of temporary vacancy on the reference
+  date. The adjustment shall be made using the previous year's statement. The Agricultural Census is a
+  structural survey, in which an adjustment in case of temporary vacancy is important, among other things,
+  for determining the type of holding and the economic size of the holdings. The number of animals at
+  the reference date is important for the size of the herds, therefore the animal numbers in the herd
+  tables are not adjusted in case of temporary vacancy. As a result, there may be differences between
+  the animal numbers in the Agricultural census tables and the livestock tables (see ‘link to relevant
+  tables and articles’). As of 2017, animal numbers are increasingly derived from I&R registers (Identification
+  and Registration of animals), instead of by direct request in the Combined Declaration. The I&R registers
+  are the responsibility of RVO (Rijksdienst voor On
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/772-activiteiten-van-biologische-landbouwbedrijven-regio
+      (data.europa.eu dataset 772-activiteiten-van-biologische-landbouwbedrijven-regio; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 772-activiteiten-van-biologisc-activities-o

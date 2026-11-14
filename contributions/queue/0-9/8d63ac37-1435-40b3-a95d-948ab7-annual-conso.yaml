@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8d63ac37-1435-40b3-a95d-948ab7b7268c
+name: Annual consolidated key performance indicators of the financial plans of the Municipal non-profit
+  medical enterprise "CPMSD No3" Kremenchug
+description: This set contains information on the main planned financial indicators of the enterprise
+  (namely, plans for the formation of income and expenses of the enterprise), as well as information on
+  the implementation of financial plans during the year in the context of reporting periods (quarter,
+  year)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8d63ac37-1435-40b3-a95d-948ab7b7268c (data.europa.eu
+      dataset 8d63ac37-1435-40b3-a95d-948ab7b7268c; publisher: Комунальне некомерційне медичне підприємство
+      "Центр первинної медико-санітарної допомоги №3", м. Кременчук)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- '3'
+slug: 8d63ac37-1435-40b3-a95d-948ab7-annual-conso

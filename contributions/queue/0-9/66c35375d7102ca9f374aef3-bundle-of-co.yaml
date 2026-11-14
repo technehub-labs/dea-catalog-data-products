@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 66c35375d7102ca9f374aef3
+name: Bundle of common energy-climate indicators of the ORECs
+description: 'Indicators for steering regional energy and climate policies produced by the Observatoires
+  Régionaux de l’Énergie et du Climat (OREC) in France. Capitalisation, processing and verification of
+  the dataset: Network of Regional Energy and Environment Agencies (RARE).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/66c35375d7102ca9f374aef3 (data.europa.eu dataset
+      66c35375d7102ca9f374aef3; publisher: Réseau des Agences Régionales de l''Énergie et de l''Environnement
+      (RARE))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- seau-des-gences-gion
+slug: 66c35375d7102ca9f374aef3-bundle-of-co

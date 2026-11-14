@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-12438246-2259-4965-b997-8b1485a0898a
+name: Outgoing visitors served by estonian travel agencies and tour operators by country of destination
+  (2000–2005)
+description: Outgoing visitors served by estonian travel agencies and tour operators by country of destination
+  (2000–2005).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-12438246-2259-4965-b997-8b1485a0898a
+      (data.europa.eu dataset oai-andmed-eesti-ee-12438246-2259-4965-b997-8b1485a0898a; publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistikaamet
+slug: oai-andmed-eesti-ee-12438246-2-outgoing-vis

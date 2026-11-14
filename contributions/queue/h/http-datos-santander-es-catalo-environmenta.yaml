@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu http-datos-santander-es-catalogo-noticias-de-medio-ambiente
+name: Environmental News
+description: News related to the Environment that occur in the City of Santander during the exercise of
+  its activities prepared by the press team of the Department of Environment and sustainable mobility.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/http-datos-santander-es-catalogo-noticias-de-medio-ambiente
+      (data.europa.eu dataset http-datos-santander-es-catalogo-noticias-de-medio-ambiente; publisher:
+      Ayuntamiento de Santander)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yuntamiento-de-antan
+slug: http-datos-santander-es-catalo-environmenta

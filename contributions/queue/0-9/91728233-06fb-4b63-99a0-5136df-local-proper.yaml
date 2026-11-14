@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 91728233-06fb-4b63-99a0-5136dfb70e25
+name: Local Property Tax (LPT) statistics 2023
+description: Various Local Property Tax statistics including local authority breakdown for 2023.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/91728233-06fb-4b63-99a0-5136dfb70e25 (data.europa.eu
+      dataset 91728233-06fb-4b63-99a0-5136dfb70e25; publisher: Revenue Commissioners)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- evenue-ommissioners
+slug: 91728233-06fb-4b63-99a0-5136df-local-proper

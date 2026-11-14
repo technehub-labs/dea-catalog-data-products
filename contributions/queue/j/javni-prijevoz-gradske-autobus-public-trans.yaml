@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu javni-prijevoz-gradske-autobusne-linije
+name: Public transport - city bus lines
+description: List of public transport routes in the area of the City of Požega.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/javni-prijevoz-gradske-autobusne-linije (data.europa.eu
+      dataset javni-prijevoz-gradske-autobusne-linije; publisher: Grad Požega)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rad-oega
+slug: javni-prijevoz-gradske-autobus-public-trans

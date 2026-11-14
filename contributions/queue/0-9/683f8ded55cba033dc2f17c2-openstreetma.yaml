@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 683f8ded55cba033dc2f17c2
+name: 'OpenStreetMap: Cable part transport - points'
+description: 'This dataset provides daily extraction of OpenStreetMap data flows relating to cable transport
+  infrastructure in the regions of Provence-Alpes-Côte d’Azur, Occitanie, Auvergne-Rhône-Alpes and the
+  border regions in Italy: Liguria, Piedmont, Aosta Valley. The data extracted concern the map elements
+  associated with OpenStreetMap''s **aerialway** key, which describes ski lifts such as chairlifts, cable
+  cars, cable cars, funiculars, etc. The specifications followed are those described in the OpenStreetMap
+  documentation: [🔗 wiki.openstreetmap.org/wiki/Key:aerialway](https://wiki.openstreetmap.org/wiki/Key:aerialway)
+  Data is processed and extracted using the SQL script available in the DataSud GitLab repository: [🗃ц
+  aerialway.sql](https://gitlab.datasud.fr/projects_publics/openstreetmap4datasud/-/blob/main/sql/aerialway.sql?ref_type=heads)
+  [© OpenStreetMap contributors.](https://www.openstreetmap.org/copyright)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/683f8ded55cba033dc2f17c2 (data.europa.eu dataset
+      683f8ded55cba033dc2f17c2; publisher: Région Provence-Alpes-Côte-d''Azur)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- gion-rovencelpestedz
+slug: 683f8ded55cba033dc2f17c2-openstreetma

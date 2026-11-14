@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 000d6823-1398-41f2-98ca-f93c4797106b
+name: Information about medical professionals
+description: List of medical workers by division in the municipal non-profit enterprise "Pryluky City
+  Center for Primary Health Care"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/000d6823-1398-41f2-98ca-f93c4797106b (data.europa.eu
+      dataset 000d6823-1398-41f2-98ca-f93c4797106b; publisher: Комунальне некомерційне підприємство "Прилуцький
+      міський центр первинної медико-санітарної допомоги")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 000d6823-1398-41f2-98ca-f93c47-information

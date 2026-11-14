@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu d22112bd-9763-41d4-a7d3-9c7cf8cdfdf4
+name: Directory of phones of the Department of Education and Science of Sumy Regional State Administration
+description: Directory of phones of the Department of Education and Science of Sumy Regional State Administration
+  and subordinate education management bodies
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/d22112bd-9763-41d4-a7d3-9c7cf8cdfdf4 (data.europa.eu
+      dataset d22112bd-9763-41d4-a7d3-9c7cf8cdfdf4; publisher: Департамент освіти і науки Сумської обласної
+      державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: d22112bd-9763-41d4-a7d3-9c7cf8-directory-of

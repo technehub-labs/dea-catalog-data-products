@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-stuns-entryscape-net-store-1-resource-400
+name: Dansmästaren Uppsala - open innovation environment for EV charging and infrastructure
+description: Power and energy data from the parking garage Dansmästaren in Uppsala. 60 charging points
+  - 400+ parking spots. Energy storage and solar power with an Energy Management System under implementation
+  in a co-creation with Uppsala University STUNS and Uppsala Parking together with Uppsala University
+  creates a place where testing and development can take place in a real environment.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-stuns-entryscape-net-store-1-resource-400 (data.europa.eu
+      dataset https-stuns-entryscape-net-store-1-resource-400; publisher: Uppsala Parkering)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ppsala-arkering
+slug: https-stuns-entryscape-net-sto-dansm-staren

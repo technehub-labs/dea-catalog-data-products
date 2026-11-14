@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ekolo-ka-proizvodnja-orani-nih-usjeva
+name: Organic production of arable crops
+description: The table contains data on organic production of arable crops in tonnes at the level of the
+  Republic of Croatia. Data are available since 2013 and are updated annually.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ekolo-ka-proizvodnja-orani-nih-usjeva (data.europa.eu
+      dataset ekolo-ka-proizvodnja-orani-nih-usjeva; publisher: Državni zavod za statistiku)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ravni-zavod-za-stati
+slug: ekolo-ka-proizvodnja-orani-nih-organic-prod

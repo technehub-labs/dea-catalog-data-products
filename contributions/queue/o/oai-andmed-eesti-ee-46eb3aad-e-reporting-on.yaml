@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-46eb3aad-e50b-42f5-87a7-92abc0bc3ea4
+name: Reporting on aid to developing countries of the Climate Change Framework Convention
+description: Pursuant to Article 19 of Regulation (EU) 2018/1999 of the European Parliament and of the
+  Council (Energy Union and Climate Action Management Regulation), Estonia is required to provide the
+  European Commission with information on aid to developing countries on an annual basis.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-46eb3aad-e50b-42f5-87a7-92abc0bc3ea4
+      (data.europa.eu dataset oai-andmed-eesti-ee-46eb3aad-e50b-42f5-87a7-92abc0bc3ea4; publisher: Kliimaministeerium)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- liimaministeerium
+slug: oai-andmed-eesti-ee-46eb3aad-e-reporting-on

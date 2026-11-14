@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu povr-ina-ekolo-kih-orani-nih-usjeva
+name: Area of organic arable crops
+description: The table contains data on the area of organic arable crops in hectares at the level of the
+  Republic of Croatia. Data are available since 2013 and are updated annually.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/povr-ina-ekolo-kih-orani-nih-usjeva (data.europa.eu
+      dataset povr-ina-ekolo-kih-orani-nih-usjeva; publisher: Državni zavod za statistiku)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ravni-zavod-za-stati
+slug: povr-ina-ekolo-kih-orani-nih-u-area-of-orga

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 45d5d2b7-a68c-42b0-acd0-2d8581737dfe
+name: Fingal Historic Graveyards
+description: Dataset received from Fingal County Council September 2010 Dataset represents Historic Graveyard
+  locations within Fingal
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/45d5d2b7-a68c-42b0-acd0-2d8581737dfe (data.europa.eu
+      dataset 45d5d2b7-a68c-42b0-acd0-2d8581737dfe; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: 45d5d2b7-a68c-42b0-acd0-2d8581-fingal-histo

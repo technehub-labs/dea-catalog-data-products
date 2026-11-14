@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu rapports-dactivite-de-ladministration-des-contributions-directes-1
+name: Progress reports of the Administration of Direct Contributions
+description: Progress report of the Administration of Direct Contributions
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/rapports-dactivite-de-ladministration-des-contributions-directes-1
+      (data.europa.eu dataset rapports-dactivite-de-ladministration-des-contributions-directes-1; publisher:
+      Administration des contributions directes)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- dministration-des-co
+slug: rapports-dactivite-de-ladminis-progress-rep

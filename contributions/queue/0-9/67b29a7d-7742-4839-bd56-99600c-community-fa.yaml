@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 67b29a7d-7742-4839-bd56-99600cb59f66
+name: Community Facilities Galway
+description: Dataset owned and provided by Galway County Council Dataset attributed with facility 'Name'
+  Types fo facilities; GAA Clubs Playgrounds Theatres Town Halls Parish Halls Community Centers
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/67b29a7d-7742-4839-bd56-99600cb59f66 (data.europa.eu
+      dataset 67b29a7d-7742-4839-bd56-99600cb59f66; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: 67b29a7d-7742-4839-bd56-99600c-community-fa

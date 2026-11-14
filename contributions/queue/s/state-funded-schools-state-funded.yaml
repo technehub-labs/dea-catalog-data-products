@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu state-funded-schools
+name: State funded schools
+description: <dp-prose> <p>Spatial dataset of state funded schools in Durham, including academies. Please
+  see <a href="https://www.durham.gov.uk/education">https://www.durham.gov.uk/education</a> for more information.</p>
+  </dp-prose>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/state-funded-schools (data.europa.eu dataset state-funded-schools;
+      publisher: Data Mill North)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ata-ill-orth
+slug: state-funded-schools-state-funded

@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 771c57fe-e5b6-4a8a-a338-112c9cb78ec1
+name: The Quarry Directory 2014 Ireland (ROI) ITM
+description: The Quarry Directory shows the location of sand and gravel, crushed rock and dimension stone
+  quarries in Ireland. A questionnaire was sent to all known active quarries and pits (around 1,700).
+  A location map (Ordnance Survey Ireland (OSI) 1:50,000 Discovery Series) was provided to verify the
+  location. Mines were not included. There are currently only two active metal mines in Ireland, the Navan
+  and Lisheen zinc-lead mines. Most questionnaires (for 22 counties) were sent out in the latter half
+  of 2012 with the remainder being sent out in 2013. Some follow-up phone calls were made in late 2013
+  and mid-2014. Around 360 replies were received, for both active and inactive quarries and pits. This
+  map is to the scale 1:50,000. This means it should be viewed at that scale. When printed at that scale
+  1cm on the map relates to a distance of 500m. It is a vector dataset. Vector data portray the world
+  using points, lines, and polygons (areas). The data is shown as points. Points are coloured according
+  to rock type. Each point holds information on the quarry name, address, contact details, operational
+  status, operator details, product, output, processing, ancillary activities, rock type and market.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/771c57fe-e5b6-4a8a-a338-112c9cb78ec1 (data.europa.eu
+      dataset 771c57fe-e5b6-4a8a-a338-112c9cb78ec1; publisher: Geological Survey Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eological-urvey-rela
+slug: 771c57fe-e5b6-4a8a-a338-112c9c-the-quarry-d

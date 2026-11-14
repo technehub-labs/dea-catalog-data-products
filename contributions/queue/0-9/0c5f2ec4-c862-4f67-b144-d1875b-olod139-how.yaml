@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 0c5f2ec4-c862-4f67-b144-d1875b7ad7ab
+name: OLOD139 - How much do you do to protect the environment by access to a garden
+description: How much do you do to protect the environment by access to a garden
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/0c5f2ec4-c862-4f67-b144-d1875b7ad7ab (data.europa.eu
+      dataset 0c5f2ec4-c862-4f67-b144-d1875b7ad7ab; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: 0c5f2ec4-c862-4f67-b144-d1875b-olod139-how

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 77047532-93ae-45a9-b5a3-c46345aaf6c7
+name: Structure of the Municipal Non-Profit Enterprise "Gnivan Primary Health Care Center" of the Gnivan
+  City Council
+description: Structure of the Municipal Non-Profit Enterprise "Gnivan Primary Health Care Center" of the
+  Gnivan City Council
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/77047532-93ae-45a9-b5a3-c46345aaf6c7 (data.europa.eu
+      dataset 77047532-93ae-45a9-b5a3-c46345aaf6c7; publisher: Комунальне некомерційне підприємство "Гніванський
+      центр первинної медико-санітарної допомоги" Гніванської міської ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 77047532-93ae-45a9-b5a3-c46345-structure-of

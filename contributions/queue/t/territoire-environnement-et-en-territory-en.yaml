@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu territoire-environnement-et-energie-territoire
+name: Territory Environment and Energy - Territory
+description: 'This dataset includes the following resources: - Altitudes of the different localities by
+  canton (m) - Municipalities by size class of area (Situation as at 1 January 2018) - Hydrography (in
+  km) - Artificial lakes (dams) (ha) - Geographical location - Territorial subdivisions (Situation as
+  at 1 January 2018) - Mass area of d&#39;groundwater by geological qualification - Type, area and length
+  of bodies d&#39;surface water by river basin district - Land use (%) --- Synchronized automatically
+  from the [LUSTAT database] (https://lustat.statec.lu)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/territoire-environnement-et-energie-territoire (data.europa.eu
+      dataset territoire-environnement-et-energie-territoire; publisher: STATEC Institut national de la
+      statistique et des études économiques du Grand-Duché de Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nstitut-national-de
+slug: territoire-environnement-et-en-territory-en

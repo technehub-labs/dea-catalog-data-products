@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu f13f62fa-83d3-438a-9f15-81d7221e29af
+name: Milk information register
+description: 'The data file contains information on the volumes of raw milk purchased(kg) from herds,
+  by counties. The information is presented for the month of August 2026. Detailed statistical information
+  on the milk register can be found at: https://registri.ldc.gov.lv/lv/svaigpiena_iepirkuma_statistika'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f13f62fa-83d3-438a-9f15-81d7221e29af (data.europa.eu
+      dataset f13f62fa-83d3-438a-9f15-81d7221e29af; publisher: Lauku atbalsta dienests)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- auku-atbalsta-dienes
+slug: f13f62fa-83d3-438a-9f15-81d722-milk-informa

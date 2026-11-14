@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu analysis-of-meteorological-data
+name: Analysis of meteorological data
+description: The Luxembourg Institute of Science and Technology (LIST), jointly with the Administration
+  des Services Techniques de l'Agriculture (ASTA) and MeteoLux, publish the seasonal analysis of the meteorological
+  data collected within the framework of long-term monitoring activities of hydroclimatological variables.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/analysis-of-meteorological-data (data.europa.eu dataset
+      analysis-of-meteorological-data; publisher: Luxembourg Institute of Science and Technology)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- uxembourg-nstitute-o
+slug: analysis-of-meteorological-dat-analysis-of

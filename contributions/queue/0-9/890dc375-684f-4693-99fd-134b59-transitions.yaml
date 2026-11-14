@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 890dc375-684f-4693-99fd-134b594bc83f
+name: Transitions to secondary schools
+description: 'The thematic block "Transitions to secondary schools – transition rates" deals with the
+  number and proportion of pupils moving from a public school (usually a primary school) to a secondary
+  school. Source: School and Sports Office of the City of Karlsruhe / City of Karlsruhe, Office for Urban
+  Development'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/890dc375-684f-4693-99fd-134b594bc83f (data.europa.eu
+      dataset 890dc375-684f-4693-99fd-134b594bc83f; publisher: Stadt Karlsruhe)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tadt-arlsruhe
+slug: 890dc375-684f-4693-99fd-134b59-transitions

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c_d969-ac2e9317-c70e-4ce0-a145-7bee8db9a7eb
+name: Pedestrian areas
+description: Pedestrian areas (ex. Art. 3 N.c.d.s.), defined pursuant to articles 3, 6 and 7 of the Highway
+  Code.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c_d969-ac2e9317-c70e-4ce0-a145-7bee8db9a7eb (data.europa.eu
+      dataset c_d969-ac2e9317-c70e-4ce0-a145-7bee8db9a7eb; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: c-d969-ac2e9317-c70e-4ce0-a145-pedestrian-a

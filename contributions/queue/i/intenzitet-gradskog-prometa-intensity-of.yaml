@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu intenzitet-gradskog-prometa
+name: Intensity of urban traffic
+description: As part of the SUMBooST project, the City of Rijeka together with the Faculty of Transport
+  and Traffic Sciences and Ericsson Nikola Tesla launched a project to improve urban traffic. The aim
+  is to identify potential urban mobility measures that would encourage a shift to sustainable forms of
+  transport between problematic transport zones, such as rail, public transport of buses, cable cars,
+  classic or electric bicycles. These are the first results of analyses, and they show car, public city
+  and total traffic by zones and by hours. https://www.rijeka.hr/gradska-uprava/eu-projekti/završeni-projekti/sumboost/
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/intenzitet-gradskog-prometa (data.europa.eu dataset
+      intenzitet-gradskog-prometa; publisher: Grad Rijeka)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rad-ijeka
+slug: intenzitet-gradskog-prometa-intensity-of

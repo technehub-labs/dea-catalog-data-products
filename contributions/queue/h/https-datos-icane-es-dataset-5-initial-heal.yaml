@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datos-icane-es-dataset-5bea28a4-dbee-4653-ae8a-de93b3c43fd8
+name: Initial health budgets
+description: Initial health budgets — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Instituto Cántabro de Estadística.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-icane-es-dataset-5bea28a4-dbee-4653-ae8a-de93b3c43fd8
+      (data.europa.eu dataset https-datos-icane-es-dataset-5bea28a4-dbee-4653-ae8a-de93b3c43fd8; publisher:
+      Instituto Cántabro de Estadística)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nstituto-ntabro-de-s
+slug: https-datos-icane-es-dataset-5-initial-heal

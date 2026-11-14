@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 608b9cf5454ae3ad728022d2
+name: Guide to Imminent Threat Assessment and Environmental Damage – Environmental Liability
+description: The aim of this document is to provide all interested parties (operators, competent entities
+  and the general public) with information on the application of the environmental liability regime (Regime
+  RA), seeking to clarify some concepts, identify the criteria for its coverage, develop technical aspects
+  inherent to its application, as well as highlight the obligations of the operators covered.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/608b9cf5454ae3ad728022d2 (data.europa.eu dataset
+      608b9cf5454ae3ad728022d2; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- gncia-ortuguesa-do-m
+slug: 608b9cf5454ae3ad728022d2-guide-to-imm

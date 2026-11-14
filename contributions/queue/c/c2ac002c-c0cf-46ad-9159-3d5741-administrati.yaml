@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c2ac002c-c0cf-46ad-9159-3d574131e71e
+name: Administrative data, within the meaning of the Law of Ukraine “On state statistics”, which are collected
+  (processed) and subject to disclosure in accordance with the requirements of the law by the inf
+description: The set contains administrative (statistical data), the manager of which is KP "Electroavtotrans"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c2ac002c-c0cf-46ad-9159-3d574131e71e (data.europa.eu
+      dataset c2ac002c-c0cf-46ad-9159-3d574131e71e; publisher: Комунальне підприємство "Електроавтотранс")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: c2ac002c-c0cf-46ad-9159-3d5741-administrati

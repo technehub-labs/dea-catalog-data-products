@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 9c51fc2e-ab3f-43d1-852e-f492eff37af1
+name: Local Property Tax LPT statistics 2018
+description: Local Property Tax LPT statistics 2018 — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Revenue Commissioners.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9c51fc2e-ab3f-43d1-852e-f492eff37af1 (data.europa.eu
+      dataset 9c51fc2e-ab3f-43d1-852e-f492eff37af1; publisher: Revenue Commissioners)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- evenue-ommissioners
+slug: 9c51fc2e-ab3f-43d1-852e-f492ef-local-proper

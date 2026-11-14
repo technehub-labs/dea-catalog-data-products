@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu flox-fisheries-low-oxygen-and-climate-change-climate-model-data1
+name: FLOX Fisheries, Low Oxygen and Climate Change Climate Model Data
+description: Climate hindcast and projection data for the North Sea, including dissolved oxygen created
+  for the Fisheries, Low Oxygen and Climate Change (FLOX) project.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/flox-fisheries-low-oxygen-and-climate-change-climate-model-data1
+      (data.europa.eu dataset flox-fisheries-low-oxygen-and-climate-change-climate-model-data1; publisher:
+      Marine Environmental Data & Information Network)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nvironmental-a
+slug: flox-fisheries-low-oxygen-and-flox-fisheri

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 79000-images-of-historical-datasheets-of-meteorological-observations-in-the-caribbean
+name: Images of historical datasheets of meteorological observations in the Caribbean
+description: 'This dataset contains images from in-situ (sub-)daily meteorological datasheets housed in
+  the KNMI archive from the late 19th and early 20th century. The images are made following the WMO Guidelines
+  on Best Practices for Data Rescue (WMO No. 1182, edition 2024). Images contains data from Suriname (Nickerie,
+  Fort Nieuw Amsterdam) and the islands of St. Eustatius, St. Maarten, Curacao and Bonaire in the Caribbean.
+  The files are sorted by location and year. Measurements contain, among others, temperature, pressure,
+  humidity, wind speed and direction, cloud cover and precipitation. Per location images are available
+  for the following years: * Bonaire: 1920, 1927-1941 * Curacao: 1909-1946 * Suriname (New Nickerie):
+  1896-1903, 1922-1962 * Suriname (Fort New Amsterdam): 1896, 1900-1903 * St. Eustatius: 1909-1940, 1944-1946
+  * St. Maarten: 1920-1946'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/79000-images-of-historical-datasheets-of-meteorological-observations-in-the-caribbean
+      (data.europa.eu dataset 79000-images-of-historical-datasheets-of-meteorological-observations-in-the-caribbean;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 79000-images-of-historical-dat-images-of-hi

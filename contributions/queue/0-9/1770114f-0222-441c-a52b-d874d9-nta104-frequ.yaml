@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1770114f-0222-441c-a52b-d874d99fee16
+name: NTA104 - Frequency of use of public transport services
+description: Frequency of use of public transport services
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1770114f-0222-441c-a52b-d874d99fee16 (data.europa.eu
+      dataset 1770114f-0222-441c-a52b-d874d99fee16; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: 1770114f-0222-441c-a52b-d874d9-nta104-frequ

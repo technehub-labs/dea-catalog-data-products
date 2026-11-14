@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu f2a547f7-b4f1-4c82-8816-df45c6959cf7
+name: Atmospheric Particles-DMPS Particle Concentration (2019)
+description: Measurements of particle number concentration in Ispra, Italy.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f2a547f7-b4f1-4c82-8816-df45c6959cf7 (data.europa.eu
+      dataset f2a547f7-b4f1-4c82-8816-df45c6959cf7; publisher: Joint Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- oint-esearch-entre
+slug: f2a547f7-b4f1-4c82-8816-df45c6-atmospheric

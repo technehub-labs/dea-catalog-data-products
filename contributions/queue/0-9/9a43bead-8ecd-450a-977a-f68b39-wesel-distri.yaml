@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 9a43bead-8ecd-450a-977a-f68b396ca7d1
+name: Wesel district Employment statistics (30 June 2017)
+description: Wesel district Employment statistics (30 June 2017)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9a43bead-8ecd-450a-977a-f68b396ca7d1 (data.europa.eu
+      dataset 9a43bead-8ecd-450a-977a-f68b396ca7d1; publisher: Kreis Wesel )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- reis-esel
+slug: 9a43bead-8ecd-450a-977a-f68b39-wesel-distri

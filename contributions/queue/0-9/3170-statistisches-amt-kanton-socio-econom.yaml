@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3170-statistisches-amt-kanton-zuerich
+name: Socio-economic characteristics of economic social assistance in the Canton of Zurich
+description: Economic Social Assistance (WSH) is a temporary, needs-based benefit for people who are in
+  an emergency situation that they cannot cope with on their own. This dataset shows the number of people
+  in the Canton of Zurich receiving economic social assistance, broken down by socio-economic characteristics
+  of educational attainment and employment situation, as well as the number of cases by case structure.
+  For each feature, the respective distribution is also shown. Only persons between the ages of 16 and
+  64 are taken into account for the purposes of education and employment. Spatially, all values refer
+  to the entire canton of Zurich. A division by municipalities or districts is not included. The dataset
+  starts in 2010 and is constantly being supplemented by new years. The data come from the social assistance
+  recipient statistics of the Federal Statistical Office (FSO). As of 2025, the FSO has switched over
+  to data collection. Comparability with previous years is therefore limited. Further information on the
+  dataset structure and characteristics used can be found in the variable description.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3170-statistisches-amt-kanton-zuerich (data.europa.eu
+      dataset 3170-statistisches-amt-kanton-zuerich; publisher: Amt für Statistik und Daten)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- mt-fr-tatistik-und-a
+slug: 3170-statistisches-amt-kanton-socio-econom

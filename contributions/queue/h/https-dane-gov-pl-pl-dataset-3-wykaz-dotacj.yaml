@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-3897-wykaz-dotacji-na-edukacje-otrzymanych-przez-gmine
+name: Wykaz dotacji na edukację otrzymanych przez Gminę Nowa Wieś Lęborska
+description: <p>Rok </p> <p>Subwencja oświatowa </p> <p>Dotacja przedszkolna </p> <p>Dotacja podręcznikowa</p>
+  <p>https://www.nwl.pl/otwarte-dane/edukacja/wykaz-dotacji-otrzymanych-przez-gmine-nowa-wies-leborska/</p>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-3897-wykaz-dotacji-na-edukacje-otrzymanych-przez-gmine
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-3897-wykaz-dotacji-na-edukacje-otrzymanych-przez-gmine;
+      publisher: Urząd Gminy w Nowej Wsi Lęborskiej)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rzd-miny-w-owej-si-b
+slug: https-dane-gov-pl-pl-dataset-3-wykaz-dotacj

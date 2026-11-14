@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu parkings-relais-existants
+name: Existing relay car parks
+description: A relay car park is a public car park from which users can use a public transport service
+  by rail or a regular public transport service by road within the meaning of the amended Law of 29 June
+  2004 on public transport.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/parkings-relais-existants (data.europa.eu dataset
+      parkings-relais-existants; publisher: Ministère de la Mobilité et des Travaux publics)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistre-de-la-obilit
+slug: parkings-relais-existants-existing-rel

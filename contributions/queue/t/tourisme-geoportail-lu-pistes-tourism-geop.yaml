@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu tourisme-geoportail-lu-pistes-cyclables-nationales
+name: 'tourism.geoportail.lu: _cyclable tracks _nationales'
+description: Geodata visible on tourism.geoportail.lu, category _cyclable tracks _nationales<br>--------------------------------------<br>
+  Automatically created dataset <br> Data from tourism.geoportail.lu
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/tourisme-geoportail-lu-pistes-cyclables-nationales
+      (data.europa.eu dataset tourisme-geoportail-lu-pistes-cyclables-nationales; publisher: Ministère
+      de l''Economie - Direction générale du tourisme)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistre-de-lconomie
+slug: tourisme-geoportail-lu-pistes-tourism-geop

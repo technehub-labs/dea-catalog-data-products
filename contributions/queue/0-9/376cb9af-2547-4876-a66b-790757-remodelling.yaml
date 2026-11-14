@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 376cb9af-2547-4876-a66b-790757f419bb-geoinformation_kanton_freiburg
+name: Remodelling of parcels
+description: Inventory of parcel alterations that have been subsidised by the Land Improvement Service
+  since the 1910s and by the Agriculture Service since 2007 to the present day.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/376cb9af-2547-4876-a66b-790757f419bb-geoinformation_kanton_freiburg
+      (data.europa.eu dataset 376cb9af-2547-4876-a66b-790757f419bb-geoinformation_kanton_freiburg; publisher:
+      Grangeneuve)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rangeneuve
+slug: 376cb9af-2547-4876-a66b-790757-remodelling

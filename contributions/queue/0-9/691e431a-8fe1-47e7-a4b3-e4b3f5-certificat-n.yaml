@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 691e431a-8fe1-47e7-a4b3-e4b3f59e11eb-canton-du-jura
+name: Certificat énergétique cantonal des bâtiments (CECB)
+description: Le Certificat énergétique cantonal des bâtiments (CECB), identique pour toute la Suisse,
+  évalue la qualité de l’enveloppe et le bilan énergétique global d’un bâtiment, ainsi que ses émissions
+  directes de CO2. Le CECB Plus ajoute à cette évaluation un rapport de conseil en vue d’une rénovation
+  énergétique. L’établissement d’un CECB est possible aussi bien pour les immeubles résidentiels que pour
+  les bâtiments administratifs ou scolaires, les hôtels, les commerces, les restaurants ou les affectations
+  mixtes de ces catégories. Le CECB est basé sur la normalisation du CECB en vigueur. Le CECB est en principe
+  facultatif. Le canton du jura l’exige en cas de transfert de propriété ou lors du remplacement d'une
+  installation de chauffage par un nouveau chauffage à énergie fossile.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/691e431a-8fe1-47e7-a4b3-e4b3f59e11eb-canton-du-jura
+      (data.europa.eu dataset 691e431a-8fe1-47e7-a4b3-e4b3f59e11eb-canton-du-jura; publisher: ECA - Jura)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ura
+slug: 691e431a-8fe1-47e7-a4b3-e4b3f5-certificat-n

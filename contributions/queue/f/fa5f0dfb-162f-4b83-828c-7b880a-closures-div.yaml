@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fa5f0dfb-162f-4b83-828c-7b880ad5e972-bundesamt-fur-strassen-astra
+name: Closures / Diversions "Mountain Biking in Switzerland"
+description: 'The dataset contains trail closures and detours on the routes of "Mountain biking in Switzerland"
+  of Switzerland and the Principality of Liechtenstein, which have been announced to the SwitzerlandMobility.
+  It complements the "Mountain biking in Switzerland" geodata (Non-motorised transport – Mountainbikeland
+  Schweiz), and is managed by the Federal Roads Office FEDRO, the Federal Office of Topography swisstopo,
+  SwitzerlandMobility and the cantons. No liability is accepted for the accuracy, completeness or up-to-dateness
+  of the route and trail data, and any liability for the use of this data is excluded. Link to the disclaimer:
+  https://schweizmobil.ch/en/closures-detours'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fa5f0dfb-162f-4b83-828c-7b880ad5e972-bundesamt-fur-strassen-astra
+      (data.europa.eu dataset fa5f0dfb-162f-4b83-828c-7b880ad5e972-bundesamt-fur-strassen-astra; publisher:
+      Federal Roads Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ederal-oads-ffice
+slug: fa5f0dfb-162f-4b83-828c-7b880a-closures-div

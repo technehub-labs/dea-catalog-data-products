@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu green-deal-eco-and-home-insulation-levels-in-great-britain-statistics1
+name: Green Deal/ECO and home insulation levels in Great Britain statistics
+description: '<p>This release presents statistics on the number of Green Deal assessments, and the number
+  and type of energy efficiency measures installed; the release includes estimates of the number of homes
+  with loft insulation and cavity wall insulation previously published in the statistical release Home
+  insulation levels in Great Britain Source agency: Energy and Climate Change</p>'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/green-deal-eco-and-home-insulation-levels-in-great-britain-statistics1
+      (data.europa.eu dataset green-deal-eco-and-home-insulation-levels-in-great-britain-statistics1;
+      publisher: Cambridgeshire Insight)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ambridgeshire-nsight
+slug: green-deal-eco-and-home-insula-green-deal-e

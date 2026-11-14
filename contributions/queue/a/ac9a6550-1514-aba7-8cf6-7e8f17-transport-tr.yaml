@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ac9a6550-1514-aba7-8cf6-7e8f175f54f2
+name: Transport - transport
+description: The service (WMS group) represents data from the field of transport.:The service (WMS group)
+  represents geodata from the field of air traffic and public transport.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ac9a6550-1514-aba7-8cf6-7e8f175f54f2 (data.europa.eu
+      dataset ac9a6550-1514-aba7-8cf6-7e8f175f54f2; publisher: Ministerium für Umwelt, Klima, Mobilität,
+      Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterium-fr-mwelt
+slug: ac9a6550-1514-aba7-8cf6-7e8f17-transport-tr

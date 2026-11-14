@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu thurrock-ldf-heritage-assets-historic-environment
+name: Thurrock LDF Heritage Assets Historic Environment
+description: This dataset forms part of Thurrock Council current development plan. For more information
+  go to https://www.thurrock.gov.uk/current-development-plan Contact Thurrock Council to obtain the GIS
+  data
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/thurrock-ldf-heritage-assets-historic-environment
+      (data.europa.eu dataset thurrock-ldf-heritage-assets-historic-environment; publisher: Thurrock Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- hurrock-ouncil
+slug: thurrock-ldf-heritage-assets-h-thurrock-ldf

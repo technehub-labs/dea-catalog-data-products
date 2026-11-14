@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1b12c854-e10d-6acc-6353-acd9f5a94551
+name: Health facilities Trier - Health facilities Trier
+description: POIs on Health in the City of Trier (Health Office, House of Health, Hospitals, Health Facilities):POIs
+  on Health in the City of Trier (Health Office, House of Health, Hospitals, Health Facilities)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1b12c854-e10d-6acc-6353-acd9f5a94551 (data.europa.eu
+      dataset 1b12c854-e10d-6acc-6353-acd9f5a94551; publisher: Stadt Trier)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tadt-rier
+slug: 1b12c854-e10d-6acc-6353-acd9f5-health-facil

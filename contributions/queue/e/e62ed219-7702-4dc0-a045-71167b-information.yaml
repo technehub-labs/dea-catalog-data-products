@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e62ed219-7702-4dc0-a045-71167b1e7252
+name: Information on medicines/drugs purchased for budget funds, information on the distribution of such
+  medicines between health care institutions’ and their residues in each of them
+description: Information about medicines/drugs in "Chop City Hospital", "Chop Primary Health Care Center"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e62ed219-7702-4dc0-a045-71167b1e7252 (data.europa.eu
+      dataset e62ed219-7702-4dc0-a045-71167b1e7252; publisher: Чопська міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: e62ed219-7702-4dc0-a045-71167b-information

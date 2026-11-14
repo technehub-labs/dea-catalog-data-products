@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4de560c3-2b56-440f-a60c-b9215ddee6b8-kanton-thurgau
+name: Air pollutant emissions
+description: Hectare grid of modelled emission data for nitrogen oxides and particulate matter.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4de560c3-2b56-440f-a60c-b9215ddee6b8-kanton-thurgau
+      (data.europa.eu dataset 4de560c3-2b56-440f-a60c-b9215ddee6b8-kanton-thurgau; publisher: Kanton Thurgau,
+      Amt für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- anton-hurgau-mt-fr-e
+slug: 4de560c3-2b56-440f-a60c-b9215d-air-pollutan

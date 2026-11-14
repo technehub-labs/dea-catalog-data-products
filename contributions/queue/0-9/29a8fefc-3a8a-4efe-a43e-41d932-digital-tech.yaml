@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 29a8fefc-3a8a-4efe-a43e-41d93230cfe0
+name: Digital technologies in agriculture.
+description: Digitisation in agriculture is often associated with reduced input costs and more environmentally
+  friendly agricultural production. However, an assessment of the actual environmental compatibility and
+  the environmental performance of the use of technology is often lacking. This study presents a concept
+  and criteria for assessing the environmental impact of the use of digital technologies in agriculture.
+  The developed environmental assessment concept describes possibilities for qualitative and quantitative
+  evaluation of environmental effects using indicators. It is generally valid, can also be applied to
+  future technology developments and also takes into account indirect effects.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/29a8fefc-3a8a-4efe-a43e-41d93230cfe0 (data.europa.eu
+      dataset 29a8fefc-3a8a-4efe-a43e-41d93230cfe0; publisher: Umweltbundesamt GmbH)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- mweltbundesamt-mb
+slug: 29a8fefc-3a8a-4efe-a43e-41d932-digital-tech

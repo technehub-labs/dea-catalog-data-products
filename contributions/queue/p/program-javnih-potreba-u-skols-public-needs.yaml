@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu program-javnih-potreba-u-skolstvu-i-predskolskom-odgoju-opcine-jasenice
+name: Public Needs Program in Education and Preschool Education of the Municipality of Jasenice
+description: Public Needs Program in Education and Preschool Education of the Municipality of Jasenice
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/program-javnih-potreba-u-skolstvu-i-predskolskom-odgoju-opcine-jasenice
+      (data.europa.eu dataset program-javnih-potreba-u-skolstvu-i-predskolskom-odgoju-opcine-jasenice;
+      publisher: Općina Jasenice)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- pina-asenice
+slug: program-javnih-potreba-u-skols-public-needs

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 36171425-bundesamt-fur-statistik-bfs
+name: Temporal development of trips with overnight stays, resident population from 6 or 15 years
+description: This table presents the temporal evolution of travel with overnight stays (net travel intensity,
+  number of trips and overnight stays, daily expenditure) according to the main structural characteristics
+  as a time series, since 1998.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/36171425-bundesamt-fur-statistik-bfs (data.europa.eu
+      dataset 36171425-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ffice-fdral-de-la-st
+slug: 36171425-bundesamt-fur-statist-temporal-dev

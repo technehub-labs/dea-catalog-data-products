@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu -https-irisapi-nso-gov-mt-nsi_ws-rest-v2-structure-dataflow-mt1-df_tourstat_nat_tour_all_tri-
+name: National Tourism trips, nights spent and expenditure by type of accommodation and transport (Triennial)
+description: National Tourism annual trips, nights spent and expenditures by type of bookings of accommodation
+  and transport.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/-https-irisapi-nso-gov-mt-nsi_ws-rest-v2-structure-dataflow-mt1-df_tourstat_nat_tour_all_tri-
+      (data.europa.eu dataset -https-irisapi-nso-gov-mt-nsi_ws-rest-v2-structure-dataflow-mt1-df_tourstat_nat_tour_all_tri-;
+      publisher: National Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ational-tatistics-ff
+slug: https-irisapi-nso-gov-mt-nsi-w-national-tou

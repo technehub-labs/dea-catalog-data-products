@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu camden-business-survey-report-2017
+name: Camden Business Survey Report 2017
+description: 'The Camden Business Survey 2017 gathered key business intelligence around business confidence,
+  activity and employment, and issues of importance. Previous surveys were conducted in 2014 and 2012.
+  The analysis is based on a sample of 400 responses from businesses, stratified by size and sector. Where
+  significant, findings are reported by size, sector, business age and business type. Camden’s growth
+  sectors are considered throughout: Science and Tech, Technical, Professional and Business Support Services,
+  and Creative and Cultural Industries.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/camden-business-survey-report-2017 (data.europa.eu
+      dataset camden-business-survey-report-2017; publisher: London Borough of Camden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ondon-orough-of-amde
+slug: camden-business-survey-report-camden-busin

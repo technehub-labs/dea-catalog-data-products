@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5dd651766f444110e306fc0d~~1
+name: Establishments of artistic education of the Metropolis of Lyon
+description: Takeover of artistic teaching places with name and update date.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5dd651766f444110e306fc0d~~1 (data.europa.eu dataset
+      5dd651766f444110e306fc0d~~1; publisher: Métropole de Lyon)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tropole-de-yon
+slug: 5dd651766f444110e306fc0d-1-establishmen

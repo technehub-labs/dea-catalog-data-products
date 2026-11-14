@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu carte-topographique-1-250000
+name: Topographic map 1:250'000
+description: 'Topographic map raster color at scale 1:250''000. No relief indication (no fade, no ) level
+  curves) Edition: 2019 Available formats: - Georeferenced TIFF (Datum - Projection: LUREF EPSG:2169)
+  - PDF with official header'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/carte-topographique-1-250000 (data.europa.eu dataset
+      carte-topographique-1-250000; publisher: Administration du cadastre et de la topographie)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- dministration-du-cad
+slug: carte-topographique-1-250000-topographic

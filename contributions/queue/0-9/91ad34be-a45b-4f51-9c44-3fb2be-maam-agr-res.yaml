@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 91ad34be-a45b-4f51-9c44-3fb2be205e24-1
+name: Maam (Agr.Res.Stn.) Ii Climate Data
+description: Daily and monthly climatalogical records for our station at Maam (Agr.Res.Stn.) Ii in Co.
+  Galway. This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/91ad34be-a45b-4f51-9c44-3fb2be205e24-1 (data.europa.eu
+      dataset 91ad34be-a45b-4f51-9c44-3fb2be205e24-1; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 91ad34be-a45b-4f51-9c44-3fb2be-maam-agr-res

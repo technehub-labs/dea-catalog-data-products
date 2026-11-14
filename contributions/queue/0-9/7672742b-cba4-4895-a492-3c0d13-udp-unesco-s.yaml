@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 7672742b-cba4-4895-a492-3c0d1344368c
+name: UDP - UNESCO sites
+description: 'This descriptor shows the number of World Heritage Sites designated by UNESCO. To be included
+  in the World Heritage List, sites must be of outstanding value on the basis of cultural and natural
+  criteria. A high number of UNESCO sites indicates the strong presence of cultural/natural assets of
+  high tourism interest. This descriptor is provided in the EU Tourism Dashboard as complementary information
+  to characterize tourism offer. UNIT OF MEASURE: number of UNESCO sites. RESOLUTION: NUTS0, NUTS2, NUTS3.
+  COMPLETENESS: 100%. METHODOLOGY: Geographic coordinates of UNESCO sites were converted to vector data
+  and aggregated per NUTS level. DATA SOURCES: UNESCO sites, NUTS 2021 classification.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/7672742b-cba4-4895-a492-3c0d1344368c (data.europa.eu
+      dataset 7672742b-cba4-4895-a492-3c0d1344368c; publisher: Joint Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- oint-esearch-entre
+slug: 7672742b-cba4-4895-a492-3c0d13-udp-unesco-s

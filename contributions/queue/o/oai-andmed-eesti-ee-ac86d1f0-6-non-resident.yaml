@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-ac86d1f0-6549-419a-9a44-a29e48d18258
+name: Non-residents leaving Estonia by country of residence, duration of the visit and main purpose  of
+  the visit to Estonia (2014–2017)
+description: Non-residents leaving Estonia by country of residence, duration of the visit and main purpose
+  of the visit to Estonia (2014–2017).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-ac86d1f0-6549-419a-9a44-a29e48d18258
+      (data.europa.eu dataset oai-andmed-eesti-ee-ac86d1f0-6549-419a-9a44-a29e48d18258; publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistikaamet
+slug: oai-andmed-eesti-ee-ac86d1f0-6-non-resident

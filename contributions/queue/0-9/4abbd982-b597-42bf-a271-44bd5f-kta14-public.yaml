@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4abbd982-b597-42bf-a271-44bd5f4ba38e
+name: KTA14 - Public Health Expenditure in millions of Euro
+description: Public Health Expenditure in millions of Euro
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4abbd982-b597-42bf-a271-44bd5f4ba38e (data.europa.eu
+      dataset 4abbd982-b597-42bf-a271-44bd5f4ba38e; publisher: Department of Health)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-of-ealth
+slug: 4abbd982-b597-42bf-a271-44bd5f-kta14-public

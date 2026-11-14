@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-piveau-eu-set-data-coo_3000_106_2_253267
+name: Resolutions street
+description: Responding to resolutions by the department in the field of road
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_106_2_253267 (data.europa.eu
+      dataset https-piveau-eu-set-data-coo_3000_106_2_253267; publisher: Bundesministerium für Innovation,
+      Mobilität und Infrastruktur)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- undesministerium-fr
+slug: https-piveau-eu-set-data-coo-3-resolutions

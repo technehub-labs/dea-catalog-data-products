@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fc09e42f-652a-4a7a-bc5d-1032661c8f9b
+name: Offences in the transport sector (data of the Municipal Police in Prešov) - geo data
+description: Offences in the transport sector (data of the Municipal Police in Prešov) - geo data
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fc09e42f-652a-4a7a-bc5d-1032661c8f9b (data.europa.eu
+      dataset fc09e42f-652a-4a7a-bc5d-1032661c8f9b; publisher: Mesto Prešov)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- esto-reov
+slug: fc09e42f-652a-4a7a-bc5d-103266-offences-in

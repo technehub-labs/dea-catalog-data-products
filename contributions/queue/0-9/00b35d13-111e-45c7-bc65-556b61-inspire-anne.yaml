@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 00b35d13-111e-45c7-bc65-556b61d17c7e
+name: INSPIRE - Annex III - Meteorological Geographical Features - Spatial Sampling Features - Location
+  of weather stations managed by ASTA
+description: This dataset contains the weather stations that are managed by the Administration of Agriculture
+  (ASTA). Data is transformed into INSPIRE data model.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/00b35d13-111e-45c7-bc65-556b61d17c7e (data.europa.eu
+      dataset 00b35d13-111e-45c7-bc65-556b61d17c7e; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 00b35d13-111e-45c7-bc65-556b61-inspire-anne

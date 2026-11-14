@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datos-parcan-es-dataset-comisiones_miembros_id_organo060306
+name: Members of the Committee - Economy and Trade - 6th Legislature
+description: Members of the Committee - Economy and Trade - 6th Legislature
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-parcan-es-dataset-comisiones_miembros_id_organo060306
+      (data.europa.eu dataset https-datos-parcan-es-dataset-comisiones_miembros_id_organo060306; publisher:
+      Parlamento de Canarias)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arlamento-de-anarias
+slug: https-datos-parcan-es-dataset-members-of-t-82

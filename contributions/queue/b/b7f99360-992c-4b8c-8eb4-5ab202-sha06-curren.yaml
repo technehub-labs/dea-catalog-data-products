@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b7f99360-992c-4b8c-8eb4-5ab20230270c
+name: SHA06 - Current Health Care Expenditure (Euro Million)
+description: Current Health Care Expenditure (Euro Million)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b7f99360-992c-4b8c-8eb4-5ab20230270c (data.europa.eu
+      dataset b7f99360-992c-4b8c-8eb4-5ab20230270c; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: b7f99360-992c-4b8c-8eb4-5ab202-sha06-curren

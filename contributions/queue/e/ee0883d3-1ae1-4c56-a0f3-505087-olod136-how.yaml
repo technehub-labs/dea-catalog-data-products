@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ee0883d3-1ae1-4c56-a0f3-5050872c6d72
+name: OLOD136 - How much do you do to protect the environment by degree of urbanisation surrounding homes
+description: How much do you do to protect the environment by degree of urbanisation surrounding homes
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ee0883d3-1ae1-4c56-a0f3-5050872c6d72 (data.europa.eu
+      dataset ee0883d3-1ae1-4c56-a0f3-5050872c6d72; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: ee0883d3-1ae1-4c56-a0f3-505087-olod136-how

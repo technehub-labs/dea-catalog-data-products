@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu camden-business-and-employment-bulletin-latest
+name: Camden Business And Employment Bulletin LATEST
+description: The Camden Business and Employment Briefing provides a summary analysis of Camden's economy.
+  It covers business size and type, employment in the borough, commercial property, unemployment, worklessness
+  and qualifications.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/camden-business-and-employment-bulletin-latest (data.europa.eu
+      dataset camden-business-and-employment-bulletin-latest; publisher: London Borough of Camden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ondon-orough-of-amde
+slug: camden-business-and-employment-camden-busin

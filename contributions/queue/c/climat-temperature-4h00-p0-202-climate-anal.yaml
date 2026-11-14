@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu climat_temperature_4h00_p0_2020-canton-geneve
+name: Climate analysis 2020 - Night air temperature 1981-2010
+description: 'The data show the air temperature (in °C) in the canton of Geneva that was modeled with
+  the urban climate model FITNAH-3D. The results are based on a horizontal spatial resolution of 10 m
+  and on a native summer weather situation (weather condition of low wind radiation). They are valid for
+  the area of human residence 2 m from the ground and represent the night situation at 4:00 hours (maximum
+  cooling). The climate parameter is considered both in its current and future characteristic (including
+  climate change and future development). The assumed temperature increases for future periods refer to
+  the results of the climate scenarios for Switzerland (CH2018). The temperature rises correspond to the
+  mean summer change signal of scenario RCP 8.5 for Western Switzerland. The product consists of one raster
+  per climatic period. Climate period: P0: Reference period 1981-2010 ("1995") Development scenario: P1,
+  P2 and P3: Land cover with projects expected to be completed by 2035 For areas outside the canton, baseline
+  soil cover data are less accurate in Geneva. Insulated trees and waterproofing surfaces around buildings,
+  two factors that influence climatic parameters, could not be integrated into the analysis model. Therefore,
+  out-of-canton data should be treated with caution. Reminder: In accordance with the GCU, information
+  relating to climate analysis has no legal value.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/climat_temperature_4h00_p0_2020-canton-geneve (data.europa.eu
+      dataset climat_temperature_4h00_p0_2020-canton-geneve; publisher: Direction de la durabilité et
+      du climat)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- irection-de-la-durab
+slug: climat-temperature-4h00-p0-202-climate-anal

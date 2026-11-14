@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5de42c4d8b4c417a10e62ec9
+name: Theoretical timetables of the Transport network in Commun Lyonnais
+description: 'The hourly data correspond to the total supply of the TCL network: timetables for all commercial
+  lines (for a period of 60 days) and associated geographical information (network topography). The data
+  on this page is attached to the Mobility license. To recover them, it is necessary to create an account
+  on the data.grandlyon.com platform: [https://data.grandlyon.com/portal/en/connection](https://data.grandlyon.com/portal/en/connection).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5de42c4d8b4c417a10e62ec9 (data.europa.eu dataset
+      5de42c4d8b4c417a10e62ec9; publisher: SYTRAL Mobilités)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- obilits
+slug: 5de42c4d8b4c417a10e62ec9-theoretical

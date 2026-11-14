@@ -1,0 +1,37 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2g1gr
+name: GLA Key Performance Indicators
+description: '<dp-prose> <p>The Business Plan 2013/14 established for the first time a suite of GLA Key
+  Performance Indicators (KPI) closely linked to Mayoral priorities.</p> <p>These statistics show KPI
+  performance, together with targets, forecasts and traffic light ratings. There are two traffic light
+  ratings for each KPI: First, a backward looking traffic light assessing performance to date. Green indicates
+  that performance is meeting or exceeding targets; amber that it is somewhat short of target; and red
+  that is significantly short.</p> <p>The second traffic light is forward looking and is primarily concerned
+  with whether future targets, and in particular the lifetime target, are likely to be met. Green here
+  indicates that performance is on track and amber that there are risks that may mean future targets will
+  be missed. Red indicates that it is probable future targets will be missed and potentially by a significant
+  margin.</p> <p>GLA KPIs:</p> <p>1) Number of jobs created through GLA Group investment and associated
+  spend (ie. levered or match funded)</p> <p>2) Number of new apprenticeships started</p> <p>3) Square
+  metres of public realm improved or created through GLA investment and associated spend (ie. levered
+  or match funded)</p> <p>4) The number of employers signed up to the London Living Wage (LLW)</p> <p>5a)
+  The number of young Londoners who are actively supported</p> <p>5b) The number of young Londoners supported
+  into and achieving an improved and sustained outcome</p> <p>5c) The number of schools supported to improve
+  their practice</p> <p>6) GLA Group sites identified for new schools</p> <p>7) Number of volunteering
+  opportunities taken up by volunteers through Team London</p> <p>8) Number of Londoners participating
+  in sport or physical activity through the Mayor''s Sports Legacy Programme: Phase 2</p> <p>9) The number
+  of street trees planted through the Mayor''s street trees initiative</p> <p>10a) The number of pocket
+  parks established</p> <p>10b) The area of green sp'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2g1gr (data.europa.eu dataset 2g1gr; publisher: GLA
+      Performance Team)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- erformance-eam
+slug: 2g1gr-gla-key-perf

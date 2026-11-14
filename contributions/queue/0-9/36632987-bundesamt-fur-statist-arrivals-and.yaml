@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 36632987-bundesamt-fur-statistik-bfs
+name: Arrivals and overnight stays at campsites by tourist regions
+description: This dataset presents the annual figures for arrivals and overnight stays at campsites by
+  guest origin and tourist region, since 2022.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/36632987-bundesamt-fur-statistik-bfs (data.europa.eu
+      dataset 36632987-bundesamt-fur-statistik-bfs; publisher: Office fédéral de la statistique)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ffice-fdral-de-la-st
+slug: 36632987-bundesamt-fur-statist-arrivals-and

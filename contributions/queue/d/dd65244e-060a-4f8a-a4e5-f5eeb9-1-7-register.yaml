@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu dd65244e-060a-4f8a-a4e5-f5eeb98d0ccb
+name: 1.7. Register of sets of communal institution "Preschool educational institution No52 of Vinnytsia
+  City Council"
+description: This set contains a register of sets of communal institution "Preschool educational institution
+  No.52 of Vinnytsia City Council"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/dd65244e-060a-4f8a-a4e5-f5eeb98d0ccb (data.europa.eu
+      dataset dd65244e-060a-4f8a-a4e5-f5eeb98d0ccb; publisher: Вінницька міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: dd65244e-060a-4f8a-a4e5-f5eeb9-1-7-register

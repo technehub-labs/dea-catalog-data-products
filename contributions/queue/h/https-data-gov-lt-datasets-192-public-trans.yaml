@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-data-gov-lt-datasets-1929-
+name: Public transport travel data
+description: 'Public transport travel data information system data in GTFS and NeTex format: Public transport
+  timetables for all modes; Public transport routes; Stops, stations, airports, etc. Data source: Lithuanian
+  Transport Safety Administration, municipalities and private carriers.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-1929- (data.europa.eu
+      dataset https-data-gov-lt-datasets-1929-; publisher: Valstybės duomenų agentūra)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- alstybs-duomen-agent
+slug: https-data-gov-lt-datasets-192-public-trans

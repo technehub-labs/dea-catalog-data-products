@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 7704833e-78f3-5df7-1193-14146d091d62
+name: Provincial Planning - SB _Collection _ of _ Raw Materials _BR - OGC WFS Interface
+description: The Map Service (WFS Group) provides the map bases of the Saarland State Development Plan
+  Environment (2004) and Settlement (2006).:Generalized presentation of site areas for the extraction
+  of raw materials (BR) within the framework of the LEP Environment 2004.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/7704833e-78f3-5df7-1193-14146d091d62 (data.europa.eu
+      dataset 7704833e-78f3-5df7-1193-14146d091d62; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 7704833e-78f3-5df7-1193-14146d-provincial-p

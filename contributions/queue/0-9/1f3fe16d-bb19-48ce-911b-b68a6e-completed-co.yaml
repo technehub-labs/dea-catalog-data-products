@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1f3fe16d-bb19-48ce-911b-b68a6ee2bf31
+name: Completed construction projects Apartments by energy class
+description: Completed construction projects Apartments by energy class
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1f3fe16d-bb19-48ce-911b-b68a6ee2bf31 (data.europa.eu
+      dataset 1f3fe16d-bb19-48ce-911b-b68a6ee2bf31; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 1f3fe16d-bb19-48ce-911b-b68a6e-completed-co

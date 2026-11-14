@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6002dbea-6511-4ec6-bf4a-545c25b9a4ca
+name: IHS02 - Self-perceived general mental health
+description: IHS02 - Self-perceived general mental health — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Central Statistics Office.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6002dbea-6511-4ec6-bf4a-545c25b9a4ca (data.europa.eu
+      dataset 6002dbea-6511-4ec6-bf4a-545c25b9a4ca; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: 6002dbea-6511-4ec6-bf4a-545c25-ihs02-self-p

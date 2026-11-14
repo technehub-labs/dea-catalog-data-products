@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3831bb35-a518-45ea-970f-183c13e24e6d~~1
+name: LEP Environment 2004 Rail connections Saarland
+description: Linear representation of the rail connections within the framework of the state development
+  plan for the environment divided into primary, secondary and tertiary networks.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3831bb35-a518-45ea-970f-183c13e24e6d~~1 (data.europa.eu
+      dataset 3831bb35-a518-45ea-970f-183c13e24e6d~~1; publisher: Referat OBB11 Landesplanung, Bauleitplanung)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eferat-11-andesplanu
+slug: 3831bb35-a518-45ea-970f-183c13-lep-environm

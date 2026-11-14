@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-editera-dataportal-se-store-272-resource-2
+name: Visit Sweden national API for Swedish tourism industry
+description: Here you will find information about accommodation, food and drink, activities, events, shopping,
+  geographical locations, guest harbors, trails, and experience packages.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-editera-dataportal-se-store-272-resource-2
+      (data.europa.eu dataset https-editera-dataportal-se-store-272-resource-2; publisher: Visit Sweden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- isit-weden
+slug: https-editera-dataportal-se-st-visit-sweden

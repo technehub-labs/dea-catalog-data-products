@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c_a944-istanze-agricoltura
+name: Agricultural applications
+description: 'This dataset shows all the instances within the competence of the Single Window for Productive
+  Activities (SUAP) relating to: agriculture'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c_a944-istanze-agricoltura (data.europa.eu dataset
+      c_a944-istanze-agricoltura; publisher: Comune di Bologna)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- omune-di-ologna
+slug: c-a944-istanze-agricoltura-agricultural

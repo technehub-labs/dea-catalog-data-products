@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 57860b78c751df0b95127787
+name: Balancing Energy
+description: This API provides data related to the activation of balancing energy.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/57860b78c751df0b95127787 (data.europa.eu dataset
+      57860b78c751df0b95127787; publisher: Réseau de Transport d''Electricité)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- seau-de-ransport-dle
+slug: 57860b78c751df0b95127787-balancing-en

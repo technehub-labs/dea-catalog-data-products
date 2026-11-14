@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b2db224a-28b2-aa19-d93c-822d369cf115
+name: Land Planning - Rail Connections _SCHV - OGC WFS Interface
+description: The Map Service (WFS Group) provides the map basics of the Saarland's Land Development Plan
+  Environment (2004) and Settlement (2006).:Generalized presentation of rail connections (SCHV) within
+  the framework of the LEP Environment 2004.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b2db224a-28b2-aa19-d93c-822d369cf115 (data.europa.eu
+      dataset b2db224a-28b2-aa19-d93c-822d369cf115; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: b2db224a-28b2-aa19-d93c-822d36-land-plannin

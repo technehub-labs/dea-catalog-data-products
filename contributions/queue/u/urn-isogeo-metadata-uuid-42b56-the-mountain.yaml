@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu urn-isogeo-metadata-uuid-42b56d9b-9b6b-4b1b-8424-6f6f3a0ef4df
+name: The mountain bike tours registered at the PDIPR in the department of the Nord.
+description: 'This data represents the ATV circuits registered with the PDIPR in the department of the
+  North. (Location: R:\catalogue\dones_SIG\Environment\ENS_PDIPR.gdb\PDIPR\CD59_PDIPR_VTT//N:\documentations
+  and sources products\project_portal\data_and_file sde\prod\reference\environment@reference_prod.sde\reference.environment.cd59_pdipr_vtt)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/urn-isogeo-metadata-uuid-42b56d9b-9b6b-4b1b-8424-6f6f3a0ef4df
+      (data.europa.eu dataset urn-isogeo-metadata-uuid-42b56d9b-9b6b-4b1b-8424-6f6f3a0ef4df; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: urn-isogeo-metadata-uuid-42b56-the-mountain

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8202d66a-7964-6a9a-0d94-620abf33280d
+name: Eulenbis - Special area Holiday apartments and agriculture
+description: Development plans of Eulenbis:Development plan "special area holiday living / agriculture"
+  of the local municipality of Eulenbis
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8202d66a-7964-6a9a-0d94-620abf33280d (data.europa.eu
+      dataset 8202d66a-7964-6a9a-0d94-620abf33280d; publisher: LVermGeo im Auftrag von Eulenbis)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ermeo-im-uftrag-von
+slug: 8202d66a-7964-6a9a-0d94-620abf-eulenbis-spe

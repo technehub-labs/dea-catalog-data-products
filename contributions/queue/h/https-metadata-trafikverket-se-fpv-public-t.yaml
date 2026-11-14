@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-metadata-trafikverket-se-store-1-resource-640
+name: FPV public transport
+description: FPV Public transport is a function of the road network FPV (Functional Priority Road Network).
+  FPV Public transport points to the roads that are important for public transport such as priority routes,
+  core lines with frequent bus traffic that the regional public transport authorities have identified,
+  and more long-distance bus lines.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-metadata-trafikverket-se-store-1-resource-640
+      (data.europa.eu dataset https-metadata-trafikverket-se-store-1-resource-640; publisher: Trafikverket)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rafikverket
+slug: https-metadata-trafikverket-se-fpv-public-t

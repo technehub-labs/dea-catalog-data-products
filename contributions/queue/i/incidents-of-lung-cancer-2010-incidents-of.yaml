@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu incidents-of-lung-cancer-2010-2014
+name: Incidents of Lung Cancer 2010-2014
+description: Data showing Incidents of Lung Cancer 2010-2014 Please note that this Data is Open on Local
+  Health - Local Health LocalHealth@phe.gov.uk and NOT for commercial use
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/incidents-of-lung-cancer-2010-2014 (data.europa.eu
+      dataset incidents-of-lung-cancer-2010-2014; publisher: Plymouth City Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- lymouth-ity-ouncil
+slug: incidents-of-lung-cancer-2010-incidents-of

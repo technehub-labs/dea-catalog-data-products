@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dadesobertes-santboi-cat-maps-santboi-relacio-de-provei-dors-amb-factures-any-2023
+name: List of suppliers with invoices year 2023
+description: List of all suppliers with invoices in 2023, detailing the number of invoices received, the
+  sum of the total amount and the sum of the total paid up to the current date.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dadesobertes-santboi-cat-maps-santboi-relacio-de-provei-dors-amb-factures-any-2023
+      (data.europa.eu dataset https-dadesobertes-santboi-cat-maps-santboi-relacio-de-provei-dors-amb-factures-any-2023;
+      publisher: Ayuntamiento de Sant Boi de Llobregat)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yuntamiento-de-ant-o
+slug: https-dadesobertes-santboi-cat-list-of-supp

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-ambiente-areas-salud-cyl-1284687294103
+name: Map of Health Areas of Castile and Leon
+description: Layer of Health Areas of Castilla y León.Cartographic representation of the Health Areas
+  in which the health system of Primary Care of Castilla y León is organized, whose regulation is established
+  by Decree 108/1991 and subsequent modifications.Map elaborated from the integration of the municipal
+  areas in accordance with the organization and existing distribution of the health resources on the territory
+  of the Community.Result 11 Health Areas (two areas in León and Valladolid and one per province in the
+  rest).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-ambiente-areas-salud-cyl-1284687294103
+      (data.europa.eu dataset https-datosabiertos-jcyl-es-web-jcyl-set-es-medio-ambiente-areas-salud-cyl-1284687294103;
+      publisher: Junta de Castilla y León)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- unta-de-astilla-y-en
+slug: https-datosabiertos-jcyl-es-we-map-of-healt

@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 21b8c217-18f8-4fed-a71a-319e3e7e63b8
+name: Mean Theoretical Wave Power Flux kW/m
+description: The Accessible Wave Energy Resource Atlas published in 2005 describes an initial comparison
+  between several years of hourly wave forecasts (using WAM) on a grid of points located off the Irish
+  coast with corresponding records from a number of buoys installed in recent years. Based on the level
+  of agreement found the wave forecasts were then modified slightly and used to estimate the mean annual
+  and seasonal (Spring, Summer, Autumn, Winter) theoretical wave power resource around Ireland.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/21b8c217-18f8-4fed-a71a-319e3e7e63b8 (data.europa.eu
+      dataset 21b8c217-18f8-4fed-a71a-319e3e7e63b8; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: 21b8c217-18f8-4fed-a71a-319e3e-mean-theoret

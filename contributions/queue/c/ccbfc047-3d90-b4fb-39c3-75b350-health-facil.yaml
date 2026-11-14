@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ccbfc047-3d90-b4fb-39c3-75b350d89af2
+name: Health facilities Trier - Health Office Trier - OGC WFS Interface
+description: 'POIs on the topic of health in the city of Trier (health office, house of health, hospitals,
+  health facilities): Location of the health office of the city of Trier'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ccbfc047-3d90-b4fb-39c3-75b350d89af2 (data.europa.eu
+      dataset ccbfc047-3d90-b4fb-39c3-75b350d89af2; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: ccbfc047-3d90-b4fb-39c3-75b350-health-facil

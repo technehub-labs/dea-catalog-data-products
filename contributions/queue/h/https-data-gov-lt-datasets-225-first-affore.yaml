@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-data-gov-lt-datasets-2250-
+name: First afforestation of non-agricultural and abandoned agricultural land. Composition of planted
+  forest.
+description: Information is provided on the composition of the forest to be planted under the measure
+  &quot;First afforestation of non-agricultural and abandoned agricultural land&quot;.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-2250- (data.europa.eu
+      dataset https-data-gov-lt-datasets-2250-; publisher: Nacionalinė mokėjimo agentūra prie Žemės ūkio
+      ministerijos)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- acionalin-mokjimo-ag
+slug: https-data-gov-lt-datasets-225-first-affore

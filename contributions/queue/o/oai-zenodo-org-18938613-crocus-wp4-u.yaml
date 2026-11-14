@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-zenodo-org-18938613
+name: CROCUS_WP4_UOULU_Surveys of visitors
+description: 'UOULU Surveys of visitors including visitors'' questionnaire in three languages and survey
+  results that illuminate the perceptions of visitors to their tourism experience, current impact and
+  future development of tourism in the regions adjacent to the Finnish-Swedish border as part of CROCUS
+  WP4 Cross-border Living Lab Areas: Resources, Needs & Challenges.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-18938613 (data.europa.eu dataset oai-zenodo-org-18938613;
+      publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- enodo
+slug: oai-zenodo-org-18938613-crocus-wp4-u

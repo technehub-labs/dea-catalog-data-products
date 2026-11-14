@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 05bfb0dc-c768-4b01-b926-c720761fe4f9-kanton-thurgau
+name: Power supply network areas
+description: 'Power supply network areas: Dataset includes the areas of the electricity supply companies
+  (ESUs) with their names and the contact persons of the local low-voltage distribution network (level
+  7 grid areas), the regional medium-voltage distribution network (level 5 grid area) and the trans-regional
+  high-voltage distribution network (level 3 grid areas).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/05bfb0dc-c768-4b01-b926-c720761fe4f9-kanton-thurgau
+      (data.europa.eu dataset 05bfb0dc-c768-4b01-b926-c720761fe4f9-kanton-thurgau; publisher: Kanton Thurgau,
+      Amt für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- anton-hurgau-mt-fr-e
+slug: 05bfb0dc-c768-4b01-b926-c72076-power-supply

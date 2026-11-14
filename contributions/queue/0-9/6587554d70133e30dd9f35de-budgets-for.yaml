@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6587554d70133e30dd9f35de
+name: Budgets for school education, research and higher education, and state budgets
+description: 'Appropriations implemented by the interministerial mission “Educational Education” (MIES),
+  the interministerial mission “Research and Higher Education” (MIRES), and the State budget in constant
+  million euros of 2020. Source DEPP: [Statistical benchmarks and references 2021](https://www.education.gouv.fr/reperes-et-references-statistiques-2021-308228)
+  table 9.03'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6587554d70133e30dd9f35de (data.europa.eu dataset
+      6587554d70133e30dd9f35de; publisher: Épicycle)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- picycle
+slug: 6587554d70133e30dd9f35de-budgets-for

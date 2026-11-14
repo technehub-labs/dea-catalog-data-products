@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 68da991752cb7c58ad85a2a7
+name: Thuasne Low Emission Vehicle Reporting File 2024
+description: Annual declaration of the share of low-emission vehicles in the renewal of THUASNE's fleet.
+  This declaration concerns Thuasne’s fleet for the calendar year 2024 (renewals carried out between 1
+  January 2024 and 31 December 2024.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/68da991752cb7c58ad85a2a7 (data.europa.eu dataset
+      68da991752cb7c58ad85a2a7; publisher: Sylviane LACHE)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ylviane
+slug: 68da991752cb7c58ad85a2a7-thuasne-low

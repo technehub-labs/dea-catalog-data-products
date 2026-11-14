@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1f0f973f-f561-4e07-bdee-0e8272876ca0
+name: UNIBI International Mobility INCOMING ay 2024-2025
+description: This dataset contains an overview of incoming students within Bielefeld University’s student
+  mobility for studies during the academic year 2024/2025.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1f0f973f-f561-4e07-bdee-0e8272876ca0 (data.europa.eu
+      dataset 1f0f973f-f561-4e07-bdee-0e8272876ca0; publisher: Bielefeld University)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ielefeld-niversity
+slug: 1f0f973f-f561-4e07-bdee-0e8272-unibi-intern

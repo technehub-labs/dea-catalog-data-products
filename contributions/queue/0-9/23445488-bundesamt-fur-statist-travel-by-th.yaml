@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 23445488-bundesamt-fur-statistik-bfs
+name: Travel by the Swiss resident population in 2021
+description: Travel by the Swiss resident population in 2021 — a published dataset in the EU Open Data
+  Portal (data.europa.eu), maintained by Bundesamt für Statistik.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/23445488-bundesamt-fur-statistik-bfs (data.europa.eu
+      dataset 23445488-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- undesamt-fr-tatistik
+slug: 23445488-bundesamt-fur-statist-travel-by-th

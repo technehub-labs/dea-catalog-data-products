@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 68207a05-8296-451a-9cf7-5b16abc69aea
+name: Dublin (Merrion Square) Climate Data
+description: Daily and monthly climatalogical records for our station at Dublin (Merrion Square) in Co.
+  Dublin.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/68207a05-8296-451a-9cf7-5b16abc69aea (data.europa.eu
+      dataset 68207a05-8296-451a-9cf7-5b16abc69aea; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 68207a05-8296-451a-9cf7-5b16ab-dublin-merri

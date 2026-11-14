@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-nq7d-4c8s
+name: Catalan Classification Education CCED 2020 P
+description: Classificació catalana d'educació any 2020 (classificació de programes per nivells educatius)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-nq7d-4c8s
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-nq7d-4c8s; publisher:
+      Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eneralitat-de-atalun
+slug: https-analisi-transparenciacat-catalan-clas

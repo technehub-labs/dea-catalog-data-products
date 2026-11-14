@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-zenodo-org-6126406
+name: Pre-processed data of atlas in EUCP-WP2
+description: 'Changelog: v. 1.0.4: Weights have been added for ClimWIP and REA v. 1.0.5: Hidden files
+  were removed and the ZIP folder was cleaned up. v. 1.0.7: Files atlas_EUCP_UKMO_CMIP6_UKCP_cons_pr.nc
+  and atlas_EUCP_UKMO_CMIP6_UKCP_uncons_pr.nc were updated.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-6126406 (data.europa.eu dataset oai-zenodo-org-6126406;
+      publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- enodo
+slug: oai-zenodo-org-6126406-pre-processe

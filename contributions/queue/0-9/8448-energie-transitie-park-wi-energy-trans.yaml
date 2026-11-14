@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8448-energie-transitie-park-windenergie-ogv-2010-historie-
+name: Energy Transition Park wind energy (OGV, 2010) (history)
+description: The Environmental Vision adopted by the Provincial Council on 2 June 2010 states that large-scale
+  energy systems must be concentrated at designated locations, for example at the Bargermeer business
+  parks in Emmen, Europark in Coevorden and near Essent Milieu in Wijster. Opportunities to link energy
+  producers and consumers are seen in these areas. The sites mentioned are therefore designated as Energy
+  Transition Parks (ETP) (Map 8 - Energy Infrastructure). Based on a selection of business parks from
+  IBIS 2009, this file shows the ETPs Coevorden, Wijster and Emmen.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8448-energie-transitie-park-windenergie-ogv-2010-historie-
+      (data.europa.eu dataset 8448-energie-transitie-park-windenergie-ogv-2010-historie-; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 8448-energie-transitie-park-wi-energy-trans

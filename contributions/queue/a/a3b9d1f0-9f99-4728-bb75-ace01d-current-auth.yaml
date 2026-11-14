@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a3b9d1f0-9f99-4728-bb75-ace01d0a43c6
+name: Current Authorisations Exploration Licenses
+description: 'Dataset downloaded from DCMNR Petroleum Affairs Division (PAD) spatial data pages: http://www.dcenr.gov.ie/Spatial+Data/Petroleum+Affairs/PAD+Spatial+Data+Downloads.htm'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a3b9d1f0-9f99-4728-bb75-ace01d0a43c6 (data.europa.eu
+      dataset a3b9d1f0-9f99-4728-bb75-ace01d0a43c6; publisher: Heritage Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eritage-ouncil
+slug: a3b9d1f0-9f99-4728-bb75-ace01d-current-auth

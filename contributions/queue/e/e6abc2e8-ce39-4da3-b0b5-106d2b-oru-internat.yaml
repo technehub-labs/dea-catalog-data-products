@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e6abc2e8-ce39-4da3-b0b5-106d2b4b6605
+name: ORU International Mobility INCOMING ay 2024-2025
+description: This dataset consists of a table containing information regarding mobility, incoming student,
+  at Örebro University in the academic year 2024/2025. The table is based on the students home university.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e6abc2e8-ce39-4da3-b0b5-106d2b4b6605 (data.europa.eu
+      dataset e6abc2e8-ce39-4da3-b0b5-106d2b4b6605; publisher: Örebro University)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rebro-niversity
+slug: e6abc2e8-ce39-4da3-b0b5-106d2b-oru-internat

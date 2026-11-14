@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu p_mb-5r7t-7cw2
+name: PROVINCE MONZA BRIANZA Tourist Guides
+description: List of persons qualified in 2010 and 2014 for the tourist professions for the exercise of
+  the profession of tourist guide.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/p_mb-5r7t-7cw2 (data.europa.eu dataset p_mb-5r7t-7cw2;
+      publisher: Regione Lombardia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- egione-ombardia
+slug: p-mb-5r7t-7cw2-province-mon

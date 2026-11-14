@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu be4b4bb9-440b-41c4-8686-4eca6161ef00
+name: Data on medical equipment of communal health care institutions’ of Boryspil City Council
+description: The set contains a list, quantity and cost of medical equipment of communal health care institutions
+  ’ of Boryspil City Council in accordance with inventory descriptions of fixed assets.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/be4b4bb9-440b-41c4-8686-4eca6161ef00 (data.europa.eu
+      dataset be4b4bb9-440b-41c4-8686-4eca6161ef00; publisher: Виконавчий комітет Бориспільської міської
+      ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: be4b4bb9-440b-41c4-8686-4eca61-data-on-medi

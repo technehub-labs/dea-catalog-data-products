@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 490860c3-74d5-489b-bca8-affb0f420f2a
+name: Information on the organizational structure of the municipal non-profit enterprise "Dnipro Primary
+  Health Care Center No.6 of the Dnipro City Council
+description: Information on the organizational structure of the Municipal Enterprise Dnipro Center for
+  Primary Health Care No.6 of the Dnipro City Council
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/490860c3-74d5-489b-bca8-affb0f420f2a (data.europa.eu
+      dataset 490860c3-74d5-489b-bca8-affb0f420f2a; publisher: КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО "ДНІПРОВСЬКИЙ
+      ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ №6" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- '6'
+slug: 490860c3-74d5-489b-bca8-affb0f-information

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8f94fc37-71e2-4724-b3e2-903ccf5ee2de
+name: MTM02 - Temperature
+description: MTM02 - Temperature — a published dataset in the EU Open Data Portal (data.europa.eu), maintained
+  by Met Éireann.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8f94fc37-71e2-4724-b3e2-903ccf5ee2de (data.europa.eu
+      dataset 8f94fc37-71e2-4724-b3e2-903ccf5ee2de; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 8f94fc37-71e2-4724-b3e2-903ccf-mtm02-temper

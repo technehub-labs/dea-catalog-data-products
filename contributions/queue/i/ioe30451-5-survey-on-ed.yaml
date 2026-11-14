@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ioe30451_5
+name: Survey on Educational-Training Transition and Labor Market Insertion (ETEFIL_ESO_2019). Students
+  who successfully completed compulsory secondary education (ESO) in 2013-14. Restricted access rights.
+description: Confidential dataset for scientific purposes from the Survey on Educational-Training Transition
+  and Labor Market Insertion (ETEFIL_ESO_2019) regarding students who successfully completed compulsory
+  secondary education (ESO) in 2013-14. The survey aims to provide information on the subsequent educational
+  path of individuals who have completed secondary education and vocational training, as well as various
+  aspects of their labour market insertion process—namely, the transition from education and training
+  to the labour market.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ioe30451_5 (data.europa.eu dataset ioe30451_5; publisher:
+      Instituto Nacional de Estadística)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nstituto-acional-de
+slug: ioe30451-5-survey-on-ed

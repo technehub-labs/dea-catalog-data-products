@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu personal_wealth
+name: Personal Wealth
+description: 'This publication contains information about Identified Personal Wealth in the UK, i.e. wealth
+  based on the assets (including land and buildings, cash, bank and building society accounts and securities)
+  of the estates that require a grant of representation. Source agency: HM Revenue and Customs Designation:
+  National Statistics Language: English Alternative title: Personal Wealth'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/personal_wealth (data.europa.eu dataset personal_wealth;
+      publisher: HM Revenue and Customs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- evenue-and-ustoms
+slug: personal-wealth-personal-wea

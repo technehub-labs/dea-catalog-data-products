@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu zdravstveni-domovi-in-ambulante-v-obcini-velike-lasce
+name: Health centres and clinics in the municipality of Velike Lašče
+description: The collection contains data on health centres and clinics in the municipality of Velike
+  Lašče.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/zdravstveni-domovi-in-ambulante-v-obcini-velike-lasce
+      (data.europa.eu dataset zdravstveni-domovi-in-ambulante-v-obcini-velike-lasce; publisher: OBČINA
+      VELIKE LAŠČE)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: zdravstveni-domovi-in-ambulant-health-centr

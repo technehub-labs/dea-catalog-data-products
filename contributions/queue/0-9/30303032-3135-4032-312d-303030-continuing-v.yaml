@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 30303032-3135-4032-312d-303030310000
+name: 'Continuing vocational training in companies: Germany, Years, Continuing education, Business sectors'
+description: 'Continuing vocational training in companies: Germany, Years, Continuing education, Business
+  sectors'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/30303032-3135-4032-312d-303030310000 (data.europa.eu
+      dataset 30303032-3135-4032-312d-303030310000; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 30303032-3135-4032-312d-303030-continuing-v

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a8d4cc0a-b977-447c-8c02-262e105bb6b8
+name: 1.2. Information about the organizational structure of KZ "DNZ No16 VMR"
+description: The set contains information about the organizational structure of the municipal institution
+  "Preschool educational institution No.16 of Vinnytsia City Council"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a8d4cc0a-b977-447c-8c02-262e105bb6b8 (data.europa.eu
+      dataset a8d4cc0a-b977-447c-8c02-262e105bb6b8; publisher: Вінницька міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: a8d4cc0a-b977-447c-8c02-262e10-1-2-informat

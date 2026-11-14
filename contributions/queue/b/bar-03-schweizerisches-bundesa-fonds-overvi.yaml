@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu bar-03-schweizerisches-bundesarchiv-bar~~1
+name: 'Fonds overview: Federal State since 1848'
+description: The fonds overview of the Swiss Federal Archives’ database guides users within the holdings
+  of the Federal State since 1848 (main department E). It offers an easy starting point for a search for
+  records on a specific topic.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bar-03-schweizerisches-bundesarchiv-bar~~1 (data.europa.eu
+      dataset bar-03-schweizerisches-bundesarchiv-bar~~1; publisher: Schweizerisches Bundesarchiv)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- chweizerisches-undes
+slug: bar-03-schweizerisches-bundesa-fonds-overvi

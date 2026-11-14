@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e474c3b1-4406-4308-b48d-87fdc216d7d6
+name: Gurteen (Agr.Coll.) Climate Data
+description: Daily and monthly climatalogical records for our station at Gurteen (Agr.Coll.) in Co. Tipperary.
+  This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e474c3b1-4406-4308-b48d-87fdc216d7d6 (data.europa.eu
+      dataset e474c3b1-4406-4308-b48d-87fdc216d7d6; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: e474c3b1-4406-4308-b48d-87fdc2-gurteen-agr

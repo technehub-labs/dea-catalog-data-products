@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 43775-evaporation-gridded-daily-makkink-evaporation-in-the-netherlands-
+name: Evaporation - gridded daily Makkink evaporation in the Netherlands.
+description: Gridded files of daily Makkink evaporation in the Netherlands Based on 7 -35 automatic weather
+  stations of the KNMI.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/43775-evaporation-gridded-daily-makkink-evaporation-in-the-netherlands-
+      (data.europa.eu dataset 43775-evaporation-gridded-daily-makkink-evaporation-in-the-netherlands-;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 43775-evaporation-gridded-dail-evaporation

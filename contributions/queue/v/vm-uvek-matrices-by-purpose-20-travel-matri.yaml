@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu vm-uvek-matrices-by-purpose-2010-bundesamt-fur-raumentwicklung-are
+name: Travel matrices by trip purpose for passenger traffic 2010
+description: 'Travel matrices by trip purpose for passenger traffic (public transport and personal transport)
+  2010 as text files. Source: [Swiss National Passenger Transport Model 2010 (www.are.admin.ch/npvm)](https://www.are.admin.ch/npvm).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/vm-uvek-matrices-by-purpose-2010-bundesamt-fur-raumentwicklung-are
+      (data.europa.eu dataset vm-uvek-matrices-by-purpose-2010-bundesamt-fur-raumentwicklung-are; publisher:
+      Verkehrsmodellierung im UVEK (VM-UVEK) / Modélisation des transports au DETEC / Modellizzazione
+      del traffico in seno al DATEC)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- erkehrsmodellierung
+slug: vm-uvek-matrices-by-purpose-20-travel-matri

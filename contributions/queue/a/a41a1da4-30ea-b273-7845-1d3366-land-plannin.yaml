@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a41a1da4-30ea-b273-7845-1d336652da2f
+name: Land planning - Land development plan Saarland
+description: The Map Service (WMS Group) provides the map bases of the Saarland State Development Plan
+  Environment (2004) and Settlement (2006).:The Map Service (WMS Group) provides the map bases of the
+  Saarland State Development Plan Environment (2004) and Settlement (2006) (scale limitation).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a41a1da4-30ea-b273-7845-1d336652da2f (data.europa.eu
+      dataset a41a1da4-30ea-b273-7845-1d336652da2f; publisher: Ministerium für Umwelt, Klima, Mobilität,
+      Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterium-fr-mwelt
+slug: a41a1da4-30ea-b273-7845-1d3366-land-plannin

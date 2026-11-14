@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu housing_benefit_council_tax_benefit_summary_statistics
+name: Housing Benefit & Council Tax Benefit Summary Statistics
+description: 'Statistics on Housing Benefit and Council Tax Benefit Claimants. NOTE: FROM JANUARY 2010
+  THESE WILL BE RELEASED AS PART OF THE DWP STATISTICAL SUMMARY. https://webarchive.nationalarchives.gov.uk/20100620093840/http://research.dwp.gov.uk/asd/hbctb.asp
+  https://webarchive.nationalarchives.gov.uk/20100106065745/http://research.dwp.gov.uk/asd/statistical_summaries.asp
+  Source agency: Work and Pensions Designation: National Statistics Language: English Alternative title:
+  HB/CTB'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/housing_benefit_council_tax_benefit_summary_statistics
+      (data.europa.eu dataset housing_benefit_council_tax_benefit_summary_statistics; publisher: Department
+      for Work and Pensions)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-for-ork-an
+slug: housing-benefit-council-tax-be-housing-bene

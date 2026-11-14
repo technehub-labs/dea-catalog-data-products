@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-2e8010717370479eaf6cd129bbde9154-sublayer-0
+name: Small material support agr by EPCI CD76 2017a2020 20200825
+description: 'Table of the number of files and the amounts of grants awarded by the Department of Seine-Maritime
+  under the scheme to support small material investments for farmers in 2017, 2018, 2019 and 2020 by EPCI
+  (see glossary in metadata). Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/9b7b2a9c498140c6a2bc6270678f3e9d/data)
+  Additional resources * Seinemaritime.fr website: [https://www.seinemaritime.fr/guide-des-aides/mon-cadre-de-vie/aides-aux-communes/guide-des-aides/agriculture-et-peche/](https://www.seinemaritime.fr/guide-des-aides/mon-cadre-de-vie/aides-aux-communes/guide-des-aides/agriculture-et-peche/)
+  Page of the “aid guide” dedicated to aid to economic actors, which also provides details of aid for
+  small agricultural material investments (information and files downloadable in pdf format). * Agreste
+  website: [https://agreste.agriculture.gouv.fr/agreste-web/accueil/](https://agreste.agriculture.gouv.fr/agreste-web/accueil/)
+  This portal dedicated to agricultural statistics offers both business notes on the agricultural economy,
+  numerous studies but also hundreds of datasets related to agriculture and food * Website Normanandie.fr:
+  [https://aides.normandie.fr/investissements-agricoles-pour-une-agriculture-normande-performante](https://aides.normandie.fr/investissements-agricoles-pour-une-agriculture-normande-performante)
+  The region’s website devotes this page to its aid for agricultural investment (downloadable pdf files)
+  * Site Europe is committed to Normandy: [https://www.europe-en-normandie.eu/page/feader](https://www.europe-en-normandie.eu/page/feader)
+  This page is dedicated to aid from the EAFRD (European Agricultural Fund for Rural Development) in Normandy
+  (downloadable files)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-2e8010717370479eaf6cd129bbde9154-sublayer-0
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-2e8010717370479eaf6cd129bbde9154-sublayer-0;
+      publisher: Département de la Seine-Maritime)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- partement-de-la-eine
+slug: https-www-arcgis-com-home-item-small-materi

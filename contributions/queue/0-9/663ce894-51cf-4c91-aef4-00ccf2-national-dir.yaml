@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 663ce894-51cf-4c91-aef4-00ccf27e287a
+name: National Directional Transport Survey for External Transport in the Slovak Republic
+description: National Directional Transport Survey for External Transport in the Slovak Republic, 2007.
+  Map of census sites and survey results by regions of the Slovak Republic.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/663ce894-51cf-4c91-aef4-00ccf27e287a (data.europa.eu
+      dataset 663ce894-51cf-4c91-aef4-00ccf27e287a; publisher: Slovenská správa ciest)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- lovensk-sprva-ciest
+slug: 663ce894-51cf-4c91-aef4-00ccf2-national-dir

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-intranet-caib-es-opendatacataleg-dataset-e72cb8c4-c7a4-4da1-b9dc-db6a14830db0
+name: Directory of educational centers in the Balearic Islands
+description: Directory of educational centers in the Balearic Islands
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-intranet-caib-es-opendatacataleg-dataset-e72cb8c4-c7a4-4da1-b9dc-db6a14830db0
+      (data.europa.eu dataset https-intranet-caib-es-opendatacataleg-dataset-e72cb8c4-c7a4-4da1-b9dc-db6a14830db0;
+      publisher: Gobierno de las Illes Balears)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- obierno-de-las-lles
+slug: https-intranet-caib-es-opendat-directory-of

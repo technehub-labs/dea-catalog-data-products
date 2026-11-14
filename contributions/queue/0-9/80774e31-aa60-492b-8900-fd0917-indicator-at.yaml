@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 80774e31-aa60-492b-8900-fd09179371f5
+name: 'Indicator atlas: Population - mobility rate'
+description: '(also known as total mobility or migration volume) Sum of movers (main residence) of the
+  corresponding category and movers (main residence) of the corresponding category per 1 000 main residents
+  (mean main resident population in the calendar year) of the corresponding category. Both extra-urban
+  (beyond the city limits of Munich) as well as inner-city residents and those who have moved away (=
+  those who have moved within the urban area, also within the spatial unit) are taken into account. **Please
+  note the data descriptions: [Information on the indicator atlas](https://opendata.muenchen.de/pages/indicator
+  atlas).**'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/80774e31-aa60-492b-8900-fd09179371f5 (data.europa.eu
+      dataset 80774e31-aa60-492b-8900-fd09179371f5; publisher: Landeshauptstadt München)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- andeshauptstadt-nche
+slug: 80774e31-aa60-492b-8900-fd0917-indicator-at

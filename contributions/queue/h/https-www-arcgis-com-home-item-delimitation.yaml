@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-cdd4dc864ff54bac91214afd04f89e42-sublayer-1~~1
+name: Delimitation of neighbourhoods before 2008
+description: Delimitation of the 14 neighbourhoods of Saint-Denis before 2008
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-cdd4dc864ff54bac91214afd04f89e42-sublayer-1~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-cdd4dc864ff54bac91214afd04f89e42-sublayer-1~~1;
+      publisher: Mairie de Saint-Denis (La Réunion))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- airie-de-aintenis-a
+slug: https-www-arcgis-com-home-item-delimitation

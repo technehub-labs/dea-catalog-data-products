@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-1114-rocznik-statystyczny-gospodarki-morskiej-2021
+name: Statistical Yearbook of Maritime Economy
+description: <p>Comprehensive statistical information showing the state of the economy maritime economy
+  in 2023, in comparison with the preceding years.</p> <p>Information describing maritime economy against
+  the background of national economy, statistical data on maritime economy entities, the workforce, employment,
+  remuneration, investment expenditures, fixed assets and financial issues, cargo traffic, passenger and
+  vessel movements in seaports, maritime and coastal transport fleet as well as sea waterborne carriages
+  accomplished by Polish shipping companies, cargo traffic, passenger and vessels movements, maritime
+  merchant fleet under Polish flag, marine accidents and salvage, shipbuilding, maritime fisheries and
+  fish processing industry, maritime education and science, marine environment protection, and maritime
+  tourism.</p> <p>In addition the yearbook shall be supplemented with basic information on maritime economy
+  at international level.</p>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-1114-rocznik-statystyczny-gospodarki-morskiej-2021
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-1114-rocznik-statystyczny-gospodarki-morskiej-2021;
+      publisher: Główny Urząd Statystyczny)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- wny-rzd-tatystyczny
+slug: https-dane-gov-pl-pl-dataset-1-statistical

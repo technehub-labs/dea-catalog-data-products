@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6078800e-114d-353a-97cc-1a3c800619c7
+name: Current Health Expenditure (HC x HP)
+description: Current health expenditure by health care services and goods (HC) and health care providers
+  (HP)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6078800e-114d-353a-97cc-1a3c800619c7 (data.europa.eu
+      dataset 6078800e-114d-353a-97cc-1a3c800619c7; publisher: Statistik Austria)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistik-ustria
+slug: 6078800e-114d-353a-97cc-1a3c80-current-heal

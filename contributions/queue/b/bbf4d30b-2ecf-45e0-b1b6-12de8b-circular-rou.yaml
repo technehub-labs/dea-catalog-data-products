@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu bbf4d30b-2ecf-45e0-b1b6-12de8b32338f-stadt-winterthur
+name: Circular route Winterthur
+description: The dataset Rundweg Winterthur contains the geodata of the approximately 70 kilometre long
+  circular route along the city boundary of Winterthur. It includes the hiking trail stages, complementary
+  cycle path and obstacle-free sections as well as points of interest and important waypoints along the
+  route.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bbf4d30b-2ecf-45e0-b1b6-12de8b32338f-stadt-winterthur
+      (data.europa.eu dataset bbf4d30b-2ecf-45e0-b1b6-12de8b32338f-stadt-winterthur; publisher: Stadt
+      Winterthur, Geomatik - und Vermessungsamt)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tadt-interthur-eomat
+slug: bbf4d30b-2ecf-45e0-b1b6-12de8b-circular-rou

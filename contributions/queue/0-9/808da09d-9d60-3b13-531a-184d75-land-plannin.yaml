@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 808da09d-9d60-3b13-531a-184d757311da
+name: Land planning - LEP Umwelt 2004 Rail connection SCHV
+description: The Map Service (WMS Group) provides the map bases of the Saarland State Development Plan
+  Environment (2004) and Settlement (2006).:Generalized presentation of rail connections (SCHV) within
+  the framework of the LEP Environment 2004.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/808da09d-9d60-3b13-531a-184d757311da (data.europa.eu
+      dataset 808da09d-9d60-3b13-531a-184d757311da; publisher: Ministerium für Umwelt, Klima, Mobilität,
+      Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterium-fr-mwelt
+slug: 808da09d-9d60-3b13-531a-184d75-land-plannin

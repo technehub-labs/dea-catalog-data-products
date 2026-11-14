@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu be6fd957-75fb-419b-a7c6-cc3b21638b55
+name: 2023 Malta Development Bank - Annual Report and Financial Statements
+description: 2023 Malta Development Bank - Annual Report and Financial Statements
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/be6fd957-75fb-419b-a7c6-cc3b21638b55 (data.europa.eu
+      dataset be6fd957-75fb-419b-a7c6-cc3b21638b55; publisher: Malta Development Bank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- alta-evelopment-ank
+slug: be6fd957-75fb-419b-a7c6-cc3b21-2023-malta-d

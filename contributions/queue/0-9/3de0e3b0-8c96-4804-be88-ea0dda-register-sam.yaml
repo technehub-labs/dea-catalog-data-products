@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3de0e3b0-8c96-4804-be88-ea0ddacc870d
+name: Register - sampling and microbiological testing of samples from the environment and the working
+  environment
+description: Register - sampling and microbiological testing of samples from the environment and the working
+  environment — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by Úrad verejného
+  zdravotníctva SR Bratislava.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3de0e3b0-8c96-4804-be88-ea0ddacc870d (data.europa.eu
+      dataset 3de0e3b0-8c96-4804-be88-ea0ddacc870d; publisher: Úrad verejného zdravotníctva SR Bratislava)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rad-verejnho-zdravot
+slug: 3de0e3b0-8c96-4804-be88-ea0dda-register-sam

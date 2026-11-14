@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1d47a464-3c77-412a-b33f-62054ca57452
+name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) - (2025-12-24 h 12 UTC).
+description: Available Convective Potential Energy (CAPE) (J/Kg). Running 2025-12-24 hours 12 UTC - Valid
+  from 12 o'clock UTC 2025-12-24 to 00 o'clock UTC 2025-12-28. Weather model WRF (Weather Research and
+  Forecasting model), ARW core (version 3.2) with spatial resolution at 3km, temporal resolution 60 hours,
+  interval 1 hour.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1d47a464-3c77-412a-b33f-62054ca57452 (data.europa.eu
+      dataset 1d47a464-3c77-412a-b33f-62054ca57452; publisher: Lamma Toscana)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- amma-oscana
+slug: 1d47a464-3c77-412a-b33f-62054c-model-wrf-ar

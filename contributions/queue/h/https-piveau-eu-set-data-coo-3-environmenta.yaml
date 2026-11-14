@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-piveau-eu-set-data-coo_3000_103_2_2960294
+name: Environmental subsidies UFG
+description: Rural Development and Environmental Policy/Sustainability and Rural Areas/Sustainability,
+  Environmental Promotion.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_103_2_2960294 (data.europa.eu
+      dataset https-piveau-eu-set-data-coo_3000_103_2_2960294; publisher: Abt. Nationale und europäische
+      Klima- und Umweltförderungen)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- bt-ationale-und-euro
+slug: https-piveau-eu-set-data-coo-3-environmenta

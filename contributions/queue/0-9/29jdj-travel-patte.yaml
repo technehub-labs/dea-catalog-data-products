@@ -1,0 +1,37 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 29jdj
+name: Travel Patterns and Trends, London
+description: '<dp-prose> <p>This spreadsheet summarises of the key travel patterns and trends relating
+  to the TFL network and Airports around London.</p> <p>List of tables included in the spreadsheet:</p>
+  <ol> <li> <p>Aggregate travel volumes in Greater London. Estimated daily average number of journey stages,
+  1993-2009</p> </li> <li> <p>Modal shares of daily journey stages in London, 2009</p> </li> <li> <p>Annual
+  passenger kilometres travelled by public transport (millions), London, 2008/09 - 2010/11</p> </li> <li>
+  <p>Annual journey stages by public transport (millions), 1991/92 - 2010/11</p> </li> <li> <p>Index of
+  London road traffic, major and minor roads, all motor vehicles, 2000-2009</p> </li> <li> <p>Trends in
+  road casualties, by personal injury severity, London and GB, 1991-2010</p> </li> <li> <p>London road
+  casualties by mode of travel, 2010</p> </li> <li> <p>Trends in cycle flows on the TLRN, annualised indices,
+  2000/01 - 2010/11</p> </li> <li> <p>People entering central London in the weekday morning peak, 1978
+  - 2009</p> </li> <li> <p>Car ownership in Inner and Outer London, 2009/10</p> </li> <li> <p>Hours of
+  serious and severe disruption London-wide, 2009/10</p> </li> <li> <p>Number of road works undertaken
+  on the TLRN, Sep 2009 - Oct 2010</p> </li> <li> <p>London Underground: scheduled and operated train
+  kilometres, 1995/96 - 2009/10</p> </li> <li> <p>London Underground - operated train kilometres (millions)
+  by line, 2009/10</p> </li> <li> <p>Average number of passengers per bus, train or tram, 2001/02 - 2009/10</p>
+  </li> <li> <p>Public transport fares - UK and London compared, 1994/95 - 2009/10</p> </li> <li> <p>Air
+  freight moved through London&apos;s principal airports, 1993 - 2009</p> </li> <li> <p>Terminal passengers
+  by London area airport, in millions, 2000, 2010</p> </li> <li> <p>Terminal passengers by London area
+  airport, 1990 - 2010</p> </li> <li> <p>Terminal passengers by flight&apos;s country of origin or destination,
+  2010</p> </li> <li> <p>Road Casualties b'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/29jdj (data.europa.eu dataset 29jdj; publisher: Greater
+      London Authority)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- reater-ondon-uthorit
+slug: 29jdj-travel-patte

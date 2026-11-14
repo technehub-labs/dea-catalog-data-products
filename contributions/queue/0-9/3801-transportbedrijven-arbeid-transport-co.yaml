@@ -1,0 +1,38 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3801-transportbedrijven-arbeids-en-financi-le-gegevens-sbi-93-2006-2008
+name: Transport companies; labour and financial data, SBI'93, 2006 - 2008
+description: 'This table shows, for the transport, storage and communication sector, the The following
+  annual results: Number of employment and number of jobs employees, operating income, operating income
+  and expenses, financial result, balance provisions and extraordinary result and subdivisions thereof.
+  The data can be broken down in the table to a number of branches according to the Standard Business
+  Classification 1993 (SBI''93) by CBS. Data available from 2006 - 2008. Status of figures: All figures
+  in the table are final. Changes as of 1 September 2011: This table does not go beyond the results for
+  the reporting year 2008. Compiling the figures for 2009 is compared to Changed in two main parts in
+  previous years: - the SBI 2008 has been applied; - The statistical unit has changed. These changes are
+  so significant that the results are not are similar to those of previous years and therefore started
+  with a new table as of 2009 (see paragraph 3). Changes as of 1 July 2010: Figures for 2008 have been
+  added. The figures for the statistical year 2007 have been corrected. This applies to: a limited number
+  of groups of companies. For the entire transport sector the net turnover was adjusted from EUR 94 921
+  million to EUR 95 103 million. The turnover of the storage companies increases by 207 million euros
+  to 3 071 million euros. Tram and bus transport turnover drops by EUR 26 million to 1 549 EUR million.
+  The reason for these corrections is the availability of New information from companies. Changes as of
+  30 June 2009: As of the 2007 reporting year, the questionnaire submitted by companies in The link with
+  the investigation has been changed. Up to and including 2006 wage (cost) subsidies up to the (other)
+  operating income calculated, while these subsidies will be deducted from 2007 onwards on operating expenses.
+  As a result of the changes, the results for the year 2007 is not exactly the same as 2006. The effect
+  of the changes in operating income and operating expenses are for most Bra'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3801-transportbedrijven-arbeids-en-financi-le-gegevens-sbi-93-2006-2008
+      (data.europa.eu dataset 3801-transportbedrijven-arbeids-en-financi-le-gegevens-sbi-93-2006-2008;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 3801-transportbedrijven-arbeid-transport-co

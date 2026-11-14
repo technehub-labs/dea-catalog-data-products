@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu abbb6b13-880d-46ae-971d-2edcd98fa465
+name: Directory of Out-of-School Education Institutions
+description: Directory of Out-of-School Education Institutions
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/abbb6b13-880d-46ae-971d-2edcd98fa465 (data.europa.eu
+      dataset abbb6b13-880d-46ae-971d-2edcd98fa465; publisher: Управління освіти Коломийської міської
+      ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: abbb6b13-880d-46ae-971d-2edcd9-directory-of

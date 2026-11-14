@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-intranet-caib-es-opendatacataleg-dataset-b35d6912-3773-48f5-a0ed-f7fc59000bb5
+name: Shared Self-Consumption Photovoltaic Areas IBE
+description: Self-consumption Photovoltaic areas for shared use by the Balearic Energy Institute (IBE).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-intranet-caib-es-opendatacataleg-dataset-b35d6912-3773-48f5-a0ed-f7fc59000bb5
+      (data.europa.eu dataset https-intranet-caib-es-opendatacataleg-dataset-b35d6912-3773-48f5-a0ed-f7fc59000bb5;
+      publisher: Gobierno de las Illes Balears)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- obierno-de-las-lles
+slug: https-intranet-caib-es-opendat-shared-self

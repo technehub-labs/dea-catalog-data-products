@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 90f238330a0a805768d36b41246b48b2
+name: ELB-TIBS Tiroler Bildungsservice (TiBS) - Association for the Promotion of Digital Media in Education
+description: Annual subsidy Tyrolean Education Service
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/90f238330a0a805768d36b41246b48b2 (data.europa.eu
+      dataset 90f238330a0a805768d36b41246b48b2; publisher: Land Tirol)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- and-irol
+slug: 90f238330a0a805768d36b41246b48-elb-tibs-tir

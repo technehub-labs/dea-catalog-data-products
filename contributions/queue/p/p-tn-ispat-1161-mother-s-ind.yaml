@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu p_tn-ispat_1161
+name: Mother's Index - Health
+description: '**Sector:**Assistance and social protection **Algorithm:** Mother''s Index - Health **Fenomenon:**
+  Stock **Territorial comparisons:** Trentino. South Tyrol. Veneto region. Lombardy. Italy **Year Start:**
+  2022 **Year End:** 2023 **Source Trentino data:** Istat - National Institute of Statistics **National
+  data source:** Istat - National Statistical Institute Processing by ISPAT'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/p_tn-ispat_1161 (data.europa.eu dataset p_tn-ispat_1161;
+      publisher: ISPAT Istituto di statistica della provincia di Trento)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- stituto-di-statisti
+slug: p-tn-ispat-1161-mother-s-ind

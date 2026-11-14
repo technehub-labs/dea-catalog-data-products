@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 485c7ba2-ec94-4cb8-b4d5-0e6383b85f1f
+name: SVK International Mobility INCOMING ay 2024-2025
+description: This dataset contains all the information needed about the incoming international students
+  who are enrolled in the exchange program at Šiauliai State University of Applied Sciences during the
+  2024-2025 academic year. The data includes information about student demographics, their academic backgrounds,
+  the type and duration of their mobility (semester studies, internships, and Blended Intensive Programmes),
+  and which departments hosted them at the university.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/485c7ba2-ec94-4cb8-b4d5-0e6383b85f1f (data.europa.eu
+      dataset 485c7ba2-ec94-4cb8-b4d5-0e6383b85f1f; publisher: Šiauliai State University of Applied Sciences)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- iauliai-tate-niversi
+slug: 485c7ba2-ec94-4cb8-b4d5-0e6383-svk-internat

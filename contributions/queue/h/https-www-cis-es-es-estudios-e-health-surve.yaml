@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-cis-es-es-estudios-encuesta-de-salud-en-extremadura-2005-total-oleadas-
+name: Health Survey in Extremadura 2005 (total waves)
+description: Health Survey in Extremadura 2005 (total waves)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-cis-es-es-estudios-encuesta-de-salud-en-extremadura-2005-total-oleadas-
+      (data.europa.eu dataset https-www-cis-es-es-estudios-encuesta-de-salud-en-extremadura-2005-total-oleadas-;
+      publisher: Centro de Investigaciones Sociológicas)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entro-de-nvestigacio
+slug: https-www-cis-es-es-estudios-e-health-surve

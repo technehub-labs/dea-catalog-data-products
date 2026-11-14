@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 16de2131-1e32-4b1d-bf14-f5c1b81ae87a
+name: The financial plan
+description: On approval of the financial plan for 2020 of the Municipal Non-Profit Enterprise "Burshtyn
+  City Center for Primary Health Care" of the Burshtyn City Council of the Ivano-Frankivsk Region
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/16de2131-1e32-4b1d-bf14-f5c1b81ae87a (data.europa.eu
+      dataset 16de2131-1e32-4b1d-bf14-f5c1b81ae87a; publisher: Комунальне некомерційне підприємство "Бурштинський
+      міський центр первинної медико-санітарної допомоги" Бурштинської міської ради )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 16de2131-1e32-4b1d-bf14-f5c1b8-the-financia

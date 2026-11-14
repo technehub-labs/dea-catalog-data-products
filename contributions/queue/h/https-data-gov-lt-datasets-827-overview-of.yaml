@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-data-gov-lt-datasets-827-
+name: Overview of the sanitary condition of forests
+description: Overview of the sanitary condition of forests
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-827- (data.europa.eu dataset
+      https-data-gov-lt-datasets-827-; publisher: Valstybinė miškų tarnyba)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- alstybin-mik-tarnyba
+slug: https-data-gov-lt-datasets-827-overview-of

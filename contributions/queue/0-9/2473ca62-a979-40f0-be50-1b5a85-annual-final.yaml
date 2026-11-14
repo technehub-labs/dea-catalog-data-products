@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2473ca62-a979-40f0-be50-1b5a85059e52
+name: Annual final energy use per capita in Vienna classified into sectors in kWh
+description: Final energy consumption per capita in kWh/capita in Vienna by sector
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2473ca62-a979-40f0-be50-1b5a85059e52 (data.europa.eu
+      dataset 2473ca62-a979-40f0-be50-1b5a85059e52; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 2473ca62-a979-40f0-be50-1b5a85-annual-final

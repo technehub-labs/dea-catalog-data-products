@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu id_2007_indoors_living_environment_sub-domain
+name: Index of Deprivation 2007 - Indoors Living Environment Sub-domain
+description: 'ID 2007 Indoors Living Environment Subdomain (quality of housing) Source: Communities and
+  Local Government (CLG): ID 2007 Publisher: Communities and Local Government (CLG) Geographies: Lower
+  Layer Super Output Area (LSOA) Geographic coverage: England Time coverage: 2007 (using data from 2001
+  and 2003-2005) Type of data: Modelled data'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/id_2007_indoors_living_environment_sub-domain (data.europa.eu
+      dataset id_2007_indoors_living_environment_sub-domain; publisher: Ministry of Housing, Communities
+      and Local Government)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistry-of-ousing-om
+slug: id-2007-indoors-living-environ-index-of-dep

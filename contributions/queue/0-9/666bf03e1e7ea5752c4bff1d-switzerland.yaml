@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 666bf03e1e7ea5752c4bff1d
+name: 'Switzerland - Regional portraits 2021: Key figures for all municipalities'
+description: https://www.bfs.admin.ch/bfs/en/home/statistics/statistics-regions/portraits-regionaux-chiffres-cles/communes/donnees-explications.assetdetail.15864461.html
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/666bf03e1e7ea5752c4bff1d (data.europa.eu dataset
+      666bf03e1e7ea5752c4bff1d; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- obility
+slug: 666bf03e1e7ea5752c4bff1d-switzerland

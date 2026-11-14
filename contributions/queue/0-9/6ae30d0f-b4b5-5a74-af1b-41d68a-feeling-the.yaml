@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6ae30d0f-b4b5-5a74-af1b-41d68a15098a
+name: Feeling the pulse of the environment
+description: Feeling the pulse of the environment ... - The Integrated Monitoring Programme of the Federal
+  Environment Agency. Nature on the Rise, Kalkalpen National Park Magazine, issue 16, summer 1996, pages
+  12-14.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6ae30d0f-b4b5-5a74-af1b-41d68a15098a (data.europa.eu
+      dataset 6ae30d0f-b4b5-5a74-af1b-41d68a15098a; publisher: Nationalparks Austria)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ationalparks-ustria
+slug: 6ae30d0f-b4b5-5a74-af1b-41d68a-feeling-the

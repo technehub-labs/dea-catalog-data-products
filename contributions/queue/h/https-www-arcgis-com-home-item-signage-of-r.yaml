@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-941b890f943d4f48939653cf62421ce2
+name: Signage of Randonnees in Seine Maritime 201912
+description: Signage of hikes in Seine-Maritime — December 2019 This sheet includes departmental markings
+  (hiking and mountain biking), those of the national hiking charter, the national charter of the French
+  riding federation and the federal mountain biking mark-up Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/208d22cae06b411eb01da66d91c6a2db/data)
+  Additional resources * Website of the Fédération Française de Randonné; <https://www.ffrandonnee.fr/_130/le-balisage-des-itineraires-de-randonnee.aspx
+  > This site publishes a page at the markup of the FFR hiking trails
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-941b890f943d4f48939653cf62421ce2
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-941b890f943d4f48939653cf62421ce2;
+      publisher: Département de la Seine-Maritime)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- partement-de-la-eine
+slug: https-www-arcgis-com-home-item-signage-of-r

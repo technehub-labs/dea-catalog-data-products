@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2286-energieverbruik-en-kosten-transportbedrijven-vervoermiddelen-1994
+name: Energy consumption and costs of transport companies; means of transport, 1994
+description: 'This table shows the energy consumption and the cost of the means of transport used by transport
+  and storage undertakings in 1994. Data available: About 1994. Status of figures: All figures for 1994
+  are final. When will there be new figures? The table has been discontinued.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2286-energieverbruik-en-kosten-transportbedrijven-vervoermiddelen-1994
+      (data.europa.eu dataset 2286-energieverbruik-en-kosten-transportbedrijven-vervoermiddelen-1994;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 2286-energieverbruik-en-kosten-energy-consu

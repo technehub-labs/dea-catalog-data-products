@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 54aa91f8c751df41a204805e
+name: Time series Education
+description: Calculated over long historical periods and updated with 2013 data, the time series provide
+  indicators for school education, higher education and learning. They make it possible to monitor the
+  evolution of the education system over time.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/54aa91f8c751df41a204805e (data.europa.eu dataset
+      54aa91f8c751df41a204805e; publisher: Ministères de l''Éducation nationale)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistres-de-lducatio
+slug: 54aa91f8c751df41a204805e-time-series

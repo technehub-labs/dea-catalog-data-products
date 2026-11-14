@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 07f2a7d8-bd87-4b12-a42c-0c7bfbe616f8
+name: Soil benchmarks Agriculture Landkreis Diepholz 2000
+description: 'Land reference values for agricultural land in the Diepholz LK (year 2000); Legend and further
+  explanations: http://www.gag.niedersachsen.de'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/07f2a7d8-bd87-4b12-a42c-0c7bfbe616f8 (data.europa.eu
+      dataset 07f2a7d8-bd87-4b12-a42c-0c7bfbe616f8; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 07f2a7d8-bd87-4b12-a42c-0c7bfb-soil-benchma

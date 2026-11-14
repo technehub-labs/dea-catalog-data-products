@@ -1,0 +1,36 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4673-labour-force-level-of-education-by-personal-characteristics-2001-2012
+name: Labour Force; level of education by personal characteristics 2001-2012
+description: 'This table repeated yearly figures on different aspects of the labour force broken down
+  by sex, ethnic background, level of education and field of education. Data available 2001-2012. Status
+  of the figures: The figures on level of education for 2012 are provisional, the other figures are definite.
+  Changes as of July 15th 2015: None, this table was stopped. Changes as of December 16th 2013: July 5th
+  2013, figures of 2012 are added to this table. Since the fourth quarter of 2012 the Dutch Labour Force
+  Survey (LFS) started using web questionnaires. As a consequence, the questions on the field of education
+  have changed. With these new questions only the international classification of field of education (ISCED)
+  can be derived. In the fourth quarter of 2012 about a third of the responding to the new questions on
+  field of education. Because of this the published figures about field of education of 2012, based on
+  the national classification (SOI), contains relatively many unknowns. These 2012 figures have therefore
+  been retracted. Changes as of July 5th 2013: Figures on 2012 are added to this table. As a consequence
+  of changes in the questions on level of education, the figures on level of education for 2012 are provisional.
+  Final figures are expected to be published in 2014. When will new figures be published? This table is
+  stopped. The update of 5 July 2013 was the last update of this table. On 26 February 2015 new revised
+  tables about the labour force have been published. The revision of the labour force statistics comprised
+  of two parts. The definitions will be adjusted to the international standard definitions and data collection
+  is improved by using web interviewing. For more information about this revision, see the link to the
+  press release in paragraph 3.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4673-labour-force-level-of-education-by-personal-characteristics-2001-2012
+      (data.europa.eu dataset 4673-labour-force-level-of-education-by-personal-characteristics-2001-2012;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 4673-labour-force-level-of-edu-labour-force

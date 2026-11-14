@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-815f30a2-520c-48bb-a12b-4076af883056
+name: Border crossings on leave from Estonia by country of residence (2007–2009, quarters)
+description: Border crossings on leave from Estonia by country of residence (2007–2009, quarters).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-815f30a2-520c-48bb-a12b-4076af883056
+      (data.europa.eu dataset oai-andmed-eesti-ee-815f30a2-520c-48bb-a12b-4076af883056; publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistikaamet
+slug: oai-andmed-eesti-ee-815f30a2-5-border-cross

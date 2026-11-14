@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 71dba722-e2c8-4521-91d9-220a0ad452ee
+name: Dundalk (Heynestown Rectory) Climate Data
+description: Daily and monthly climatalogical records for our station at Dundalk (Heynestown Rectory)
+  in Co. Louth. This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/71dba722-e2c8-4521-91d9-220a0ad452ee (data.europa.eu
+      dataset 71dba722-e2c8-4521-91d9-220a0ad452ee; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 71dba722-e2c8-4521-91d9-220a0a-dundalk-heyn

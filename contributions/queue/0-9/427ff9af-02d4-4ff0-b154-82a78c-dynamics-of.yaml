@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 427ff9af-02d4-4ff0-b154-82a78c20a72b
+name: 'Dynamics of areas recorded: January - September 2020'
+description: It contains information about urban and rural areas and the totality of properties in the
+  respective county.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/427ff9af-02d4-4ff0-b154-82a78c20a72b (data.europa.eu
+      dataset 427ff9af-02d4-4ff0-b154-82a78c20a72b; publisher: Agenția Națională de Cadastru și Publicitate
+      Imobiliară)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- genia-aional-de-adas
+slug: 427ff9af-02d4-4ff0-b154-82a78c-dynamics-of

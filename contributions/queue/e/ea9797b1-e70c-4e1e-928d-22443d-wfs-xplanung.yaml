@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ea9797b1-e70c-4e1e-928d-22443dd89d2f
+name: WFS XPlanung BPL ‘In the East Valley’
+description: 'WFS service of the development plan ‘Im Tal Ost’ of the city of Blumberg from XPlanung 5.0.
+  Description: GE, WA, Agriculture.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ea9797b1-e70c-4e1e-928d-22443dd89d2f (data.europa.eu
+      dataset ea9797b1-e70c-4e1e-928d-22443dd89d2f; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: ea9797b1-e70c-4e1e-928d-22443d-wfs-xplanung

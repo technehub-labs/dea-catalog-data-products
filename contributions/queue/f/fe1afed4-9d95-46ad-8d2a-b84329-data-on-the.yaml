@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fe1afed4-9d95-46ad-8d2a-b843296f690c
+name: Data on the accessibility of buildings for people with disabilities and other low-mobility groups
+description: The data published on the page created by the administrator, namely the executive committee
+  of the Kryvyi Rih City Council, is no longer updated on this page.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fe1afed4-9d95-46ad-8d2a-b843296f690c (data.europa.eu
+      dataset fe1afed4-9d95-46ad-8d2a-b843296f690c; publisher: Виконавчий комітет Криворізької міської
+      ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: fe1afed4-9d95-46ad-8d2a-b84329-data-on-the

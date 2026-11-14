@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5b4dc867-8d75-41ca-9136-cd89d46c85d2
+name: Arigna Power Station Climate Data
+description: Daily and monthly climatalogical records for our station at Arigna Power Station in Co. Roscommon.
+  This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5b4dc867-8d75-41ca-9136-cd89d46c85d2 (data.europa.eu
+      dataset 5b4dc867-8d75-41ca-9136-cd89d46c85d2; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 5b4dc867-8d75-41ca-9136-cd89d4-arigna-power

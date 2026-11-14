@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu health-programmes-database
+name: Health Programmes Data Base
+description: The European Union funds projects to improve public health, to prevent illness, and to eliminate
+  threats to physical and mental health in European countries. To date, approximately 820 projects and
+  actions, in conjunction with 7249 organisations across Europe, have been funded by its three multiannual
+  health programmes. This database provides information on the nature of projects and their results. It
+  is managed by the European Commission's Consumers, Health, Agriculture and Food Executive Agency (Chafea).
+  Different formats (RSS, XML, XLS) are downloadable from the landing page.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/health-programmes-database (data.europa.eu dataset
+      health-programmes-database; publisher: Consumers, Health, Agriculture and Food Executive Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- onsumers-ealth-gricu
+slug: health-programmes-database-health-progr

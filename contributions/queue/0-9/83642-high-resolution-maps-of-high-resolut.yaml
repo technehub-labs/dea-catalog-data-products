@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 83642-high-resolution-maps-of-ground-based-observations-for-the-netherlands
+name: High-resolution maps of ground-based observations for the Netherlands
+description: This data set provides high-resolution maps of surface weather in the Netherlands based on
+  ground-based observations. An innovative interpolation is used which statistically blends weather observations
+  from the KNMI network, citizen weather observations from the wow.knmi.nl network and static information
+  like land cover type and distance to the coast. This statistical blend results in weather maps which
+  have higher spatial detail and higher local accuracy than maps based only on our official network, but
+  the historical perspective of the maps is shorter. The dataset provides a best estimate and a quantified
+  uncertainty estimate of the local weather. Currently, this service is provided for air temperature,
+  10 m wind speed and relative humidity. The dataset should be regarded as a Beta release.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/83642-high-resolution-maps-of-ground-based-observations-for-the-netherlands
+      (data.europa.eu dataset 83642-high-resolution-maps-of-ground-based-observations-for-the-netherlands;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 83642-high-resolution-maps-of-high-resolut

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 052c6e05-e969-4ee0-8217-40741c66de41
+name: Redistribution of public spaces.
+description: 'More space for walking, cycling and local public transport is an important component of
+  the mobility transition. On the one hand, this short study shows the status quo of the division of urban
+  traffic areas in favor of motorized individual transport and its negative consequences. On the other
+  hand, the potential of a redistribution is highlighted: The more areas are devoted to environmentally
+  friendly modes of transport, the higher their share of traffic will be. Finally, international examples
+  show how more and more cities and municipalities are using innovative approaches to redistribute public
+  space and contribute to the sustainable mobility transition. This short study was carried out as part
+  of the "Sustainable Mobility Transition" project on behalf of the German Federal Environment Agency.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/052c6e05-e969-4ee0-8217-40741c66de41 (data.europa.eu
+      dataset 052c6e05-e969-4ee0-8217-40741c66de41; publisher: Umweltbundesamt GmbH)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- mweltbundesamt-mb
+slug: 052c6e05-e969-4ee0-8217-40741c-redistributi

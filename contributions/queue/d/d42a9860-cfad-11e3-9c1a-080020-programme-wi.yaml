@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu d42a9860-cfad-11e3-9c1a-0800200c9a66-1
+name: Programme Wind Energy Zone (SAPRO Wind Energy) Styria
+description: The development programme for the field of renewable energy – wind energy (wind energy programme)
+  aims to establish supra-local requirements for the spatially compatible expansion of wind energy in
+  Styria. The contents of the spatial data became legally effective on 15 October 2026.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/d42a9860-cfad-11e3-9c1a-0800200c9a66-1 (data.europa.eu
+      dataset d42a9860-cfad-11e3-9c1a-0800200c9a66-1; publisher: Land Steiermark)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- and-teiermark
+slug: d42a9860-cfad-11e3-9c1a-080020-programme-wi

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 17847b0e-57f4-46ba-9cc2-644abf367f04~~1
+name: 'AGS07 - An Garda Síochána Organisational Structure Level 1: Diversity Statistics'
+description: 'An Garda Síochána Organisational Structure Level 1: Diversity Statistics'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/17847b0e-57f4-46ba-9cc2-644abf367f04~~1 (data.europa.eu
+      dataset 17847b0e-57f4-46ba-9cc2-644abf367f04~~1; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: 17847b0e-57f4-46ba-9cc2-644abf-ags07-an-gar

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu phytophthora-ramorum-management-zone
+name: Phytophthora ramorum Management Zone
+description: 'An area in south-west Scotland at the heart of a major surge of P. ramorum on larch in 2013
+  was designated as a Management Zone by the Plant Health (Forestry) (Phytophthora ramorum Management
+  Zone) Order 2014. Within this zone the disease was too advanced to stop its spread within the area,
+  so efforts have been focused on tackling new outbreaks in Scotland outside the Management Zone. This
+  dataset shows the boundary of the Management Zone, as defined in Schedule 2 of the Order. The Order
+  makes special arrangements for the movement of larch within an area known as the Management Zone. Scottish
+  Forestry will no longer issue Statutory Plant Health Notices within the Management Zone and statutory
+  controls on the movement of all roundwood, larch timber and associated, potentially infectious, products
+  will be applied to such material only if it leaves this area. View the Order at: https://www.legislation.gov.uk/ssi/2014/122/made'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/phytophthora-ramorum-management-zone (data.europa.eu
+      dataset phytophthora-ramorum-management-zone; publisher: Scottish Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- cottish-overnment-pa
+slug: phytophthora-ramorum-managemen-phytophthora

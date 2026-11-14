@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-82d0fd2c-297d-4084-b3e1-4926568b811a
+name: Greenhouse gas inventory
+description: According to the United Nations Framework Convention on Climate Change, its Kyoto Protocol
+  and the Paris Agreement, Estonia is required to prepare, periodically update and publish national inventory
+  data on anthropogenic emissions and removals of all greenhouse gases not covered by the Montreal Protocol.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-82d0fd2c-297d-4084-b3e1-4926568b811a
+      (data.europa.eu dataset oai-andmed-eesti-ee-82d0fd2c-297d-4084-b3e1-4926568b811a; publisher: Kliimaministeerium)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- liimaministeerium
+slug: oai-andmed-eesti-ee-82d0fd2c-2-greenhouse-g

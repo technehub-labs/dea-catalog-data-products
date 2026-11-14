@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3389-personenmobiliteit-reiskenmerken-vervoerwijzen-2010-2014
+name: Mobility of persons; travel characteristics, modes of transport; 2010-2014
+description: 'In this table you will find information about the movement behaviour of the Dutch population
+  (excluding mobility of home residents) on Dutch territory. The travel behaviour is described as the
+  number of journeys per person per day, the distance per person per day and the journey duration per
+  person per day, broken down by means of transport, mobility characteristics (e.g. time of departure
+  and day of the week) and regions. It concerns regular trips and journeys, i.e. not holiday-related and
+  not professional. Mileage traveled abroad does not count. This means that cross-border movements at
+  the border have been cut off and thus the kilometres travelled abroad have not been taken into account.
+  Holiday-related domestic journeys and occupational journeys are also not included in this table. Data
+  available from 2010. Status of figures: The figures in this table are final. Changes as of 17 November
+  2016: None, this table has been discontinued. When will there be new figures? This table is followed
+  by the table "Person mobility in the Netherlands; travel characteristics and modes of transport, regions".
+  See paragraph 3.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3389-personenmobiliteit-reiskenmerken-vervoerwijzen-2010-2014
+      (data.europa.eu dataset 3389-personenmobiliteit-reiskenmerken-vervoerwijzen-2010-2014; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 3389-personenmobiliteit-reiske-mobility-of

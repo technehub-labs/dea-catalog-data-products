@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu horaires-et-arrets-des-transport-publics-netex
+name: Timetables and stops for public transport (NeTEx)
+description: Public transport stops and bus and train timetables throughout Luxembourg. Includes AVL,
+  CFL, LUXTRAM, RGTR and TICE lines. The data are available in the open NeTEx format (https://netex-cen.eu/).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/horaires-et-arrets-des-transport-publics-netex (data.europa.eu
+      dataset horaires-et-arrets-des-transport-publics-netex; publisher: Administration des transports
+      publics )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- dministration-des-tr
+slug: horaires-et-arrets-des-transpo-timetables-a

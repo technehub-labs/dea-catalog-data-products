@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 68ca8072f5cb41fdf2ba3ace
+name: Education - colleges of the department of Haute-savoie - 2025
+description: Education - colleges of the department of Haute-Savoie - 2025 colleges-74 The colleges of
+  the department of Haute-Savoie and their sectors. Public colleges give priority to students living in
+  their recruiting sector. This sector is determined by the student’s place of residence. It is therefore
+  neither the primary school attended nor the place of professional practice of the parents that determines
+  the sector college.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/68ca8072f5cb41fdf2ba3ace (data.europa.eu dataset
+      68ca8072f5cb41fdf2ba3ace; publisher: Conseil Départemental de la Haute-Savoie)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- onseil-partemental-d
+slug: 68ca8072f5cb41fdf2ba3ace-education-co

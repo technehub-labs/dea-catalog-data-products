@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-odwb-be-explore-dataset-musees-et-centres-touristiques-verviers-
+name: Museums and tourist centers - Verviers
+description: The dataset includes geolocations and addresses of museums and tourist centers present on
+  the Verveto territory.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-odwb-be-explore-dataset-musees-et-centres-touristiques-verviers-
+      (data.europa.eu dataset https-www-odwb-be-explore-dataset-musees-et-centres-touristiques-verviers-;
+      publisher: Ville de Verviers)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ille-de-erviers
+slug: https-www-odwb-be-explore-data-museums-and

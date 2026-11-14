@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 79428ef8-893d-468b-af2a-86c9407c2bbe
+name: Discovery service (CSW) of the catalogue of the Community of communes of the Pays de Meslay-Grez
+  on "geomayenne.fr"
+description: This discovery service allows to query the catalog of geographical data and web services
+  of the Community of communes of the Pays de Meslay-Grez referenced in the platform "geomayenne.fr",
+  via the protocol CSW 2.0.2. This harvesting point makes it possible to discover the description sheets
+  (metadata) of the geographical data disseminated by the Community of communes of the Pays de Meslay-Grez
+  which are concerned by the European INSPIRE directive or which are of public interest.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/79428ef8-893d-468b-af2a-86c9407c2bbe (data.europa.eu
+      dataset 79428ef8-893d-468b-af2a-86c9407c2bbe; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 79428ef8-893d-468b-af2a-86c940-discovery-se

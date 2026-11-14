@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 98deea14-c1fd-4fe5-9d7c-880b7476b788~~1
+name: Income and expenditure of the City of Espoo
+description: Income and expenditure of the City of Espoo by account and cost centre according to the financial
+  statements starting from 2011. The dataset includes information on the sectors, municipal enterprises
+  and balance units. **Attributes:** - industry / sector - TOelin / body - cost centre - account / account
+  - outturn/realisation - year / year
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/98deea14-c1fd-4fe5-9d7c-880b7476b788~~1 (data.europa.eu
+      dataset 98deea14-c1fd-4fe5-9d7c-880b7476b788~~1; publisher: Espoon kaupungin konsernihallinto)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- spoon-kaupungin-kons
+slug: 98deea14-c1fd-4fe5-9d7c-880b74-income-and-e

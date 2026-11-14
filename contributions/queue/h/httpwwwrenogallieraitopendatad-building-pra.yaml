@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu httpwwwrenogallieraitopendatadatipraticheedilizieusoabitativo
+name: Building Practices Residential Use Municipality of San Giorgio di Piano
+description: The dataset covers the period 2014-2018 and lists, for each year, the number of applications
+  for building permits (in the five types indicated) submitted to the Municipality of San Giorgio di Piano,
+  and issued by the same.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/httpwwwrenogallieraitopendatadatipraticheedilizieusoabitativo
+      (data.europa.eu dataset httpwwwrenogallieraitopendatadatipraticheedilizieusoabitativo; publisher:
+      Comune di San Giorgio di Piano)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- omune-di-an-iorgio-d
+slug: httpwwwrenogallieraitopendatad-building-pra

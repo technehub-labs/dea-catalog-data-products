@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c9aff11c-86fa-4a1a-a890-a85542a24b5b
+name: Access statistics of www.kreis-wesel.de for 2020 (January to September)
+description: Access statistics of www.kreis-wesel.de for 2020 (January to September)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c9aff11c-86fa-4a1a-a890-a85542a24b5b (data.europa.eu
+      dataset c9aff11c-86fa-4a1a-a890-a85542a24b5b; publisher: Kreis Wesel )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- reis-esel
+slug: c9aff11c-86fa-4a1a-a890-a85542-access-stati

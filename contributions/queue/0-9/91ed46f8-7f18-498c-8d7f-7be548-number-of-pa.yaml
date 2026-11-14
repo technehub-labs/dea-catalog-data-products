@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 91ed46f8-7f18-498c-8d7f-7be54857e169
+name: Number of passenger cars in Vienna classified into types of drive
+description: Car fleet by type of drive in Vienna. The data is published annually, always 2 years retroactively.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/91ed46f8-7f18-498c-8d7f-7be54857e169 (data.europa.eu
+      dataset 91ed46f8-7f18-498c-8d7f-7be54857e169; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 91ed46f8-7f18-498c-8d7f-7be548-number-of-pa
