@@ -1,6 +1,8 @@
-# DPO-CAT-03: DataProduct Candidate Corpus
+# CR-CR-DPO-CAT-03: DataProduct Candidate Corpus
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `DPO-CAT-03` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-DPO-CAT-03` by the naming-correction CR (CR-DPO-CAT-06); content unchanged.
 **Layer**: Catalog content (candidate corpus intake)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
