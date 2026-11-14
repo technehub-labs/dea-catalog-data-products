@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e1722405-c656-4036-a70b-78ffa8190e3e
+name: Information on issued and revoked licenses and certificates on transport (not updated)
+description: Information on issued invalid and revoked licenses and certificates on transport
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e1722405-c656-4036-a70b-78ffa8190e3e (data.europa.eu
+      dataset e1722405-c656-4036-a70b-78ffa8190e3e; publisher: Державна служба України з безпеки на транспорті
+      (Укртрансбезпека))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: e1722405-c656-4036-a70b-78ffa8-information

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 762389ee-bde6-47e6-aba0-c35104f45144
+name: Data on consumption of communal resources (electricity, thermal energy, natural gas, solid fuel,
+  cold and hot water) by communal enterprises, institutions (institutions) and organizations
+description: Data on consumption of communal resources (electricity, thermal energy, natural gas, solid
+  fuel, cold and hot water) by communal enterprises, institutions (institutions) and organizations for
+  2021
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/762389ee-bde6-47e6-aba0-c35104f45144 (data.europa.eu
+      dataset 762389ee-bde6-47e6-aba0-c35104f45144; publisher: Управління житлово-комунального господарства
+      та капітального будівництва Новомосковскої міської ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 762389ee-bde6-47e6-aba0-c35104-data-on-cons

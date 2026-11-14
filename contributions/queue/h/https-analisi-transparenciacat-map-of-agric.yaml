@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-analisi-transparenciacatalunya-cat-api-views-iqpi-zasj
+name: Map of agricultural farms in Catalonia
+description: El mapa d'explotacions és una capa gràfica oberta a la ciutadania que geolocalitza les explotacions
+  agrícoles de Catalunya a partir de les dades declarades a la declaració agrària unificada (DUN) i en
+  mostra les seves característiques principals de forma pseudonimitzada. El mapa d'explotacions conté
+  les dades, tant la informació gràfica com alfanumèrica, a partir de l'any 2019. La informació gràfica
+  comprèn la delimitació geogràfica referenciada de cada explotació amb sistema de referència cartogràfic
+  ETRS89.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-analisi-transparenciacatalunya-cat-api-views-iqpi-zasj
+      (data.europa.eu dataset https-analisi-transparenciacatalunya-cat-api-views-iqpi-zasj; publisher:
+      Generalitat de Catalunya)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eneralitat-de-atalun
+slug: https-analisi-transparenciacat-map-of-agric

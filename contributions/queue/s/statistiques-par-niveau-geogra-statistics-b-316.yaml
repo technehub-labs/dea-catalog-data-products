@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu statistiques-par-niveau-geographique-cantons-environnement
+name: Statistics by geographical level - Cantons - Environment
+description: 'This dataset includes the following resources: - Stations d&#39;purification by canton and
+  municipality - Forest area by canton and municipality --- Automatically synced from the [LUSTAT database](https://lustat.statec.lu)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/statistiques-par-niveau-geographique-cantons-environnement
+      (data.europa.eu dataset statistiques-par-niveau-geographique-cantons-environnement; publisher: STATEC
+      Institut national de la statistique et des études économiques du Grand-Duché de Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nstitut-national-de
+slug: statistiques-par-niveau-geogra-statistics-b-316

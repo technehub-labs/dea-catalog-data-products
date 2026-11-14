@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-8f84ed05a70d4adbb380bd980d8f5d42-sublayer-10
+name: Priority Security Zone
+description: https://www.data.gouv.fr/datasets/decoupage-des-zones-de-security-prioritaires-zsp-1The data
+  come from the Directorate General of the National Police, the Directorate General of the National Gendarmerie
+  and the Paris Police Prefecture
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-8f84ed05a70d4adbb380bd980d8f5d42-sublayer-10
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-8f84ed05a70d4adbb380bd980d8f5d42-sublayer-10;
+      publisher: Ville de Roubaix)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ille-de-oubaix
+slug: https-www-arcgis-com-home-item-priority-sec

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 78f3fa2e-cac2-4d00-88ac-c10149c48fdb
+name: Edenderry (Ballinla) Climate Data
+description: Daily and monthly climatalogical records for our station at Edenderry (Ballinla) in Co. Offaly.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/78f3fa2e-cac2-4d00-88ac-c10149c48fdb (data.europa.eu
+      dataset 78f3fa2e-cac2-4d00-88ac-c10149c48fdb; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 78f3fa2e-cac2-4d00-88ac-c10149-edenderry-ba

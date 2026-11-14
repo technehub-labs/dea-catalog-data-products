@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 29bcb799-4ff3-4749-8d27-1f9a93001ddd
+name: Δίκτυο στάσεων - Συγκοινωνίες Αθηνών
+description: Το σύνολο δεδομένων περιέχει πληροφορίες για το δίκτυο στάσεων των λεωφορείων και των τρόλεϊ
+  στην Αθήνα, δηλαδή το σημείο, το όνομα και τον κωδικό της στάσης, το δήμο στον οποίο ανήκει, καθώς και
+  το σύνδεσμο για την εμφάνιση της αντίστοιχης σελίδας πληροφοριών για την εκάστοτε στάση μέσω της εφαρμογής
+  της Τηλεματικής. Περιλαμβάνονται όλες οι στάσεις που βρίσκονται εντός των δήμων είτε αφορούν σε βασικές
+  γραμμές είτε σε προσωρινές διαδρομές.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/29bcb799-4ff3-4749-8d27-1f9a93001ddd (data.europa.eu
+      dataset 29bcb799-4ff3-4749-8d27-1f9a93001ddd; publisher: OASA S.A.)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 29bcb799-4ff3-4749-8d27-1f9a93

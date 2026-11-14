@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu participation-of-local-areas-polar-data
+name: Participation of Local Areas (POLAR) data
+description: These data show the proportion of young people in an area who go on to enter higher education
+  aged 18 or 19.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/participation-of-local-areas-polar-data (data.europa.eu
+      dataset participation-of-local-areas-polar-data; publisher: Higher Education Funding Council for
+      England)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- igher-ducation-undin
+slug: participation-of-local-areas-p-participatio

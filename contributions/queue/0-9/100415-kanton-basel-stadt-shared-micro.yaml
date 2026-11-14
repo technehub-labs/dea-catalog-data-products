@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 100415-kanton-basel-stadt
+name: 'Shared micromobility: Current availability'
+description: 'The dataset describes the current availability of shared micromobility offers. An overview
+  of the data sets on shared micromobility can be found at the following link: [https://data.bs.ch/explore/?refine.tags=micromobility](https://data.bs.ch/explore/?refine.tags=micromobility)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/100415-kanton-basel-stadt (data.europa.eu dataset
+      100415-kanton-basel-stadt; publisher: Amt für Mobilität)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- mt-fr-obilitt
+slug: 100415-kanton-basel-stadt-shared-micro

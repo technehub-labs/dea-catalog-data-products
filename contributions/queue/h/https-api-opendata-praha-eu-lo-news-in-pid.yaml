@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-api-opendata-praha-eu-lod-catalog-c8c61130-9467-4783-ab17-e1bc3abe3408
+name: News in PID
+description: News in Prague Integrated Transport (press releases, events, updated articles)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-api-opendata-praha-eu-lod-catalog-c8c61130-9467-4783-ab17-e1bc3abe3408
+      (data.europa.eu dataset https-api-opendata-praha-eu-lod-catalog-c8c61130-9467-4783-ab17-e1bc3abe3408;
+      publisher: Regionální organizátor pražské integrované dopravy (ROPID))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- egionln-organiztor-p
+slug: https-api-opendata-praha-eu-lo-news-in-pid

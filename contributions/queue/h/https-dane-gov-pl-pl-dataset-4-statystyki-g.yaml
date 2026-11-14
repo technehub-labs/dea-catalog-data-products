@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-4731-statystyki-govpl-styczen25
+name: Statystyki Gov.pl STYCZEŃ25
+description: <p>Dane zostały opracowane na podstawie informacji zawartych w narzędziu służącym do analizy
+  ruchu na stronie internetowej <a href="http://www.gov.pl/" target="_blank" title="http://www.gov.pl/">http://www.gov.pl</a>.
+  Raport zawiera dane w rozbiciu miesięcznym.</p> <p> </p> <p><strong>Liczba niepowtarzających się użytkowników</strong></p>
+  <p>Użytkownik odwiedzający kilka różnych stron z witryny <a href="http://www.gov.pl/" target="_blank"
+  title="http://www.gov.pl/">http://www.gov.pl</a> na tym samym urządzeniu zostanie policzony jednokrotnie.</p>
+  <p><strong>Odwiedziny</strong></p> <p>Wejście na kilka różnych stron na witrynie <a href="http://www.gov.pl/"
+  target="_blank" title="http://www.gov.pl/">http://www.gov.pl</a>, zostanie uznane za jedne odwiedziny.</p>
+  <p><strong>Liczba odsłon</strong></p> <p>Każde wejście na strony na witrynie <a href="http://www.gov.pl/"
+  target="_blank" title="http://www.gov.pl/">http://www.gov.pl</a> zostanie policzone oddzielnie.</p>
+  <p><strong>Unikalne odsłony</strong></p> <p>Kilkukrotne wejście na tę samą stronę na witrynie <a href="http://www.gov.pl/"
+  target="_blank" title="http://www.gov.pl/">http://www.gov.pl</a>, zostanie uznane jako unikalna odsłona.</p>
+  <p><strong>Pobrania</strong></p> <p>Liczba pobranych plików z witryny <a href="http://www.gov.pl/" target="_blank"
+  title="http://www.gov.pl/">http://www.gov.pl</a>.</p> <p><strong>Średni czas pobytu na stronie (w sekundach)</strong></p>
+  <p>Średni czas pobytu na witrynie <a href="http://www.gov.pl/" target="_blank" title="http://www.gov.pl/">http://www.gov.pl</a>.</p>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-4731-statystyki-govpl-styczen25
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-4731-statystyki-govpl-styczen25; publisher:
+      Centralny Ośrodek Informatyki)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entralny-rodek-nform
+slug: https-dane-gov-pl-pl-dataset-4-statystyki-g

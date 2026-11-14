@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-geodata-se-resources-1c1d36c5-58b5-4447-94ab-36b57e818931
+name: Population statistics on km-box
+description: Population statistics per km square (1x1 km). Data includes total population, gendered and
+  5-year classes. The statistics are available from 2015-12-31 to 2025-12-31. National data not INSPIRE.
+  Statistics for several years and with other groupings can be ordered from Statistics Sweden on a commission
+  basis.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-geodata-se-resources-1c1d36c5-58b5-4447-94ab-36b57e818931
+      (data.europa.eu dataset https-www-geodata-se-resources-1c1d36c5-58b5-4447-94ab-36b57e818931; publisher:
+      Statistikmyndigheten SCB - Statistiska centralbyrån)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistikmyndigheten
+slug: https-www-geodata-se-resources-population-s

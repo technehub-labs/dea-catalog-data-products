@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a2c7ab87-6921-45c1-bb1a-06c81b470f1b
+name: MUNICIPAL POLICE STATISTICS 2026
+description: MUNICIPAL POLICE STATISTICS 2026 — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Δήμος Βόλου.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a2c7ab87-6921-45c1-bb1a-06c81b470f1b (data.europa.eu
+      dataset a2c7ab87-6921-45c1-bb1a-06c81b470f1b; publisher: Δήμος Βόλου)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: a2c7ab87-6921-45c1-bb1a-06c81b-municipal-po

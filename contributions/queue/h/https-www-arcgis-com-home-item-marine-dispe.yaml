@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-e0fbe85d80d04efb966a27e24c22be41-sublayer-6~~1
+name: MARINE DISPERSION AREA
+description: 'The dispersal area around ponds refers to all areas within 500 meters of a pond, which potentially
+  allow the circulation of species and can contribute to exchanges with neighboring ponds. *** Source:
+  National Society for the Protection of Nature (SNPN) - 2019 Update not planned to date.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-e0fbe85d80d04efb966a27e24c22be41-sublayer-6~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-e0fbe85d80d04efb966a27e24c22be41-sublayer-6~~1;
+      publisher: Métropole du Grand Paris)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tropole-du-rand-aris
+slug: https-www-arcgis-com-home-item-marine-dispe

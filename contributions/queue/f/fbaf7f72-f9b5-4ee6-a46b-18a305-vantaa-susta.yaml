@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fbaf7f72-f9b5-4ee6-a46b-18a305051aba
+name: Vantaa sustainable development indicators
+description: 'The file contains the indicators of Vantaa''s Voluntary Local Review (VLR). The indicators
+  are based on the Sustainable Development Goals (SDGs) of the UN 2030 Agenda. The indicators in the file
+  include dimensions of ecological, economic, social and cultural sustainability. The Vantaa Sustainability
+  Report is available on the website: https://www.vantaa.fi/fi/kaupunki-ja-päätöksenteko/vastuullisuus/kestavan-kehityksen-raportti'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fbaf7f72-f9b5-4ee6-a46b-18a305051aba (data.europa.eu
+      dataset fbaf7f72-f9b5-4ee6-a46b-18a305051aba; publisher: Vantaan konsernijohdon ja elinvoiman toimiala)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- antaan-konsernijohdo
+slug: fbaf7f72-f9b5-4ee6-a46b-18a305-vantaa-susta

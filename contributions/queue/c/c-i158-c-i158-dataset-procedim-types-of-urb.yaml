@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c_i158-c_i158_dataset_procedimenti_urbanistica-edilizia-ambiente
+name: Types of urban planning process - Building - Environment
+description: List of municipal administrative procedures for offices, with description of methods, times,
+  terms and useful information on responsible parties, competent offices, documents to be submitted and
+  more.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c_i158-c_i158_dataset_procedimenti_urbanistica-edilizia-ambiente
+      (data.europa.eu dataset c_i158-c_i158_dataset_procedimenti_urbanistica-edilizia-ambiente; publisher:
+      Comune di San Severino Marche)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- omune-di-an-everino
+slug: c-i158-c-i158-dataset-procedim-types-of-urb

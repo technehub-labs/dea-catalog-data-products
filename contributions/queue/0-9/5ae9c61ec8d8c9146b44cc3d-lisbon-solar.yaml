@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5ae9c61ec8d8c9146b44cc3d
+name: Lisbon Solar Potential Charter
+description: Letter identifying the solar potential for all buildings in Lisbon.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5ae9c61ec8d8c9146b44cc3d (data.europa.eu dataset
+      5ae9c61ec8d8c9146b44cc3d; publisher: Lisboa E-Nova)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- isboa-ova
+slug: 5ae9c61ec8d8c9146b44cc3d-lisbon-solar

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fbab4eb9-a436-4dc0-8e35-ddb5836b961e
+name: Cork (Univ.Coll.) Climate Data
+description: Daily and monthly climatalogical records for our station at Cork (Univ.Coll.) in Co. Cork.
+  This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fbab4eb9-a436-4dc0-8e35-ddb5836b961e (data.europa.eu
+      dataset fbab4eb9-a436-4dc0-8e35-ddb5836b961e; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: fbab4eb9-a436-4dc0-8e35-ddb583-cork-univ-co

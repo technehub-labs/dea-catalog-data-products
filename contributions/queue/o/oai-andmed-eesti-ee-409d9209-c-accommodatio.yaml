@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-andmed-eesti-ee-409d9209-cde7-4a06-bb7c-e2df584bf346
+name: Accommodation by region (1992–2005)
+description: Accommodation by region (1992–2005) — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Statistikaamet.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-409d9209-cde7-4a06-bb7c-e2df584bf346
+      (data.europa.eu dataset oai-andmed-eesti-ee-409d9209-cde7-4a06-bb7c-e2df584bf346; publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistikaamet
+slug: oai-andmed-eesti-ee-409d9209-c-accommodatio

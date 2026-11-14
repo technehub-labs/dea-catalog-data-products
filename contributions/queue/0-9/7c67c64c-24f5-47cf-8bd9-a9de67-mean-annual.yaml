@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 7c67c64c-24f5-47cf-8bd9-a9de67f08e8c
+name: Mean Annual Practicable Power Resource Pelamis MWhe/km
+description: The Accessible Wave Energy Resource Atlas published in 2005 describes an initial comparison
+  between several years of hourly wave forecasts (using WAM) on a grid of points located off the Irish
+  coast with corresponding records from a number of buoys installed in recent years. Based on the level
+  of agreement found the wave forecasts were then modified slightly and used to estimate the mean annual
+  practicable power resource around Ireland.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/7c67c64c-24f5-47cf-8bd9-a9de67f08e8c (data.europa.eu
+      dataset 7c67c64c-24f5-47cf-8bd9-a9de67f08e8c; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: 7c67c64c-24f5-47cf-8bd9-a9de67-mean-annual

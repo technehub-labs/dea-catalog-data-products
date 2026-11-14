@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu post_num_1
+name: Domestic postal services (USP, non-USP) - number of enterprises
+description: 'Enterprises providing postal services - total: provides the number of enterprises providing
+  all kinds of postal services. Only active enterprises which either had turnover or employment at any
+  time during the reference period should be included. Dormant (temporarily inactive) and inactive enterprises
+  are excluded. For more information see here'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/post_num_1 (data.europa.eu dataset post_num_1; publisher:
+      Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- irectorateeneral-for
+slug: post-num-1-domestic-pos

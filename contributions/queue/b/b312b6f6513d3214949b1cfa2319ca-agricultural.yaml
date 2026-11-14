@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b312b6f6513d3214949b1cfa2319ca394944244f
+name: Agricultural land renting prices
+description: Definition The farm rent is the amount that the tenant pays every year to the owner for the
+  use of his land for agricultural purposes. -------- Farm rent prices are part of the annual survey on
+  harvest estimates. Up to 2013, this survey was carried out by agricultural correspondents. From 2014
+  on, the survey switched to a postal survey conducted directly with farmers. The survey on harvest estimates
+  and farm rents relies on a sample of about 1,600 agricultural holdings. This sample was drawn to ensure
+  representativeness at regional, provincial and agricultural region level. This survey was conducted
+  in January following the reference year. Also in 2014, the maximum threshold for detecting outliers
+  in calculating rent prices was updated. Metadata Harvest estimate and farm rents in the agriculture.pdf
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b312b6f6513d3214949b1cfa2319ca394944244f (data.europa.eu
+      dataset b312b6f6513d3214949b1cfa2319ca394944244f; publisher: North Gate II & III - INS (STATBEL
+      - Statistics Belgium))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- orth-ate-tati
+slug: b312b6f6513d3214949b1cfa2319ca-agricultural

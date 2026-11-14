@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu national-biodiversity-climate-change-vulnerability-assessment-england
+name: National Biodiversity Climate Change Vulnerability Assessment (England)
+description: 'This dataset has been replaced by the National Habitat Climate Change Vulnerability Assessments
+  2025 (England) dataset - https://environment.data.gov.uk/dataset/72ca3193-1a98-44c0-a6a4-972d14192390
+  Natural England has developed a GIS model that provides an assessment of the vulnerability of priority
+  habitats to climate change based on principles of adaptation for biodiversity. It identifies why areas
+  are vulnerable and which possible interventions can have the biggest impact in increasing resilience
+  to the changing climate. This will inform prioritisation of adaptation action and assist in the development
+  of adaptation strategies for biodiversity both within Natural England and with our partners. The NBCCVA
+  uses a 200m x200m GIS grid model to assess priority habitats for their Sensitivity to climate change,
+  Adaptive Capacity; including habitat fragmentation, topographic variety and current management and condition
+  and Conservation Value. The metrics can then be added together to produce an overall vulnerability assessment.
+  Key outputs are maps showing the metric results and the range of relative vulnerability across the country,
+  giving a visual representation of the areas vulnerable to climate change. Attribution statement: © Natural
+  England copyright. Contains Ordnance Survey data © Crown copyright and database right [year].'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/national-biodiversity-climate-change-vulnerability-assessment-england
+      (data.europa.eu dataset national-biodiversity-climate-change-vulnerability-assessment-england; publisher:
+      Natural England)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- atural-ngland
+slug: national-biodiversity-climate-national-bio

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fac548e7-775b-4a95-b5a3-7eb7399fd689
+name: Financial statements of ’ entities of the public sector of the economy. Information Manager-Ministry
+  of Finance of Ukraine.
+description: Information on the financial results of the activities of ’ entities of the public sector
+  of the economy, which are under the control of the Ministry of Finance.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fac548e7-775b-4a95-b5a3-7eb7399fd689 (data.europa.eu
+      dataset fac548e7-775b-4a95-b5a3-7eb7399fd689; publisher: Міністерство фінансів України)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: fac548e7-775b-4a95-b5a3-7eb739-financial-st

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu cbe247da-ca4f-4f36-936e-b4116e68ec35
+name: Statistical data Romanian citizenship applications approved or rejected 2010-2015
+description: Statistical data on applications for citizenship granted or rejected, broken down by year
+  and legal basis 2010-2015
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/cbe247da-ca4f-4f36-936e-b4116e68ec35 (data.europa.eu
+      dataset cbe247da-ca4f-4f36-936e-b4116e68ec35; publisher: Autoritatea Naţională pentru Cetăţenie)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- utoritatea-aional-pe
+slug: cbe247da-ca4f-4f36-936e-b4116e-statistical

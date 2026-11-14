@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 30303036-3233-4031-312d-303030320000
+name: 'Gross hourly earnings in agriculture: Former federal territory/New Länder, reference month (until
+  09/2010), output areas of agriculture, worker groups, gender'
+description: 'Gross hourly earnings in agriculture: Former federal territory/New Länder, reference month
+  (until 09/2010), output areas of agriculture, worker groups, gender'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/30303036-3233-4031-312d-303030320000 (data.europa.eu
+      dataset 30303036-3233-4031-312d-303030320000; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 30303036-3233-4031-312d-303030-gross-hourly-420

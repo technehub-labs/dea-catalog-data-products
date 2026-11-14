@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 60256525454ae3a8b8284fe6
+name: RH4 - Agriculture sector
+description: VOUGA, MONDEGO, LIS HYDROGRAPHIC REGION MANAGEMENT PLAN – HR4 – Basic Report – Part 4 – Foresight
+  Scenarios – 4.8 – Agriculture sector In this sub-chapter, a brief reference is made to the evolution
+  of the indicators that influence the development of the Foresight scenarios.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/60256525454ae3a8b8284fe6 (data.europa.eu dataset
+      60256525454ae3a8b8284fe6; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- gncia-ortuguesa-do-m
+slug: 60256525454ae3a8b8284fe6-rh4-agricult

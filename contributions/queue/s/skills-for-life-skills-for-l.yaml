@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu skills-for-life
+name: Skills for Life in England
+description: Annually updated data for Skills for Life Qualifications in England. The data shows participation
+  and achievement figures broken down by Age, Level, Provider Type, Geography and Learner Demographics.
+  Skills for Life qualifications are designed to give people the reading, writing, maths and communication
+  skills they need in everyday life, to operate effectively in work and to help them succeed on other
+  training courses.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/skills-for-life (data.europa.eu dataset skills-for-life;
+      publisher: Skills Funding Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- kills-unding-gency
+slug: skills-for-life-skills-for-l

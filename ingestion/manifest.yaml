@@ -1,0 +1,18 @@
+# Ingestion manifest — DataProduct candidate corpus (DPO-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-15'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 2557
+sources:
+- bank: eu-open-data.json
+  source: "EU Open Data Portal hub search API (datasets)"
+  url: "https://data.europa.eu/api/hub/search/search"
+  published: "https://data.europa.eu/"
+  retrieved: '2026-11-15'
+  sha256: e3f2f818eff35a4fa5fa6b1369b26effffdcb66ff21039c0950684c43c48c280
+  records: 2557
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)

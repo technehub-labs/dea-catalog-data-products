@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu hip-fracture-proportion-of-patients-recovering-to-their-previous-levels-of-mobility-walking-abi4
+name: 'Hip fracture: proportion of patients recovering to their previous levels of mobility/walking ability
+  at 30 days (CCGOIS 3.10.i)'
+description: 'The proportion of patients aged 60 and over with a hip fracture recovering to their previous
+  levels of mobility at 30 days after admission to hospital, expressed as a percentage with 95% confidence
+  intervals (CI). Current version updated: Dec-16 Next version due: None planned'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/hip-fracture-proportion-of-patients-recovering-to-their-previous-levels-of-mobility-walking-abi4
+      (data.europa.eu dataset hip-fracture-proportion-of-patients-recovering-to-their-previous-levels-of-mobility-walking-abi4;
+      publisher: NHS Digital)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- igital
+slug: hip-fracture-proportion-of-pat-hip-fracture-923

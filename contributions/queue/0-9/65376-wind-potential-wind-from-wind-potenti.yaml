@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 65376-wind-potential-wind-from-before-2009-calculated-using-the-sigma-method
+name: 'Wind: potential wind from before 2009 calculated using the sigma method'
+description: This dataset contains the improved potential wind from 1950 to 2009. This was calculated
+  using the sigma method as described [here](https://cdn.knmi.nl/knmi/pdf/library/knmipubWR/WR2009-02.pdf)
+  and wind measurements describing 10 minute periods. The potential wind in this dataset reveals periods
+  of 1 hour and is the result of a conversion from hourly gustiness analysis potential wind to sigma analysis
+  potential wind. This aggregation step was necessary because the older measurements are hourly.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/65376-wind-potential-wind-from-before-2009-calculated-using-the-sigma-method
+      (data.europa.eu dataset 65376-wind-potential-wind-from-before-2009-calculated-using-the-sigma-method;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 65376-wind-potential-wind-from-wind-potenti

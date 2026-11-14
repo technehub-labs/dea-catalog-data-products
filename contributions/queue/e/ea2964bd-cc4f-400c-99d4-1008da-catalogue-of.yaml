@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ea2964bd-cc4f-400c-99d4-1008da12dc90
+name: Catalogue of the Ministry of Agriculture and Rural Development
+description: The catalogue contains metadata on existing data of the Ministry of Agriculture and Rural
+  Development of the Slovak Republic and legal entities under its responsibility, including those that
+  are not published, with the exception of those data that are classified or otherwise protected or their
+  publication or disclosure is restricted by special regulations.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ea2964bd-cc4f-400c-99d4-1008da12dc90 (data.europa.eu
+      dataset ea2964bd-cc4f-400c-99d4-1008da12dc90; publisher: Ministerstvo pôdohospodárstva a rozvoja
+      vidieka SR)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterstvo-pdohospo
+slug: ea2964bd-cc4f-400c-99d4-1008da-catalogue-of

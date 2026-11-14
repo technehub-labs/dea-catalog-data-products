@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu f7e3d0c1-cc60-4ae5-ab2b-900f2c03606c
+name: Arklow Bank Wind Park Connection Cable
+description: Data showing connector cable from Wicklow coastline to Arklow Bank Wind turbines was created
+  in support of Marine Strategy Franework Directive article 8, 9 10 reporting.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f7e3d0c1-cc60-4ae5-ab2b-900f2c03606c (data.europa.eu
+      dataset f7e3d0c1-cc60-4ae5-ab2b-900f2c03606c; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: f7e3d0c1-cc60-4ae5-ab2b-900f2c-arklow-bank

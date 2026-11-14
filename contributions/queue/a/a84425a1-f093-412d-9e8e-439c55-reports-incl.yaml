@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a84425a1-f093-412d-9e8e-439c5549012d
+name: Reports, including on the satisfaction of requests for information
+description: The set contains the resource ListOfReports — a list of reports of CE "Lutsk Primary Care
+  Center No2".
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a84425a1-f093-412d-9e8e-439c5549012d (data.europa.eu
+      dataset a84425a1-f093-412d-9e8e-439c5549012d; publisher: Комунальне підприємство "Луцький центр
+      первинної медичної допомоги №2" (дані більше не оновлюються))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- '2'
+slug: a84425a1-f093-412d-9e8e-439c55-reports-incl

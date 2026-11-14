@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu elrc_163
+name: National Health Fund Dataset
+description: 'The dataset is a 274K-token Polish-English parallel resource in XLIFF format created on
+  the basis of "Diagnosis-Related Groups in Europe" publication of the Polish National Health Fund. This
+  dataset has been created within the framework of the European Language Resource Coordination (ELRC)
+  Connecting Europe Facility - Automated Translation (CEF.AT) actions SMART 2014/1074 and SMART 2015/1091.
+  For further information on the project: http://lr-coordination.eu.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/elrc_163 (data.europa.eu dataset elrc_163; publisher:
+      Directorate-General for Communications Networks, Content and Technology)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- irectorateeneral-for
+slug: elrc-163-national-hea

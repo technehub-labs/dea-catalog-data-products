@@ -1,0 +1,35 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3kkx-ekfq
+name: ESIF 2014-2020 categorisation ERDF-ESF-CF planned vs implemented
+description: 'This file contains categorisation data from the ERDF/ESF/Cohesion Fund programmes and in
+  particular it compares **PLANNED AMOUNTS TO IMPLEMENTED INVESTMENTS**. The data will be updated regularly
+  to reflect updated information transmitted. ***NEW*** 03/2020 - The Commission''s COVID-19 response
+  in 2020 involves encouraging reprogramming unallocated EU budget towards the COVID-19 health response
+  and support to the economy, particularly through supporting SMEs and workers. Check out these data stories
+  based on this dataset: - HEALTH: https://cohesiondata.ec.europa.eu/stories/s/In-profile-cohesion-policy-improving-health-servic/qyuv-h9j2
+  - SMEs: https://cohesiondata.ec.europa.eu/stories/s/An-Economy-that-works-for-people-Cohesion-Policy-s/n4ee-2h83
+  ***NEW*** 12/2018 - CLIMATE AND BIODIVERSITY TRACKING: In December 2018 the calculation of amounts planned,
+  decided and spend on categorisation codes (weighted 100% and 40%) for climate tracking and biodiversity
+  tracking were added to the dataset to allow full transparency on how investment under these tracking
+  systems are progressing. Specially designed charts providing visualisations on these tracking systems
+  are linked to the dataset below. ***NEW*** 12/2018 - OPERATIONS (projects) SELECTED: Also in December
+  2018 the number of operations (projects) linked to each categorisation value reported by priority axis
+  is reflected in the dataset. In many cases programmes provide detailed categorisation information, reporting
+  more than one intervention field code for a specific operation. While leading to more detailed thematic
+  information it leads to multiple reporting of some operations. TIMING AND FREQUENCY: The categorisation
+  system implementation values are reported once a year by the 350+ programmes at end January. It is then
+  published in this dataset towards the end of February. Thereafter the data is updated regularly to reflect
+  the updated information transmitted by the programmes. This dataset currently contains data to end'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3kkx-ekfq (data.europa.eu dataset 3kkx-ekfq; publisher:
+      DG REGIO)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 3kkx-ekfq-esif-2014-20

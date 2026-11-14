@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 22062883-cb05-4b07-9dd1-9b3f033e3413
+name: Directory of the institution (with the address and contact numbers)
+description: Directory of the Health Department of the Black Sea City Council of the Odessa region - information
+  manager, including identification code, e-mail address, phone numbers
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/22062883-cb05-4b07-9dd1-9b3f033e3413 (data.europa.eu
+      dataset 22062883-cb05-4b07-9dd1-9b3f033e3413; publisher: Відділ охорони здоров''я Чорноморської
+      міської ради Одеської області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 22062883-cb05-4b07-9dd1-9b3f03-directory-of

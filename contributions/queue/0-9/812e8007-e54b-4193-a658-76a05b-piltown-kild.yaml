@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 812e8007-e54b-4193-a658-76a05b6ea799
+name: Piltown (Kildalton Agr.Coll.) Climate Data
+description: Daily and monthly climatalogical records for our station at Piltown (Kildalton Agr.Coll.)
+  in Co. Kilkenny. This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/812e8007-e54b-4193-a658-76a05b6ea799 (data.europa.eu
+      dataset 812e8007-e54b-4193-a658-76a05b6ea799; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 812e8007-e54b-4193-a658-76a05b-piltown-kild

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ac5e1e64-5bf7-46cb-9433-07ceb8aaf57b
+name: Athleague Climate Data
+description: Daily and monthly climatalogical records for our station at Athleague in Co. Roscommon.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ac5e1e64-5bf7-46cb-9433-07ceb8aaf57b (data.europa.eu
+      dataset ac5e1e64-5bf7-46cb-9433-07ceb8aaf57b; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: ac5e1e64-5bf7-46cb-9433-07ceb8-athleague-cl

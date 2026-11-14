@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b9d89766-f041-454e-952f-a4f8c6b645d2
+name: Statistical data on emergency prevention activities - 1st and 2nd semester 2022
+description: Statistical data on emergency prevention activities - 2022
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b9d89766-f041-454e-952f-a4f8c6b645d2 (data.europa.eu
+      dataset b9d89766-f041-454e-952f-a4f8c6b645d2; publisher: Inspectoratul General pentru Situaţii de
+      Urgenţă)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nspectoratul-eneral
+slug: b9d89766-f041-454e-952f-a4f8c6-statistical

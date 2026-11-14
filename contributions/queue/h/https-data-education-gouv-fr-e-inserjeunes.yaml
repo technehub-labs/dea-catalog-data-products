@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-data-education-gouv-fr-explore-dataset-fr-en-inserjeunes-lycee_pro-agri-formation-fine-
+name: Inserjeunes Agricultural vocational school route by establishment under the Ministry of Agriculture
+  and fine training
+description: Inserjeunes Agricultural vocational school route by establishment under the Ministry of Agriculture
+  and fine training — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by Ministères
+  de l'Éducation nationale.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-education-gouv-fr-explore-dataset-fr-en-inserjeunes-lycee_pro-agri-formation-fine-
+      (data.europa.eu dataset https-data-education-gouv-fr-explore-dataset-fr-en-inserjeunes-lycee_pro-agri-formation-fine-;
+      publisher: Ministères de l''Éducation nationale)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistres-de-lducatio
+slug: https-data-education-gouv-fr-e-inserjeunes

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5bc700d6634f41501a83f6a0
+name: Catchment Areas INFO→ENERGY
+description: The dataset that is made available to you offers the catchment areas of the INFO→ENERGY Spaces
+  throughout the territory. It is used to propose to the public the search for an INFO→ENERGY advisor
+  from [FAIRE](https://www.faire.fr/trouver-un-conseiller). ADEME makes it available for re-use.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5bc700d6634f41501a83f6a0 (data.europa.eu dataset
+      5bc700d6634f41501a83f6a0; publisher: ADEME)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 5bc700d6634f41501a83f6a0-catchment-ar

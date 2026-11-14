@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fr-120066022-srv-22f91533-f3db-44d6-8161-61d0ea5f1067
+name: 'Dataset Direct Download Service (WFS): Dam layer in Meurthe-et-Moselle'
+description: Survey of dikes — Service Biodiversity Water Environment (2016) Layer used in CARTO2 — RDI_V3
+  Flood crisis management
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fr-120066022-srv-22f91533-f3db-44d6-8161-61d0ea5f1067
+      (data.europa.eu dataset fr-120066022-srv-22f91533-f3db-44d6-8161-61d0ea5f1067; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: fr-120066022-srv-22f91533-f3db-dataset-dire

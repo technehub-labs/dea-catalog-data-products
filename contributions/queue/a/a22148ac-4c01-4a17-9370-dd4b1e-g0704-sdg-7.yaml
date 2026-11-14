@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a22148ac-4c01-4a17-9370-dd4b1e0e48db
+name: G0704 - SDG 7.2.1 Renewable energy share (RES)
+description: G0704 - SDG 7.2.1 Renewable energy share (RES) — a published dataset in the EU Open Data
+  Portal (data.europa.eu), maintained by Sustainable Energy Authority of Ireland.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a22148ac-4c01-4a17-9370-dd4b1e0e48db (data.europa.eu
+      dataset a22148ac-4c01-4a17-9370-dd4b1e0e48db; publisher: Sustainable Energy Authority of Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ustainable-nergy-uth
+slug: a22148ac-4c01-4a17-9370-dd4b1e-g0704-sdg-7

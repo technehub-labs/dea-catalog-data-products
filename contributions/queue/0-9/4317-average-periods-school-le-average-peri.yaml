@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4317-average-periods-school-leavers-to-find-job-by-level-of-education
+name: Average periods of school-leavers to find job by level of education
+description: 'Average periods needed school - leavers to find job by level of education 1991 - 2001 Changed
+  on October 26, 2009. Frequency: Discontinued.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4317-average-periods-school-leavers-to-find-job-by-level-of-education
+      (data.europa.eu dataset 4317-average-periods-school-leavers-to-find-job-by-level-of-education; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 4317-average-periods-school-le-average-peri

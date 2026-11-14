@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu id_2004_living_environment_domain
+name: Index of Deprivation 2004 - Living Environment Domain
+description: 'ID 2004 Living Environment Domain (quality of physical environment and housing conditions)
+  Source: Office of the Deputy Prime Minister (ODPM): ID 2004 Publisher: Communities and Local Government
+  (CLG) Geographies: Lower Layer Super Output Area (LSOA) Geographic coverage: England Time coverage:
+  2004 (using data from 2000 to 2002) Type of data: Administrative data/Modelled data'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/id_2004_living_environment_domain (data.europa.eu
+      dataset id_2004_living_environment_domain; publisher: Ministry of Housing, Communities and Local
+      Government)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistry-of-ousing-om
+slug: id-2004-living-environment-dom-index-of-dep

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu istruzione-inferiore-pubblica-della-citta-di-matera-a-s-2016-2017
+name: Education Lower Public of the city of Matera A.S. 2016-2017
+description: The dataset contains the number of pupils of the Public Infant, Primary and Lower Middle
+  Schools grouped by classes and school complexes with their addresses.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/istruzione-inferiore-pubblica-della-citta-di-matera-a-s-2016-2017
+      (data.europa.eu dataset istruzione-inferiore-pubblica-della-citta-di-matera-a-s-2016-2017; publisher:
+      Redazione OD)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- edazione
+slug: istruzione-inferiore-pubblica-education-lo

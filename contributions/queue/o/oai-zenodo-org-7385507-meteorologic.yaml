@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu oai-zenodo-org-7385507
+name: Meteorological records OAL-UK
+description: Meteorological records collected in Catterline, Scotland between July, 2021 and July, 2022.
+  Records were collected with a meteorological station Davis Vantage Pro2 Integrated Sensor Suite.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-zenodo-org-7385507 (data.europa.eu dataset oai-zenodo-org-7385507;
+      publisher: Zenodo)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- enodo
+slug: oai-zenodo-org-7385507-meteorologic

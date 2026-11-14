@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-data-gov-lt-datasets-1790-
+name: Data from the state monitoring of the Curonian Lagoon and the Baltic Sea
+description: The collection contains data from national environmental monitoring of the Curonian Lagoon
+  and the Baltic Sea. The dataset consists of measurements and analyses of hydrological, hydrochemical,
+  biological and specific pollutants (in water, bottom sediments, biota) at monitoring sites in the Baltic
+  Sea and the Curonian Lagoon.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-1790- (data.europa.eu
+      dataset https-data-gov-lt-datasets-1790-; publisher: Aplinkos apsaugos agentūra)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- plinkos-apsaugos-age
+slug: https-data-gov-lt-datasets-179-data-from-th

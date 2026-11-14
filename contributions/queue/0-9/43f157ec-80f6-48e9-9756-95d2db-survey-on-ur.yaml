@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 43f157ec-80f6-48e9-9756-95d2dbcc4054
+name: Survey on urban transport in the aftermath of the COVID-19 outbreak
+description: This dataset contains the full results of a survey on mobility patterns after the Covid-19
+  pandemic. The survey was conducted in the second trimester of 2021 and collected information from 10000
+  respondents across 20 urban areas.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/43f157ec-80f6-48e9-9756-95d2dbcc4054 (data.europa.eu
+      dataset 43f157ec-80f6-48e9-9756-95d2dbcc4054; publisher: Joint Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- oint-esearch-entre
+slug: 43f157ec-80f6-48e9-9756-95d2db-survey-on-ur

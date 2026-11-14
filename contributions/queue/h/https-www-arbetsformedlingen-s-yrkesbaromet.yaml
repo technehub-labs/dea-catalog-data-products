@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arbetsformedlingen-se-datasetyrkesbarometer
+name: Yrkesbarometer
+description: The dataset shows current assessments of job opportunities and the recruitment situation
+  in various professions, both at county level and nationally. In addition to a current picture, a forecast
+  is also given of how the demand for labor in each profession is expected to develop over a five-year
+  period. The occupational barometer is updated twice a year, every spring and autumn..
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arbetsformedlingen-se-datasetyrkesbarometer
+      (data.europa.eu dataset https-www-arbetsformedlingen-se-datasetyrkesbarometer; publisher: Arbetsförmedlingen)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rbetsfrmedlingen
+slug: https-www-arbetsformedlingen-s-yrkesbaromet

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu bb2c81cc-0f41-4bd0-919e-c7671e27cd12-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
+name: Visual meteorological observations
+description: The information on current weather events is supplemented by visual human observations. The
+  atmospheric conditions around the observation site are described in detail. Visual observations provide
+  a detailed description of the atmospheric conditions around the observation site. Meteorological observers
+  make visual observations and take readings from measurement instruments between three and eight times
+  per day every day of the year. This information is then transmitted to MeteoSwiss online. The reports
+  are encrypted using internationally valid code and are made available worldwide.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bb2c81cc-0f41-4bd0-919e-c7671e27cd12-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
+      (data.europa.eu dataset bb2c81cc-0f41-4bd0-919e-c7671e27cd12-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz;
+      publisher: Ufficio federale di meteorologia e climatologia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- fficio-federale-di-m
+slug: bb2c81cc-0f41-4bd0-919e-c7671e-visual-meteo

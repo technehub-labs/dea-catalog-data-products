@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 264b45da-7cd5-40ba-a521-82abe0c5182c
+name: 'Data on the teaching staff of the communal institution "Training and educational association ’
+  "Specialized general educational institution of the first degree "Harmony" – gymnasium named after Taras '
+description: Data on the teaching staff of the communal institution "Training and educational association
+  ’ "Specialized general educational institution of the first degree "Harmony" – gymnasium named after
+  Taras Shevchenko – center of out-of-school education "Contact" of Kirovograd city council of Kirovograd
+  region"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/264b45da-7cd5-40ba-a521-82abe0c5182c (data.europa.eu
+      dataset 264b45da-7cd5-40ba-a521-82abe0c5182c; publisher: КЗ НВО СЗНЗ І ступеня "Гармонія"- гімназія
+      ім.Т.Шевченка-Центр позашкільного виховання "Контакт" КМР Кіровоградської області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 264b45da-7cd5-40ba-a521-82abe0-data-on-the

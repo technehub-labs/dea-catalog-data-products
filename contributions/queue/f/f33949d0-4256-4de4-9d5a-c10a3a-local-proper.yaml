@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu f33949d0-4256-4de4-9d5a-c10a3acd163a
+name: Local Property Tax (LPT) statistics 2021
+description: Various Local Property Tax statistics including local authority breakdown at the end of 2021
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f33949d0-4256-4de4-9d5a-c10a3acd163a (data.europa.eu
+      dataset f33949d0-4256-4de4-9d5a-c10a3acd163a; publisher: Revenue Commissioners)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- evenue-ommissioners
+slug: f33949d0-4256-4de4-9d5a-c10a3a-local-proper

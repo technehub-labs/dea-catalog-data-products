@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu zdravstvene-ustanove-in-domovi-v-mestni-obcini-kranj
+name: Health institutions and homes in the Municipality of Kranj
+description: A list of all health institutions, clinics, located in the area of the Municipality of Kranj,
+  including an indication of the types of health services in a specific unit.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/zdravstvene-ustanove-in-domovi-v-mestni-obcini-kranj
+      (data.europa.eu dataset zdravstvene-ustanove-in-domovi-v-mestni-obcini-kranj; publisher: MESTNA
+      OBČINA KRANJ)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: zdravstvene-ustanove-in-domovi-health-insti-54

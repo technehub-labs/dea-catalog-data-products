@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-2097-biuletyn-statystyczny-ministra-zdrowia-2020
+name: Biuletyn Statystyczny Ministra Zdrowia 2020
+description: <p>Publikacja wydawana przez Centrum e-Zdrowia zawierająca informacje ze sprawozdań statystycznych
+  MZ za 2019 rok i wybrane lata, dotyczące m.in. działalności szpitali stacjonarnych ogólnych, pracującego
+  personelu medycznego w podmiotach leczniczych, aparatury medycznej oraz zachorowań na choroby weneryczne.</p>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-2097-biuletyn-statystyczny-ministra-zdrowia-2020
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-2097-biuletyn-statystyczny-ministra-zdrowia-2020;
+      publisher: Centrum e-Zdrowia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entrum-edrowia
+slug: https-dane-gov-pl-pl-dataset-2-biuletyn-sta-100

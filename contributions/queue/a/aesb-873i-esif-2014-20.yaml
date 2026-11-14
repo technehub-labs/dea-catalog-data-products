@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu aesb-873i
+name: ESIF 2014-2020 Achievement Details timeseries
+description: 'This dataset provides information on expected achievements (targets) set for selected common
+  indicators defined for the each of the specific ESI funds and the decided (forecasts from selected projects)
+  and implemented values. The reference date for the annual reporting of progress by the programmes achievements
+  is the end of each calendar year. This dataset contains: - Time series of the cumulative amounts reported
+  annually for decided and implemented values (i.e. 2016 values include the 2015 values); - To avoid double
+  counting, the cumulative values from different years **should NOT be aggregated**; - Allows comparison
+  of the targets year on year (targets change with reallocation of financial resources); - Allows comparison
+  of decided (forecast) and implemented values with the targets set (allowing users to calculate the %
+  rate of progress); - For ESF / YEI only the implemented values are reported (no decided (forecast) values)
+  and targets were not obligatory in each case. For more information on the common indicator definitions
+  used by each fund please go to the "Related Information" sections at the bottom of the fund specific
+  pages. The same data on the **programme specific indicators** (including output and result indicators)
+  is available in this separate dataset: https://cohesiondata.ec.europa.eu/2014-2020-Indicators/ESIF-2014-2020-Achievement-Details-ERDF-CF-Program/3de9-gnka'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/aesb-873i (data.europa.eu dataset aesb-873i; publisher:
+      European Commission)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- uropean-ommission
+slug: aesb-873i-esif-2014-20

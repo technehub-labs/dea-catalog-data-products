@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c_l219-ef09c74c-0b80-4525-9477-0b71336c63cb
+name: Basic data — Technical Charter — Road, Mobility and Transport
+description: 'The stratum collects information on mobility and transport of whatever nature it may be.
+  It describes the modeling for areas that mainly collects the constructive geometric characteristics
+  of transport infrastructure. The following contents are therefore grouped in this section of the specification:
+  — Roads and their particulars, including both the infrastructure constituting the primary and secondary
+  roads, within the theme “roads” include areas specifically intended for traffic and/or pedestrian traffic
+  and/or for cycles. — Rail transport infrastructure and its particulars, including railways, metros,
+  tramways and funiculars. — Other transport facilities and related particulars, including cableway transport
+  (works, ski lifts, etc.) under this heading.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c_l219-ef09c74c-0b80-4525-9477-0b71336c63cb (data.europa.eu
+      dataset c_l219-ef09c74c-0b80-4525-9477-0b71336c63cb; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: c-l219-ef09c74c-0b80-4525-9477-basic-data-t

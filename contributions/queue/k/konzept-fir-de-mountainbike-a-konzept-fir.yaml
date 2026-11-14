@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu konzept-fir-de-mountainbike-a-graveltourismus-zu-letzebuerg
+name: Konzept fir de Mountainbike- a Graveltourismus zu Lëtzebuerg
+description: Im April 2025 präsentierte die Generaldirektion Tourismus das Konzept für den Gravel- und
+  Mountainbiketourismus in Luxemburg. Dieses Konzept biet einen strategischen Handlungsrahmen für die
+  Entwicklung von Gravel- und Mountainbikeangeboten und richtet sich an alle Akteur:innen im Bereich des
+  Mountainbike- und Graveltourismus. Es unterstützt die gezielte Umsetzung des Handlungsfeldes „Zeitgemäßes
+  und erlebnisreiches Angebot“ aus der nationalen Tourismusstrategie.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/konzept-fir-de-mountainbike-a-graveltourismus-zu-letzebuerg
+      (data.europa.eu dataset konzept-fir-de-mountainbike-a-graveltourismus-zu-letzebuerg; publisher:
+      Ministère de l''Economie - Direction générale du tourisme)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistre-de-lconomie
+slug: konzept-fir-de-mountainbike-a-konzept-fir

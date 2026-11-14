@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6c06740d-058f-4a12-bb3f-bf68efd03d09
+name: 'Transport networks: Cable cars - Transport Networks: Cable (INSPIRE harmonized)'
+description: 'INSPIRE Transport networks: Cable Cars (Transport Networks: Cable) thematic layer, harmonized,
+  filled with relevant objects from TOP10NL (part of the Basic Registration Topography BRT), produced
+  and managed by the Land Registry. It is a reference to cable cars.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6c06740d-058f-4a12-bb3f-bf68efd03d09 (data.europa.eu
+      dataset 6c06740d-058f-4a12-bb3f-bf68efd03d09; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 6c06740d-058f-4a12-bb3f-bf68ef-transport-ne

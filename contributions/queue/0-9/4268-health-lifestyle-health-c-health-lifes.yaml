@@ -1,0 +1,38 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4268-health-lifestyle-health-care-use-and-supply-causes-of-death-key-figures
+name: Health, lifestyle, health care use and supply, causes of death; key figures
+description: 'This table provides an overview of the key figures on health and care available on StatLine.
+  All figures are tasks from other tables on StatLine, either directly or through a simple conversion.
+  In the original tables, breakdowns by characteristics of individuals or other variables are possible.
+  The period after the year of review before data become available differs between the data series. The
+  number of exam passes/graduates in year t is the number of persons who obtained a diploma in school/study
+  year starting in t-1 and ending in t. Data available from: 2001 Status of the figures: 2026: All available
+  figures are definite. 2025: Most available figures are definite. Figures are provisional for: - youth
+  care; - persons employed in health and welfare; - persons employed in healthcare; - Mbo health care
+  graduates; - Hbo nursing graduates / medicine graduates (university). 2024: Most available figures are
+  definite. Figures are provisional for: - diagnoses known to the general practitioner; - supply of drugs;
+  - AWBZ/Wlz-funded long term care; - physicians and nurses employed in care; - persons employed in health
+  and welfare; - persons employed in healthcare; - average distance to facilities; - profitability and
+  operating results at institutions. Figures are revised provisional for: expenditures on health and welfare.
+  2023: Most available figures are definite. Figures are provisional for: - hospital admissions by some
+  diagnoses; Average period of hospitalization. Figures are revised provisional for: expenditures on health
+  and welfare. 2022: Most available figures are definite. Figures are revised provisional for: expenditures
+  on health and welfare. 2021 and earlier: All available figures are definite. Changes as of 14 July 2026:
+  More recent figures have been added for: - causes of death; - life expectancy; - self-perceived health;
+  sickness absence; - contacts with health professionals; - persons aged 80 or older; - youth care; -
+  tuxedo, heavy drinkers, physical activity;'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4268-health-lifestyle-health-care-use-and-supply-causes-of-death-key-figures
+      (data.europa.eu dataset 4268-health-lifestyle-health-care-use-and-supply-causes-of-death-key-figures;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 4268-health-lifestyle-health-c-health-lifes

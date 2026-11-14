@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ff3e1730-b4c9-4911-8e69-93606bfef3f2
+name: Data on the placement of special equipment
+description: Data on the placement of special equipment — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Коломийська міська рада.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ff3e1730-b4c9-4911-8e69-93606bfef3f2 (data.europa.eu
+      dataset ff3e1730-b4c9-4911-8e69-93606bfef3f2; publisher: Коломийська міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: ff3e1730-b4c9-4911-8e69-93606b-data-on-the

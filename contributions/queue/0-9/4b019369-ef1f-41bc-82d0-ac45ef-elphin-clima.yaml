@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4b019369-ef1f-41bc-82d0-ac45efb0041f
+name: Elphin Climate Data
+description: Daily and monthly climatalogical records for our station at Elphin in Co. Roscommon. This
+  station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4b019369-ef1f-41bc-82d0-ac45efb0041f (data.europa.eu
+      dataset 4b019369-ef1f-41bc-82d0-ac45efb0041f; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 4b019369-ef1f-41bc-82d0-ac45ef-elphin-clima

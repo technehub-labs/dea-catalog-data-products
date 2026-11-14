@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu bb86d901-900e-416e-8a6a-cb724d0bfded
+name: OLOD134 - How much do you do to protect the environment by principal economic status
+description: How much do you do to protect the environment by principal economic status
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bb86d901-900e-416e-8a6a-cb724d0bfded (data.europa.eu
+      dataset bb86d901-900e-416e-8a6a-cb724d0bfded; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: bb86d901-900e-416e-8a6a-cb724d-olod134-how

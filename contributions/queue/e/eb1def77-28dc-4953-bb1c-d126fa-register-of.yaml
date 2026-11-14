@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu eb1def77-28dc-4953-bb1c-d126fa4aae49
+name: Register of data sets owned by the Municipal Enterprise "Health and Rest" of the Dnipro City Council
+description: The set contains a register of open data sets owned by the Municipal Enterprise "Health and
+  Rest" of the Dnipro City Council
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/eb1def77-28dc-4953-bb1c-d126fa4aae49 (data.europa.eu
+      dataset eb1def77-28dc-4953-bb1c-d126fa4aae49; publisher: Дніпровська міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: eb1def77-28dc-4953-bb1c-d126fa-register-of

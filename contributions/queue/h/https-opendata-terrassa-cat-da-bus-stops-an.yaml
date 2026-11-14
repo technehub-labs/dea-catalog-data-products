@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-opendata-terrassa-cat-dataset-parades-bus
+name: Bus stops and timetables of urban buses from Terrassa
+description: 'Stops and schedules of the urban bus lines of Terrassa. This data set provides the download
+  of the data in gtfs, through a zip file that allows its treatment and reuse. To consult the data, you
+  can access the web: https://tmesa.com/'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-opendata-terrassa-cat-dataset-parades-bus (data.europa.eu
+      dataset https-opendata-terrassa-cat-dataset-parades-bus; publisher: Ayuntamiento de Terrassa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yuntamiento-de-erras
+slug: https-opendata-terrassa-cat-da-bus-stops-an

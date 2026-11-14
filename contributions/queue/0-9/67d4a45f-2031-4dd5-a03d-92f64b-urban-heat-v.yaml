@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 67d4a45f-2031-4dd5-a03d-92f64be7147c
+name: Urban Heat Vulnerability Index (UHVI) Vienna
+description: The UHVI shows the heat load of an area, taking into account people particularly affected
+  by the heat. The index consists of data on temperature, green and blue infrastructure, and demographics.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/67d4a45f-2031-4dd5-a03d-92f64be7147c (data.europa.eu
+      dataset 67d4a45f-2031-4dd5-a03d-92f64be7147c; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 67d4a45f-2031-4dd5-a03d-92f64b-urban-heat-v

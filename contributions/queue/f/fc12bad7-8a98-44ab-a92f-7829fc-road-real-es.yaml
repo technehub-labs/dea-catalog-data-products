@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fc12bad7-8a98-44ab-a92f-7829fc93a07e
+name: Road real estate (Transport Networks) - Municipality of Michendorf (Dataset)
+description: Dataset on real road surfaces (use type, top layer) in the area of the municipality of Michendorf
+  according to INSPIRE Data Specification on Transport Networks.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fc12bad7-8a98-44ab-a92f-7829fc93a07e (data.europa.eu
+      dataset fc12bad7-8a98-44ab-a92f-7829fc93a07e; publisher: Gemeinde Michendorf)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- emeinde-ichendorf
+slug: fc12bad7-8a98-44ab-a92f-7829fc-road-real-es

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 10-16904_envidat-364-envidat
+name: An ice oxygen K-edge NEXAFS spectroscopy data set on gas-phase processing
+description: Data are compiled that have been used to demonstrate the impact of high water partial pressure
+  on X-ray absorption spectra of ice.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/10-16904_envidat-364-envidat (data.europa.eu dataset
+      10-16904_envidat-364-envidat; publisher: EnviDat)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nviat
+slug: 10-16904-envidat-364-envidat-an-ice-oxyge

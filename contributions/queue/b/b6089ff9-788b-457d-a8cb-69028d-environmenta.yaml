@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b6089ff9-788b-457d-a8cb-69028d796ed3
+name: Environmental noise agglomeration
+description: This layer shows the agglomeration defined for Malta according to the requirements of Directive
+  2002/49/EC relating to the assessment and management of environmental noise. This is the area for which
+  strategic noise maps are produced.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b6089ff9-788b-457d-a8cb-69028d796ed3 (data.europa.eu
+      dataset b6089ff9-788b-457d-a8cb-69028d796ed3; publisher: Planning Authority)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- lanning-uthority
+slug: b6089ff9-788b-457d-a8cb-69028d-environmenta

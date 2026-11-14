@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu a37f4344-d4fe-40e1-bba7-125e1fea8137
+name: Geographical coordinates of educational establishments (geocoding)
+description: 'The data set includes the geographical coordinates of the pre-university education units,
+  from the school network 2016-2017, geocoded based on the postal address. DISCLAIMER: Since Romanian
+  postal addresses cannot always be geocoded correctly, the dataset may contain inaccuracies or missing
+  coordinates. The aim of the publication is to refine these coordinates with the help of civil society.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/a37f4344-d4fe-40e1-bba7-125e1fea8137 (data.europa.eu
+      dataset a37f4344-d4fe-40e1-bba7-125e1fea8137; publisher: Ministerul Educației)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterul-ducaiei
+slug: a37f4344-d4fe-40e1-bba7-125e1f-geographical

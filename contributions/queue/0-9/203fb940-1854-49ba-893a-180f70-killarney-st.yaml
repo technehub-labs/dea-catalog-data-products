@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 203fb940-1854-49ba-893a-180f70f06fc9
+name: Killarney (St.Finan'S Hosp.) Climate Data
+description: Daily and monthly climatalogical records for our station at Killarney (St.Finan'S Hosp.)
+  in Co. Kerry. This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/203fb940-1854-49ba-893a-180f70f06fc9 (data.europa.eu
+      dataset 203fb940-1854-49ba-893a-180f70f06fc9; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 203fb940-1854-49ba-893a-180f70-killarney-st

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 062d1951-ecf2-44a1-87c6-ab684fe3376e
+name: Dual education
+description: Dual education dataset in the Prešov self-governing region
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/062d1951-ecf2-44a1-87c6-ab684fe3376e (data.europa.eu
+      dataset 062d1951-ecf2-44a1-87c6-ab684fe3376e; publisher: Prešovský samosprávny kraj)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- reovsk-samosprvny-kr
+slug: 062d1951-ecf2-44a1-87c6-ab684f-dual-educati

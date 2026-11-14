@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu http-datosabiertos-torrent-es-dataset-aparcaments-mobilitat-reduida-2016
+name: Aparcaments mobilitat reduïda 2016 / Parkings for reduced mobility 2016
+description: Relació de places d'aparcament destined to persons amb mobilitat reduïda 2016 / List of parking
+  spaces intended for persons with reduced mobility 2016
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/http-datosabiertos-torrent-es-dataset-aparcaments-mobilitat-reduida-2016
+      (data.europa.eu dataset http-datosabiertos-torrent-es-dataset-aparcaments-mobilitat-reduida-2016;
+      publisher: Ayuntamiento de Torrent)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yuntamiento-de-orren
+slug: http-datosabiertos-torrent-es-aparcaments

@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 531cb4f1-0def-4d6d-aff6-307b84123509~~2
+name: Partner card of the UmweltPartnerschaft Hamburg
+description: 'The dataset contains the master data of the active partners of the UmweltPartnerschaft Hamburg.
+  The UmweltPartnerschaft (Environmental Partnership) is the institution for the promotion of voluntary
+  corporate environmental protection in Hamburg. Active partners of the network voluntarily contribute
+  more to environmental and climate protection than required by law. Together with the sponsors of our
+  initiative, we support the companies in the implementation of new measures in terms of environmental
+  protection. The partner card of the UmweltPartnerschaft Hamburg (web portal) is intended to strengthen
+  the networking of the active environmental partners and to present the active environmental partners
+  to the citizens of Hamburg. For each active environmental partner, the following is shown georeferenced:
+  - Name of the company - Address (street, house number, postcode, city) - Industry/industry In addition,
+  a filter function with the following sortings is offered in the web portal: - district - Economic field
+  - Sector of activity'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/531cb4f1-0def-4d6d-aff6-307b84123509~~2 (data.europa.eu
+      dataset 531cb4f1-0def-4d6d-aff6-307b84123509~~2; publisher: Behörde für Umwelt, Klima, Energie und
+      Agrarwirtschaft (BUKEA))'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ehrde-fr-mwelt-lima
+slug: 531cb4f1-0def-4d6d-aff6-307b84-partner-card

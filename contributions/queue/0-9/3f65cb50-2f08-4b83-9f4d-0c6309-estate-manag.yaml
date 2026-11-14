@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3f65cb50-2f08-4b83-9f4d-0c6309c54a84
+name: Estate management in the Department of Agriculture, Food and the Marine
+description: The report examines how the Department manages its property portfolio, anticipates related
+  risks and ensures adequate maintenance of its properties. The report also examines how the Department
+  accounts for its properties in accordance with standard public financial procedures and guidelines.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3f65cb50-2f08-4b83-9f4d-0c6309c54a84 (data.europa.eu
+      dataset 3f65cb50-2f08-4b83-9f4d-0c6309c54a84; publisher: Office of the Comptroller & Auditor General)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ffice-of-the-omptrol
+slug: 3f65cb50-2f08-4b83-9f4d-0c6309-estate-manag

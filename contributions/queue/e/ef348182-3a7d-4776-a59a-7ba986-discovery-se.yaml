@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ef348182-3a7d-4776-a59a-7ba986470e3f
+name: Discovery Service (CSW) GeoNord (PPIGE)
+description: Discovery service allowing access to metadata according to the standard CSW.A catalogue service
+  that conforms to the OpenGIS Catalogue Service specification version 2.0.2.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ef348182-3a7d-4776-a59a-7ba986470e3f (data.europa.eu
+      dataset ef348182-3a7d-4776-a59a-7ba986470e3f; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: ef348182-3a7d-4776-a59a-7ba986-discovery-se

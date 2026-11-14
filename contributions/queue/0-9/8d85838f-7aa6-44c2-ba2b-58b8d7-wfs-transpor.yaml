@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8d85838f-7aa6-44c2-ba2b-58b8d7ad6fcf
+name: WFS Transport (City of Osnabrück)
+description: This WFS service shows the construction sites, parking facilities and the environmental zone
+  in the city of Osnabrück.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8d85838f-7aa6-44c2-ba2b-58b8d7ad6fcf (data.europa.eu
+      dataset 8d85838f-7aa6-44c2-ba2b-58b8d7ad6fcf; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 8d85838f-7aa6-44c2-ba2b-58b8d7-wfs-transpor

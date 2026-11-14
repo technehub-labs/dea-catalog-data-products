@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6afd8227-d685-4c37-b8a7-f249faaec218
+name: Galway Bay 1/4 Scale Wave Energy Test Site
+description: Designated wave energy test site for supporting ocean energy device research and development
+  at 1/4 scale. The Galway Bay 1/4 scale wave energy test site is located 1.5km from Spiddal pier within
+  inner Galway Bay on the west coast of Ireland. Data has been collected in Galway Bay since 2008. Data
+  is collected from current meter sensors, wave device sensors and water temperature sensors. Data has
+  been collected to support ocean energy research technological innovation and development. Data has been
+  collected by the Marine Institute in association with SmartBay Ireland. Data has been incomplete given
+  periods of outage of wave energy sensors. Data has been complete and quality controlled for period devices
+  are observing and measuring in the marine environment.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6afd8227-d685-4c37-b8a7-f249faaec218 (data.europa.eu
+      dataset 6afd8227-d685-4c37-b8a7-f249faaec218; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: 6afd8227-d685-4c37-b8a7-f249fa-galway-bay-1

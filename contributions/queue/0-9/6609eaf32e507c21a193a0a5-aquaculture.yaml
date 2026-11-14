@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6609eaf32e507c21a193a0a5
+name: Aquaculture - PMC Statistics
+description: Dataset with PMC statistics - Aquaculture
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6609eaf32e507c21a193a0a5 (data.europa.eu dataset
+      6609eaf32e507c21a193a0a5; publisher: Agência para a Reforma Tecnológica do Estado)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- gncia-para-a-eforma
+slug: 6609eaf32e507c21a193a0a5-aquaculture

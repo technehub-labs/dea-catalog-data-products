@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b357acee-b70b-4f21-9b80-4a4bcec43c8e
+name: Use of fertilizers in Flemish agriculture
+description: Evolution of fertiliser use (phosphorus, potassium, nitrogen) in Flemish agriculture
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b357acee-b70b-4f21-9b80-4a4bcec43c8e (data.europa.eu
+      dataset b357acee-b70b-4f21-9b80-4a4bcec43c8e; publisher: Agentschap Landbouw en Visserij)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- gentschap-andbouw-en
+slug: b357acee-b70b-4f21-9b80-4a4bce-use-of-ferti

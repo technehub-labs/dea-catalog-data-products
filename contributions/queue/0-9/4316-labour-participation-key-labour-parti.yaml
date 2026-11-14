@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4316-labour-participation-key-figures
+name: Labour participation; key figures, 2003-2022
+description: 'This table contains quarterly and yearly figures on labour participation in the Netherlands.
+  The population of 15 to 74 years of age (excluding the institutionalized population) is divided into
+  the employed labour force, the unemployed labour force and those not in the labour force. The employed
+  labour force is subdivided on the basis of the professional status, and the average working hours. A
+  division by sex, age and level of education is available. Due to changes in the survey design and the
+  questionnaire of the Labour Force Survey (LFS), a revision of the figures for 2021 was carried out in
+  the first quarter of 2022. As a result, the numbers of 2021 and later will not be comparable to the
+  years 2003-2020. Data available from 2003 till 2022. Status of the figures: The figures in this table
+  are final. Changes as of 20 May 2025 None, the table has been discontinued. When will new figures be
+  published? Not applicable. The table is stopped.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4316-labour-participation-key-figures (data.europa.eu
+      dataset 4316-labour-participation-key-figures; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 4316-labour-participation-key-labour-parti

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6426e5d57fb54b41380e0558~~1
+name: Low and very low emission vehicles in the Transport en Commun Lyonnais network
+description: 'Pursuant to the II of Article D. 224-15-13 of the Environmental Code, the data relating
+  to vehicle fleet renewals and the proportion of low and very low emission vehicles in these renewals,
+  are defined and made available in accordance with the rules defined in the benchmark annexed to the
+  Decree of 29 December 2020. These data are based on the following national scheme: https://schema.data.gouv.fr/etalab/schema-vehicules-faibles-emissions-renouvellement-parc/0.1.0/'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6426e5d57fb54b41380e0558~~1 (data.europa.eu dataset
+      6426e5d57fb54b41380e0558~~1; publisher: Métropole de Lyon)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tropole-de-yon
+slug: 6426e5d57fb54b41380e0558-1-low-and-very

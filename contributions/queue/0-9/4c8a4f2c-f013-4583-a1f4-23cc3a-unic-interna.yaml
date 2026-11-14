@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4c8a4f2c-f013-4583-a1f4-23cc3a366762
+name: UNIC International Mobility OUTGOING ay 2023-2024
+description: This dataset records the outgoing student mobility from the University of Nicosia under the
+  Erasmus+ programme and other mobility initiatives during the academic year 2023–2024. It includes detailed
+  information on study programs, host institutions, types of mobility activity, and demographics of participating
+  students.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4c8a4f2c-f013-4583-a1f4-23cc3a366762 (data.europa.eu
+      dataset 4c8a4f2c-f013-4583-a1f4-23cc3a366762; publisher: University of Nicosia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- niversity-of-icosia
+slug: 4c8a4f2c-f013-4583-a1f4-23cc3a-unic-interna

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu environment-registry
+name: Environment Registry
+description: Defra's beta service that serves the Defra networks connective reference data such as code
+  lists and vocabularies with persistent identifiers in RDF ttl, RDF xml and JSON-LD withCSV coming soon.
+  The Environment Registry is intended to manage and publish lists of authoritative terms and reference
+  information used in data by the Defra Network
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/environment-registry (data.europa.eu dataset environment-registry;
+      publisher: Department for Environment, Food and Rural Affairs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-for-nviron
+slug: environment-registry-environment

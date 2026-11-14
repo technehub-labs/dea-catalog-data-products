@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 11c5df27-86e4-4171-a021-67c474be8331
+name: DHGA10CHN - General Health of the Population
+description: DHGA10CHN - General Health of the Population — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Department of Health.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/11c5df27-86e4-4171-a021-67c474be8331 (data.europa.eu
+      dataset 11c5df27-86e4-4171-a021-67c474be8331; publisher: Department of Health)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-of-ealth
+slug: 11c5df27-86e4-4171-a021-67c474-dhga10chn-ge

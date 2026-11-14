@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 9ca08b31-b4a2-45f2-aeaf-6d8d2c10abd5
+name: Municipality of Zeuthen Health
+description: 'Health of the municipality of Zeuthen Municipality of Zeuthen Health: sp_sis _health _ facilities
+  sp_sis _health _ physician _ specialist sp_sis _health _ pharmacy'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9ca08b31-b4a2-45f2-aeaf-6d8d2c10abd5 (data.europa.eu
+      dataset 9ca08b31-b4a2-45f2-aeaf-6d8d2c10abd5; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 9ca08b31-b4a2-45f2-aeaf-6d8d2c-municipality

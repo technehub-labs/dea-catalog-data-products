@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu http-datos-apc-es-poc-ut-p-wcm-oid3ab4dacbb9-0cae-4b7b-b40c-d8fdc3d0a791
+name: TRAFFIC STATISTICS 2018
+description: Summary of movement of goods of the Port Authority of Cartagena
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/http-datos-apc-es-poc-ut-p-wcm-oid3ab4dacbb9-0cae-4b7b-b40c-d8fdc3d0a791
+      (data.europa.eu dataset http-datos-apc-es-poc-ut-p-wcm-oid3ab4dacbb9-0cae-4b7b-b40c-d8fdc3d0a791;
+      publisher: Autoridad Portuaria de Cartagena)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- utoridad-ortuaria-de
+slug: http-datos-apc-es-poc-ut-p-wcm-traffic-stat-845

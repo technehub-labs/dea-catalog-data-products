@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu elective-home-education-camden4
+name: Elective Home Education Camden
+description: Elective Home Education Camden — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by London Borough of Camden.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/elective-home-education-camden4 (data.europa.eu dataset
+      elective-home-education-camden4; publisher: London Borough of Camden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ondon-orough-of-amde
+slug: elective-home-education-camden-elective-hom

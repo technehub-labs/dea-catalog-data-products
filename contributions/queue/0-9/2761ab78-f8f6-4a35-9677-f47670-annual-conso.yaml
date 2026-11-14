@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2761ab78-f8f6-4a35-9677-f47670dbf69f
+name: Annual consolidated key financial indicators for the implementation of the financial plans of the
+  Municipal Enterprise "Dnipro Electric Transport" of the Dnipro City Council
+description: Annual consolidated key financial indicators of the implementation of financial plans KP
+  "Dnipro Electric Transport" DMR
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2761ab78-f8f6-4a35-9677-f47670dbf69f (data.europa.eu
+      dataset 2761ab78-f8f6-4a35-9677-f47670dbf69f; publisher: Дніпровська міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 2761ab78-f8f6-4a35-9677-f47670-annual-conso

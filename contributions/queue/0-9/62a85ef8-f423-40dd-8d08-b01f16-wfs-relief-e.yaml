@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 62a85ef8-f423-40dd-8d08-b01f160f9a39
+name: WFS Relief Energy
+description: The indicator indicates how strongly a territorial unit is shaped by the relief. The low
+  mountain regions and the Alpine region stand out clearly. For more information, visit http://www.ioer-monitor.de/index.php?id=44&ID_IND=X02KG.
+  Registration is required to use WCS and WFS services. Please register at https://monitor.ioer.de/monitor
+  _api/signup.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/62a85ef8-f423-40dd-8d08-b01f160f9a39 (data.europa.eu
+      dataset 62a85ef8-f423-40dd-8d08-b01f160f9a39; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 62a85ef8-f423-40dd-8d08-b01f16-wfs-relief-e

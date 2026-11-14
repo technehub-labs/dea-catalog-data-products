@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu mobilite-emplacement-pour-velos
+name: Mobility - Pitch for bicycles
+description: Traffic Service Mobility - City of Luxembourg Bike location (LUREF and WGS84 coordinates)
+  Data is available by calling a REST API.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/mobilite-emplacement-pour-velos (data.europa.eu dataset
+      mobilite-emplacement-pour-velos; publisher: Ville de Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ille-de-uxembourg
+slug: mobilite-emplacement-pour-velo-mobility-pit

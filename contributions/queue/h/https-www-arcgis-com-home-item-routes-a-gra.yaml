@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-cb648798ee2d4a288a5398f4345f744c-sublayer-0
+name: Routes a Grande Circulation CD76 2026 20260825
+description: Table of classified high-traffic lanes of the road network of the department of Seine Maritime
+  as at 13 August 2026 **Metadata** [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/6d5a6ec342d942b7816164ded955afe5/data)
+  **Additional resources** * **Site of the Seine-Maritime Department:**[ https://www.seinemaritime.fr/your-services/transport-routes/routes-1/schema-director-route-departmental.html
+  ](https://www.seinemaritime.fr/your-services/transport-routes/routes-1/schema-director-route-departmental.html)
+  The website of the Department offers for download in pdf format the master plan of the departmental
+  road network of the Seine Maritime.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-cb648798ee2d4a288a5398f4345f744c-sublayer-0
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-cb648798ee2d4a288a5398f4345f744c-sublayer-0;
+      publisher: Département de la Seine Maritime)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- partement-de-la-eine
+slug: https-www-arcgis-com-home-item-routes-a-gra

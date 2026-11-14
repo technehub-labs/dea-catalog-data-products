@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4349-exports-of-goods-and-services-by-origin-national-accounts
+name: Exports of goods and services by origin; NA, 2015-2022
+description: 'This table presents data of exports of goods and services by origin from the National Accounts.
+  The table contains data of exported products by economic activities. It also shows data of exports that
+  can''t be imputed to economic activities. Data available from: 2015 up to and including 2022. Status
+  of the figures: Dates from 2015 up to and including 2021 are final. Dates of 2022 are provisional. Since
+  this table has been discontinued, provisional data will not become final. Changes as of June 24th 2024:
+  None. This table has been discontinued. Statistics Netherlands has carried out a revision of the national
+  accounts. The Dutch national accounts are recently revised. New statistical sources, methods and concepts
+  are implemented in the national accounts, in order to align the picture of the Dutch economy with all
+  underlying source data and international guidelines for the compilation of the national accounts. For
+  further information see section 3. When will new figures be published? Not applicable anymore.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4349-exports-of-goods-and-services-by-origin-national-accounts
+      (data.europa.eu dataset 4349-exports-of-goods-and-services-by-origin-national-accounts; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 4349-exports-of-goods-and-serv-exports-of-g

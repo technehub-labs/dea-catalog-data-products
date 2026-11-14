@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 04624369-1b2e-4197-ac83-1675819d8cc7
+name: Data on utility tariffs
+description: Data on tariffs for transportation and disposal of municipal solid waste KP "Service"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/04624369-1b2e-4197-ac83-1675819d8cc7 (data.europa.eu
+      dataset 04624369-1b2e-4197-ac83-1675819d8cc7; publisher: Комунальне підприємство "Послуга" Прилуцької
+      міської ради Чернігівської області)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 04624369-1b2e-4197-ac83-167581-data-on-util

@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1258-korte-vakanties-buitenland-organisatie-en-vervoer-2002-2016
+name: Short holidays abroad; Organisation and transport, 2002-2016
+description: 'This publication contains data on short (1-3 overnight stays) foreign holidays by form of
+  organisation and means of transport. Data available from 2002 to 2016. Status of figures The figures
+  are final. Changes as of 23 July 2019: None, this table has been discontinued. When will there be new
+  figures? No longer applicable.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1258-korte-vakanties-buitenland-organisatie-en-vervoer-2002-2016
+      (data.europa.eu dataset 1258-korte-vakanties-buitenland-organisatie-en-vervoer-2002-2016; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 1258-korte-vakanties-buitenlan-short-holida

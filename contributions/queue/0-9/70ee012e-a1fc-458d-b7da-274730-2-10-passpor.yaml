@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 70ee012e-a1fc-458d-b7da-2747308e3f60
+name: 2.10. Passports of budget programs of the Department of Education of Vinnytsia City Council
+description: The set contains passports of budget programs of the Department of Education of Vinnytsia
+  City Council.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/70ee012e-a1fc-458d-b7da-2747308e3f60 (data.europa.eu
+      dataset 70ee012e-a1fc-458d-b7da-2747308e3f60; publisher: Вінницька міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 70ee012e-a1fc-458d-b7da-274730-2-10-passpor

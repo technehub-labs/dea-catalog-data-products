@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-1652-przewozy-intermodalne-
+name: Przewozy intermodalne
+description: <p>Przewozy intermodalne - dane eksploatacyjne.</p>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-1652-przewozy-intermodalne-
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-1652-przewozy-intermodalne-; publisher: Urząd
+      Transportu Kolejowego)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- rzd-ransportu-olejow
+slug: https-dane-gov-pl-pl-dataset-1-przewozy-int

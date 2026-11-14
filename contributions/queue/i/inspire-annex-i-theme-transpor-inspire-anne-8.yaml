@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu inspire-annex-i-theme-transport-networks-tramway-lines
+name: INSPIRE - Annex I Theme Transport Networks - Tramway lines
+description: The dataset represents the tramway transport lines as coordinated by the Verkéiersverbond.
+  The updated data can be viewed on the geoportal (http://g-o.lu/3/jOPk). Description copied from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/a78d6622-bcaf-4676-95fc-17a4dec576a2).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/inspire-annex-i-theme-transport-networks-tramway-lines
+      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-tramway-lines; publisher: Géoportail)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- oportail
+slug: inspire-annex-i-theme-transpor-inspire-anne-8

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 20d7d7ee-4491-45d9-a5f5-74a6effc4248
+name: Consolidated annual balance sheet
+description: The balance was consolidated for the year of the Municipal Non-Profit Enterprise of the Kam’yansky
+  City Council "Center for Primary Health Care No1"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/20d7d7ee-4491-45d9-a5f5-74a6effc4248 (data.europa.eu
+      dataset 20d7d7ee-4491-45d9-a5f5-74a6effc4248; publisher: Комунальне некомерційне підприємство Кам''янської
+      міської ради "Центр первинної медико-санітарної допомоги №1")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- '1'
+slug: 20d7d7ee-4491-45d9-a5f5-74a6ef-consolidated

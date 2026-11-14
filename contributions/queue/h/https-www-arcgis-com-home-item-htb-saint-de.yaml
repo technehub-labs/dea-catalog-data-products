@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-www-arcgis-com-home-item-html-id-7a28bd05aeb44076849d4fe20f8be38d-sublayer-118~~1
+name: HTB Saint Denis Air High Voltage Lines
+description: Location of high-voltage lines - EDF Air HTB in Saint-Denis
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-7a28bd05aeb44076849d4fe20f8be38d-sublayer-118~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-7a28bd05aeb44076849d4fe20f8be38d-sublayer-118~~1;
+      publisher: {{source}})'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- source
+slug: https-www-arcgis-com-home-item-htb-saint-de

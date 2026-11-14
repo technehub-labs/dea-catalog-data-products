@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu environment-agency-conservation-projects-database
+name: Environment Agency Conservation Projects Database
+description: 'Information about projects the Environment Agency has carried out, either alone or in partnership,
+  to benefit wildlife where we have spent money on something other than staff time. Attribution statement:
+  © Environment Agency copyright and/or database right 2025. All rights reserved.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/environment-agency-conservation-projects-database
+      (data.europa.eu dataset environment-agency-conservation-projects-database; publisher: Environment
+      Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nvironment-gency
+slug: environment-agency-conservatio-environment

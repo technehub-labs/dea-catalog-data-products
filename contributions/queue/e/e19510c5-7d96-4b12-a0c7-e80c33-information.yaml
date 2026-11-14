@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e19510c5-7d96-4b12-a0c7-e80c33aae85b
+name: Information on vehicles serving passenger bus transportation
+description: Information on vehicles serving passenger bus transportation in the Reshetylivka urban territorial
+  community (number of vehicles on each route, brand, model, state number, passenger capacity)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e19510c5-7d96-4b12-a0c7-e80c33aae85b (data.europa.eu
+      dataset e19510c5-7d96-4b12-a0c7-e80c33aae85b; publisher: Виконавчий комітет Решетилівської міської
+      ради )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: e19510c5-7d96-4b12-a0c7-e80c33-information

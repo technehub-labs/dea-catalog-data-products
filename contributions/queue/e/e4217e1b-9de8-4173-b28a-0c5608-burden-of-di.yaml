@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e4217e1b-9de8-4173-b28a-0c5608de9be9
+name: Burden of disease of air pollution (Countries, NUTS regions and cities), tabular data (2005 - on-going)
+description: 'This dataset presents the burden of disease from air pollution due to exposure to three
+  main pollutants (PM2.5, NO2 and O3) at country, different NUTS and city levels. The calculations are
+  made from year 2005 and are updated every year (YY) adding the results for year YY-2. The concentrations
+  data are taken from the ETC/HE interpolated maps (EEA geospatial data catalogue: https://sdi.eea.europa.eu/catalogue/srv/eng/catalog.search#/metadata/82700fbd-2953-467b-be0a-78a520c3a7ef).
+  The methodology is as described in several ETC and EEA Reports, available at "ETC HE Reports on the
+  environmental burden of disease attributable to air pollution in Europe - Eionet Portal" (https://www.eionet.europa.eu/etcs/etc-he/products/etc-he-reports-on-the-environmental-burden-of-disease-attributable-to-air-pollution-in-europe).
+  The concentrations maps are available at the EEA''s Datahub: https://www.eea.europa.eu/en/datahub/datahubitem-view/82700fbd-2953-467b-be0a-78a520c3a7ef'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e4217e1b-9de8-4173-b28a-0c5608de9be9 (data.europa.eu
+      dataset e4217e1b-9de8-4173-b28a-0c5608de9be9; publisher: European Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- uropean-nvironment-g
+slug: e4217e1b-9de8-4173-b28a-0c5608-burden-of-di

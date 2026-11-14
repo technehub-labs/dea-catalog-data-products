@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu eee-marketed-uk-summary1
+name: EEE Marketed UK Summary
+description: 'This record is for Approval for Access product AfA316. EEE Marketed UK Summary contains
+  data reported by Producer Compliance Schemes (PCSs) on the amount of EEE(Electrical and Electronic Equipment)
+  their producer members are placing on the market. The data is broken down by: Category (1 –13) and Houshold/non-household.
+  The report is a UK dataset and contains no information about any specific company. Data is reported
+  quarterly, Reports available date back to Q3 2007. Attribution statement: © Environment Agency copyright
+  and/or database right 2019. All rights reserved.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/eee-marketed-uk-summary1 (data.europa.eu dataset
+      eee-marketed-uk-summary1; publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nvironment-gency
+slug: eee-marketed-uk-summary1-eee-marketed

@@ -1,0 +1,36 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-dane-gov-pl-pl-dataset-2561-liczba-pacjentow-dla-ktorych-w-poszczegolnych-lata
+name: Liczba pacjentów, dla których w poszczególnych latach odnotowano w danych NFZ zaraportowanie świadczenia
+  z danym kodem rozpoznania głównego wg klasyfikacji ICD-10 (do poziomu 3 znaków) po raz pierwszy
+description: <p>Udostępnione dane dotyczą liczby pacjentów, którym po raz pierwszy udzielono świadczenia
+  w danym roku z danym kodem rozpoznania głównego wg Międzynarodowej Statystycznej Klasyfikacji Chorób
+  i Problemów Zdrowotnych ICD-10 (do poziomu 3 znaków), co można traktować jako przybliżenie zachorowalności
+  na daną jednostkę chorobową. Liczby pacjentów nie należy sumować, ponieważ dany pacjent może występować
+  w różnych przekrojach. Korzystając z danych należy mieć na uwadze, że dane gromadzone w Narodowym Funduszu
+  Zdrowia nie mają stricte epidemiologicznego charakteru, ale służą przede wszystkim celom rozliczeniowym.
+  Wnioskowanie o procesach epidemiologicznych wymaga przeprowadzania na tych danych celowanych analiz.
+  Danymi źródłowymi do zestawienia są dane przekazywane przez świadczeniodawców do Narodowego Funduszu
+  Zdrowia z wykorzystaniem komunikatu SWIAD (<a href="http://www.nfz.gov.pl/dla-swiadczeniodawcy/sprawozdawczosc-elektroniczna/lista-typow-komunikatow-xml/komunikat-swiad/"
+  style="color:#0563c1; text-decoration:underline">www.nfz.gov.pl/dla-swiadczeniodawcy/sprawozdawczosc-elektroniczna/lista-typow-komunikatow-xml/komunikat-swiad/</a>
+  ). W zestawieniu nie są uwzględnione rozpoznania, o których mowa w <strong> </strong><em>Ustawie z dnia
+  5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi. </em>Usunięto również
+  zidentyfikowane oczywiste błędy sprawozdawcze. Dodatkowo w przypadku schorzeń o charakterze ostrym (np.
+  zawał serca, udar mózgu) rozliczenie specyficznych świadczeń z danym rozpoznaniem identyfikuje wystąpienie
+  danej jednostki chorobowej. W przypadku chorób o charakterze przewlekłym (w tym chorób nowotworowych)
+  wskazanie nowych zachorowań jest problematyczne i wymaga opracowania metodyki dotyczącej danej jednostki
+  chorobowej lub skorzystania z rejestrów epidemiologicznych.</p>
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-2561-liczba-pacjentow-dla-ktorych-w-poszczegolnych-lata
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-2561-liczba-pacjentow-dla-ktorych-w-poszczegolnych-lata;
+      publisher: Narodowy Fundusz Zdrowia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arodowy-undusz-drowi
+slug: https-dane-gov-pl-pl-dataset-2-liczba-pacje

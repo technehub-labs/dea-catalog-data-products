@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2f123e1f-8e3c-4d2d-94c7-346317aeff84
+name: Maritime Collections
+description: The aim of this survey was to obtain a general overview of the maritime-related collections
+  in Ireland, to ascertain the location, ownership, condition, overall theme, and nature of the contents
+  of each collection. It is neither an inventory nor a full evaluation of the collections, and is in no
+  way intended to criticize either the collections or their custodians.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2f123e1f-8e3c-4d2d-94c7-346317aeff84 (data.europa.eu
+      dataset 2f123e1f-8e3c-4d2d-94c7-346317aeff84; publisher: Heritage Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eritage-ouncil
+slug: 2f123e1f-8e3c-4d2d-94c7-346317-maritime-col

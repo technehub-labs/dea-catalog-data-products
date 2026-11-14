@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6cffbd43-6c57-4e15-b8bd-031449624e48
+name: Public EV Charging Points DLR
+description: 'Location of the EV (Electric Vehicle) charging points in DLR county. This data was collected
+  by Compass in a survey undertaken in 2019 and may be missing charging points that have been installed
+  since then. Certain restrictions may apply as some equipment may be on private property/or for customers
+  only. For more information on EV Charging Points in DLR: https://www.dlrcoco.ie/travel-transport/parking/electric-vehicle-charging-points'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6cffbd43-6c57-4e15-b8bd-031449624e48 (data.europa.eu
+      dataset 6cffbd43-6c57-4e15-b8bd-031449624e48; publisher: Dún Laoghaire-Rathdown County Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- n-aoghaireathdown-ou
+slug: 6cffbd43-6c57-4e15-b8bd-031449-public-ev-ch

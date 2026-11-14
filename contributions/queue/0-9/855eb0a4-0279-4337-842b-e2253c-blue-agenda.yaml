@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 855eb0a4-0279-4337-842b-e2253cc9df81
+name: Blue Agenda Dry Damage Agriculture Current
+description: This stock contains the current drought damage for agriculture per building block. The reference
+  situation is the situation in 2050 including autonomous development such as climate change according
+  to the KNMI WH scenario. The impact assessment of the situation in 2050 (WH scenario) is the current
+  situation as a reference.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/855eb0a4-0279-4337-842b-e2253cc9df81 (data.europa.eu
+      dataset 855eb0a4-0279-4337-842b-e2253cc9df81; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 855eb0a4-0279-4337-842b-e2253c-blue-agenda

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu b0bd6db2-3ada-27d4-cbd4-0973e11e0624
+name: Land Planning - LEP Environment 2004 TB for Roads TS
+description: The Map Service (WMS Group) provides the map bases of the Saarland State Development Plan
+  Environment (2004) and Settlement (2006).:Generalized representation of route areas for roads (TS) within
+  the framework of the LEP Environment 2004.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/b0bd6db2-3ada-27d4-cbd4-0973e11e0624 (data.europa.eu
+      dataset b0bd6db2-3ada-27d4-cbd4-0973e11e0624; publisher: Ministerium für Umwelt, Klima, Mobilität,
+      Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterium-fr-mwelt
+slug: b0bd6db2-3ada-27d4-cbd4-0973e1-land-plannin

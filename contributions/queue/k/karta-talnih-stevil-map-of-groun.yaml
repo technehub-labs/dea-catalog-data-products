@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu karta-talnih-stevil
+name: Map of ground numbers
+description: A soil number map is a spatial record containing a basic assessment of soil properties given
+  in numerical terms. In determining the basic assessment of soil properties, the geological basis, the
+  stage of development and the texture from the data of the soil map of Slovenia shall be taken into account.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/karta-talnih-stevil (data.europa.eu dataset karta-talnih-stevil;
+      publisher: MINISTRSTVO ZA KMETIJSTVO)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: karta-talnih-stevil-map-of-groun

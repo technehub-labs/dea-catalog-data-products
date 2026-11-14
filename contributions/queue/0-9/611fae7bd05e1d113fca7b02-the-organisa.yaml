@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 611fae7bd05e1d113fca7b02
+name: The organisation of the public transport lines of the Val d’Essonne
+description: The creation, organisation and management of public transport lines is the responsibility
+  of Île-de-France Mobilités (IDFM) in Ile-de-France. Nevertheless, in order to preserve the quality of
+  the service provided to users, the Community of Communes du Val d’Essonne participates in the financing
+  of many regular bus and school transport routes (Circuits Special Schools or Regular School-related
+  Lines) that marries the territory.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/611fae7bd05e1d113fca7b02 (data.europa.eu dataset
+      611fae7bd05e1d113fca7b02; publisher: Communauté de communes du Val d''Essonne)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ommunaut-de-communes
+slug: 611fae7bd05e1d113fca7b02-the-organisa

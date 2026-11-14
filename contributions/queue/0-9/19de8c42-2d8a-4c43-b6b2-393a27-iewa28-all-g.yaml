@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 19de8c42-2d8a-4c43-b6b2-393a274c303b
+name: IEWA28 - All graduates from Higher Education
+description: IEWA28 - All graduates from Higher Education — a published dataset in the EU Open Data Portal
+  (data.europa.eu), maintained by Central Statistics Office.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/19de8c42-2d8a-4c43-b6b2-393a274c303b (data.europa.eu
+      dataset 19de8c42-2d8a-4c43-b6b2-393a274c303b; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: 19de8c42-2d8a-4c43-b6b2-393a27-iewa28-all-g

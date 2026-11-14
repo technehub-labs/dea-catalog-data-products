@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 0d1e2b7c-0305-4d0d-ad79-0b7c2bc1d976-kanton-thurgau
+name: Climate map night
+description: 'The climate map night represents the nightly overheating on settlement and traffic areas
+  ("efficacy areas") as well as the importance of green and open spaces ("compensation areas") for the
+  nocturnal city climate. Classification: The classification of nighttime overheating is based on the
+  temperature difference between the settlement area and the adjacent open spaces at the same altitude.
+  The classification of the green and open spaces is based on their importance for cold air processes
+  and the proximity to thermally polluted areas in the settlement area.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/0d1e2b7c-0305-4d0d-ad79-0b7c2bc1d976-kanton-thurgau
+      (data.europa.eu dataset 0d1e2b7c-0305-4d0d-ad79-0b7c2bc1d976-kanton-thurgau; publisher: Kanton Thurgau,
+      Amt für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- anton-hurgau-mt-fr-e
+slug: 0d1e2b7c-0305-4d0d-ad79-0b7c2b-climate-map

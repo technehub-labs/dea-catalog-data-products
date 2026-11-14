@@ -1,0 +1,33 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu s1084_80_2_409
+name: 'Special Eurobarometer 409: Climate change'
+description: 'Climate change is one of the greatest challenges of the modern age. As Europe takes action
+  to meet its objectives, it is important to understand the attitudes and behaviour of EU citizens towards
+  climate change and their expectations for the future. This Eurobarometer survey measures these and compares
+  them with the last poll on this issue carried out in 2011. As Europe takes action to meet the objectives
+  of preventing and minimising the impact of climate change, it is important to understand the attitudes
+  and behaviour of the EU - Perceptions of climate change in relation to other world problems - Perceptions
+  of the seriousness of climate change - Opinions on who within the EU is responsible for tackling climate
+  change - Whether they agree or disagree that fighting climate change can boost the economy and jobs
+  within the EU or that reducing the import of fossil fuel from outside the EU benefits the EU economy
+  - Whether they have taken personal action to fight climate change and what actions they have taken -
+  How important they think it is for their government to set targets to increase the amount of renewable
+  energy by 2030 - How important they think it is for their government to provide support for improving
+  energy efficiency #####The results by volumes are distributed as follows: * Volume A: Countries * Volume
+  AA: Groups of countries * Volume A'' (AP): Trends * Volume AA'' (AAP): Trends of groups of countries
+  * Volume B: EU/socio-demographics * Volume B'' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics
+  ---- Researchers may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/s1084_80_2_409 (data.europa.eu dataset s1084_80_2_409;
+      publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- irectorateeneral-for
+slug: s1084-80-2-409-special-euro

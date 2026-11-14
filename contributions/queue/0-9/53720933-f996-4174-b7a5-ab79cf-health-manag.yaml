@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 53720933-f996-4174-b7a5-ab79cfc1c410
+name: _ Health Management _maritima
+description: Management of medical examinations of maritime boarding and review of medical kits and consultations
+  attended at the Medical Radio Center.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/53720933-f996-4174-b7a5-ab79cfc1c410 (data.europa.eu
+      dataset 53720933-f996-4174-b7a5-ab79cfc1c410; publisher: Ministerio de Inclusión, Seguridad Social
+      y Migraciones)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterio-de-nclusin
+slug: 53720933-f996-4174-b7a5-ab79cf-health-manag

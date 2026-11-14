@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3e1bf6d8-b67f-4373-a6dc-74d959e3733b
+name: Reports on the implementation of work plans
+description: Reports of the Department of Education and Science of Sumy Regional State Administration
+  on the implementation of the work plan of Sumy Regional State Administration
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3e1bf6d8-b67f-4373-a6dc-74d959e3733b (data.europa.eu
+      dataset 3e1bf6d8-b67f-4373-a6dc-74d959e3733b; publisher: Департамент освіти і науки Сумської обласної
+      державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 3e1bf6d8-b67f-4373-a6dc-74d959-reports-on-t

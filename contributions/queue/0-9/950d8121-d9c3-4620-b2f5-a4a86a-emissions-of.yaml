@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 950d8121-d9c3-4620-b2f5-a4a86a0ded04
+name: Emissions of air pollutants from transport
+description: emissions from the transport sector is the sum of emissions from road traffic, shipping,
+  aviation, rail traffic and mobile machinery road traffic has the largest share of emissions from transport,
+  especially from passenger cars.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/950d8121-d9c3-4620-b2f5-a4a86a0ded04 (data.europa.eu
+      dataset 950d8121-d9c3-4620-b2f5-a4a86a0ded04; publisher: Vlaamse Milieu Maatschappij)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- laamse-ilieu-aatscha
+slug: 950d8121-d9c3-4620-b2f5-a4a86a-emissions-of

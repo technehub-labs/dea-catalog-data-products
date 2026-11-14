@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-kod-brno-cz-nkod-dataset-b6222ce9f0284046b609bc30953f74ca_0-ttl
+name: Lookout towers in the South Moravian region
+description: 'English description below. The point layer contains publicly accessible lookout towers located
+  in the South Moravian Region. It was prepared by Barbora Řiháčková for the purpose of the bachelor thesis
+  under the guidance of Lenka Janošíková at Mendel University in 2022.The attributes of the data set contain
+  information about the name of the lookout tower (NAME), the location (OBEC), the type of construction
+  of the structure (Construction), then the height of the lookout tower in meters (Height), the altitude
+  in meters (Adm_height) and the date of commissioning (V_operation).The data are in the coordinate system
+  WGS 1984 (EPSG 4326).Point layer of publicly accessible lookout towers in the South Moravian region.
+  Data were collected in 2022 for bachelor thesis. Attributes: TITLE - name of the lookout tower, OBEC
+  - location of the tower, Konstrukce - material of the construction, Height - height in meters, Nadm_výška
+  - altitude in meters, V_vozu - date of operation.Coordinate system - WGS 1984 (EPSG 4326).'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-kod-brno-cz-nkod-dataset-b6222ce9f0284046b609bc30953f74ca_0-ttl
+      (data.europa.eu dataset https-kod-brno-cz-nkod-dataset-b6222ce9f0284046b609bc30953f74ca_0-ttl; publisher:
+      Statutární město Brno)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatutrn-msto-rno
+slug: https-kod-brno-cz-nkod-dataset-lookout-towe

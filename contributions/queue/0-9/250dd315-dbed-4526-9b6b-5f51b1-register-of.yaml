@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 250dd315-dbed-4526-9b6b-5f51b1b45850
+name: Register of data sets owned by the municipal health care institution "Kharkiv City Health Center"
+description: Based on the order of the Kharkiv Mayor dated 21.10.2021 No. 194 "On Approval of the Regulation
+  on Data Sets of the Kharkiv City Council", it was organized to publish open data sets of the information
+  manager on the Kharkiv Open Data Portal, which, according to the Kharkivvesting procedure, are automatically
+  placed on the Unified State Web Portal of Open Data in the office of the manager "Kharkiv City Council"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/250dd315-dbed-4526-9b6b-5f51b1b45850 (data.europa.eu
+      dataset 250dd315-dbed-4526-9b6b-5f51b1b45850; publisher: Комунальний заклад охорони здоров''я "Харківський
+      міський центр здоров''я" Харківської міської ради)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 250dd315-dbed-4526-9b6b-5f51b1-register-of

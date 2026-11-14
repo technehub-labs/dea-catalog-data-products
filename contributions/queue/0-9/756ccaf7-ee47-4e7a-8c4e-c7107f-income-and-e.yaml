@@ -1,0 +1,35 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 756ccaf7-ee47-4e7a-8c4e-c7107fa505e6~~1
+name: Income and expenditure of the City of Helsinki
+description: 'Income and expenditure of the City of Helsinki since 2009 according to the financial statements.
+  The kept updated Excel files contain one-year totals by organisation and account. Some indications are
+  missing from the 2009-2011 data: e.g. the Public Works Department (HKR), Stara and the municipal enterprises.
+  From 2012 onwards, all the city’s subsidies and municipal enterprises are included in the data. The
+  titles of financial statement data have changed in some respects since 2012. The columns for the 2009-2011
+  financial statement dataset correspond to the columns for the financial statements for 2012 continued
+  as follows: - Agency + Agency name = Company + name / Department + Department name = Company + name
+  - Section = Section No / Main title = Main title number - Section name = Section name / Name of the
+  main title = Name of the main title - Number = Number number / Count = Count number - Number name =
+  Number name / Count name = Count name - Item = Item No / Item = Item number - Item name = Item name
+  / Item name = Item name - Cost center = Unit number / Cost center = Unit number - Cost center name =
+  Unit name - Outturn = Outturn Total (ULS, External Calculation Balances) / Realization = Realization
+  in total - Account group 3 name = Budget account group / Account group 3 name = Budget account group
+  - Account name = Master ledger account name / Account name = Name of the general ledger account - Account
+  = General ledger account / Account = Number of the general ledger account - Year = Year / Year = Year
+  **NOTE:** On 1st of June 2017, the City of Helsinki underwent an organisational reform, after which
+  part of the expenditure is no longer allocated to the budget sub-categories, so in the case of the divisions,
+  some of the columns are empty.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/756ccaf7-ee47-4e7a-8c4e-c7107fa505e6~~1 (data.europa.eu
+      dataset 756ccaf7-ee47-4e7a-8c4e-c7107fa505e6~~1; publisher: Helsingin kaupunginkanslia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- elsingin-kaupunginka
+slug: 756ccaf7-ee47-4e7a-8c4e-c7107f-income-and-e

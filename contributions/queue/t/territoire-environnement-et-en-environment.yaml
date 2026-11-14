@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu territoire-environnement-et-energie-energie-marche-et-prix-de-lenergie
+name: Environment and energy territory - Energy - Energy market and prices
+description: 'This dataset includes the following resources: - Characteristics of the natural gas and
+  d&# networks39;electricity - Composition of the price of l&#39;essence - Composition of the price of
+  l&#39;electricity by type of customer - Composition of gas oil/diesel prices - Composition of Liquefied
+  Petroleum Gas (LPG) price by customer type - Composition of the price of natural gas by type of customer
+  - L&# market39;electricity by customer type - Natural gas market by type of customer - Price of l&#39;energy
+  in the domestic heating sector --- Automatically synced from the [LUSTAT database](https://lustat.statec.lu)'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/territoire-environnement-et-energie-energie-marche-et-prix-de-lenergie
+      (data.europa.eu dataset territoire-environnement-et-energie-energie-marche-et-prix-de-lenergie;
+      publisher: STATEC Institut national de la statistique et des études économiques du Grand-Duché de
+      Luxembourg)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nstitut-national-de
+slug: territoire-environnement-et-en-environment

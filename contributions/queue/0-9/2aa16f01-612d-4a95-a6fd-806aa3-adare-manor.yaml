@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2aa16f01-612d-4a95-a6fd-806aa30d0ec1
+name: Adare Manor Climate Data
+description: Daily and monthly climatalogical records for our station at Adare Manor in Co. Limerick.
+  This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2aa16f01-612d-4a95-a6fd-806aa30d0ec1 (data.europa.eu
+      dataset 2aa16f01-612d-4a95-a6fd-806aa30d0ec1; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 2aa16f01-612d-4a95-a6fd-806aa3-adare-manor

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu monthly-ten-day-climate-review-luxembourg-findel-airport-wmo-id-06590-wigos-id-0-20000-0-06590
+name: Monthly Ten-Day Climate Review - Luxembourg/Findel Airport (WMO ID 06590, WIGOS ID 0-20000-0-06590)
+description: Monthly Ten-Day Climate Review - Luxembourg/Findel Airport (WMO ID 06590, WIGOS ID 0-20000-0-06590)
+  — a published dataset in the EU Open Data Portal (data.europa.eu), maintained by MeteoLux.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/monthly-ten-day-climate-review-luxembourg-findel-airport-wmo-id-06590-wigos-id-0-20000-0-06590
+      (data.europa.eu dataset monthly-ten-day-climate-review-luxembourg-findel-airport-wmo-id-06590-wigos-id-0-20000-0-06590;
+      publisher: MeteoLux)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eteoux
+slug: monthly-ten-day-climate-review-monthly-ten

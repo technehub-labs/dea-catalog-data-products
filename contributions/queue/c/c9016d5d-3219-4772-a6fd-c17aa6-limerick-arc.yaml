@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c9016d5d-3219-4772-a6fd-c17aa66d256a
+name: Limerick Architectural Conservation Area
+description: Dataset owned and provided by Limerick County Council June 2010. Dataset represents Architectural
+  Conservation areas afforded legal protection. Contact Limerick County Council Conservation officer for
+  further information
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c9016d5d-3219-4772-a6fd-c17aa66d256a (data.europa.eu
+      dataset c9016d5d-3219-4772-a6fd-c17aa66d256a; publisher: Marine Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- arine-nstitute
+slug: c9016d5d-3219-4772-a6fd-c17aa6-limerick-arc

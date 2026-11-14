@@ -1,0 +1,17 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-piveau-eu-set-data-coo_3000_107_2_264603
+name: Health professions (GuK, MTD, MTF, SHD, KT, etc.), General
+description: Health professions (GuK, MTD, MTF, SHD, KT, etc.), General,
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_107_2_264603 (data.europa.eu
+      dataset https-piveau-eu-set-data-coo_3000_107_2_264603; publisher: BMASGPK)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: https-piveau-eu-set-data-coo-3-health-profe

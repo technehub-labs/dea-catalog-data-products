@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 4f153648-78c6-461f-9532-0ae07ce0cf3a
+name: Lokale Erneuerbare Energieerzeugung exklusive Verkehr Wien
+description: Renewable energy generation in Vienna plus renewable "on-site energy" without traffic share
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4f153648-78c6-461f-9532-0ae07ce0cf3a (data.europa.eu
+      dataset 4f153648-78c6-461f-9532-0ae07ce0cf3a; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 4f153648-78c6-461f-9532-0ae07c-lokale-erneu

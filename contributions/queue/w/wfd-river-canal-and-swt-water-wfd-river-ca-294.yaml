@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu wfd-river-canal-and-swt-water-bodies-cycle-4-classification-2025-full-resolution
+name: WFD River, Canal, and SWT Water Bodies Cycle 4 Classification 2025 (Full Resolution)
+description: 'This is a polyline dataset showing Water Framework Directive (WFD) River, Canal, and Surface
+  Water Transfer Water Bodies. River centrelines represent the official river water body definition for
+  the WFD. This dataset provides attribution on the 2025 classification results, as well as other relevant
+  information and data about each river, canal, and surface water transfer water body. See the Environment
+  Agency''s Water Hub for more information (link below). Attribution statement: © Environment Agency copyright
+  and/or database right 2026. All rights reserved. Contains OS data © Crown copyright and database right
+  2026.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/wfd-river-canal-and-swt-water-bodies-cycle-4-classification-2025-full-resolution
+      (data.europa.eu dataset wfd-river-canal-and-swt-water-bodies-cycle-4-classification-2025-full-resolution;
+      publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nvironment-gency
+slug: wfd-river-canal-and-swt-water-wfd-river-ca-294

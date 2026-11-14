@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu department-of-health-departmental-expenditure-over-f25-000-2026-27
+name: Department of Health - Departmental Expenditure Over £25,000 2026/27
+description: A monthly-updated list of all financial transactions over £25,000.00 made by the Department
+  of Health, as part of the NICS's commitment to transparency in expenditure.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/department-of-health-departmental-expenditure-over-f25-000-2026-27
+      (data.europa.eu dataset department-of-health-departmental-expenditure-over-f25-000-2026-27; publisher:
+      OpenDataNI)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- penata
+slug: department-of-health-departmen-department-o

@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu http-datos-apc-es-poc-ut-p-wcm-oid3ac0e2eb30-d4bb-488e-82ad-905f8807d0aa
+name: TRAFFIC STATISTICS 2022
+description: Summary of movement of goods Port Authority of Cartagena Year 2021
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/http-datos-apc-es-poc-ut-p-wcm-oid3ac0e2eb30-d4bb-488e-82ad-905f8807d0aa
+      (data.europa.eu dataset http-datos-apc-es-poc-ut-p-wcm-oid3ac0e2eb30-d4bb-488e-82ad-905f8807d0aa;
+      publisher: Autoridad Portuaria de Cartagena)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- utoridad-ortuaria-de
+slug: http-datos-apc-es-poc-ut-p-wcm-traffic-stat-846

@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu inspire-annex-i-theme-transport-networks-rail-railwaystationnode
+name: INSPIRE - Annex I Theme Transport Networks - Rail - RailwayStationNode
+description: This dataset contains the rail station areas of the Grand Duchy of Luxembourg. The dataset
+  is structured according to the INSPIRE Annex I Theme - Transport networks. The data has been derived
+  from CFL Database and contains rail station areas without further network information. Description copied
+  from [catalog.inspire.geoportail.lu](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/017f3598-ccfc-4ee6-bd1f-1c83e3029545).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/inspire-annex-i-theme-transport-networks-rail-railwaystationnode
+      (data.europa.eu dataset inspire-annex-i-theme-transport-networks-rail-railwaystationnode; publisher:
+      Géoportail)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- oportail
+slug: inspire-annex-i-theme-transpor-inspire-anne-888

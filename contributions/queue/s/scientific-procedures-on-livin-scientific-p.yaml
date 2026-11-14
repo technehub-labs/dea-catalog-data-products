@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu scientific_procedures_on_living_animals
+name: Scientific Procedures on Living Animals
+description: 'Annual Statistics collected relating to Scientifiic procedures performed on living animals
+  under the provisions of the Animals (Scientific Procedures) Act 1986, from licenses in accordance with
+  section 21(7) of the Act. Source agency: Home Office Designation: National Statistics Language: English
+  Alternative title: Scientific Procedures on Living Animals'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/scientific_procedures_on_living_animals (data.europa.eu
+      dataset scientific_procedures_on_living_animals; publisher: Home Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ome-ffice
+slug: scientific-procedures-on-livin-scientific-p

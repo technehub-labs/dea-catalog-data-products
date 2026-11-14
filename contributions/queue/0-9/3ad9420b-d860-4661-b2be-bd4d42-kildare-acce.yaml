@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3ad9420b-d860-4661-b2be-bd4d422e780c
+name: Kildare Accessible Parking
+description: 'This dataset contains information on the location of accessible parking (adopted through
+  Parking Control Bye-Laws) in Kildare. The data is not representative of all accessible parking spaces
+  in Kildare. The data includes a small number of accessible parking spaces on private property (not adopted
+  through Parking Control Bye-Laws). The dataset was created using KCC data, OSI DigitalGlobe data and
+  Google Street View data. For more information on accessible parking in Kildare, please see the following
+  link: http://www.kildare.ie/CountyCouncil/RoadsandTransportation/Payparking/AccessibleParking/'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3ad9420b-d860-4661-b2be-bd4d422e780c (data.europa.eu
+      dataset 3ad9420b-d860-4661-b2be-bd4d422e780c; publisher: Kildare County Council )'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ildare-ounty-ouncil
+slug: 3ad9420b-d860-4661-b2be-bd4d42-kildare-acce

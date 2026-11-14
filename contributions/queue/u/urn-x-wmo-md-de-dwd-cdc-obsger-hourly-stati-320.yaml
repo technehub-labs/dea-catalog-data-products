@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-soil_temperature~~1
+name: Hourly station observations of of soil temperature for Germany
+description: These data originate from the stations of the DWD and legally as well as qualitatively equal
+  partner network stations. Extensive station metadata, such as station relocations, instrument changes,
+  reference time changes, algorithm changes or operator information are included. The dataset is divided
+  into a versioned part with completed quality check, in the directory ./historical/. And a part for which
+  the quality check has not yet been completed, in the directory ./recent/. The folder ./timeseries_overview/
+  contains information about long time series.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-soil_temperature~~1
+      (data.europa.eu dataset urn-x-wmo-md-de-dwd-cdc-obsgermany-climate-hourly-soil_temperature~~1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: urn-x-wmo-md-de-dwd-cdc-obsger-hourly-stati-320

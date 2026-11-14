@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu c68fd19b-0e7e-4cbe-b914-bab9981a112c-canton-du-valais-cc-geo
+name: Four-thousanders
+description: At the request of Valais Tourism, this dataset was compiled on the basis of names and elevation
+  data from SwissNames3D, as of 2013. The criteria of the "International Climbing and Mountaineering Association
+  (UIAA)" for the registration were the mountain peaks with a height above 4000m.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c68fd19b-0e7e-4cbe-b914-bab9981a112c-canton-du-valais-cc-geo
+      (data.europa.eu dataset c68fd19b-0e7e-4cbe-b914-bab9981a112c-canton-du-valais-cc-geo; publisher:
+      Kanton Wallis - Dienststelle für Geoinformation)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- anton-allis-ienstst
+slug: c68fd19b-0e7e-4cbe-b914-bab998-four-thousan

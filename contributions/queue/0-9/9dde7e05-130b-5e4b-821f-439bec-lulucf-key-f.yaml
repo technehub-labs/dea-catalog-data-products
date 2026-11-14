@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 9dde7e05-130b-5e4b-821f-439bec1dd61b
+name: LULUCF key figures 2025
+description: This dataset contains the key figures (carbon stock values, enrichment values, N2O and CH4
+  emission factors, etc.) needed to calculate emissions in the context of the European LULUCF Regulation
+  with regard to the reporting of greenhouse gas storage and emissions related to land use changes.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9dde7e05-130b-5e4b-821f-439bec1dd61b (data.europa.eu
+      dataset 9dde7e05-130b-5e4b-821f-439bec1dd61b; publisher: Departement Omgeving)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartement-mgeving
+slug: 9dde7e05-130b-5e4b-821f-439bec-lulucf-key-f

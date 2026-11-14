@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 497e0f6c-0956-4883-95b9-1a952e830b43
+name: List of carriers providing services of urban passenger road transport, including transportation
+  routes, Fastiv
+description: List of carriers providing services of urban passenger road transport, including transportation
+  routes, Fastiv
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/497e0f6c-0956-4883-95b9-1a952e830b43 (data.europa.eu
+      dataset 497e0f6c-0956-4883-95b9-1a952e830b43; publisher: Фастівська міська рада та її виконавчі
+      органи)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 497e0f6c-0956-4883-95b9-1a952e-list-of-carr

@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 8140578e-5d8a-43ee-a1bd-2fe694a9a625
+name: No. of Adults 18-20 Years in Receipt of an Aftercare Service in Other Education / Accredited Training
+  2018
+description: Performance metrics for by year No. of Adults 18-20 Years in Receipt of an Aftercare Service
+  in Other Education / Accredited Training
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8140578e-5d8a-43ee-a1bd-2fe694a9a625 (data.europa.eu
+      dataset 8140578e-5d8a-43ee-a1bd-2fe694a9a625; publisher: Tusla)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- usla
+slug: 8140578e-5d8a-43ee-a1bd-2fe694-no-of-adults

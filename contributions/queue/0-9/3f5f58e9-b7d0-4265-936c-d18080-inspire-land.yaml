@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 3f5f58e9-b7d0-4265-936c-d1808051dabc~~1
+name: INSPIRE Land Use / InVeKoS Agricultural plots BB
+description: The interoperable INSPIRE dataset contains data from the EU Paying Agency BB on the agricultural
+  parcels in Brandenburg, transformed into the INSPIRE land use target scheme. The dataset is provided
+  via an interoperable display and download service. --- The compliant INSPIRE data set contains data
+  about the agricultural parcels in the State of Brandenburg from the paying agency, transformed into
+  the INSPIRE annex schema Land Use. The data set is provided via compliant view and download services.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3f5f58e9-b7d0-4265-936c-d1808051dabc~~1 (data.europa.eu
+      dataset 3f5f58e9-b7d0-4265-936c-d1808051dabc~~1; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 3f5f58e9-b7d0-4265-936c-d18080-inspire-land

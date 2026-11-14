@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 46503-dienstenprijzen-commerci-le-dienstverlening-en-transport-index-2021-100
+name: Service prices;commercial services and transport, index 2021=100
+description: Service prices;commercial services and transport, index 2021=100 — a published dataset in
+  the EU Open Data Portal (data.europa.eu), maintained by the publishing body.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/46503-dienstenprijzen-commerci-le-dienstverlening-en-transport-index-2021-100
+      (data.europa.eu dataset 46503-dienstenprijzen-commerci-le-dienstverlening-en-transport-index-2021-100;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 46503-dienstenprijzen-commerci-service-pric

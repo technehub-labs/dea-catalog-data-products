@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5dd651728b4c410aeb6582e4
+name: Regulated parking for people with reduced mobility in the Commune of Lyon
+description: The possibility of parking on roads or in car parks, public or private, helps to ensure the
+  accessibility of motorized travel for people with disabilities and people with reduced mobility (PRM).
+  A comprehensive legal framework exists to guarantee this right. On the one hand, there is free parking
+  on all public spaces in VOIRIE and the right to use the spaces reserved for holders of a mobility card
+  mentioning "parking". On the other hand, there are the obligations of communities and managers of institutions
+  receiving the public to create accessible reserved spaces. This dataset presents the location of regulated
+  locations for persons holding the "Persons with Reduced Mobility" card.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5dd651728b4c410aeb6582e4 (data.europa.eu dataset
+      5dd651728b4c410aeb6582e4; publisher: Ville de Lyon)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ille-de-yon
+slug: 5dd651728b4c410aeb6582e4-regulated-pa

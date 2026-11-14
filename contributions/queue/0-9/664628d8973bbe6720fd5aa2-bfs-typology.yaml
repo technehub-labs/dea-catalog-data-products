@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 664628d8973bbe6720fd5aa2
+name: BFS - Typology of municipalities 2020 in 9 categories
+description: Typology of municipalities 2020 in 9 categories
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/664628d8973bbe6720fd5aa2 (data.europa.eu dataset
+      664628d8973bbe6720fd5aa2; publisher: Mobility)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- obility
+slug: 664628d8973bbe6720fd5aa2-bfs-typology

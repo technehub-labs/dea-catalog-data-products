@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu extraction-des-donnees-du-geoportail-lignes-de-bus-du-tice
+name: Geoportal Data Extraction - CTBT Bus Lines
+description: Geodata visible on map.geoportail.lu, CdT category - Buslinnen TICE<br>-------------------------------------<br>
+  Automatically created dataset <br> Data from map.geoportail.lu
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/extraction-des-donnees-du-geoportail-lignes-de-bus-du-tice
+      (data.europa.eu dataset extraction-des-donnees-du-geoportail-lignes-de-bus-du-tice; publisher: Syndicat
+      T.I.C.E.)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yndicat
+slug: extraction-des-donnees-du-geop-geoportal-da

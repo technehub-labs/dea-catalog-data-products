@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 1680bf99-e362-4a6c-9863-308b42a35845
+name: Ballinamore (Creevy No.2) Climate Data
+description: Daily and monthly climatalogical records for our station at Ballinamore (Creevy No.2) in
+  Co. Leitrim.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1680bf99-e362-4a6c-9863-308b42a35845 (data.europa.eu
+      dataset 1680bf99-e362-4a6c-9863-308b42a35845; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: 1680bf99-e362-4a6c-9863-308b42-ballinamore

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 36851901-bundesamt-fur-statistik-bfs
+name: Bridge tables between the Swiss overall energy statistics (GEST) and the Physical Energy Flow Accounts
+  (PEFA)
+description: This table presents the annual bridging items between the Swiss overall energy statistics
+  (GEST) of the Swiss Federal Office of Energy (SFOE) and the Physical Energy Flow Accounts (PEFA) of
+  the Swiss Federal Statistical Office (FSO), since 2000.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/36851901-bundesamt-fur-statistik-bfs (data.europa.eu
+      dataset 36851901-bundesamt-fur-statistik-bfs; publisher: Bundesamt für Statistik)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- undesamt-fr-tatistik
+slug: 36851901-bundesamt-fur-statist-bridge-table

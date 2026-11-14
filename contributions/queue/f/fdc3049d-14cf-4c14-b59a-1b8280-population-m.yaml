@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fdc3049d-14cf-4c14-b59a-1b82809242d5
+name: Population movements
+description: The population movement describes the development of the population in Karlsruhe. It consists
+  of the natural population movement (births and deaths) and the migration movement (movements and departures)
+  of the population.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fdc3049d-14cf-4c14-b59a-1b82809242d5 (data.europa.eu
+      dataset fdc3049d-14cf-4c14-b59a-1b82809242d5; publisher: Stadt Karlsruhe)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tadt-arlsruhe
+slug: fdc3049d-14cf-4c14-b59a-1b8280-population-m

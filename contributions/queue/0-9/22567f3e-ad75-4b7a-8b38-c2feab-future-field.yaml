@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 22567f3e-ad75-4b7a-8b38-c2feab37499f
+name: Future fields for education and training in Vienna 2025
+description: '**Future fields for education and training in Vienna in times of demographic, ecological
+  and digital challenges 2025** This study examines the age composition of employed persons in Vienna.
+  compared to the other Austrian Länder. Industry-specific fish differences and possible abnormalities
+  in the proportion of older and younger workers force and origin-specific differences are determined
+  on the basis of citizenship investigated. The focus is on the construction, information and communication
+  sectors. technologies (ICT) and the municipal sector, as this is where demographic change occurs. gene,
+  digitalisation and greening are particularly relevant. These factors could: lead to bottlenecks that
+  contribute to security of supply, competitiveness and efficiency. Endangering climate targets in Vienna
+  by 2040.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/22567f3e-ad75-4b7a-8b38-c2feab37499f (data.europa.eu
+      dataset 22567f3e-ad75-4b7a-8b38-c2feab37499f; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 22567f3e-ad75-4b7a-8b38-c2feab-future-field

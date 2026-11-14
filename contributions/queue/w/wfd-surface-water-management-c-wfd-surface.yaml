@@ -1,0 +1,33 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu wfd-surface-water-management-catchments-cycle-4
+name: WFD Surface Water Management Catchments Cycle 4
+description: 'This is a polygon dataset showing Surface Water Management Catchments, which was created
+  to meet the requirements of the Water Framework Directive (WFD). Management Catchments are larger than
+  Operational Catchments, but smaller than River Basin Districts. They contain multiple water bodies.
+  Management Catchments are the unit of geography for which action plans are drafted when implementing
+  the WFD. WFD Management Catchments have been delineated by using WFD River Water Body Catchments as
+  “building blocks” that have been aggregated together within a GIS, ensuring that WFD rivers do not intersect
+  boundaries (WFD River Water Body Catchments were delineated through use of flow data and a digital terrain
+  model run through a hydrological model). Transitional and coastal waters were also combined into areas
+  representing Management ''Catchments'' for coastal areas. This process was conducted using expert judgement.
+  WFD Management Catchments have an action plan published that relates to all water bodies that fall within
+  its boundaries. Created using hydrological models based on EA LiDAR data informed with the Detailed
+  River Network which has residual Ordnance Survey rights. There is a layer file associated with this
+  dataset which is called WFD_Surface_Water_Management_Catchments_Cycle_4.lyrx. Please note that there
+  are limitations with the shapefile format of the data. The data applies to Cycle 4 of the WFD. See the
+  Environment Agency''s Water Hub for more information (link below). Attribution statement: © Environment
+  Agency copyright and/or database right 2026. All rights reserved.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/wfd-surface-water-management-catchments-cycle-4 (data.europa.eu
+      dataset wfd-surface-water-management-catchments-cycle-4; publisher: Environment Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- nvironment-gency
+slug: wfd-surface-water-management-c-wfd-surface

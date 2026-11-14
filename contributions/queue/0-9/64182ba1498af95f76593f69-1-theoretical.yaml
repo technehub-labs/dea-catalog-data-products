@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 64182ba1498af95f76593f69~~1
+name: Theoretical hours of the Laon Urban Network (TUL) (GTFS)
+description: '7 lines including 2 to strengthen school transport (10&11) info: www.tul-laon.fr'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/64182ba1498af95f76593f69~~1 (data.europa.eu dataset
+      64182ba1498af95f76593f69~~1; publisher: Communauté d''Agglomération du Pays de Laon)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- ommunaut-dgglomratio
+slug: 64182ba1498af95f76593f69-1-theoretical

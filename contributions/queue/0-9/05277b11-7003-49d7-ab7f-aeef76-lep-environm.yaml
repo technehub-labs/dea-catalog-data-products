@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 05277b11-7003-49d7-ab7f-aeef76d82401
+name: LEP Environment 2004 Mining site
+description: Extensive representation of the working area of the mine as part of the state development
+  plan for the environment.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/05277b11-7003-49d7-ab7f-aeef76d82401 (data.europa.eu
+      dataset 05277b11-7003-49d7-ab7f-aeef76d82401; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 05277b11-7003-49d7-ab7f-aeef76-lep-environm

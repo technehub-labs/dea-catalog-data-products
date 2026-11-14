@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 52ca321c-5efd-4a43-936b-6f312b423cca
+name: Passports of budget programs Department of Health Vinnytsia City Council
+description: The set contains passports of budget programs of the Department of Health of Vinnytsia City
+  Council. Each resource in the — set has a separate passport.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/52ca321c-5efd-4a43-936b-6f312b423cca (data.europa.eu
+      dataset 52ca321c-5efd-4a43-936b-6f312b423cca; publisher: Вінницька міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 52ca321c-5efd-4a43-936b-6f312b-passports-of

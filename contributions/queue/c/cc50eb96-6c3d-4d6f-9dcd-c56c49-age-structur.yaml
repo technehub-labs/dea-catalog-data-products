@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59
+name: Age structure of the population
+description: The topic “Age structure” presents the age distribution of the Karlsruhe population by gender
+  (male/female) and the ratio of young and old people to the working-age population.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59 (data.europa.eu
+      dataset cc50eb96-6c3d-4d6f-9dcd-c56c4969ff59; publisher: Stadt Karlsruhe)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tadt-arlsruhe
+slug: cc50eb96-6c3d-4d6f-9dcd-c56c49-age-structur

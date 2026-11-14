@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datos-gob-es-catalogo-pudat0001-seguridad-iot-trafico-de-red-en-condiciones-de-normalidad-netatmo-healthy-home-coach
+name: IoT security - network traffic under normal conditions - Netatmo Healthy Home Coach
+description: 'Dataset created under the Connecting Europe Facility of the European Union programme, VARIOT
+  project TENtec n. 28263632. Developed by the Intelligent Systems for Industrial Systems group supported
+  by the Department of Education, Language policy and Culture of the Basque Government. This dataset comprises
+  Netatmo Healthy Home Coach Iot device network traffic and different features under normal operation
+  mode. - Device description: You want to provide the healthiest home possible for your family. Netatmo’s
+  Smart Indoor Air Quality Monitor Healthy Home Coach shows you how. Whether it’s the best noise level
+  for sound sleeping or the right humidity levels for a child with asthma, the Monitor measures what matters
+  with its sensors, highlights potential problems, and tells you how to fix them. - Infection type: None'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-gob-es-catalogo-pudat0001-seguridad-iot-trafico-de-red-en-condiciones-de-normalidad-netatmo-healthy-home-coach
+      (data.europa.eu dataset https-datos-gob-es-catalogo-pudat0001-seguridad-iot-trafico-de-red-en-condiciones-de-normalidad-netatmo-healthy-home-coach;
+      publisher: Universidad de Mondragón)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- niversidad-de-ondrag
+slug: https-datos-gob-es-catalogo-pu-iot-security

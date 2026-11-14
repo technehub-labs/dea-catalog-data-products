@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 5ae9c6b5c8d8c9146d44cc4f
+name: Mobi E Charging Stations
+description: Map service related to "Mobi.E charging stations" in Lisbon | Map service of "Electric Mobi.e
+  Points" in Lisbon.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5ae9c6b5c8d8c9146d44cc4f (data.europa.eu dataset
+      5ae9c6b5c8d8c9146d44cc4f; publisher: Município de Lisboa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- unicpio-de-isboa
+slug: 5ae9c6b5c8d8c9146d44cc4f-mobi-e-charg

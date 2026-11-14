@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fa232ca3-d5e8-cadc-0dce-29ef5c6f5699
+name: Hessenatlas _Tourism - Average _Beds _je _1000 _Inhabitants _ and _Inhabitants _Government districts
+description: WMS on various tourism statistics:Governmental districts
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fa232ca3-d5e8-cadc-0dce-29ef5c6f5699 (data.europa.eu
+      dataset fa232ca3-d5e8-cadc-0dce-29ef5c6f5699; publisher: Hessisches Statistisches Landesamt)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- essisches-tatistisch
+slug: fa232ca3-d5e8-cadc-0dce-29ef5c-hessenatlas

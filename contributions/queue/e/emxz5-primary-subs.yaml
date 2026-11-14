@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu emxz5
+name: Primary Substation Feeding Areas
+description: '<dp-prose> <p>A shapefile containing the postcode areas supplied by primary substations.</p>
+  <p>Definitions of key terms related to this dataset can be found in the Open Data Portal Glossary: <a
+  href="https://ukpowernetworks.opendatasoft.com/pages/glossary/">https://ukpowernetworks.opendatasoft.com/pages/glossary/</a></p>
+  </dp-prose>'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/emxz5 (data.europa.eu dataset emxz5; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: emxz5-primary-subs

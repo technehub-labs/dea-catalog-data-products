@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu fire_fatalities_rate
+name: Fire fatalities rate
+description: Casualties from accidental fires by source of ignition and cause. 2011-2012
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fire_fatalities_rate (data.europa.eu dataset fire_fatalities_rate;
+      publisher: Ministry of Housing, Communities and Local Government)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inistry-of-ousing-om
+slug: fire-fatalities-rate-fire-fatalit

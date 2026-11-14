@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 9c8dc3b4-4e78-4ff8-a413-c2a275f3934c
+name: INSPIRE HB ALKIS water transport network
+description: This dataset contains content from the ALKIS data (water transport) in the INSPIRE data model
+  for the INSPIRE topic Transport Networks.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9c8dc3b4-4e78-4ff8-a413-c2a275f3934c (data.europa.eu
+      dataset 9c8dc3b4-4e78-4ff8-a413-c2a275f3934c; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- eu
+slug: 9c8dc3b4-4e78-4ff8-a413-c2a275-inspire-hb-a

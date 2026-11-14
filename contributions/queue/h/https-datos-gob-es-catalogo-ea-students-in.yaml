@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datos-gob-es-catalogo-ealmt0000017067
+name: Students in Higher Music Education by sex
+description: This section presents statistical information referring to the enrolled student body from
+  the Statistics on Non-university Education carried out by the Sub-Directorate General of Statistics
+  and Studies of the Ministry in cooperation with the statistical services of the Departments of Education
+  of the Autonomous Communities. Information is provided annually on the different characteristics of
+  the student body enrolled in all non-university General Regime, Special Regime and Adult Education courses.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-gob-es-catalogo-ealmt0000017067 (data.europa.eu
+      dataset https-datos-gob-es-catalogo-ealmt0000017067; publisher: Ministerio de Educación, Formación
+      Profesional y Deportes)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterio-de-ducacin
+slug: https-datos-gob-es-catalogo-ea-students-in

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu organic_statistics_notice_england
+name: Organic Statistics Notice, England
+description: 'Provides information on fully organic land, land in-conversion to organic, the numbers of
+  producers and processors / importers registered with the Organic Certification Bodies, the number of
+  livestock and livestock producers in England. Source agency: Environment, Food and Rural Affairs Designation:
+  National Statistics Language: English Alternative title: Organic Statistics Notice, England This release
+  is now consolidated within the UK Organic farming release: https://www.gov.uk/government/collections/organic-farming'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/organic_statistics_notice_england (data.europa.eu
+      dataset organic_statistics_notice_england; publisher: Department for Environment, Food and Rural
+      Affairs)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-for-nviron
+slug: organic-statistics-notice-engl-organic-stat

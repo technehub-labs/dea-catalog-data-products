@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 2957ade8-6a5a-4cc1-8b9d-24cc8cec83b4
+name: QQI03 - Number of QQI Awards Made, ISCED – Higher Education Only
+description: Number of QQI Awards Made, ISCED – Higher Education Only
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2957ade8-6a5a-4cc1-8b9d-24cc8cec83b4 (data.europa.eu
+      dataset 2957ade8-6a5a-4cc1-8b9d-24cc8cec83b4; publisher: Quality and Qualifications Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- uality-and-ualificat
+slug: 2957ade8-6a5a-4cc1-8b9d-24cc8c-qqi03-number

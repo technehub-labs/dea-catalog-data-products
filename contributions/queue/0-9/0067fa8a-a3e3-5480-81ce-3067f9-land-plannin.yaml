@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 0067fa8a-a3e3-5480-81ce-3067f9b0211a
+name: Land planning - Cross-border priority areas
+description: 'The map service (WMS group) provides the map bases of the Saarland''s Land Development Plan
+  Environment (2004) and Settlement (2006).: Presentation of the cross-border priority areas in the context
+  of the LEP Environment 2004.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/0067fa8a-a3e3-5480-81ce-3067f9b0211a (data.europa.eu
+      dataset 0067fa8a-a3e3-5480-81ce-3067f9b0211a; publisher: Ministerium für Umwelt, Klima, Mobilität,
+      Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- inisterium-fr-mwelt
+slug: 0067fa8a-a3e3-5480-81ce-3067f9-land-plannin

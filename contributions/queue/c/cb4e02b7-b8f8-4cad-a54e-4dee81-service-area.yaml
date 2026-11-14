@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu cb4e02b7-b8f8-4cad-a54e-4dee813c577d
+name: Service area of the municipal institution "Educational Association - "General Education School of
+  I-III Degrees No. 31, Center for Children and Youth Creativity "Constellation" of Kirovograd City Coun
+description: The resource contains data on the service area of the communal institution "Educational Association
+  - "General Education School of I-III Degrees No. 31, Center for Children and Youth Creativity "Constellation"
+  of the Kirovograd City Council of the Kirovograd region. Including the name of the institution, service
+  addresses.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/cb4e02b7-b8f8-4cad-a54e-4dee813c577d (data.europa.eu
+      dataset cb4e02b7-b8f8-4cad-a54e-4dee813c577d; publisher: Комунальний заклад "Навчально-виховне об''єднання
+      - "Загальноосвітня школа I-III ступенів №31 з гімназійними класами, центр дитячої та юнацької творчості
+      "Сузір''я" Кіровоградської міської ради Кіровоградської області""")'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- '31'
+slug: cb4e02b7-b8f8-4cad-a54e-4dee81-service-area

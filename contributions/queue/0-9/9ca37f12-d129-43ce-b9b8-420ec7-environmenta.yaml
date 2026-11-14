@@ -1,0 +1,17 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 9ca37f12-d129-43ce-b9b8-420ec7e3c8c8
+name: Environmental Monitoring Facilities - Department of Environment (INSPIRE)
+description: Environmental Monitoring Facilities - Department of Environment (INSPIRE)
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/9ca37f12-d129-43ce-b9b8-420ec7e3c8c8 (data.europa.eu
+      dataset 9ca37f12-d129-43ce-b9b8-420ec7e3c8c8; publisher: Τμήμα Περιβάλλοντος)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+slug: 9ca37f12-d129-43ce-b9b8-420ec7-environmenta

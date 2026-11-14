@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 48c4f431-3f08-4ed1-a9aa-854492a7fc7e
+name: 1934 Local elections- election statistics
+description: This dataset sets out the electorate, total poll and percentage turnout at the 1934 local
+  elections, where a poll took place. This includes elections to County Councils, County Boroughs Councils,
+  Urban District Councils and Town Commissioners.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/48c4f431-3f08-4ed1-a9aa-854492a7fc7e (data.europa.eu
+      dataset 48c4f431-3f08-4ed1-a9aa-854492a7fc7e; publisher: Department of Housing, Local Government
+      and Heritage)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- epartment-of-ousing
+slug: 48c4f431-3f08-4ed1-a9aa-854492-1934-local-e

@@ -1,0 +1,18 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu e2d71218-ecfd-422a-a0f1-452952c3f103
+name: OLOD146 - Day-to-day actions done to protect the environment by age
+description: Day-to-day actions done to protect the environment by age
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e2d71218-ecfd-422a-a0f1-452952c3f103 (data.europa.eu
+      dataset e2d71218-ecfd-422a-a0f1-452952c3f103; publisher: Central Statistics Office)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- entral-tatistics-ffi
+slug: e2d71218-ecfd-422a-a0f1-452952-olod146-day

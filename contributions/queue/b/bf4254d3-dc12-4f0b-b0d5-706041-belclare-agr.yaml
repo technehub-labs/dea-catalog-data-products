@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu bf4254d3-dc12-4f0b-b0d5-706041e2f65f
+name: Belclare (Agr.Res.Stn.) Climate Data
+description: Daily and monthly climatalogical records for our station at Belclare (Agr.Res.Stn.) in Co.
+  Galway. This station is now closed.
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bf4254d3-dc12-4f0b-b0d5-706041e2f65f (data.europa.eu
+      dataset bf4254d3-dc12-4f0b-b0d5-706041e2f65f; publisher: Met Éireann)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- et-ireann
+slug: bf4254d3-dc12-4f0b-b0d5-706041-belclare-agr

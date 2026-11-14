@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-data-gov-lt-datasets-183-
+name: Forest - environment payments *. general information
+description: Provides information on the program &quot;Forest Environmental Payments&quot; implemented
+  by the applicants
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-183- (data.europa.eu dataset
+      https-data-gov-lt-datasets-183-; publisher: Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- acionalin-mokjimo-ag
+slug: https-data-gov-lt-datasets-183-forest-envir

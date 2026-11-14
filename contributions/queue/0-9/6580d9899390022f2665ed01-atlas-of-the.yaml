@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu 6580d9899390022f2665ed01
+name: Atlas of the Environment
+description: The National Atlas of the Environment, created in 1972, within the then newly created National
+  Environment Commission (CNA) and which had as its main objective, the production of cartography for
+  the general public, students, teachers and researchers from different scientific areas, was in the course
+  of time undergoing functional changes. At the end of the 1980s, the digitization and vectorization of
+  an important part of this estate, gave rise to the Digital Atlas of the Environment, once again, a pioneering
+  and innovative step (even at European level) which constituted, for a long time, the basis of the National
+  Geographic Information System (SNIG).
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6580d9899390022f2665ed01 (data.europa.eu dataset
+      6580d9899390022f2665ed01; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- gncia-ortuguesa-do-m
+slug: 6580d9899390022f2665ed01-atlas-of-the

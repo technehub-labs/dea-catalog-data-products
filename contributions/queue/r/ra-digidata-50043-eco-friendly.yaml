@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ra_digidata_50043
+name: Eco-Friendly Agriculture Grant Management
+description: MVJ-TAS aims to handle payments on the basis of project applications in accordance with executive
+  orders and regulations within the agricultural industry
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ra_digidata_50043 (data.europa.eu dataset ra_digidata_50043;
+      publisher: Rigsarkivet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- igsarkivet
+slug: ra-digidata-50043-eco-friendly

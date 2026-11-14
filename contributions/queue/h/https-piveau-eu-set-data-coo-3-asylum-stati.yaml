@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-piveau-eu-set-data-coo_3000_108_16_1088975
+name: Asylum_Statistics_2025
+description: Statistical evaluation for asylum and migration
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-piveau-eu-set-data-coo_3000_108_16_1088975
+      (data.europa.eu dataset https-piveau-eu-set-data-coo_3000_108_16_1088975; publisher: Bundesministerium
+      für Inneres)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- undesministerium-fr
+slug: https-piveau-eu-set-data-coo-3-asylum-stati

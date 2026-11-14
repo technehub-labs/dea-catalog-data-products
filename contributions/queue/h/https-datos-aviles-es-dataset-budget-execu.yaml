@@ -1,0 +1,20 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https-datos-aviles-es-dataset-ejecucion-de-presupuestos-2019-f-deportiva-municipal
+name: Budget Execution 2019. F. Deportiva Municipal
+description: Global vision of the income, expenses and functional classification of the 2019 budget execution
+  of the "Fundación Deportiva Municipal"
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-aviles-es-dataset-ejecucion-de-presupuestos-2019-f-deportiva-municipal
+      (data.europa.eu dataset https-datos-aviles-es-dataset-ejecucion-de-presupuestos-2019-f-deportiva-municipal;
+      publisher: Ayuntamiento de Avilés)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- yuntamiento-de-vils
+slug: https-datos-aviles-es-dataset-budget-execu

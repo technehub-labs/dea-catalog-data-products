@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu ce2851df-00dd-4fd7-b675-04a229dbca1b~~1
+name: WMS Climate Signals BB - Climate Water Balance
+description: 'The Presentation Service (WMS) Climate Signals BB - Climatic Water Balance provides the
+  bandwidth (minimum to maximum) for changing the climate signal ‘Climatic Water Balance’ in Brandenburg
+  from climate projections into the future. The climatic water balance is the difference between the precipitation
+  altitude and the reference evapotranspiration. It is an important measure for the assessment of the
+  meteorological water supply. The climate projections came from a set of 16 regional climate models selected
+  for Brandenburg on the basis of a quality check. Information on the data base at https://mweke.brandenburg.de/media/bb1.a.3814.de/climate
+  projection ensemble _Brandenburg.pdf The WMS contains the following layers: - Change Climatic water
+  balance 2031-2060 in scenario RCP8.5 Ensemble Min [Climatic _ water balance _rcp85 _2045 _min] - Change
+  Climatic water balance 2031-2060 in scenario RCP8.5 Ensemble Max [Climatic _ water balance _rcp85 _2045
+  _max].'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ce2851df-00dd-4fd7-b675-04a229dbca1b~~1 (data.europa.eu
+      dataset ce2851df-00dd-4fd7-b675-04a229dbca1b~~1; publisher: Kundenservice)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- undenservice
+slug: ce2851df-00dd-4fd7-b675-04a229-wms-climate

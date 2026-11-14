@@ -1,0 +1,19 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: eu-open-data.json
+source_ref: data.europa.eu https:-genesis.destatis.de-genesisws-downloads-00-tables-99911-0007_00
+name: 'International indicators - Agriculture and fisheries: States, years'
+description: 'International indicators - Agriculture and fisheries: States, years'
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https:-genesis.destatis.de-genesisws-downloads-00-tables-99911-0007_00
+      (data.europa.eu dataset https:-genesis.destatis.de-genesisws-downloads-00-tables-99911-0007_00;
+      publisher: Statistisches Bundesamt)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record is published and machine-verifiable
+    at the cited landing page. No data-product-specific fields are asserted at candidate state.
+tags:
+- open-data
+- tatistisches-undesam
+slug: https-genesis-destatis-de-gene-internationa
