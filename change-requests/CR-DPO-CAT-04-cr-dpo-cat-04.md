@@ -1,30 +1,32 @@
-# DPO-CAT-05: DataProduct Candidate Admission Batch 02 (Local Property Tax LPT statistics October 2019 … Health centres and clinics in the municipality of Velike Lašče)
+# CR-CR-DPO-CAT-04: DataProduct Candidate Admission Batch 01 (Information about medical professionals … Programme Wind Energy Zone (SAPRO Wind Energy) Styria)
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `DPO-CAT-04` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-DPO-CAT-04` by the naming-correction CR (CR-DPO-CAT-06); content unchanged.
 **Layer**: Catalog content (candidate corpus admission)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
 **Admission authority**: candidate corpus only (canonical admission remains the evidence-gated step; FOUNDATIONS D-5)
 **Trigger**: catalog population programme (2026-11 directive). This CR is one batch of the approved programme, executed through the gated intake workflow (queue gate → admission tool → catalog gates). Prepared by the authoring agent under eaojnr's direction; authorship of record per the Authorship Cardinal Rule (CR-BP-118).
-**Carrier**: Single PR on feature branch `feat/dpo-cat-05`. PR review, not direct push.
+**Carrier**: Single PR on feature branch `feat/dpo-cat-04`. PR review, not direct push.
 **Lands against**: `main`
 **Depends on**: the ingestion groundwork CR (intake machinery), the candidate corpus CR (queue population).
 
 ## 1. What this CR admits
 
-1157 new `DataProduct` CANDIDATE records, admitted from `contributions/queue/` by `scripts/admit_entity.py`:
+1400 new `DataProduct` CANDIDATE records, admitted from `contributions/queue/` by `scripts/admit_entity.py`:
 
 | Type | Admitted |
 |---|---|
-| DataProduct | 1157 |
+| DataProduct | 1400 |
 
 Each admission: id assigned by the content-derived hash (collision-checked against all record ids), entity subtree `entities/v1-alpha/<shard>/<slug>-<hash>/candidates/` (sharded per entity-storage-layout §4) carrying the record (`version: 0.1.0`, `lifecycle_status: proposed`) + per-record README (RECORD-STANDARD sections), queue entry flipped to `status: admitted` with `assigned_id`. Evidence sources are cited per record (`published-document` references from the corpus bank manifest); governance `approval_status: proposed` and a one-step provenance ladder (`candidate`) — honest pre-admission semantics. Relationships are deferred with an explicit README note (no canonical target ids are asserted at candidate state).
 
 ## 2. What changes
 
-- `1157` entity subtrees under `entities/v1-alpha/<shard>/` (Local Property Tax LPT statistics October 2019 … Health centres and clinics in the municipality of Velike Lašče)
-- `1157` queue files moved to `status: admitted` with `assigned_id` + date
-- `CATALOG.yaml` regenerated (candidates count +1157; canonical count unchanged)
+- `1400` entity subtrees under `entities/v1-alpha/<shard>/` (Information about medical professionals … Programme Wind Energy Zone (SAPRO Wind Energy) Styria)
+- `1400` queue files moved to `status: admitted` with `assigned_id` + date
+- `CATALOG.yaml` regenerated (candidates count +1400; canonical count unchanged)
 - This CR file, CHANGELOG entry, and index row
 
 ## 3. Verification
@@ -43,6 +45,6 @@ Each admission: id assigned by the content-derived hash (collision-checked again
 
 ## 5. Acceptance criteria
 
-1. `CATALOG.yaml` `counts.candidates` increases by exactly 1157; `counts.canonical` unchanged.
-2. All 1157 queue files carry `status: admitted` and a recorded `assigned_id`.
+1. `CATALOG.yaml` `counts.candidates` increases by exactly 1400; `counts.canonical` unchanged.
+2. All 1400 queue files carry `status: admitted` and a recorded `assigned_id`.
 3. All repo gates green on the landing PR.
