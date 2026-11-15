@@ -1,0 +1,59 @@
+id: dea:data-product-3941-agriculture-labour-force-agriculture-8d4u6k
+type: DataProduct
+name: Agriculture; labour force by region
+description: 'This table contains data at regional level on the number of persons
+  employed on agricultural holdings, the corresponding annual work units (AWUs) and
+  the number of holdings with workers. The figures in this table are derived from
+  the agricultural census. Data collection for the agricultural census is part of
+  a combined data collection for a.o. agricultural policy use and enforcement of the
+  manure law. Regional breakdown is based on the main location of the holding. Due
+  to this region where activities (crops, animals) are referred may differ from the
+  location where these activities actually occur. The agricultural census has also
+  been used as the basis for the European Farm Structure Survey (FSS). Data from the
+  agricultural census do not fully coincide with the FSS. In the FSS years (2000,
+  2003, 2005, 2007 and 2010) additional information was collected to meet the requirements
+  of the FSS. Data on labour force refer to the period April to March of the year
+  preceding the agricultural census. Data available from: 2000 Status of the figures:
+  The figures are final. Changes as of March 30, 2026: The 2025 figures have been
+  updated and are now final. When will new figures be published? According to regular
+  planning provisional figures for the current year are published in November and
+  the definite figures will follow in March of the following year.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3941-agriculture-labour-force-by-region
+      (data.europa.eu dataset 3941-agriculture-labour-force-by-region; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

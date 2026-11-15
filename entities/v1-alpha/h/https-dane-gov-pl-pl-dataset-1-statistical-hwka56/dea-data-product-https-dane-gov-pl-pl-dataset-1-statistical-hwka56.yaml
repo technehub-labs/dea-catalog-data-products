@@ -1,0 +1,54 @@
+id: dea:data-product-https-dane-gov-pl-pl-dataset-1-statistical-hwka56
+type: DataProduct
+name: Statistical Yearbook of Maritime Economy
+description: <p>Comprehensive statistical information showing the state of the economy
+  maritime economy in 2023, in comparison with the preceding years.</p> <p>Information
+  describing maritime economy against the background of national economy, statistical
+  data on maritime economy entities, the workforce, employment, remuneration, investment
+  expenditures, fixed assets and financial issues, cargo traffic, passenger and vessel
+  movements in seaports, maritime and coastal transport fleet as well as sea waterborne
+  carriages accomplished by Polish shipping companies, cargo traffic, passenger and
+  vessels movements, maritime merchant fleet under Polish flag, marine accidents and
+  salvage, shipbuilding, maritime fisheries and fish processing industry, maritime
+  education and science, marine environment protection, and maritime tourism.</p>
+  <p>In addition the yearbook shall be supplemented with basic information on maritime
+  economy at international level.</p>
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-1114-rocznik-statystyczny-gospodarki-morskiej-2021
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-1114-rocznik-statystyczny-gospodarki-morskiej-2021;
+      publisher: Główny Urząd Statystyczny)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- wny-rzd-tatystyczny

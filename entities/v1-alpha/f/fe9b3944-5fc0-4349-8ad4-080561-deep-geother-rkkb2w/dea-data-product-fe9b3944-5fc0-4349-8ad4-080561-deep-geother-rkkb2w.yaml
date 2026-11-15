@@ -1,0 +1,46 @@
+id: dea:data-product-fe9b3944-5fc0-4349-8ad4-080561-deep-geother-rkkb2w
+type: DataProduct
+name: Deep geothermal energy in Thuringia - total heat content at a depth of 3 to
+  5 km
+description: The data set provides information about the total heat content between
+  3000 and 5000 m depth. The data set provides basic data on the use of deep geothermal
+  energy.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fe9b3944-5fc0-4349-8ad4-080561a8b095~~1
+      (data.europa.eu dataset fe9b3944-5fc0-4349-8ad4-080561a8b095~~1; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

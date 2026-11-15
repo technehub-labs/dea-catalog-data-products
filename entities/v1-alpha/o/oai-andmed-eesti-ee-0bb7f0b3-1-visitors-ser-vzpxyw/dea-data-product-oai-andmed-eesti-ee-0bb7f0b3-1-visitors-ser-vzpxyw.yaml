@@ -1,0 +1,45 @@
+id: dea:data-product-oai-andmed-eesti-ee-0bb7f0b3-1-visitors-ser-vzpxyw
+type: DataProduct
+name: Visitors served by estonian travel agencies and tour operators by location of
+  travel agency (1995–2005)
+description: Visitors served by estonian travel agencies and tour operators by location
+  of travel agency (1995–2005).
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-0bb7f0b3-13c4-47e0-aace-0855430518fe
+      (data.europa.eu dataset oai-andmed-eesti-ee-0bb7f0b3-13c4-47e0-aace-0855430518fe;
+      publisher: Statistikaamet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- tatistikaamet

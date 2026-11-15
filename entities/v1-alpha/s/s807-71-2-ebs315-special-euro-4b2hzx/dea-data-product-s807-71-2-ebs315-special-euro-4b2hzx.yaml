@@ -1,0 +1,57 @@
+id: dea:data-product-s807-71-2-ebs315-special-euro-4b2hzx
+type: DataProduct
+name: 'Special Eurobarometer 315: Social climate'
+description: 'This report explores Europe’s social climate from three perspectives:
+  personal situation; general situation; and social protection and inclusion. This
+  report explores Europe’s social climate from three perspectives. These are: 1. The
+  respondents’ view of their personal situation. The focus lies here on citizens’
+  life satisfaction and other general indicators of the quality of their personal
+  everyday situation. 2. The perception of the general situation. Of main concern
+  here are respondents’ views on the more general building blocks of the social conditions
+  of European countries, including factors such as employment, housing and perceptions
+  of the economic situation. 3. Finally, Europeans’ feelings toward social protection
+  and inclusion are explored. The central factors here are Europeans’ opinions on
+  policies in the areas of pensions and unemployment as well as inequalities and cultural
+  diversity. #####The results by volumes are distributed as follows: * Volume A: Countries
+  * Volume AA: Groups of countries * Volume A'' (AP): Trends * Volume AA'' (AAP):
+  Trends of groups of countries * Volume B: EU/socio-demographics * Volume B'' (BP)
+  : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics ---- Researchers
+  may also contact GESIS - Leibniz Institute for the Social Sciences: [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/s807_71_2_ebs315 (data.europa.eu
+      dataset s807_71_2_ebs315; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- irectorateeneral-for

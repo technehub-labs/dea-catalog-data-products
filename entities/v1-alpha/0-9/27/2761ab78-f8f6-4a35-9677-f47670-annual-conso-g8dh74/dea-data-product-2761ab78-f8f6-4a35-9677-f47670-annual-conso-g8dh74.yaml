@@ -1,0 +1,45 @@
+id: dea:data-product-2761ab78-f8f6-4a35-9677-f47670-annual-conso-g8dh74
+type: DataProduct
+name: Annual consolidated key financial indicators for the implementation of the financial
+  plans of the Municipal Enterprise "Dnipro Electric Transport" of the Dnipro City
+  Council
+description: Annual consolidated key financial indicators of the implementation of
+  financial plans KP "Dnipro Electric Transport" DMR
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2761ab78-f8f6-4a35-9677-f47670dbf69f
+      (data.europa.eu dataset 2761ab78-f8f6-4a35-9677-f47670dbf69f; publisher: Дніпровська
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data

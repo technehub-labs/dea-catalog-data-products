@@ -1,0 +1,50 @@
+id: dea:data-product-d4bc753c-7b19-453b-9e03-2fbbc8-udp-arrivals-b5f587
+type: DataProduct
+name: UDP - Arrivals
+description: 'This descriptor measures the total number of arrivals at tourist accommodation
+  establishments in a destination (country or region) in a given year, from both domestic
+  and foreign tourists. Higher values indicate higher tourism demand. This descriptor
+  is provided in the EU Tourism Dashboard as complementary information to characterize
+  tourism demand. UNIT OF MEASURE: number of arrivals. RESOLUTION: NUTS0, NUTS2. COMPLETENESS:
+  NUTS0: Missing CH for 2021. NUTS2: for 2019 missing NO08, NO09, NO0A, NO0B. For
+  2020 missing all regions for CH, FR, RO and NO0B. For 2021 missing all regions.
+  DATA SOURCES: tour_occ_arm, tour_occ_arn2 [ESTAT].'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/d4bc753c-7b19-453b-9e03-2fbbc8d101c8
+      (data.europa.eu dataset d4bc753c-7b19-453b-9e03-2fbbc8d101c8; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oint-esearch-entre

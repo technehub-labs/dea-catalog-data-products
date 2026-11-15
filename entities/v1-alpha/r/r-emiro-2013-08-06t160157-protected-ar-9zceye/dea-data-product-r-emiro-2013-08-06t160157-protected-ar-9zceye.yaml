@@ -1,0 +1,56 @@
+id: dea:data-product-r-emiro-2013-08-06t160157-protected-ar-9zceye
+type: DataProduct
+name: Protected Areas - Parks and Reserves (areas)
+description: The stratum represents the zoning of National and Regional Parks, Regional
+  Nature Reserves and State Reserves, when the latter do not fall within already mapped
+  Parks. The National Parks are represented only for the area falling within the territory
+  of the Emilia-Romagna Region. The delimitation of the protected areas is defined
+  at the time of the establishment of the Parks and Reserves and, for the Parks, it
+  can be subsequently perfected or expanded during the drafting of the relevant Territorial
+  Plans (TPPs). This information layer represents the zoning of the protected area
+  as defined in the document corresponding to the most advanced stage of the territorial
+  planning process of each individual protected area. The polygons, depending on the
+  stage of the process, can refer to the maps defined in the Institutional Laws, adopted
+  PTPs, approved PTPs, adopted PTP Variants, approved PTP Variants. For this reason,
+  the database provides information on the reference planning act and the date of
+  the same.Please note that until the planning process has reached a final outcome
+  (= approval), not only the last acts but also any more restrictive rules defined
+  in previous acts have value.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/r_emiro-2013-08-06t160157 (data.europa.eu
+      dataset r_emiro-2013-08-06t160157; publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

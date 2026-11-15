@@ -1,0 +1,51 @@
+id: dea:data-product-school-health-and-wellbeing-su-school-healt-q3n26t
+type: DataProduct
+name: School Health and Wellbeing Survey
+description: <dp-prose> <p>Calderdale’s school health and wellbeing survey (previously
+  known as the electronic Health Needs Assessment or eHNA) has been running for 13
+  years for secondary schools and 11 years for primary schools, providing a rich and
+  valuable insight into the lives of children and young people in Calderdale. This
+  insight allows partners across Calderdale to work together towards our agreed strategic
+  outcome that children and young people should have hope and aspiration for the future.</p>
+  <p>Also see <a href="https://dataworks.calderdale.gov.uk/dataset/public-health-data-2omk6">Public
+  Health Data</a> and <a href="https://dataworks.calderdale.gov.uk/dataset/2ldjx/joint-strategic-needs-assessment"><u>Joint
+  Strategic Needs Assessment (JSNA)</u></a><u>.</u></p> </dp-prose>
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/school-health-and-wellbeing-survey
+      (data.europa.eu dataset school-health-and-wellbeing-survey; publisher: Calderdale
+      Metropolitan Borough Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- alderdale-etropolita

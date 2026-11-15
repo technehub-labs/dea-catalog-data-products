@@ -1,0 +1,53 @@
+id: dea:data-product-52549-landbouw-opbouw-inkomen-agriculture-cv9e6p
+type: DataProduct
+name: Agriculture; accrual of income and labour volume, national accounts
+description: 'This table contains data from the economic accounts for agriculture.
+  Figures refer to output, intermediate consumption, value added, labour volume and
+  agricultural income. Data available from: 1995 Status of figures: The years in the
+  period 1995-2023 are final. Data from the years 2024-2025 are provisional. Changes
+  as of 1 October 2026: Data from the estimate of provisional figures 2025 have been
+  added to this table. When will there be new figures? After the end of the reporting
+  year, the provisional figures will be published after approximately 6 months. After
+  18 months, the final figures are published at the same time as the national accounts
+  are published. The very preliminary figures for the current year will be available
+  in December. These data are determined by Wageningen Social & Economic Research
+  (WSER) in consultation with CBS.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/52549-landbouw-opbouw-inkomen-en-arbeidsvolume-nationale-rekeningen
+      (data.europa.eu dataset 52549-landbouw-opbouw-inkomen-en-arbeidsvolume-nationale-rekeningen;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

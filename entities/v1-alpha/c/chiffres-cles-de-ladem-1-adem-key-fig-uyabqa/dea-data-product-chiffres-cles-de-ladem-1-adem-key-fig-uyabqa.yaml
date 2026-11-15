@@ -1,0 +1,53 @@
+id: dea:data-product-chiffres-cles-de-ladem-1-adem-key-fig-uyabqa
+type: DataProduct
+name: ADEM key figures
+description: The detailed data underlying the monthly ADEM key figures. This dataset
+  provides information on jobseekers registered with the Employment Development Agency
+  (ADEM) and on vacancies that employers report to ADEM. - Detailed profiles of resident
+  jobseekers available - Openings and closures of jobseekers' files - Beneficiaries
+  of employment measures - Non-resident job seekers - Jobseekers compensated - Long
+  series on positions reported each month and vacancies at the end of each month,
+  from June 2006. - Detailed series of posts declared each month and vacancies at
+  the end of each month, from January 2014. - Resident jobseekers available by detailed
+  age group - Jobseekers by occupation ([ROME](http://rome.adem.public.lu/index _base.html))
+  - Resident jobseekers available by nationality - The place of residence of available
+  resident jobseekers - Available resident jobseekers under 30 years of age
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/chiffres-cles-de-ladem~~1 (data.europa.eu
+      dataset chiffres-cles-de-ladem~~1; publisher: Agence pour le développement de
+      l''emploi)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- gence-pour-le-dvelop

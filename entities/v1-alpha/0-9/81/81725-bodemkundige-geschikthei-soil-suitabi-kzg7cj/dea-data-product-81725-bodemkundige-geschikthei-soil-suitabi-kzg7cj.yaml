@@ -1,0 +1,53 @@
+id: dea:data-product-81725-bodemkundige-geschikthei-soil-suitabi-kzg7cj
+type: DataProduct
+name: Soil suitability for arable farming
+description: The suitability map for arable farming was made by Alterra Wageningen.
+  The suitability of parcels for arable farming is determined by a combination of
+  soil properties and groundwater levels. Important soil properties are machinability,
+  rideability, chemical soil fertility, rootability and moisture-providing capacity.
+  If groundwater levels are too high in the spring, the soil is too wet to perform
+  spring work, such as fertilizing, preparing seed and sowing. Too wet conditions
+  slow down the spring growth of the crop. In the autumn, high groundwater levels
+  can make harvesting arable crops more difficult. In periods of low precipitation,
+  the moisture supply in the soil must be sufficient to provide the plant with sufficient
+  moisture. In the event of a shortage, growth slowdown occurs. The suitability card
+  is based in particular on reduced yields as a result of moisture shortage and waterlogging.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/81725-bodemkundige-geschiktheid-voor-akkerbouw
+      (data.europa.eu dataset 81725-bodemkundige-geschiktheid-voor-akkerbouw; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

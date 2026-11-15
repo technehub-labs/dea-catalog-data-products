@@ -1,0 +1,47 @@
+id: dea:data-product-1f4391c4-7bb1-401a-b63a-f26518-neolaia-inte-xe6mk3
+type: DataProduct
+name: NEOLAiA - International Mobility INCOMING ay 2023-2024
+description: This dataset includes data from all NEOLAiA partner universities. It
+  was created by merging the individual datasets provided by each partner into a single
+  comprehensive dataset, resulting in a total of 1,167 rows. The dataset provides
+  detailed information on Erasmus+ incoming student mobility flows for the academic
+  year 2023–2024, including data on home and host universities, countries, gender,
+  study cycle, mobility period, and associated departments.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1f4391c4-7bb1-401a-b63a-f265182e3ed8
+      (data.europa.eu dataset 1f4391c4-7bb1-401a-b63a-f265182e3ed8; publisher: NEOLAiA)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- i

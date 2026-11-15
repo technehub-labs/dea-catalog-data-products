@@ -1,0 +1,48 @@
+id: dea:data-product-926ea5cc-c1b7-4705-b7d2-d35ae2-svk-internat-ufpexq
+type: DataProduct
+name: SVK International Mobility OUTGOING ay 2024-2025
+description: This dataset provides detailed information of outgoing international
+  student exchanges from Šiauliai State University of Applied Sciences during the
+  2024-2025 academic year. The data includes information about student academic programs,
+  destination institutions and countries, gender distribution, the type of mobility
+  undertaken abroad (semester studies, internships, and Blended Intensive Programmes),
+  and citizenship classifications.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/926ea5cc-c1b7-4705-b7d2-d35ae26f2984
+      (data.europa.eu dataset 926ea5cc-c1b7-4705-b7d2-d35ae26f2984; publisher: Šiauliai
+      State University of Applied Sciences)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- iauliai-tate-niversi

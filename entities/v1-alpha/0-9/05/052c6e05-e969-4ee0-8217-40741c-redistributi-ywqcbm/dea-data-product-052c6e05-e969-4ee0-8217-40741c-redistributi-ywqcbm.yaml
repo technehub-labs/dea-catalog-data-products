@@ -1,0 +1,52 @@
+id: dea:data-product-052c6e05-e969-4ee0-8217-40741c-redistributi-ywqcbm
+type: DataProduct
+name: Redistribution of public spaces.
+description: 'More space for walking, cycling and local public transport is an important
+  component of the mobility transition. On the one hand, this short study shows the
+  status quo of the division of urban traffic areas in favor of motorized individual
+  transport and its negative consequences. On the other hand, the potential of a redistribution
+  is highlighted: The more areas are devoted to environmentally friendly modes of
+  transport, the higher their share of traffic will be. Finally, international examples
+  show how more and more cities and municipalities are using innovative approaches
+  to redistribute public space and contribute to the sustainable mobility transition.
+  This short study was carried out as part of the "Sustainable Mobility Transition"
+  project on behalf of the German Federal Environment Agency.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/052c6e05-e969-4ee0-8217-40741c66de41
+      (data.europa.eu dataset 052c6e05-e969-4ee0-8217-40741c66de41; publisher: Umweltbundesamt
+      GmbH)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- mweltbundesamt-mb

@@ -1,0 +1,63 @@
+id: dea:data-product-ep8ny-business-dem-5k94vb
+type: DataProduct
+name: Business Demographics and Survival Rates, Borough
+description: <dp-prose> <p>Data on enterprise births, deaths, active enterprises and
+  survival rates across boroughs.</p> <p>Data includes:</p> <ol> <li> <p>the most
+  recent annual figures for enterprise births and deaths</p> </li> <li> <p>a time
+  series of the number of births and deaths of entrprises together with a percentage
+  of births and deaths to active enterprises in a given year</p> </li> <li> <p>a time
+  series of the number of active enterprises.</p> </li> <li> <p>survival rates of
+  enterprises for up to 5 years after birth</p> </li> </ol> <p>Notes and definitions:</p>
+  <ul> <li> <p>The starting point for business demography is the concept of a population
+  of active businesses in a reference year (t). These are defined as businesses that
+  had either turnover or employment at any time during the reference period.</p> </li>
+  <li> <p>A birth is identified as a business that was present in year t, but did
+  not exist in year t-1 or t-2. Births are identified by making comparison of annual
+  active population files and identifying those present in the latest file, but not
+  the two previous ones.</p> </li> <li> <p>A death is defined as a business that was
+  on the active file in year t, but was no longer present in the active file in t+1
+  and t+2. In order to provide an early estimate of deaths, an adjustment has been
+  made to the 2007 and 2008 deaths to allow for reactivations. These figures are provisional
+  and subject to revision.</p> </li> </ul> <p>Data on size of firms (micro-business,
+  SME, large) for business and employees in London by industry can be found on the
+  <a href="http://www.ons.gov.uk/ons/rel/regional-trends/london-analysis/index.html">ONS
+  website</a>.</p> <p>More Business Demographics data on the <a href="http://www.ons.gov.uk/ons/publications/all-releases.html?definition=tcm%3A77-21553">ONS
+  website</a></p> </dp-prose>
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/ep8ny (data.europa.eu dataset
+      ep8ny; publisher: Office for National Statistics)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ffice-for-ational-ta

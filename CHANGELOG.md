@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-DPO-CAT-09: Canonical Admission Wave
+
+2557 DataProduct records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 2557, candidates 0. All gates green.
+
 ### CR-DPO-CAT-08: Shard Subdivision (R5 Remedy)
 
 Over-cap shard directories (queue/0-9 and entities/0-9 at 1,062 each) subdivided into two-character sub-shards (R5 findings resolved); vendored toolchain upgraded to depth-3 shard walking incl. the digit-shard name fix; candidates 2,557 restored; ids untouched. All gates green.

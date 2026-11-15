@@ -1,0 +1,44 @@
+id: dea:data-product-https-www-arcgis-com-home-item-defibrillato-2yyk6e
+type: DataProduct
+name: defibrillators
+description: defibrillators — a published dataset in the EU Open Data Portal (data.europa.eu),
+  maintained by Ville d'Evian-les-Bains.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-b7c181ff568344daae2a77bafbcc7225-sublayer-0~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-b7c181ff568344daae2a77bafbcc7225-sublayer-0~~1;
+      publisher: Ville d''Evian-les-Bains)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ille-dvianlesains

@@ -1,0 +1,49 @@
+id: dea:data-product-21b8c217-18f8-4fed-a71a-319e3e-mean-theoret-4fzene
+type: DataProduct
+name: Mean Theoretical Wave Power Flux kW/m
+description: The Accessible Wave Energy Resource Atlas published in 2005 describes
+  an initial comparison between several years of hourly wave forecasts (using WAM)
+  on a grid of points located off the Irish coast with corresponding records from
+  a number of buoys installed in recent years. Based on the level of agreement found
+  the wave forecasts were then modified slightly and used to estimate the mean annual
+  and seasonal (Spring, Summer, Autumn, Winter) theoretical wave power resource around
+  Ireland.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/21b8c217-18f8-4fed-a71a-319e3e7e63b8
+      (data.europa.eu dataset 21b8c217-18f8-4fed-a71a-319e3e7e63b8; publisher: Marine
+      Institute)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- arine-nstitute

@@ -1,0 +1,60 @@
+id: dea:data-product-c7c80885-8ddd-4691-bc3f-30dbb6-number-of-ge-ree5ud
+type: DataProduct
+name: Number of generally accessible charging points in the ‘Convenient’ charging
+  world for the year 2035
+description: The map shows how many generally accessible charging points should be
+  available in the selected municipality in 2035 in order to meet the charging demand.
+  A charging point is a facility for charging plug-in vehicles (battery electric vehicles
+  and plug-in hybrids) at which a single vehicle can be charged at the same time.
+  The number of charging points is broken down into various charging options, which
+  differ according to the five charging needs of owners of plug-in vehicles (charging
+  at home, charging at work, charging in the neighbourhood, charging at the destination,
+  fast charging) as well as the type of charging (alternating current AC, direct current
+  DC) and charging power (in kilowatts [kW]). The charging points for charging in
+  the neighbourhood, charging at the destination and fast charging are referred to
+  collectively as generally accessible charging points. The colour of the areas refers
+  to the number of generally accessible charging points required per municipality.
+  In order to show the range of possible developments, the three charging worlds "Convenient",
+  "Planned" and "Flexible" were designed based on common industry assumptions in the
+  SFOE study "Understanding charging infrastructure 2050" to show the direction in
+  which the charging infrastructure in Switzerland could develop. In the "Convenient"
+  charging world, people mainly charge at home and additionally at fast-charging points.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c7c80885-8ddd-4691-bc3f-30dbb6604d1b-bundesamt-fur-energie-bfe
+      (data.europa.eu dataset c7c80885-8ddd-4691-bc3f-30dbb6604d1b-bundesamt-fur-energie-bfe;
+      publisher: Ufficio federale dell''energia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- fficio-federale-dell

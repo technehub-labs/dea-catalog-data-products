@@ -1,0 +1,47 @@
+id: dea:data-product-1d47a464-3c77-412a-b33f-62054c-model-wrf-ar-dj5fwh
+type: DataProduct
+name: MODEL WRF-ARW at 3km - Available Convective Potential Energy (CAPE) (J/Kg) -
+  (2025-12-24 h 12 UTC).
+description: Available Convective Potential Energy (CAPE) (J/Kg). Running 2025-12-24
+  hours 12 UTC - Valid from 12 o'clock UTC 2025-12-24 to 00 o'clock UTC 2025-12-28.
+  Weather model WRF (Weather Research and Forecasting model), ARW core (version 3.2)
+  with spatial resolution at 3km, temporal resolution 60 hours, interval 1 hour.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1d47a464-3c77-412a-b33f-62054ca57452
+      (data.europa.eu dataset 1d47a464-3c77-412a-b33f-62054ca57452; publisher: Lamma
+      Toscana)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- amma-oscana

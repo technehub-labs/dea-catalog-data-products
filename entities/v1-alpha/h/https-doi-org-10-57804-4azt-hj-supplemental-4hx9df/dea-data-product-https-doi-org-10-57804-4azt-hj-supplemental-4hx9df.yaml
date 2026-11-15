@@ -1,0 +1,55 @@
+id: dea:data-product-https-doi-org-10-57804-4azt-hj-supplemental-4hx9df
+type: DataProduct
+name: 'Supplemental data: Hotspots of diffusive CO₂ and CH₄ emission from tropical
+  reservoirs shift through time'
+description: Ten sampling campaigns were performed in four tropical reservoirs in
+  Brazil between 2015 and 2017. The reservoirs are located in three different biomes,
+  and are different in size, age, type of flooded soil, trophic state, and type of
+  use. We performed spatially resolved measurements of dissolved CO2 and CH4 surface
+  water concentrations and their gas-exchange coefficients (k) to compute diffusive
+  carbon flux from four contrasting tropical reservoirs across Brazil during different
+  hydrological seasons. We used an online equilibration system to measure dissolved
+  CO2 and CH4 concentrations; we estimated k from floating chamber deployments in
+  conjunction with discrete CO2 and CH4 water concentration measurements. Diffusive
+  CO2 emissions were higher during dry season than during rainy season, whereas there
+  were no consistent seasonal patterns for diffusive CH4 emissions. The dataset was
+  originally published in DiVA and moved to SND in 2024.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-doi-org-10-57804-4azt-hj83
+      (data.europa.eu dataset https-doi-org-10-57804-4azt-hj83; publisher: Uppsala
+      universitet)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ppsala-universitet

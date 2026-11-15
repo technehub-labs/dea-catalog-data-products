@@ -1,0 +1,46 @@
+id: dea:data-product-https-lkod-msk-cz-nkod-dataset-public-trans-ymygpd
+type: DataProduct
+name: Public transport stops in the Moravian-Silesian Region
+description: 'The dataset shows the location of public transport stops and basic attributes.
+  It is used for transport analysis and mobility planning. The dataset is updated
+  as needed. Attributes: Stop ID = Unique IdentifierStop Name = Name of the StopProvider
+  = Data Provider'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-lkod-msk-cz-nkod-dataset-0c8d67cd095543adb3ba08d4dc62c0cb_0
+      (data.europa.eu dataset https-lkod-msk-cz-nkod-dataset-0c8d67cd095543adb3ba08d4dc62c0cb_0;
+      publisher: Moravskoslezský kraj)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oravskoslezsk-kraj

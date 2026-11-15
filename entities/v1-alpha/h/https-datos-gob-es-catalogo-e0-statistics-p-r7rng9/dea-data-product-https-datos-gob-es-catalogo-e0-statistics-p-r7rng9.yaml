@@ -1,0 +1,56 @@
+id: dea:data-product-https-datos-gob-es-catalogo-e0-statistics-p-r7rng9
+type: DataProduct
+name: Statistics Personnel Official 2023
+description: Statistics that are part of the Military Statistical Yearbook in compliance
+  with the regulations of the Defense Statistical Plan (PLANESTADEF), are gathered
+  in a single publication, where all the tables of each monographic statistic are
+  collected. Provides information on administrative situations, categories of public
+  employment, scales and military jobs; distributions by province, gender, etc. The
+  quality of the information contained in this work is based both on the processes
+  of purification and correction to which the data were submitted, when the corresponding
+  statistics were elaborated, and on the accuracy with which these disaggregated data
+  were provided by the bodies depositing the information, this accuracy being a fundamental
+  premise that defines, in general, the quality of any statistical information. The
+  collaboration of the agencies that have provided the data, essential for the publication
+  of this work, is appreciated. Likewise, the Statistics Unit of the Central Organ
+  of the Ministry of Defense is open to all kinds of suggestions that contribute to
+  improving and completing the published information.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-gob-es-catalogo-e00003301-anuario-estadistico-personal-funcionario
+      (data.europa.eu dataset https-datos-gob-es-catalogo-e00003301-anuario-estadistico-personal-funcionario;
+      publisher: Ministerio de Defensa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- inisterio-de-efensa

@@ -1,0 +1,43 @@
+id: dea:data-product-https-fohm-app-folkhalsomyndig-real-prices-6n8a4m
+type: DataProduct
+name: Real prices of tobacco within retail trade
+description: Real prices of tobacco within retail trade
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-fohm-app-folkhalsomyndigheten-se-folkhalsodata-dataset-iltobpri-px
+      (data.europa.eu dataset https-fohm-app-folkhalsomyndigheten-se-folkhalsodata-dataset-iltobpri-px;
+      publisher: The Public Health Agency of Sweden)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- he-ublic-ealth-gency

@@ -1,0 +1,49 @@
+id: dea:data-product-https-datos-comunidad-madrid-c-transport-zo-jn5m6b
+type: DataProduct
+name: Transport zoning ZT84 of the EDM2018 and ESM2014
+description: Transport zones (TZs) constitute the basic spatial unit for the analysis
+  and aggregation of information. The zoning of the EDM 2018 and ESM 2014, is constituted
+  by 84 transport zones for the scope of the Community of Madrid. The ZT84 has a scale
+  of territorial division at the level of districts and municipalities, except in
+  crown C in which aggregations of several municipalities are given.rrFor technical
+  reasons, the date of last update of the data is not automatically refreshed, but
+  is specified in the destination web address.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-comunidad-madrid-catalogo-dataset-zt84
+      (data.europa.eu dataset https-datos-comunidad-madrid-catalogo-dataset-zt84;
+      publisher: Comunidad de Madrid)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- omunidad-de-adrid

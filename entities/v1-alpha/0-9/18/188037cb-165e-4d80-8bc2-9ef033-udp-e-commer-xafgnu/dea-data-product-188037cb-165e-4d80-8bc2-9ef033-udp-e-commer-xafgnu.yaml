@@ -1,0 +1,55 @@
+id: dea:data-product-188037cb-165e-4d80-8bc2-9ef033-udp-e-commer-xafgnu
+type: DataProduct
+name: UDP - E-commerce sales
+description: 'This indicator measures the percentage of tourism ecosystem enterprises
+  with online sales. It is based on data collected by the National Statistical Institutes
+  through questionnaires to enterprises with 10 or more employees and self-employed
+  persons (NACE sectors 55, 56, 79). The indicator is part of the digital pillar of
+  the EU Tourism Dashboard. UNIT OF MEASURE: %. RESOLUTION: NUTS0. COMPLETENESS: FI
+  2019 and FI 2020 missing. POLICY CONTEXT: Higher values indicate a higher share
+  of enterprises with e-commerce sales, potentially revealing higher digitalisation.
+  METHODOLOGY: The indicator is a weighted sum, calculated as follows: (percentage_ESTAT10_I55_56
+  * weightI55_56) + (percentage_ESTAT10_N79 * weightN79). Weight is the share of number
+  of enterprises in the specific NOGA sector (I55+I56 or N79), over the total number
+  of enterprises in NOGA sectors I55,I56,N79. Percentage is the NOGA specific share
+  of enterprises with e-commerce sales. DATA SOURCES: isoc_ec_eseln2 (10_I55_56, 10_N79)
+  [ESTAT]; sbs_na_sca_r2 [ESTAT].'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/188037cb-165e-4d80-8bc2-9ef0337eba0c
+      (data.europa.eu dataset 188037cb-165e-4d80-8bc2-9ef0337eba0c; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oint-esearch-entre

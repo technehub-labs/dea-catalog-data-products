@@ -1,0 +1,49 @@
+id: dea:data-product-oai-andmed-eesti-ee-07301a86-0-oe0452-life-9ermqa
+type: DataProduct
+name: 'OE0452: Life expectancy by sex, age group and county'
+description: 'The dataset shows life expectancy at birth and years left to live by
+  sex and age group (19 categories, including 0, 1-4, 5-9, 10-14, 15-19, 20-24, 25-29,
+  30-34 to 85 and older) and county (17 sections, including Estonia total, Harju county,
+  Tallinn, Hiiu county, Ida-Viru, Jõgeva, Järva to Võru county). The purpose of collecting
+  life expectancy data is to provide a standard population health indicator for monitoring
+  trends over time, assessing differences between population groups and regions, and
+  informing health policy and prevention planning. Data source: Statistics Estonia'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/oai-andmed-eesti-ee-07301a86-0482-407b-9cff-ab5b5e90f9b4
+      (data.europa.eu dataset oai-andmed-eesti-ee-07301a86-0482-407b-9cff-ab5b5e90f9b4;
+      publisher: Tervise Arengu Instituut)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ervise-rengu-nstituu

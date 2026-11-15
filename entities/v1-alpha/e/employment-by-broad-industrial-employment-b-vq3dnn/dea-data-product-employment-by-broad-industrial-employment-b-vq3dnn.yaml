@@ -1,0 +1,56 @@
+id: dea:data-product-employment-by-broad-industrial-employment-b-vq3dnn
+type: DataProduct
+name: Employment by Broad Industrial Group
+description: This data uses a national employer survey to show numbers and percentages
+  of people employed in jobs in industries in each broad industrial group. Data is
+  shown for Lincolnshire and Districts, and also for smaller areas (such as Wards,
+  and Lower super output areas (LSOAs from the 2011 Census)). Some limitations of
+  the dataset are that figures for small areas (Wards and LSOAs) exclude employees
+  in farm agriculture (Standard Industrial Classification subclass 01000). The figures
+  include businesses registered for PAYE but not for VAT. Values may be rounded and
+  low numbers suppressed (particularly at smaller geographies) so numbers may not
+  tally precisely with figures for larger areas. Figures are shown for the most recent
+  year available, although these are provisional and may be subject to later revision
+  by ONS. This data is based on the ONS Business Register and Employment Survey (BRES,
+  open access) sourced from the Office for National Statistics (ONS) Nomis website.
+  More detailed breakouts of Standard Industrial Classifications are available from
+  the Source weblink. This dataset is updated annually
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/employment-by-broad-industrial-group1
+      (data.europa.eu dataset employment-by-broad-industrial-group1; publisher: Lincolnshire
+      County Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- incolnshire-ounty-ou

@@ -1,0 +1,48 @@
+id: dea:data-product-gradanski-odgoj-u-skolama-2016-civic-educat-mf7m2n
+type: DataProduct
+name: Civic education in schools
+description: Since the school year 2016/2017, the City of Rijeka has been providing
+  pupils of higher grades of primary school with the opportunity to attend the courses
+  of Civic Education. For this program, the City of Rijeka has also developed a handbook
+  for students. Civic education is carried out according to the model of the extremely
+  successful programme "My Rijeka", as an extracurricular activity.More on the programme
+  Civic education https://www.rijeka.hr/themes-for-citizens/education-and-education/basic-schools/programs-and-projects-in-basic-schools/citizen-education/
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/gradanski-odgoj-u-skolama-2016-2017
+      (data.europa.eu dataset gradanski-odgoj-u-skolama-2016-2017; publisher: Grad
+      Rijeka)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- rad-ijeka

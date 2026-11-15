@@ -1,0 +1,53 @@
+id: dea:data-product-bb786c2f-daf4-49fb-ac24-9eaa42-smartbay-ire-9dfmey
+type: DataProduct
+name: SmartBay Ireland Galway Bay Buoy Wave
+description: 'This data comprises wave data collected from the SmartBay buoy moored
+  in Galway Bay. The TRIAXYS Directional Wave Sensor collects wave data and returns
+  the following parameters: No Zero Crossings (Number) HAvg (Average Wave Height)
+  (Meters) Tz (Mean Spectral Period) (Seconds) HMax (Max Wave Height) (Meters) HSig
+  (Significant Wave Height) (Meters) TSig (Significant Period) (Seconds) H10 (Meters)
+  T10 (Seconds) TAvg (Mean Wave Period) (Seconds) TP (Peak Period) (Seconds) TP5 (Seconds)
+  HMO (Meters) Mean Direction (Degrees) Mean Spread (Degrees) The TRIAXYS Directional
+  Wave Sensor is comprised of three accelerometers and three rate sensors that ultimately
+  measure the total displacement along the three orthogonal axes of the floating platform.
+  In addition, this sensor is equipped with a gimballed fluxgate compass to measure
+  true magnetic direction.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/bb786c2f-daf4-49fb-ac24-9eaa42dc7f85
+      (data.europa.eu dataset bb786c2f-daf4-49fb-ac24-9eaa42dc7f85; publisher: SmartBay
+      Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- martay-reland

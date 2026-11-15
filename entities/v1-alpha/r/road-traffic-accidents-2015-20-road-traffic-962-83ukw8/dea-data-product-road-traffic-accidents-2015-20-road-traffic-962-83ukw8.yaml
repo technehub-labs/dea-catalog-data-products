@@ -1,0 +1,47 @@
+id: dea:data-product-road-traffic-accidents-2015-20-road-traffic-962-83ukw8
+type: DataProduct
+name: Road traffic accidents 2015-2019 driven young drivers
+description: 'Share of road traffic accidents involving injury with young car drivers
+  (aged 18-24 years) 2015-2019 - Source: Sub-Working Group on Road Safety of the Summit
+  of the Greater Region 2020 - Base map: © ACT Luxembourg 2017, IGN France 2017, GeoBasis-DE
+  / BKG 2017, NGI-Belgium 2017'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/road-traffic-accidents-2015-2019-involving-young-drivers
+      (data.europa.eu dataset road-traffic-accidents-2015-2019-involving-young-drivers;
+      publisher: SIG-GR @ Ministère du Logement et de l''Aménagement du territoire
+      - Département de l’aménagement du territoire)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- inistre-du-ogement

@@ -1,0 +1,44 @@
+id: dea:data-product-https-opendata-vlci-valencia-e-areas-of-red-y7je3n
+type: DataProduct
+name: Areas of reduced mobility
+description: 'Location of the zones de mobilitat reduïda a la ciutat de València.
+  Font: Geoportal https://geoportal.valencia.es/apps/GeoportalHome/en/start/geodata-open'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-opendata-vlci-valencia-es-dataset-c4bbe337-5766-4233-9c14-efd108acbe2b
+      (data.europa.eu dataset https-opendata-vlci-valencia-es-dataset-c4bbe337-5766-4233-9c14-efd108acbe2b;
+      publisher: Ayuntamiento de Valencia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- yuntamiento-de-alenc

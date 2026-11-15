@@ -1,0 +1,46 @@
+id: dea:data-product-3c60ddf6-0586-4190-854b-f6aa0e-ghs-built-c-n4q9bb
+type: DataProduct
+name: GHS-BUILT-C R2023A - GHS Settlement Characteristics, derived from Sentinel2
+  composite (2018) and other GHS R2023A data
+description: The spatial raster dataset delineates the boundaries of the human settlements
+  at 10m resolution, and describe their inner characteristics in terms of the morphology
+  of the built environment and the functional use.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3c60ddf6-0586-4190-854b-f6aa0edc2a30
+      (data.europa.eu dataset 3c60ddf6-0586-4190-854b-f6aa0edc2a30; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oint-esearch-entre

@@ -1,0 +1,44 @@
+id: dea:data-product-https-dane-gov-pl-pl-dataset-3-skrzy-owanie-672ed7
+type: DataProduct
+name: Skrzyżowanie Turystyczna-wyjazd Leclerc III kw 2022
+description: Dane pomiarowe z wybranych skrzyżowań Lublina (Turystyczna-wyjazd Leclerc)
+  w III kwartale 2022
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-3656-skrzyzowanie-turystyczna-wyjazd-leclerc-iii-kw-2022
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-3656-skrzyzowanie-turystyczna-wyjazd-leclerc-iii-kw-2022;
+      publisher: Urząd Miasta Lublin)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- rzd-iasta-ublin

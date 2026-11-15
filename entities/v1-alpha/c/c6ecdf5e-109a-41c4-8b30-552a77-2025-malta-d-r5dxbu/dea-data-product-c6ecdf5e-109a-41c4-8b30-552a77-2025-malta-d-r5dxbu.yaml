@@ -1,0 +1,43 @@
+id: dea:data-product-c6ecdf5e-109a-41c4-8b30-552a77-2025-malta-d-r5dxbu
+type: DataProduct
+name: 2025 Malta Development Bank - Annual Report and Financial Statements
+description: 2025 Malta Development Bank - Annual Report and Financial Statements
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c6ecdf5e-109a-41c4-8b30-552a779b0111
+      (data.europa.eu dataset c6ecdf5e-109a-41c4-8b30-552a779b0111; publisher: Malta
+      Development Bank)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- alta-evelopment-ank

@@ -1,0 +1,53 @@
+id: dea:data-product-phytophthora-ramorum-managemen-phytophthora-yscjes
+type: DataProduct
+name: Phytophthora ramorum Management Zone
+description: 'An area in south-west Scotland at the heart of a major surge of P. ramorum
+  on larch in 2013 was designated as a Management Zone by the Plant Health (Forestry)
+  (Phytophthora ramorum Management Zone) Order 2014. Within this zone the disease
+  was too advanced to stop its spread within the area, so efforts have been focused
+  on tackling new outbreaks in Scotland outside the Management Zone. This dataset
+  shows the boundary of the Management Zone, as defined in Schedule 2 of the Order.
+  The Order makes special arrangements for the movement of larch within an area known
+  as the Management Zone. Scottish Forestry will no longer issue Statutory Plant Health
+  Notices within the Management Zone and statutory controls on the movement of all
+  roundwood, larch timber and associated, potentially infectious, products will be
+  applied to such material only if it leaves this area. View the Order at: https://www.legislation.gov.uk/ssi/2014/122/made'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/phytophthora-ramorum-management-zone
+      (data.europa.eu dataset phytophthora-ramorum-management-zone; publisher: Scottish
+      Government SpatialData.gov.scot)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- cottish-overnment-pa

@@ -1,0 +1,55 @@
+id: dea:data-product-1c837ec8-9d2e-4f6e-be91-bafc81-udp-tourism-eszg6m
+type: DataProduct
+name: UDP - Tourism GHG intensity
+description: 'This indicator measures the amount of greenhouse gas (GHG) emissions
+  produced by the tourism ecosystem per Million Euro of Gross Value Added (GVA) in
+  the tourism sector. This indicator includes the following greenhouse gases: CO2,
+  and N2O, CH4, HFC, PFC, SF6, NF3, all in CO2 equivalent. Lower values indicate a
+  lower contribution to GHG emission and air pollution per Million Euro of GVA generated
+  by the tourism ecosystem at the destination. The indicator is part of the environmental
+  impacts pillar of the EU Tourism Dashboard. UNIT OF MEASURE: Kg of CO2 per Million
+  EUR in current prices. RESOLUTION: NUTS0. COMPLETENESS: 100%. METHODOLOGY: The indicator
+  is obtained by dividing the amount of greenhouse gas (GHG) emissions produced by
+  the tourism ecosystem activities and the Gross Value Added (GVA) in the tourism
+  sector. DATA SOURCES: Air emissions accounts by NACE Rev. 2 activity (env_ac_ainah_r2)
+  [ESTAT], National accounts aggregates by industry (up to NACE A*64) (nama_10_A64)
+  [ESTAT].'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1c837ec8-9d2e-4f6e-be91-bafc812a1c7b
+      (data.europa.eu dataset 1c837ec8-9d2e-4f6e-be91-bafc812a1c7b; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oint-esearch-entre

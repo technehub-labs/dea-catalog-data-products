@@ -1,0 +1,44 @@
+id: dea:data-product-70ee012e-a1fc-458d-b7da-274730-2-10-passpor-bkm5w4
+type: DataProduct
+name: 2.10. Passports of budget programs of the Department of Education of Vinnytsia
+  City Council
+description: The set contains passports of budget programs of the Department of Education
+  of Vinnytsia City Council.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/70ee012e-a1fc-458d-b7da-2747308e3f60
+      (data.europa.eu dataset 70ee012e-a1fc-458d-b7da-2747308e3f60; publisher: Вінницька
+      міська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data

@@ -1,0 +1,53 @@
+id: dea:data-product-5ae9c615c8d8c9146d44cc13-associations-aztssg
+type: DataProduct
+name: Associations
+description: Data set referring to "Associations". The map of the Strategic Sectors
+  - "Digital Economy" - of Lisbon does not represent an exhaustive census, but rather
+  provides information from several strategic actors operating in the city and the
+  region, obeying cluster logics. The analysis and selection of the actors represented
+  was carried out by the technicians of the Municipal Directorate of Economy and Innovation,
+  based on online research on specialized websites, subject to permanent rectifications
+  and updates. Dataset of "Associations". The Strategic Actors - Digital Economy -
+  map of Lisbon, doesn't represent an exhaustive inventory. It provides data concerning
+  several strategic actors that operate in the city and region, according to clusters.
+  Its analysis and selection is performed by Direcção Municipal de Economia e Inovação,
+  according to online searches, on specialized sites, and is constantly being uptaded
+  and retified.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/5ae9c615c8d8c9146d44cc13 (data.europa.eu
+      dataset 5ae9c615c8d8c9146d44cc13; publisher: Município de Lisboa)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- unicpio-de-isboa

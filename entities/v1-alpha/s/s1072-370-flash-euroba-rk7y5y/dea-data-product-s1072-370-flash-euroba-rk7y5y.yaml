@@ -1,0 +1,51 @@
+id: dea:data-product-s1072-370-flash-euroba-rk7y5y
+type: DataProduct
+name: 'Flash Eurobarometer 370: Attitudes of Europeans towards Tourism'
+description: 'Tourism is close to the hearts of Europeans and remains a powerful driver
+  for the economy. The Eurobarometer survey on the attitudes of Europeans towards
+  tourism provides a detailed insight of Europeans'' tourism preferences in 2012 -
+  including favourite destinations, reasons for travelling and booking methods - and
+  anticipates travelling trends for 2013. #####The results by volumes are distributed
+  as follows: * Volume A: Countries * Volume AA: Groups of countries * Volume A''
+  (AP): Trends * Volume AA'' (AAP): Trends of groups of countries * Volume B: EU/socio-demographics
+  * Volume B'' (BP) : Trends of EU/ socio-demographics * Volume C: Country/socio-demographics
+  ---- Researchers may also contact GESIS - Leibniz Institute for the Social Sciences:
+  [https://www.gesis.org/eurobarometer](https://www.gesis.org/eurobarometer)'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/s1072_370 (data.europa.eu dataset
+      s1072_370; publisher: Directorate-General for Communication)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- irectorateeneral-for

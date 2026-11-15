@@ -1,0 +1,59 @@
+id: dea:data-product-6584802f-b90e-4347-b321-1e21c9-impact-indic-j7tdte
+type: DataProduct
+name: Impact Indicator for Priority Pests (I2P2)
+description: In a resource scarce world allocating plant health efforts to pests that
+  really matter is key. The I2P2 indicator allows identifying pests that would have
+  the highest economic, social and environmental impact if established in the Union’s
+  territory. Using primary and secondary data on production, trade, employment and
+  biodiversity together with phytopathology data from the pests we calculate 24 indicators
+  which are then aggregated into a single indicator value. The ranking is checked
+  for robustness regarding uncertainty on pathology parameters and policy priorities
+  in terms of which kind of impacts are deemed more important by risk assessors. This
+  data set is the basis for the calculation of the updated and modified version of
+  the Impact Indicator for Priority Pests (I2P2) a composite indicator based on multi-criteria
+  analysis. To calculate I2P2 values expert knowledge elicitations were conducted
+  by EFSA for key parameters and these combined with a diversity of secondary data
+  sources. The I2P2 model combines economic, social, and environmental impact into
+  a single value which is subsequently used to rank pests. We assessed robustness
+  of our recommendation with regards to uncertainty on the biological parameters as
+  well as risk managers’ preference on avoiding impacts in the different domains.
+  In addition we inform on the driving factors behind the composite scores.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6584802f-b90e-4347-b321-1e21c90e409e
+      (data.europa.eu dataset 6584802f-b90e-4347-b321-1e21c90e409e; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oint-esearch-entre

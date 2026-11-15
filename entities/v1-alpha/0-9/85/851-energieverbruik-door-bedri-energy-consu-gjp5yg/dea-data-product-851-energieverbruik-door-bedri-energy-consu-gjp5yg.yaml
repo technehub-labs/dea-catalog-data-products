@@ -1,0 +1,67 @@
+id: dea:data-product-851-energieverbruik-door-bedri-energy-consu-gjp5yg
+type: DataProduct
+name: Energy consumption by businesses and households; Nat. 1995-2013 accounts
+description: 'The energy bills show how much energy enters the Dutch economy (import
+  and extraction) and how much energy is consumed by the Dutch economy (domestic consumption
+  and exports). The energy flows within the economy are also made transparent. A breakdown
+  is made for the various energy products as well as for the various producers and
+  consumers of energy. The energy bills can be used, among other things, to examine
+  where the economy derives energy from, which sectors consume the most energy, how
+  important energy imports are to the economy and how efficiently energy is consumed.
+  The energy bill distinguishes between gross and net energy consumption. Net energy
+  is further broken down into different types of energy loss. Gross energy consumption
+  is further broken down into energy extracted from the environment and energy purchased
+  from third parties. Purchased energy is further broken down into different groups
+  of energy carriers. Energy consumption is allocated to the different sectors and
+  to households. These data come from the energy bills that are drawn up annually
+  as part of the environmental accounts. Because the data in the environmental accounts
+  are directly linked to the economic data in the national accounts, it is possible
+  to quantify the impact of the economic performance of the Netherlands on energy
+  consumption. Energy bills can be used to draw up environmental indicators. For example,
+  the intensity of use of the various energy carriers can be determined for the Netherlands
+  as a whole or by industry. The figures from the energy accounts are consistent with
+  the concepts and definitions of the national accounts and therefore deviate from
+  the figures from the energy balance sheet. Data available from: 1995 to 2013 Status
+  of figures: As this table has been discontinued, the data will no longer be made
+  final Changes as of January 2021: None, this table has been discontinued because
+  the data is out of date. When will there be new figures? This table is followed
+  by Su'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/851-energieverbruik-door-bedrijven-en-huishoudens-nationale-rekeningen
+      (data.europa.eu dataset 851-energieverbruik-door-bedrijven-en-huishoudens-nationale-rekeningen;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

@@ -1,0 +1,60 @@
+id: dea:data-product-em80l-disability-a-p326fe
+type: DataProduct
+name: Disability and Mobility, London
+description: <dp-prose> <p>Disability and mobility data for London and Rest of the
+  UK, for working age (16-64) and all adults (16+).</p> <p>Data includes population
+  with mobility difficulties, people who use special equipment to help be mobile,
+  people with a mobility impairment, and people who currently have &apos;DDA&apos;
+  Disability.</p> <p>The definition of &lsquo;DDA disability&rsquo; under the Equality
+  Act 2010 shows a person has a disability if:</p> <ul> <li> <p>they have a physical
+  or mental impairment</p> </li> <li> <p>the impairment has a substantial and long-term
+  adverse effect on their ability to perform normal day-to-day activities</p> </li>
+  </ul> <p>For the purposes of the Act, these words have the following meanings:</p>
+  <ul> <li> <p>&apos;substantial&apos; means more than minor or trivial</p> </li>
+  <li> <p>&apos;long-term&apos; means that the effect of the impairment has lasted
+  or is likely to last for at least twelve months (there are special rules covering
+  recurring or fluctuating conditions)</p> </li> <li> <p>&apos;normal day-to-day activities&apos;
+  include everyday things like eating, washing, walking and going shopping</p> </li>
+  </ul> <p>There are additional provisions relating to people with progressive conditions.
+  People with HIV, cancer or multiple sclerosis are protected by the Act from the
+  point of diagnosis. People with some visual impairments are automatically deemed
+  to be disabled.</p> <p>Find out more about the <a href="http://discover.ukdataservice.ac.uk/series/?sn=2000027#abstract">Life
+  Opportunities Survey (LOS)</a>.</p> </dp-prose>
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/em80l (data.europa.eu dataset
+      em80l; publisher: Office for Disability Issues)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ffice-for-isability
