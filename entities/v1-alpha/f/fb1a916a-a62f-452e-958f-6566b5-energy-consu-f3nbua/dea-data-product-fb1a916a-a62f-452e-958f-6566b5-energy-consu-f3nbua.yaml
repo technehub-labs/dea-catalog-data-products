@@ -1,0 +1,57 @@
+id: dea:data-product-fb1a916a-a62f-452e-958f-6566b5-energy-consu-f3nbua
+type: DataProduct
+name: Energy consumption overview of the district acceptance points 2019
+description: The regularly evaluated energy consumption of the district-administered
+  buildings is published annually in accordance with the Berlin Energy Transition
+  Act. The consumption data from 2017 are available for download here. It should be
+  noted that not every object has its own supply and thus a separate heat or electricity
+  meter. This can lead to the fact that the overview for individual properties shows
+  no or only a pro rata consumption. Other properties, on the other hand, may additionally
+  contain the (shared) heat or electricity consumption of neighboring properties.
+  In addition, an area-based distribution of the total consumption invoiced was carried
+  out in individual cases. The specific boundary conditions of individual objects
+  are not taken into account. Other temporary special effects (such as the limited
+  use of a property in the course of a refurbishment) are also not taken into account
+  in this presentation. The consumption data shown correspond to the current state
+  of knowledge and may change in individual cases (e.g. due to subsequent billing
+  corrections by suppliers).
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/fb1a916a-a62f-452e-958f-6566b5229f70
+      (data.europa.eu dataset fb1a916a-a62f-452e-958f-6566b5229f70; publisher: Bezirksamt
+      Lichtenberg, Abteilung Personal, Finanzen, Immobilien und Kultur Serviceeinheit
+      Facility Management)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ezirksamt-ichtenberg

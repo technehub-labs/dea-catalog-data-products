@@ -1,0 +1,50 @@
+id: dea:data-product-2yo3y-data-centre-esann5
+type: DataProduct
+name: Data Centre Profiles
+description: <dp-prose> <p>This dataset shows the half-hourly load profiles of identified
+  data centres within UK Power Networks' licence areas.</p> <p>The loads have been
+  determined using actual demand data from connected sites within UK Power Networks'
+  licence areas, from 1 January 2023 onwards.</p> <p>Loads are expressed proportionally,
+  by comparing the half-hourly observed import power seen across the site's meter
+  point(s), against the meter's maximum import capacity. Units for both measures are
+  apparent power, in kilovolt amperes (kVA).</p> <p>To protect the identity of the
+  sites, data points have been anonymised and only the site's voltage level information
+  - and our estimation of the data centre type - has been provided.</p> </dp-prose>
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2yo3y (data.europa.eu dataset
+      2yo3y; publisher: UK Power Networks)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ower-etworks

@@ -1,0 +1,65 @@
+id: dea:data-product-https-www-arcgis-com-home-item-downloadable-6bda9m
+type: DataProduct
+name: Downloadable files on Site CD76 19nov20
+description: 'This document provides a list of downloadable files on the website of
+  the Department of Seine-Maritime (‘https://www.seinemaritime.fr/’) as well as links
+  to them. The files are presented by file type (.pdf,.xls,.word), file size (in bytes),
+  title and category (Administration, Sport, Youth, Social, Disability, Childhood,
+  etc.) Metadata [Link to metadata](https://seine-maritime.maps.arcgis.com/sharing/rest/content/items/43b4d1c9e1de4fd89e256eacecfb0820/data)
+  Additional resources The Seine-Maritime Department offers other, more specialised
+  websites: *· Cultural sites and places belonging to the Department: — ‘http://www.abbayedejumieges.fr/fr/home/’
+  (Jumièges Abbey) — ‘http://www.abbayesaintgeorges.fr/fr/home/’ (Saint-Georges Abbey
+  of Boscherville, in St Martin de Boscherville) — ‘http://www.chateaudemartainville.fr/fr/home/’
+  (Martainville Castle, Museum of Traditions and Norman Arts) — ‘http://www.museevictorhugo.fr/fr/home/’
+  (Museum Victor Hugo, in Villequier) — <http://www.parcdecleres.net/fr/home/> (Parc
+  de Clères) — ‘http://www.theatrelillebonne.fr/fr/home/’ (Roman Theatre of Lillebonne)
+  *· Departmental archives sites — <http://www.archivesdepartementales76.net/> (main
+  site of departmental archives). This site, very rich, allows in particular to access
+  the scanned collections of the archives ( — ‘http://www.archexpo.fr/’ (Portal “Traversing
+  the Channel”, dedicated to the Franco-English exhibition of the same name) *· Road
+  information website — <http://www.inforoute76.fr/> (which offers interactive mapping
+  of departmental accidents, road works and hazards, the operation of the Seine bins,
+  departmental carpooling areas, etc. It is possible to subscribe to RSS feeds containing
+  this information) *· Departmental media library website — ‘https://mdsm.seinemaritime.fr/mdsm76/accueil-portal.aspx?_lg=fr-FR’
+  (Public reading portal, which offers interactive mapping of public libraries in
+  Seine-Maritime, but also information for public reading professionals, etc.) *·
+  Departme'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-95cdb39c139e423abc615608f40b502c-sublayer-0
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-95cdb39c139e423abc615608f40b502c-sublayer-0;
+      publisher: Département de la Seine-Maritime)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- partement-de-la-eine

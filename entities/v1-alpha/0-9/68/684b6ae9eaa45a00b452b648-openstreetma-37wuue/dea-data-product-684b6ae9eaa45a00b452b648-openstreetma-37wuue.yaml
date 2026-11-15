@@ -1,0 +1,56 @@
+id: dea:data-product-684b6ae9eaa45a00b452b648-openstreetma-37wuue
+type: DataProduct
+name: 'OpenStreetMap: Economic activities and services'
+description: 'This dataset provides a daily extraction of OpenStreetMap data flows
+  relating to economic activity resources and services in the territories of Provence-Alpes-Côte
+  d’Azur, Occitanie, Auvergne-Rhône-Alpes, as well as the border regions in Italy:
+  Liguria, Piedmont, Aosta Valley. The data extracted concern the map elements associated
+  with economic activities: **amenity, craft, landuse, office, shop and tourism**
+  The specifications followed are those described in the OpenStreetMap documentation:
+  [🔗 wiki.openstreetmap.org/wiki/EN:Key:amenity](https://wiki.openstreetmap.org/wiki/EN:Key:amenity)
+  [🔗 wiki.openstreetmap.org/wiki/EN:Key:craft](https://wiki.openstreetmap.org/wiki/EN:Key:craft)
+  [🔗 wiki.openstreetmap.org/wiki/EN:Key:landuse](https://wiki.openstreetmap.org/wiki/EN:Key:landuse)
+  [🔗 wiki.openstreetmap.org/wiki/EN:Key:office](https://wiki.openstreetmap.org/wiki/FR:Key:office)
+  [🔗 wiki.openstreetmap.org/wiki/EN:Key:shop](https://wiki.openstreetmap.org/wiki/EN:Key:shop)
+  [🔗 wiki.openstreetmap.org/wiki/EN:Key:tourism](https://wiki.openstreetmap.org/wiki/EN:Key:tourism)
+  Data is processed and extracted using the SQL script available in the DataSud GitLab
+  repository: [🗃_activities_economiques.sql](https://gitlab.datasud.fr/projects_publics/openstreetmap4datasud/-/blob/main/sql/activities_economiques.sql?reftype=heads)
+  © [OpenStreetMap Contributors](https://www.openstreetmap.org/copyright).'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/684b6ae9eaa45a00b452b648 (data.europa.eu
+      dataset 684b6ae9eaa45a00b452b648; publisher: Région Provence-Alpes-Côte-d''Azur)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- gion-rovencelpestedz

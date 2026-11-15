@@ -1,0 +1,46 @@
+id: dea:data-product-25588378-3b86-449a-bcba-8ce6fc-dafm-private-pxapfs
+type: DataProduct
+name: DAFM Private Forest Estate 2023
+description: 'The Department of Agriculture, Food and the Marine (DAFM) provide data
+  for the private forest estate only. These data include new forests planted up to
+  the end of 2023. Within the dataset provided is a file showing the attribute information
+  such as: Species List, Land use types, Ownership, Polygon area in hectares.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/25588378-3b86-449a-bcba-8ce6fc5bffee
+      (data.europa.eu dataset 25588378-3b86-449a-bcba-8ce6fc5bffee; publisher: Department
+      of Agriculture, Food and the Marine)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- epartment-of-gricult

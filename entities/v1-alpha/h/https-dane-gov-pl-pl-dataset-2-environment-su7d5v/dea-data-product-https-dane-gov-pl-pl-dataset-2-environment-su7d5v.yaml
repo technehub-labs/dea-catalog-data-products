@@ -1,0 +1,48 @@
+id: dea:data-product-https-dane-gov-pl-pl-dataset-2-environment-su7d5v
+type: DataProduct
+name: Environment
+description: <p>In a synthetic way there is presented full range of statistical surveys
+  results, subsystems functioning within the framework of state environmental monitoring
+  and administrative sources characterizing the condition, threat and environmental
+  protection in 2023 using previous years perspective as a background.</p> <p>Data
+  refers to natural conditions and individual environmental components, waste, radiation
+  and noise issues, activities for the protection and control of the environment.</p>
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-dane-gov-pl-pl-dataset-2051-ochrona-srodowiska-2022
+      (data.europa.eu dataset https-dane-gov-pl-pl-dataset-2051-ochrona-srodowiska-2022;
+      publisher: Główny Urząd Statystyczny)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- wny-rzd-tatystyczny

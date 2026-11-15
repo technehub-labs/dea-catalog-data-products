@@ -1,0 +1,53 @@
+id: dea:data-product-8c3381ae-2931-426b-9557-8d11dc-income-and-e-xr5qfb
+type: DataProduct
+name: Income and expenditure of the city of Kauniainen
+description: Income and expenditure of the City of Kauniainen according to the financial
+  statements and the budgets since 2012. The City of Kauniainen does not have any
+  municipal enterprises or cost centres separated in accounting. When examining the
+  data, it is good to take into account the organisational change that took place
+  in the city in 2013, when the section of early childhood education was moved from
+  social and health services to education and cultural services. The official financial
+  statements for 2012 were prepared in such a way that early childhood education was
+  reported as part of social and health services. Other things to note are the location
+  of the food and cleaning service in the general administration of the city and the
+  city’s property unit under community services, which takes care of the internal
+  rental and maintenance of the city’s premises.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8c3381ae-2931-426b-9557-8d11dcab55ea~~1
+      (data.europa.eu dataset 8c3381ae-2931-426b-9557-8d11dcab55ea~~1; publisher:
+      Kauniaisten kaupungin yleishallinto)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- auniaisten-kaupungin

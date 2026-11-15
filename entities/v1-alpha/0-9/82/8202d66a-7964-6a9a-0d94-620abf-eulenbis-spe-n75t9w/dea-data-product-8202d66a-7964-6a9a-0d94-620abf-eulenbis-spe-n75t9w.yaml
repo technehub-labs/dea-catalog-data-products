@@ -1,0 +1,44 @@
+id: dea:data-product-8202d66a-7964-6a9a-0d94-620abf-eulenbis-spe-n75t9w
+type: DataProduct
+name: Eulenbis - Special area Holiday apartments and agriculture
+description: Development plans of Eulenbis:Development plan "special area holiday
+  living / agriculture" of the local municipality of Eulenbis
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8202d66a-7964-6a9a-0d94-620abf33280d
+      (data.europa.eu dataset 8202d66a-7964-6a9a-0d94-620abf33280d; publisher: LVermGeo
+      im Auftrag von Eulenbis)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ermeo-im-uftrag-von

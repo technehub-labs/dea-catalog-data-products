@@ -1,0 +1,46 @@
+id: dea:data-product-833604-1-share-of-agr-cyegpz
+type: DataProduct
+name: Share of agriculture and fisheries among the self-employed
+description: 'The indicator reports the number of self-employed persons (including
+  carers) practising a liberal profession (doctors, lawyers, etc.) in total self-employed
+  persons, as at 31 December. See also: - Other indicators relating to self-employment
+  are available under the theme ''Labour market'' and focus instead on the characteristics
+  of the worker. - The professions are detailed in the nomenclature of professions
+  used by INASTI, which can be consulted on their "[\2](\1)".'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/833604-1 (data.europa.eu dataset
+      833604-1; publisher: IWEPS)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data

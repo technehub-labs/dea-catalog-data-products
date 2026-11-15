@@ -1,0 +1,62 @@
+id: dea:data-product-4254-health-expenditure-provid-health-expen-nhmkbz
+type: DataProduct
+name: Health expenditure; providers, functions for internat.comparisons,1998-2022
+description: 'This table contains information on expenditure and financing in current
+  prices on the health care used by residents in the Netherlands in one year. All
+  activities within the area of health care are included, whether they are performed
+  within or outside the health care sector. These figures are based on the definition
+  of the System of Health Accounts as used by EUROSTAT, the OECD and the WHO. The
+  figures are derived from the Dutch statistics on health and social care, which cover
+  a broader range of activities (including e.g. child day care, welfare, and social
+  services). Exports are also included. In this table it can be found in the function
+  M1(HC)+ : Other goods, services + exports. This table also shows how the total figure
+  in accordance with the System of Health Accounts is calculated from the total figure
+  on health and social care: Total figure on health and social care -/- health-related
+  activities -/- other goods, services and exports (including welfare and children''s
+  day care, function M1(HC)+) = Total current expenditure on health Data available
+  from 1998 to 2022 Status of the figures: The figures for 2022 are provisional; the
+  figures for 2020-2021 are revised provisional; the figures for the other years are
+  final. The figures for 2020-2022 will not be made final, as this table has been
+  discontinued. Changes as of 14 July 2023: - The figures for 2022 have been added,
+  the figures for 2019-2021 have been updated. The table has been discontinued. When
+  will new figures be published? Not, this table has been discontinued and will be
+  replaced by new tables, see section 3.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4254-health-expenditure-providers-and-functions-for-international-comparisons
+      (data.europa.eu dataset 4254-health-expenditure-providers-and-functions-for-international-comparisons;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

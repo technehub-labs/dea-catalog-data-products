@@ -1,0 +1,44 @@
+id: dea:data-product-unesco-world-heritage-2025-unesco-world-zypkba
+type: DataProduct
+name: UNESCO World Heritage 2025
+description: 'Recognized UNESCO sites 2025: - World Heritage - Data source: Culture
+  Working Group of the Greater Region Summit 2025'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/unesco-world-heritage-2025 (data.europa.eu
+      dataset unesco-world-heritage-2025; publisher: SIG-GR @ Ministère du Logement
+      et de l''Aménagement du territoire - Département de l’aménagement du territoire)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- inistre-du-ogement

@@ -1,0 +1,47 @@
+id: dea:data-product-https-www-arcgis-com-home-item-number-of-sp-ajw3wa
+type: DataProduct
+name: NUMBER OF SPECIES OBSERVED BY COMMON
+description: The number of plant or animal species per municipality *** Observations
+  between 1999 and 2019 Compilation of data GeoNat'IdF (ARB IdF, 2018), Faune Ile
+  de France (LPO, 2019), CBNBP (2018), Department of Val de Marne (2018), City of
+  Nanterre (2019), City of Rueil Malmaison (2017). Statistics aggregated to the municipality.
+  Update not planned to date.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-400dccc9c1c54c7b9a356ee2f5a2055d-sublayer-0~~1
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-400dccc9c1c54c7b9a356ee2f5a2055d-sublayer-0~~1;
+      publisher: Métropole du Grand Paris)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- tropole-du-rand-aris

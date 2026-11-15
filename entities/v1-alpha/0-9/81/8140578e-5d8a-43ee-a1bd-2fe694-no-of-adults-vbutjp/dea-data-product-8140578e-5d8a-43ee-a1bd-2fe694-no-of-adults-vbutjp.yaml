@@ -1,0 +1,44 @@
+id: dea:data-product-8140578e-5d8a-43ee-a1bd-2fe694-no-of-adults-vbutjp
+type: DataProduct
+name: No. of Adults 18-20 Years in Receipt of an Aftercare Service in Other Education
+  / Accredited Training 2018
+description: Performance metrics for by year No. of Adults 18-20 Years in Receipt
+  of an Aftercare Service in Other Education / Accredited Training
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/8140578e-5d8a-43ee-a1bd-2fe694a9a625
+      (data.europa.eu dataset 8140578e-5d8a-43ee-a1bd-2fe694a9a625; publisher: Tusla)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- usla

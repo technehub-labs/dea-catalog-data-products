@@ -1,0 +1,47 @@
+id: dea:data-product-82844-omgevingsvisie-2018-fiet-ambient-visi-25k5eb
+type: DataProduct
+name: Ambient vision 2018 - Cycle junction network
+description: Version of the Bicycle Node Network adopted by the Provincial Council
+  of Drenthe on 3 October 2018. Maintaining and making accessible recreational hotspots,
+  nature and landscape (cycling, hiking, boating recreation) is of provincial importance
+  for a vital leisure economy. Drenthe is the cycling province par excellence and
+  therefore has the title of 5-star cycling province for a reason! Map Mobility
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/82844-omgevingsvisie-2018-fietsknooppuntennetwerk
+      (data.europa.eu dataset 82844-omgevingsvisie-2018-fietsknooppuntennetwerk; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

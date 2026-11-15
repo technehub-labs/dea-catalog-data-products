@@ -1,0 +1,67 @@
+id: dea:data-product-1678-bedrijfsleven-arbeids-en-business-lab-nkwstq
+type: DataProduct
+name: Business; labour and financial data, SBI'93, 2006 - 2008
+description: 'This table provides data on the number of jobs of employed persons and
+  number of employees, operating result, operating income and expenses, financial
+  result, provisions balance and extraordinary result of a large number of industries
+  and branches according to the Standard Statistics Netherlands (CBS) Business Classification
+  1993 (SBI''93). The data are taken from more detailed industry-specific tables (see
+  paragraph 3) and make it possible to inter-branch compare. These are the following
+  industries and branches. 0141 Hoveniers and agricultural services; 10 - 14 Mining
+  and quarrying; 15 - 37 Industry (except 3663.1); 3663.1 Social employment services;
+  40 Production and distribution of electricity, natural gas, steam and hot water
+  water; 41 Water abstraction and distribution; 45 Construction; 50 Trade in and repair
+  of motor vehicles and motorcycles; service stations; 51 Wholesale trade and commercial
+  intermediation; 52 Retail trade and repair for the benefit of individuals; 55 Hospitality;
+  60 - 64 Transport, storage and communication; 71 Rental of transport equipment,
+  machinery and equipment without service personnel and other movable property; 72
+  Computer service and information technology agencies and the like; 73 Research and
+  development; 74 Other business services; 90 Environmental services; 93 Other services.
+  For a statement by the SBI see Section 2. Data available from 2006 - 2008. Status
+  of figures: All figures in the table are final. Changes as of 1 September 2011:
+  This table does not go beyond the results for the reporting year 2008. Compiling
+  the figures for 2009 is compared to Changed in two main parts in previous years:
+  - the SBI 2008 has been applied; - The statistical unit has changed. These changes
+  are so significant that the results are not are similar to those of previous years
+  and therefore started with a new table as of 2009 (see paragraph 3). Changes as
+  of 12 November 2010: Further research has shown that the figures for the 2008 reporting
+  year ins'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1678-bedrijfsleven-arbeids-en-financi-le-gegevens-sbi-93-2006-2008
+      (data.europa.eu dataset 1678-bedrijfsleven-arbeids-en-financi-le-gegevens-sbi-93-2006-2008;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

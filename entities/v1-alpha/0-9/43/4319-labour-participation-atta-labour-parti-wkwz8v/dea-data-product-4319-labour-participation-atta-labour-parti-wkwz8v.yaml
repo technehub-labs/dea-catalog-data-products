@@ -1,0 +1,55 @@
+id: dea:data-product-4319-labour-participation-atta-labour-parti-wkwz8v
+type: DataProduct
+name: Labour participation; attachment to the labour market, 2003-2022
+description: 'This table contains quarterly and yearly figures on labour participation
+  in the Netherlands. The population of 15 to 74 years of age (excluding the institutionalized
+  population) is divided into the employed labour force, the unemployed labour force
+  and those not in the labour force. The employed labour force is subdivided on the
+  basis of the professional status, and the average working hours. A division by sex,
+  age and level of education is available. Due to changes in the survey design and
+  the questionnaire of the Labour Force Survey (LFS), a revision of the figures for
+  2021 was carried out in the first quarter of 2022. As a result, the numbers of 2021
+  and later will not be comparable to the years 2003-2020. Data available for 2003-2022
+  Status of the figures: The figures in this table are final. Changes as of August
+  17, 2022: None, the table has been discontinued. When will new figures be released?
+  Not applicable. This table has been replaced, see paragraph 3 for a link to the
+  new table.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4319-labour-participation-attachment-to-the-labour-market
+      (data.europa.eu dataset 4319-labour-participation-attachment-to-the-labour-market;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

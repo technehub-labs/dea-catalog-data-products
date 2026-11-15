@@ -1,0 +1,49 @@
+id: dea:data-product-3242c180-cb21-4bf2-81fb-fae877-directory-of-se3ncs
+type: DataProduct
+name: Directory of enterprises, institutions (institutions) and organizations, structural
+  units and officials of the Department of Architecture, Urban Development, Housing
+  and Communal Services and Energy S
+description: The set contains three resources. Organizations — directory of subordinate
+  enterprises, institutions (institutions) and organizations, OrganizationalUnits
+  — directory of structural subdivisions and Posts — directory of officials of the
+  Department of Architecture, Urban Planning, Housing and Communal Services and Energy
+  Saving of Ternopil Regional State Administration
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/3242c180-cb21-4bf2-81fb-fae8774eb2b7
+      (data.europa.eu dataset 3242c180-cb21-4bf2-81fb-fae8774eb2b7; publisher: Департамент
+      архітектури, містобудування, житлово-комунального господарства та енергозбереження
+      Тернопільської обласної державної адміністрації)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data

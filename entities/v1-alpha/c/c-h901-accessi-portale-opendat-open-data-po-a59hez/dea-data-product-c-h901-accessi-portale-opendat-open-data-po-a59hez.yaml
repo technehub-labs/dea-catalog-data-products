@@ -1,0 +1,49 @@
+id: dea:data-product-c-h901-accessi-portale-opendat-open-data-po-a59hez
+type: DataProduct
+name: Open Data Portal Access Statistics
+description: The dataset collects the statistics relating to the accesses made on
+  the Open Data portal, with specific reference to the individual published datasets.
+  For each dataset there are key information such as the total number of views and
+  downloads, as well as other useful information such as the title, the dates of creation
+  and last modification, the version etc. This dataset allows to analyze the degree
+  of interest and involvement of users with respect to the content available on the
+  portal, favoring evaluations on the impact and use of open data by the community.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c_h901-accessi_portale_opendata-1
+      (data.europa.eu dataset c_h901-accessi_portale_opendata-1; publisher: Comune
+      di San Giovanni Valdarno)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- omune-di-an-iovanni

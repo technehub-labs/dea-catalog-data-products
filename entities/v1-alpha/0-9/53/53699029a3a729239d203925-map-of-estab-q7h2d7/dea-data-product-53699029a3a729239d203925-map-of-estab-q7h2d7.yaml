@@ -1,0 +1,50 @@
+id: dea:data-product-53699029a3a729239d203925-map-of-estab-q7h2d7
+type: DataProduct
+name: Map of establishments labeled “Quality Tourism”
+description: 'List and geolocation of Parisian institutions/providers holders of the
+  right of use of the mark “Quality Tourism”. The “Quality Tourism” brand aims to
+  distinguish between tourist establishments meeting demanding commitments. It thus
+  contributes to the support and development of jobs in the sector and a good image
+  of the destination France. Professionals who display the brand are committed to
+  offering: — a personalised welcome; — clear and precise information; — competent
+  and attentive staff; — a comfortable place with impeccable cleanliness; — local
+  tourist information adapted to your request. (Source: Atout France — Tourist Development
+  Agency of the France; 24/06/13)'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/53699029a3a729239d203925 (data.europa.eu
+      dataset 53699029a3a729239d203925; publisher: Région Île-de-France)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- gion-lederance

@@ -1,0 +1,45 @@
+id: dea:data-product-60256525454ae3a8b8284fe6-rh4-agricult-5arsym
+type: DataProduct
+name: RH4 - Agriculture sector
+description: VOUGA, MONDEGO, LIS HYDROGRAPHIC REGION MANAGEMENT PLAN – HR4 – Basic
+  Report – Part 4 – Foresight Scenarios – 4.8 – Agriculture sector In this sub-chapter,
+  a brief reference is made to the evolution of the indicators that influence the
+  development of the Foresight scenarios.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/60256525454ae3a8b8284fe6 (data.europa.eu
+      dataset 60256525454ae3a8b8284fe6; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- gncia-ortuguesa-do-m

@@ -1,0 +1,53 @@
+id: dea:data-product-https-www-arcgis-com-home-item-exp-occitani-608-458zkt
+type: DataProduct
+name: exp occitanie zas 2023 no2 moyan
+description: '**Genealogy within the meaning of Inspire**: Indicators of exceedance
+  of limit values (40 µg/m³ as an annual average for NO2 and PM10 and 35 days above
+  50 µg/m³ for PM10)). These indicators are the number of inhabitants affected and
+  the cumulative area. Data created with a model of atmospheric dispersion at the
+  local scale for the AAGs and RAZs of the Occitania region and at the regional scale
+  for the RAZ. Use of the emission inventory of the Occitanie region. Modeling carried
+  out in accordance with the recommendations of the business reference of the Central
+  Air Quality Monitoring Laboratory (LCSQA). Demographic data comes from the Magic
+  pop repository. WFS flows: [https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/exp_occitanie
+  _zas _2023/WFSServer?service=wfs&request=getcapabilities](https://dservices9.arcgis.com/7Sr9Ek9c1QTKmbwr/arcgis/services/exp_occitanie
+  _zas _2023/WFSServer?service=wfs&request=getcapabilities) Metadata sheet: <https://catalogue.picto-occitanie.fr/geonetwork/srv/fre/catalog.search#/metadata/17f213f5-7219-4bf4-b32f-9f933efabd7a>'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-arcgis-com-home-item-html-id-f5a641f0f7a849b7931c6735587cf3aa-sublayer-5
+      (data.europa.eu dataset https-www-arcgis-com-home-item-html-id-f5a641f0f7a849b7931c6735587cf3aa-sublayer-5;
+      publisher: {{source}})'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- source

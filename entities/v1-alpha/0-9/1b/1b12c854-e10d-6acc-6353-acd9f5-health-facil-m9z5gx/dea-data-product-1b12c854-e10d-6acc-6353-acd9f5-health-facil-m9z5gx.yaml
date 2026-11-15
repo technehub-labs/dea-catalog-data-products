@@ -1,0 +1,45 @@
+id: dea:data-product-1b12c854-e10d-6acc-6353-acd9f5-health-facil-m9z5gx
+type: DataProduct
+name: Health facilities Trier - Health facilities Trier
+description: POIs on Health in the City of Trier (Health Office, House of Health,
+  Hospitals, Health Facilities):POIs on Health in the City of Trier (Health Office,
+  House of Health, Hospitals, Health Facilities)
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/1b12c854-e10d-6acc-6353-acd9f5a94551
+      (data.europa.eu dataset 1b12c854-e10d-6acc-6353-acd9f5a94551; publisher: Stadt
+      Trier)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- tadt-rier

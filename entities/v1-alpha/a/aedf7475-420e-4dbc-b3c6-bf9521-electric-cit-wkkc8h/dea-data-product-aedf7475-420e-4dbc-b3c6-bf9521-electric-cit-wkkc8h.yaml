@@ -1,0 +1,59 @@
+id: dea:data-product-aedf7475-420e-4dbc-b3c6-bf9521-electric-cit-wkkc8h
+type: DataProduct
+name: Electric City Rüsselsheim - Mobility behavior, acceptance of electric cars and
+  charging station configuration
+description: 'The data are part of the project "Electric City Rüsselsheim", which
+  was funded by the Federal Ministry for Economic Affairs and Climate Protection (BMWK)
+  as part of the "Immediate Clean Air Programme 2017-2020" (funding code: 01MZ18008B).From
+  January to December 2020, RheinMain University of Applied Sciences conducted computer-based
+  personal interviews (CAPI) with citizens from Rüsselsheim am Main and the surrounding
+  area (n=466 households surveyed). The following topics were covered in the approximately
+  60-minute interview and are available in corresponding (individual) data sets (see
+  documentation):- **Information on the household surveyed** (Socioeconomics, traffic
+  situation)- **Information on all persons living in the household** (Sociodemography,
+  mobility behaviour)- **Detailed information on all mobility tools available in the
+  household** - Passenger cars - Motorcycles - Subscriptions for public transport
+  (ÖV)- **Social psychological constructs:** Attitudes to and perception of electric
+  cars, as well as environmental awareness- **Stated Adaptation Experiment:** Adaptation
+  of mobility tools in response to hypothetical price regulations on fuel, electricity,
+  public transport and purchase premiums for an e-car-Stated Preferences Experiment:**
+  Preferences for charging station configuration'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/aedf7475-420e-4dbc-b3c6-bf95214bc894
+      (data.europa.eu dataset aedf7475-420e-4dbc-b3c6-bf95214bc894; publisher: FID
+      move)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- move

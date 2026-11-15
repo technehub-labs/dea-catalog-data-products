@@ -1,0 +1,48 @@
+id: dea:data-product-climate-change-civil-penalties-climate-chan-mcbh3z
+type: DataProduct
+name: Climate change civil penalties
+description: 'Civil Penalties issued under a climate change regime: UK Emissions Trading
+  Scheme (UK ETS), European Union Emissions Trading Scheme (EU ETS), CRC Energy Efficiency
+  Scheme (CRC), Energy Savings Opportunity Scheme (ESOS), Fluorinated Greenhouse Gas
+  regime (F-Gas) and Climate Change Agreements (CCA). These civil penalties will be
+  published for a minimum of 12 months from the date of publication. Attribution statement:
+  © Environment Agency copyright and/or database right 2017. All rights reserved.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/climate-change-civil-penalties
+      (data.europa.eu dataset climate-change-civil-penalties; publisher: Environment
+      Agency)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- nvironment-gency

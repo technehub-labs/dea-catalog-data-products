@@ -1,0 +1,43 @@
+id: dea:data-product-69797a70-a5eb-49df-af2c-673b80-data-on-heal-pc2h4y
+type: DataProduct
+name: Data on health care professionals of health care institutions’я
+description: medical workers of the Municipal Non-Profit Enterprise "Zagvizdya Center
+  for Primary Health Care" of the Zagvizdya Territorial Community
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/69797a70-a5eb-49df-af2c-673b8063b195
+      (data.europa.eu dataset 69797a70-a5eb-49df-af2c-673b8063b195; publisher: Загвіздянська
+      сільська рада)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data

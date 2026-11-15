@@ -1,0 +1,49 @@
+id: dea:data-product-6580d9899390022f2665ed01-atlas-of-the-jrqy72
+type: DataProduct
+name: Atlas of the Environment
+description: The National Atlas of the Environment, created in 1972, within the then
+  newly created National Environment Commission (CNA) and which had as its main objective,
+  the production of cartography for the general public, students, teachers and researchers
+  from different scientific areas, was in the course of time undergoing functional
+  changes. At the end of the 1980s, the digitization and vectorization of an important
+  part of this estate, gave rise to the Digital Atlas of the Environment, once again,
+  a pioneering and innovative step (even at European level) which constituted, for
+  a long time, the basis of the National Geographic Information System (SNIG).
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/6580d9899390022f2665ed01 (data.europa.eu
+      dataset 6580d9899390022f2665ed01; publisher: Agência Portuguesa do Ambiente)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- gncia-ortuguesa-do-m

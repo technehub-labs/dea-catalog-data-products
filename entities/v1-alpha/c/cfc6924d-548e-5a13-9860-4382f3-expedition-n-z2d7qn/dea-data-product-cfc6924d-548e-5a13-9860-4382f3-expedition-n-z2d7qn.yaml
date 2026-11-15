@@ -1,0 +1,53 @@
+id: dea:data-product-cfc6924d-548e-5a13-9860-4382f3-expedition-n-z2d7qn
+type: DataProduct
+name: 'expedition.nationalpark.2022 - Mallnitz: Agriculture in Transition'
+description: expedition.nationalpark.2022 took place from 29 to 31 May 2022 in the
+  national park community of Mallnitz. The three-day trial took place as part of the
+  long-term cooperation between the National Park Hohe Tauern Carinthia and the University
+  of Applied Sciences Carinthia. The theme of the expedition was devoted to the change
+  in agriculture and the associated changes in various areas of daily life, the landscape,
+  regional development and the protected area. These are visible and discussed during
+  visits to 10 local farms directly or indirectly related to agriculture. The expedition
+  team consisted of three scientists from Carinthia University of Applied Sciences
+  and three local actors from the national park region and was accompanied by a national
+  park ranger and a research assistant. By combining local knowledge and scientific
+  impulses, new perspectives on the national park have been developed.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/cfc6924d-548e-5a13-9860-4382f31736c4
+      (data.europa.eu dataset cfc6924d-548e-5a13-9860-4382f31736c4; publisher: Nationalparks
+      Austria)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ationalparks-ustria

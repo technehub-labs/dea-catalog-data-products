@@ -1,0 +1,48 @@
+id: dea:data-product-d9ea83de-b8d7-44e1-a7e3-306569-weather-stat-fcnud5
+type: DataProduct
+name: Weather stations of the automatic monitoring network
+description: SwissMetNet, the automatic monitoring network of MeteoSwiss, comprises
+  about 160 automatic monitoring stations. These stations deliver a multitude of current
+  data on the weather and climate in Switzerland every ten minutes. The monitoring
+  network is supplemented by 140 automatic precipitation stations. Together, these
+  300 stations form the basis for the creation of reliable local weather forecasts
+  as well as severe weather and flood warnings.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/d9ea83de-b8d7-44e1-a7e3-3065699eb571-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz
+      (data.europa.eu dataset d9ea83de-b8d7-44e1-a7e3-3065699eb571-bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz;
+      publisher: Ufficio federale di meteorologia e climatologia)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- fficio-federale-di-m

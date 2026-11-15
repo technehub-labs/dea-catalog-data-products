@@ -1,0 +1,56 @@
+id: dea:data-product-10-24435-materialscloud-1s-sz-mobility-cal-kdmx64
+type: DataProduct
+name: Mobility calculation in disordered WS2-Al2O3 stacks from first principles
+description: Transition metal dichalcogenides (TMDCs) are promising candidates for
+  future nano-transistor channels due to their outstanding intrinsic transport properties.
+  However, their electron mobility is highly sensitive to the surrounding dielectric,
+  often falling well below theoretical expectations. In this work, we explore how
+  a stacked Al2O3 dielectric affects electron mobility in monolayer WS2 using first-principles
+  quantum transport simulations. We identify that fluctuations in the electrostatic
+  potential, arising from the disordered structure of Al2O3, significantly degrade
+  mobility, especially when WS2 interfaces with under-coordinated aluminum atoms.
+  Our calculated mobilities (≃1–30 cm2/(V ⋅ s)) align with experimental observations
+  and remain far from the ideal limit (≃300 cm2/(V ⋅ s)). We further demonstrate that
+  encapsulating WS2 with hexagonal boron nitride (hBN) or employing a crystalline
+  oxide can recover high mobility values. However, these strategies introduce trade-offs
+  in electrostatic control and fabrication complexity, underlining the need for careful
+  dielectric engineering in TMDC-based devices.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/10-24435_materialscloud-1s-sz-materialscloud
+      (data.europa.eu dataset 10-24435_materialscloud-1s-sz-materialscloud; publisher:
+      Materials Cloud)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- aterials-loud

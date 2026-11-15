@@ -1,0 +1,54 @@
+id: dea:data-product-747cf15b-87b4-4b92-a1be-10465c-ai-enhanced-t9rz9d
+type: DataProduct
+name: AI-Enhanced Disaster and Health Threats Storylines
+description: This dataset complements Health Threats and Disaster event data through
+  generative AI techniques, including the use of Retrieval Augmented Generation (RAG)
+  with the Europe Media Monitoring (EMM) service (https://emm.newsbrief.eu/overview.html),
+  and Large Language Models (LLMs) from the GPT@JRC portfolio (https://gpt.jrc.ec.europa.eu/).
+  It draws from sources like the EM-DAT database (https://www.emdat.be/), augmenting
+  each event with news-derived information in a storytelling fashion. The dataset
+  has been constructed using the EMM RAG service to retrieve relevant news chunks
+  for each event data, transforming the unstructured news chunks into structured narratives
+  and causal knowledge graphs using LLMs and text-to-graph techniques, linking health
+  threats and disaster events to their causes and impacts. The dataset enables decision-makers
+  to better explore health threats and disaster dynamics, identify patterns, and simulate
+  scenarios for improved response and readiness.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/747cf15b-87b4-4b92-a1be-10465c972929
+      (data.europa.eu dataset 747cf15b-87b4-4b92-a1be-10465c972929; publisher: Joint
+      Research Centre)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- oint-esearch-entre

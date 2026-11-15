@@ -1,0 +1,52 @@
+id: dea:data-product-116447b0-31b0-477c-9203-9f51d4-land-use-sta-wh393n
+type: DataProduct
+name: Land use statistics - Forest mixture ratio 1990
+description: In 1996, as part of the project "Forest differentiation using digital
+  satellite imagery", two datasets covering the whole of Switzerland were created
+  on the basis of Landsat TM satellite images, which divide the forests into coniferous,
+  mixed coniferous, mixed deciduous and deciduous categories. The aim of this project
+  was, on the one hand, to help to develop reliable experience and knowledge of digital
+  remote sensing and of using satellite data for statistical purposes and, on the
+  other hand, to add a statistically verified and geographically differentiated distinction
+  between deciduous, mixed and coniferous forests to the Swiss land use statistics.
+  After the satellite images used had been geographically and radiometrically corrected,
+  the first step involved distinguishing between forest and non-forest areas. After
+  this the forest was divided into four mixture ratios.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/116447b0-31b0-477c-9203-9f51d43e4ac5-bundesamt-fur-statistik-bfs
+      (data.europa.eu dataset 116447b0-31b0-477c-9203-9f51d43e4ac5-bundesamt-fur-statistik-bfs;
+      publisher: BFS/OFS GEOSTAT)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data

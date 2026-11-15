@@ -1,0 +1,64 @@
+id: dea:data-product-community-forest-species-trial-community-fo-411-mhv9zs
+type: DataProduct
+name: Community forest species trial (St Neots 1999)
+description: 'A series of species trials were set up to investigate the establishment
+  and early growth (up to 14 years old) of 44 native and non-native tree species on
+  a variety of different site types in lowland Britain. On good quality lowland afforestation
+  sites, Platanus x hispanica (London plane) established and grew more successfully
+  than the native trees tested, and may be an example of a species that could theoretically
+  be established in anticipation of future climate change. Experiments on a variety
+  of community woodland sites indicated that a range of exotic species, such as X
+  Cupressocyparis leylandii (Leyland cypress), may have the potential for establishing
+  a woodland cover on poorly restored land where few other trees would grow. However,
+  on less challenging, better restored sites, a wide range of native species also
+  grew successfully. Further long-term and larger scale trials on a wider variety
+  of sites are required to confirm the potential of the species tested for British
+  conditions. The results from these experiments also showed that relative growth
+  rates of different species can vary through time, highlighting the danger in making
+  premature judgements about species suitability based solely on very early tree growth.
+  See also: Willoughby, I., Stokes, V., Poole, J., White, J.E.J. and Hodge, S.J. (2007)
+  The potential of 44 native and non-native species for woodland creation on a range
+  of contrasting sites in lowland Britain. Forestry, 80 (5): 531-553. Attribution
+  statement: If you use this data you must cite Willoughby, I., Stokes, V., Poole,
+  J., White, J.E.J. and Hodge, S.J. (2007) The potential of 44 native and non-native
+  species for woodland creation on a range of contrasting sites in lowland Britain.
+  Forestry, 80 (5): 531-553.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/community-forest-species-trial-st-neots-1999
+      (data.europa.eu dataset community-forest-species-trial-st-neots-1999; publisher:
+      Forestry Commission)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- orestry-ommission

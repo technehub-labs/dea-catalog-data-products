@@ -1,0 +1,52 @@
+id: dea:data-product-https-opendata-paris-fr-explor-bioclimatic-vsgdg3
+type: DataProduct
+name: Bioclimatic PLU - Sites for the protection of social and solidarity economy
+  activities
+description: 'Plan Local d''Urbanisme Bioclimatique de Paris - **Sites for the protection
+  of social and solidarity economy activities** Version of the PLU voted by the Paris
+  Council on 20 November 2024. Full documentation: See "Site for the protection of
+  social and solidarity economy activities.pdf" attached. Data available for information
+  and without regulatory value. To access the official PLU, consult the [Portal of
+  Urban Planning Rules](https://regles-urbanisme.paris.fr/) of Paris. For other PLU
+  data available on Opendata, see [this page](https://opendata.paris.fr/explore/?sort=modified&refine.keyword=PLU).
+  PLU documents and data can also be downloaded from the [Géoporttail National de
+  l''Urbanisme] (https://www.geoportail-urbanisme.gouv.fr/).'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-opendata-paris-fr-explore-dataset-plub_ess-
+      (data.europa.eu dataset https-opendata-paris-fr-explore-dataset-plub_ess-; publisher:
+      Ville de Paris)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- ille-de-aris

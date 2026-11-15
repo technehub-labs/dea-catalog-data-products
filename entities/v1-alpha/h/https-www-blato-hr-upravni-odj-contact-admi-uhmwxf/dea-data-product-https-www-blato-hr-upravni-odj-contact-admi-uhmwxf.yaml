@@ -1,0 +1,51 @@
+id: dea:data-product-https-www-blato-hr-upravni-odj-contact-admi-uhmwxf
+type: DataProduct
+name: Contact - Administrative Departments of the Municipality of Blato
+description: 'The administrative bodies of the Municipality of Blato are established
+  for the performance of tasks falling within the self-governing scope of the Municipality
+  of Blato as a unit of local self-government and state administration tasks that
+  have been transferred to the Municipality of Blato. The administrative bodies shall
+  be composed of the following administrative departments: MANAGEMENT SECTION FOR
+  GENERAL AFFAIRS, GENERAL ASSESSMENT MANAGEMENT AND SOCIAL ACTIONS MANAGEMENT DEPARTMENT
+  FOR BUDGET, FINANCIAL, ECONOMIC AND PREPARATORY OF EU FUNDS PROJECTS MANAGEMENT
+  SECTION FOR COMMUNICAL ACTIONS, INFRASTRUCTURE, ENVIRONMENTAL PROTECTION AND ECONOMIC
+  PROTECTION'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-www-blato-hr-upravni-odjeli
+      (data.europa.eu dataset https-www-blato-hr-upravni-odjeli; publisher: Općina
+      Blato)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- pina-lato

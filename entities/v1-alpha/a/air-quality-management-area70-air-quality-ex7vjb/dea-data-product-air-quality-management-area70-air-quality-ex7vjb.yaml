@@ -1,0 +1,47 @@
+id: dea:data-product-air-quality-management-area70-air-quality-ex7vjb
+type: DataProduct
+name: Air Quality Management Area
+description: Line data displaying the location of designated St Helens Air Quality
+  Management Areas (AQMA). St Helens Council are obliged to designate AQMA's to help
+  improve air quality and the local environment. Officers from the council’s Environment
+  Health Team monitor a number of air quality pollutants. The AQMA reference and name
+  are within the table fields
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/air-quality-management-area70
+      (data.europa.eu dataset air-quality-management-area70; publisher: St Helens
+      Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- t-elens-ouncil

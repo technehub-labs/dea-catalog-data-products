@@ -1,0 +1,58 @@
+id: dea:data-product-33998-ict-gebruik-bij-zzp-ers-ict-use-by-s-qtp43q
+type: DataProduct
+name: ICT use by self-employed workers; Industry, 2022
+description: 'This table provides figures on the use of information and communication
+  technology (ICT) by self-employed persons without staff (self-employed persons).
+  The data can be broken down by industry. The reporting period covers the year 2022.
+  However, a number of topics relate to the year 2021. In such cases, this shall be
+  stated in the explanatory memorandum to the subject in question. Data available
+  for 2022. Status of figures: The figures in this table are further provisional.
+  Changes as of 12 December 2025: Preliminary figures on ‘Time of work via ICT client’
+  have improved. Changes as of 13 December 2024: Despite the care taken in compiling
+  the figures on ICT use by freelancers, it has unfortunately been found that the
+  figures published for the reporting period 2022 are not correct due to a technical
+  error. The figures were used in the publication Cybersecuritymonitor. This version
+  of this table contains the corrected figures. Changes as of 30 November 2023: The
+  figures on "ICT and the environment" for freelancers have been adjusted. A technical
+  error has been mistakenly detected in this module. That has now been restored. When
+  will there be new figures? 2023 figures will be available in December 2023. These
+  figures will be published in a new table.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/33998-ict-gebruik-bij-zzp-ers-bedrijfstak-2022
+      (data.europa.eu dataset 33998-ict-gebruik-bij-zzp-ers-bedrijfstak-2022; publisher:
+      n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

@@ -1,0 +1,46 @@
+id: dea:data-product-2c6f49cf-07d9-4825-8e95-acbee0-landw-manage-eg8hgj
+type: DataProduct
+name: 'Landw. Management: Utilisation area 2023'
+description: The use areas correspond to the agricultural use areas of the contribution
+  year 2020 in accordance with the Agricultural Definition Ordinance (AGR), the Direct
+  Payment Ordinance and the definitions of uses derived from it by the federal government
+  and the cantons. The data correspond to the MGDM ID 153 usable areas.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2c6f49cf-07d9-4825-8e95-acbee023112e-amt-geoinformation-sz
+      (data.europa.eu dataset 2c6f49cf-07d9-4825-8e95-acbee023112e-amt-geoinformation-sz;
+      publisher: SZ Amt für Landwirtschaft)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- mt-fr-andwirtschaft

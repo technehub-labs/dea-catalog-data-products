@@ -1,0 +1,52 @@
+id: dea:data-product-4260-health-disorders-limitati-health-disor-s6xxzk
+type: DataProduct
+name: Health, disorders, limitations; sex and age, 2010-2013
+description: 'This table provides data about the health, chronic disorders and functional
+  limitations of the Dutch population. It repeats the following aspects: - perceived
+  state of health - chronic disorders - generic health indicator - mental health and
+  mental complaints - infectious diseases - feelings of discomfort - functional limitations
+  The data are based on the Health Interview Survey conducted by Statistics Netherlands.
+  They can be broken down by sex and age. The Health Interview Survey is a continuous
+  survey. Its population fed of Dutch residents of all ages in private households.
+  Data available from 2010 till 2013. Status of the figures: The figures in this table
+  are definitive. Changes as of 15 February 2019 None, the table has been discontinued.
+  When will new figures be published? Not applicable. The table is stopped.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/4260-health-disorders-limitations-sex-and-age-2010-2013
+      (data.europa.eu dataset 4260-health-disorders-limitations-sex-and-age-2010-2013;
+      publisher: n/a)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eu

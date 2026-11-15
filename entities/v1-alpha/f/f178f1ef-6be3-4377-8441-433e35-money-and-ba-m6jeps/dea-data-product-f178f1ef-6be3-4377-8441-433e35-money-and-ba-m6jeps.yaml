@@ -1,0 +1,48 @@
+id: dea:data-product-f178f1ef-6be3-4377-8441-433e35-money-and-ba-m6jeps
+type: DataProduct
+name: Money and Banking Statistics
+description: The Money and Banking Statistics contain data on the liabilities and
+  assets of within-the-State offices of credit institutions. These data are further
+  broken down by institutional sector, residency of counterparties, and by the type
+  and maturity of the main asset (loans, holdings of securities) and liability instruments
+  (deposits, securities issued) of interest. Detailed statistics are available on
+  developments in Irish mortgage, consumer and deposit markets.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/f178f1ef-6be3-4377-8441-433e3531c11f
+      (data.europa.eu dataset f178f1ef-6be3-4377-8441-433e3531c11f; publisher: Central
+      Bank of Ireland)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- entral-ank-of-reland

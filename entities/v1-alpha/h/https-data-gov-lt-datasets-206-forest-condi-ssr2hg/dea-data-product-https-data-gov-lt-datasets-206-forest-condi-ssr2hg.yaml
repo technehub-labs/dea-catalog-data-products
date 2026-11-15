@@ -1,0 +1,50 @@
+id: dea:data-product-https-data-gov-lt-datasets-206-forest-condi-ssr2hg
+type: DataProduct
+name: Forest condition survey data
+description: The forest condition survey data, prepared according to the data of the
+  project &quot;Experimental Ecosystem Volume and Forest Condition Account&quot;,
+  at the level of municipalities. The data is linked to the second stage of the experimental
+  ecosystem statistics project - the basic data set of forest indicators according
+  to the groups and classes of indicators of the state of ecosystems. The indicators
+  are calculated and presented according to the relevant spatial units at the beginning
+  of the period, around 2000. (denoted by the letter &#39;x&#39;) and at the end -
+  2021.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-data-gov-lt-datasets-2066-
+      (data.europa.eu dataset https-data-gov-lt-datasets-2066-; publisher: Valstybės
+      duomenų agentūra)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- alstybs-duomen-agent

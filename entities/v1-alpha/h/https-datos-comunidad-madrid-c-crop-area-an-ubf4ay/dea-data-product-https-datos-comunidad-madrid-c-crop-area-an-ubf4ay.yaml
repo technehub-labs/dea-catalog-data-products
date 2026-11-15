@@ -1,0 +1,49 @@
+id: dea:data-product-https-datos-comunidad-madrid-c-crop-area-an-ubf4ay
+type: DataProduct
+name: Crop area and harvesting of organic farming
+description: 'Organic livestock: It is a sustainable livestock production system,
+  whose fundamental objective is to produce food of differentiated quality for the
+  population, obtained from animals that enjoy a high degree of welfare, that make
+  rational use of the natural resources of the countryside, that contribute to improving
+  the natural fertility of the soil, and in whose feeding and management no genetically
+  modified organisms or synthetic chemicals or others that may pose a real or potential
+  risk to the health of the consumer are used.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/https-datos-comunidad-madrid-catalogo-dataset-1914520
+      (data.europa.eu dataset https-datos-comunidad-madrid-catalogo-dataset-1914520;
+      publisher: Comunidad de Madrid)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- omunidad-de-adrid

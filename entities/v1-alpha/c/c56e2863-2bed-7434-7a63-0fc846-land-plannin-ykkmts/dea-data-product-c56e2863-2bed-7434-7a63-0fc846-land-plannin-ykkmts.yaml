@@ -1,0 +1,45 @@
+id: dea:data-product-c56e2863-2bed-7434-7a63-0fc846-land-plannin-ykkmts
+type: DataProduct
+name: Land Planning - LEP Settlement 2006 Central Locations
+description: 'The map service (WMS group) provides the map bases of the Saarland''s
+  Land Development Plan Environment (2004) and Settlement (2006).: Presentation of
+  the central locations within the framework of the LEP Environment 2004.'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/c56e2863-2bed-7434-7a63-0fc8468ad540
+      (data.europa.eu dataset c56e2863-2bed-7434-7a63-0fc8468ad540; publisher: Ministerium
+      für Umwelt, Klima, Mobilität, Agrar und Verbraucherschutz)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- inisterium-fr-mwelt

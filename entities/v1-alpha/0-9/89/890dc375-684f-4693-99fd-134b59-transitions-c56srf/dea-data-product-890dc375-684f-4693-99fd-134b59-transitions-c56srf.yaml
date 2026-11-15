@@ -1,0 +1,46 @@
+id: dea:data-product-890dc375-684f-4693-99fd-134b59-transitions-c56srf
+type: DataProduct
+name: Transitions to secondary schools
+description: 'The thematic block "Transitions to secondary schools – transition rates"
+  deals with the number and proportion of pupils moving from a public school (usually
+  a primary school) to a secondary school. Source: School and Sports Office of the
+  City of Karlsruhe / City of Karlsruhe, Office for Urban Development'
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/890dc375-684f-4693-99fd-134b594bc83f
+      (data.europa.eu dataset 890dc375-684f-4693-99fd-134b594bc83f; publisher: Stadt
+      Karlsruhe)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- tadt-arlsruhe

@@ -1,0 +1,48 @@
+id: dea:data-product-e44d7250-0b42-4d56-8713-7572a9-ireland-s-sh-ebpy3t
+type: DataProduct
+name: Ireland's Sheela-na-Gigs
+description: This dataset displays locational information for all Ireland’s known
+  Sheela-na-Gigs. It provides National Monuments Service descriptions for each where
+  available. It maps original and present locations (as of March 2017) for each. It
+  was created using publically available National Monuments Service open-data. This
+  was augmented with images and information gathered from the museum sector and Sheela-na-Gig
+  academics and enthusiasts.
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/e44d7250-0b42-4d56-8713-7572a95aebb8
+      (data.europa.eu dataset e44d7250-0b42-4d56-8713-7572a95aebb8; publisher: Heritage
+      Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- eritage-ouncil

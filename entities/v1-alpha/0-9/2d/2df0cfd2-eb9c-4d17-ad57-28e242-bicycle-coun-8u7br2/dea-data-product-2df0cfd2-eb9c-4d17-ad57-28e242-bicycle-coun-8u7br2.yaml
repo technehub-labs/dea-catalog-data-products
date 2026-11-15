@@ -1,0 +1,49 @@
+id: dea:data-product-2df0cfd2-eb9c-4d17-ad57-28e242-bicycle-coun-8u7br2
+type: DataProduct
+name: Bicycle Counts DLR
+description: Bicycle traffic volumes from cycle counters in Dún Laoghaire-Rathdown
+  County Council administrative area. Bicycle counter data is available from sixteen
+  locations throughout the county. Ten of these locations record bidirectional traffic,
+  with the remaining six recording unidirectional cycle traffic. Data is provided
+  in hourly intervals (i.e. the data at 11:00 am corresponds to the counts saved between
+  11:00 am and 12:00 am). Data gaps are due to a cycle counter fault or due to a battery
+  requiring replacement
+version: 0.1.0
+lifecycle_status: active
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://data.europa.eu/data/datasets/2df0cfd2-eb9c-4d17-ad57-28e24208bdc8
+      (data.europa.eu dataset 2df0cfd2-eb9c-4d17-ad57-28e24208bdc8; publisher: Dún
+      Laoghaire-Rathdown County Council)'
+  rationale: Cited from the EU Open Data Portal hub search API. The dataset record
+    is published and machine-verifiable at the cited landing page. No data-product-specific
+    fields are asserted at candidate state.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-14'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-14'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- open-data
+- n-aoghaireathdown-ou
